@@ -1,0 +1,17 @@
+<application>
+  <component name="RemoteServers">
+    <remote-server name="Docker" type="docker">
+      <configuration>
+        <option name="apiUrl" value="unix:///var/run/docker.sock" />
+        <option name="certificatesPath" />
+      </configuration>
+    </remote-server>
+    <remote-server name="Docker2" type="docker">
+      <configuration>
+        <option name="apiUrl" value="https://192.168.64.3:2376" />
+        <option name="certificatesPath" value="$USER_HOME$/.docker/machine/machines/dinghy" />
+        <option name="machine" value="dinghy" />
+      </configuration>
+    </remote-server>
+  </component>
+</application>
