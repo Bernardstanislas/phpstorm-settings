@@ -15,7 +15,7 @@
     <phpInfoCache>
       <interpreter name="PHP">
         <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php/7.2.10/bin/php-cgi" php_cli="/usr/local/Cellar/php/7.2.10/bin/php" path_separator=":" version="7.2.10">
-          <additional_php_ini>/usr/local/etc/php/7.2/conf.d/ext-blackfire.ini, /usr/local/etc/php/7.2/conf.d/ext-opcache.ini, /usr/local/etc/php/7.2/conf.d/ext-xdebug.ini</additional_php_ini>
+          <additional_php_ini>/usr/local/etc/php/7.2/conf.d/ext-blackfire.ini, /usr/local/etc/php/7.2/conf.d/ext-opcache.ini, /usr/local/etc/php/7.2/conf.d/ext-xdebug.ini, /usr/local/etc/php/7.2/conf.d/php-memory-limits.ini</additional_php_ini>
           <configuration_file>/usr/local/etc/php/7.2/php.ini</configuration_file>
           <configuration_options>
             <configuration_option name="SMTP" value="localhost" />
@@ -94,6 +94,9 @@
             <configuration_option name="ignore_repeated_errors" value="" />
             <configuration_option name="ignore_repeated_source" value="" />
             <configuration_option name="ignore_user_abort" value="0" />
+            <configuration_option name="imagick.locale_fix" value="0" />
+            <configuration_option name="imagick.progress_monitor" value="0" />
+            <configuration_option name="imagick.skip_version_check" value="0" />
             <configuration_option name="implicit_flush" value="1" />
             <configuration_option name="include_path" value=".:/usr/local/Cellar/php/7.2.10/share/php/pear" />
             <configuration_option name="input_encoding" value="" />
@@ -122,7 +125,9 @@
             <configuration_option name="mbstring.language" value="neutral" />
             <configuration_option name="mbstring.strict_detection" value="0" />
             <configuration_option name="mbstring.substitute_character" value="" />
-            <configuration_option name="memory_limit" value="128M" />
+            <configuration_option name="mcrypt.algorithms_dir" value="" />
+            <configuration_option name="mcrypt.modes_dir" value="" />
+            <configuration_option name="memory_limit" value="-1" />
             <configuration_option name="mysqli.allow_local_infile" value="1" />
             <configuration_option name="mysqli.allow_persistent" value="1" />
             <configuration_option name="mysqli.default_host" value="" />
@@ -209,7 +214,7 @@
             <configuration_option name="phar.require_hash" value="1" />
             <configuration_option name="phpdbg.auth" value="" />
             <configuration_option name="phpdbg.path" value="" />
-            <configuration_option name="post_max_size" value="8M" />
+            <configuration_option name="post_max_size" value="128M" />
             <configuration_option name="precision" value="14" />
             <configuration_option name="realpath_cache_size" value="4096K" />
             <configuration_option name="realpath_cache_ttl" value="120" />
@@ -262,7 +267,7 @@
             <configuration_option name="sys_temp_dir" value="" />
             <configuration_option name="track_errors" value="0" />
             <configuration_option name="unserialize_callback_func" value="" />
-            <configuration_option name="upload_max_filesize" value="2M" />
+            <configuration_option name="upload_max_filesize" value="128M" />
             <configuration_option name="upload_tmp_dir" value="" />
             <configuration_option name="url_rewriter.hosts" value="" />
             <configuration_option name="url_rewriter.tags" value="form=" />
@@ -312,15 +317,15 @@
             <configuration_option name="xdebug.profiler_output_dir" value="/var/tmp/" />
             <configuration_option name="xdebug.profiler_output_name" value="cachegrind.out.%p" />
             <configuration_option name="xdebug.remote_addr_header" value="" />
-            <configuration_option name="xdebug.remote_autostart" value="1" />
-            <configuration_option name="xdebug.remote_connect_back" value="1" />
+            <configuration_option name="xdebug.remote_autostart" value="0" />
+            <configuration_option name="xdebug.remote_connect_back" value="0" />
             <configuration_option name="xdebug.remote_cookie_expire_time" value="3600" />
             <configuration_option name="xdebug.remote_enable" value="0" />
             <configuration_option name="xdebug.remote_handler" value="dbgp" />
             <configuration_option name="xdebug.remote_host" value="localhost" />
             <configuration_option name="xdebug.remote_log" value="" />
             <configuration_option name="xdebug.remote_mode" value="req" />
-            <configuration_option name="xdebug.remote_port" value="9000" />
+            <configuration_option name="xdebug.remote_port" value="9001" />
             <configuration_option name="xdebug.remote_timeout" value="200" />
             <configuration_option name="xdebug.scream" value="0" />
             <configuration_option name="xdebug.show_error_trace" value="0" />
@@ -380,11 +385,13 @@
             <extension name="gmp" />
             <extension name="hash" />
             <extension name="iconv" />
+            <extension name="imagick" />
             <extension name="intl" />
             <extension name="json" />
             <extension name="ldap" />
             <extension name="libxml" />
             <extension name="mbstring" />
+            <extension name="mcrypt" />
             <extension name="mysqli" />
             <extension name="mysqlnd" />
             <extension name="odbc" />
