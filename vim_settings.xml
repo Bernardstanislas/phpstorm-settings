@@ -125,11 +125,10 @@
       <file name="$USER_HOME$/Documents/code/business-immo-directory/src/AppBundle/Resources/views/Back/Admin/standard_layout.html.twig" timestamp="1543330198521">
         <mark key="[" line="14" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/code/daju-landing/src/components/layout.js" timestamp="1549291703382">
-        <mark key="[" line="20" column="20" />
-        <mark key="]" line="20" column="20" />
-        <mark key="." line="20" column="20" />
-        <mark key="^" line="20" column="40" />
+      <file name="$USER_HOME$/Documents/code/daju-landing/src/components/layout.js" timestamp="1549292471292">
+        <mark key="[" line="52" column="31" />
+        <mark key="]" line="52" column="31" />
+        <mark key="." line="52" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/code/business-immo-directory/src/DataFixtures/ORM/press_dossier.yml" timestamp="1543911375242">
         <mark key="[" line="1" column="13" />
@@ -216,6 +215,7 @@
       <file name="/business_immo_legacy.user_peoples [Business immo legacy]" timestamp="1542280507623">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/daju-landing/src/semantic/site/collections/menu.variables" timestamp="1549292328633" />
       <file name="$USER_HOME$/Documents/code/blog-dojo-cqrs/tslint.json" timestamp="1545580922904">
         <mark key="[" line="14" column="37" />
       </file>
@@ -494,6 +494,11 @@
       <file name="$USER_HOME$/Documents/code/sf-auth0/index.html" timestamp="1538777664095">
         <mark key="[" line="27" column="15" />
       </file>
+      <file name="$USER_HOME$/Documents/code/daju-landing/src/semantic/site/globals/site.variables" timestamp="1549292401002">
+        <mark key="[" line="226" column="21" />
+        <mark key="]" line="226" column="21" />
+        <mark key="." line="226" column="21" />
+      </file>
       <file name="$USER_HOME$/Documents/code/sf-auth0/config/services.yaml" timestamp="1538776934292">
         <mark key="[" line="35" column="0" />
       </file>
@@ -623,13 +628,13 @@
         <text>http://devlocal.businessimmo.com</text>
       </register>
       <register name="&quot;" type="4">
-        <text>css</text>
+        <text>gr</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>css</text>
+        <text>gr</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbnN3ZXJzXD4=</text>
@@ -638,37 +643,37 @@
         <text encoding="base64">ICAgICAgICAgICAgPENvbnRhaW5lciB0ZXh0IGZsdWlkPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBvaW50aW5nPXshZml4ZWR9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPENvbnRhaW5lciB0ZXh0Pgo=</text>
+        <text encoding="base64">Y29uc3Qgc2hvZUJsdWUgPSAiIzAzNmI1MyI7Cg==</text>
       </register>
       <register name="r" type="4">
         <text>technical_accounting.account.filters.period</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBvaW50aW5nPXshZml4ZWR9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPENvbnRhaW5lciB0ZXh0Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBUaGUgbGVhbiwgdGhlIGxhbXAsIHRoZSB0dW5uZWwK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">bGF5b3V0OiBwb3N0Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBtYWlsY2hpbXBBY3Rpb246ICdodHRwczovL3R3aXR0ZXIudXMxOS5saXN0LW1hbmFnZS5jb20vc3Vic2NyaWJlL3Bvc3Q/dT1hODliNjk4N2FjMjQ4YzgxYjBiN2YzYTBmJmFtcDtpZD03ZDc3N2I3ZDc1JywKICBtYWlsY2hpbXBOYW1lOiAnYl9hODliNjk4N2FjMjQ4YzgxYjBiN2YzYTBmXzdkNzc3YjdkNzUnLAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">IyBUaGUgbGVhbiwgdGhlIGxhbXAsIHRoZSB0dW5uZWwK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">bGF5b3V0OiBwb3N0Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxhIGhyZWY9Ii9yc3MueG1sIj5SU1M8L2E+Cg==</text>
+        <text encoding="base64">ICBtYWlsY2hpbXBBY3Rpb246ICdodHRwczovL3R3aXR0ZXIudXMxOS5saXN0LW1hbmFnZS5jb20vc3Vic2NyaWJlL3Bvc3Q/dT1hODliNjk4N2FjMjQ4YzgxYjBiN2YzYTBmJmFtcDtpZD03ZDc3N2I3ZDc1JywKICBtYWlsY2hpbXBOYW1lOiAnYl9hODliNjk4N2FjMjQ4YzgxYjBiN2YzYTBmXzdkNzc3YjdkNzUnLAo=</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
