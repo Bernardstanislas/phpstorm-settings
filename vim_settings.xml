@@ -9,20 +9,8 @@
       <file name="/alto.migration_versions [alto@localhost]" timestamp="1539609562574">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/forge-dev/backend/front/templates/app.html" timestamp="1548774461914">
-        <mark key="[" line="16" column="50" />
-        <mark key="]" line="16" column="48" />
-        <mark key="." line="16" column="48" />
-        <mark key="^" line="16" column="48" />
-      </file>
       <file name="/alto-espace-emprunteur.message [Alto staging]" timestamp="1540544860068">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/forge/startproject/api/Dockerfile" timestamp="1548076931693">
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="^" line="73" column="0" />
-        <mark key="." line="73" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1544356641496">
         <mark key="[" line="0" column="0" />
@@ -33,11 +21,11 @@
       <file name="/daju.public.api_keys [Daju Postgres local]" timestamp="1544683989937">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/daju-landing/src/pages/index.js" timestamp="1548695266993">
-        <mark key="[" line="130" column="23" />
-        <mark key="]" line="133" column="0" />
-        <mark key="^" line="139" column="17" />
-        <mark key="." line="133" column="0" />
+      <file name="$USER_HOME$/Documents/code/daju-landing/src/pages/index.js" timestamp="1549290259428">
+        <mark key="[" line="110" column="32" />
+        <mark key="]" line="105" column="20" />
+        <mark key="." line="105" column="20" />
+        <mark key="^" line="105" column="29" />
       </file>
       <file name="/dojocqrs.public.event [dojocqrs@localhost]" timestamp="1546096010638">
         <mark key="[" line="0" column="0" />
@@ -47,12 +35,6 @@
       </file>
       <file name="$USER_HOME$/Documents/code/alto-espace-emprunteur/.gitignore" timestamp="1539620320846">
         <mark key="[" line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/forge/.circleci/config.yml" timestamp="1548782394308">
-        <mark key="[" line="967" column="35" />
-        <mark key="]" line="893" column="10" />
-        <mark key="." line="893" column="10" />
-        <mark key="^" line="868" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/code/business-immo-directory/src/AppBundle/Resources/views/Front/Career/documentation.html.twig" timestamp="1542809132124">
         <mark key="[" line="0" column="0" />
@@ -131,12 +113,6 @@
       <file name="$USER_HOME$/Documents/code/alto-espace-emprunteur/api/src/Controller/UserController.php" timestamp="1540287749609">
         <mark key="[" line="12" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/code/francis/api/.env" timestamp="1548009943120">
-        <mark key="[" line="30" column="15" />
-        <mark key="]" line="30" column="47" />
-        <mark key="." line="30" column="15" />
-        <mark key="^" line="17" column="59" />
-      </file>
       <file name="$USER_HOME$/Documents/code/francis/client/src/pages/Login/Login.js" timestamp="1547030606444">
         <mark key="[" line="9" column="14" />
       </file>
@@ -149,11 +125,11 @@
       <file name="$USER_HOME$/Documents/code/business-immo-directory/src/AppBundle/Resources/views/Back/Admin/standard_layout.html.twig" timestamp="1543330198521">
         <mark key="[" line="14" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/code/daju-landing/src/components/layout.js" timestamp="1548695081548">
-        <mark key="[" line="66" column="49" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
-        <mark key="^" line="67" column="54" />
+      <file name="$USER_HOME$/Documents/code/daju-landing/src/components/layout.js" timestamp="1549291703382">
+        <mark key="[" line="20" column="20" />
+        <mark key="]" line="20" column="20" />
+        <mark key="." line="20" column="20" />
+        <mark key="^" line="20" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/code/business-immo-directory/src/DataFixtures/ORM/press_dossier.yml" timestamp="1543911375242">
         <mark key="[" line="1" column="13" />
@@ -172,12 +148,6 @@
       </file>
       <file name="/app_users [francis@localhost]" timestamp="1547200899685">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/farewell/people.js" timestamp="1548325360244">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="14" column="4" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="14" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/code/blog/src/website-config.ts" timestamp="1549105259721">
         <mark key="[" line="32" column="16" />
@@ -220,7 +190,7 @@
       <file name="$USER_HOME$/Documents/code/business-immo-directory/src/AppBundle/Resources/views/Back/Layout/top_bar.html.twig" timestamp="1543329996045">
         <mark key="[" line="12" column="73" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1549104687917">
+      <file name="/GraphQL.result.json" timestamp="1549289109119">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/blog-dojo-cqrs/src/events/namespace.ts" timestamp="1545580874953">
@@ -249,11 +219,11 @@
       <file name="$USER_HOME$/Documents/code/blog-dojo-cqrs/tslint.json" timestamp="1545580922904">
         <mark key="[" line="14" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/code/farewell/farewell/src/people.service.tsx" timestamp="1548325366204">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="14" column="4" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Documents/code/daju-landing/gatsby-config.js" timestamp="1549291759922">
+        <mark key="[" line="7" column="33" />
+        <mark key="]" line="22" column="24" />
+        <mark key="." line="22" column="24" />
+        <mark key="^" line="22" column="24" />
       </file>
       <file name="/alto.app_users [alto@localhost]" timestamp="1540895428308">
         <mark key="[" line="0" column="0" />
@@ -264,29 +234,11 @@
       <file name="/person [Business immo directory]" timestamp="1543222815601">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/forge/startproject/api-platform/plopIgnore/client/src/pages/Login/Login.form.tsx" timestamp="1548177850543">
-        <mark key="[" line="78" column="24" />
-        <mark key="]" line="78" column="24" />
-        <mark key="^" line="78" column="37" />
-        <mark key="." line="78" column="24" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2f06f4c5-3f90-4e16-a04a-d16027afbf01/console.sql" timestamp="1539357442635">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/forge/TO_DELETE" timestamp="1547722592555">
-        <mark key="[" line="0" column="135" />
-        <mark key="]" line="0" column="158" />
-        <mark key="^" line="0" column="158" />
-        <mark key="." line="0" column="158" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fbf7ae17-6879-44d2-a8b4-848aedaa252f/console_1.sql" timestamp="1539522648106">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/farewell/asakai.py" timestamp="1548257815631">
-        <mark key="[" line="15" column="23" />
-        <mark key="]" line="8" column="28" />
-        <mark key="." line="8" column="28" />
-        <mark key="^" line="8" column="28" />
       </file>
       <file name="/bi_directory_user [Business immo directory]" timestamp="1541062470407">
         <mark key="[" line="0" column="0" />
@@ -306,12 +258,6 @@
       </file>
       <file name="$USER_HOME$/Documents/code/alto-espace-emprunteur/client/src/components/Header/tests/Header.test.js" timestamp="1540201904512">
         <mark key="[" line="16" column="15" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/kata/composer.json" timestamp="1549027992046">
-        <mark key="[" line="17" column="16" />
-        <mark key="]" line="14" column="4" />
-        <mark key="^" line="14" column="4" />
-        <mark key="." line="14" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/code/alto-espace-emprunteur/client/src/redux/Message/selectors.js" timestamp="1540477052429">
         <mark key="[" line="5" column="66" />
@@ -352,12 +298,6 @@
       <file name="$USER_HOME$/Documents/code/simplesamlphp/modules/businessimmolegacy/Language.php" timestamp="1542099904341">
         <mark key="[" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/lol/backend/docker/php/xdebug.ini" timestamp="1548927095133">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="4" column="31" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/code/daju/tests/Feature/ExampleTest.php" timestamp="1542454312130">
         <mark key="[" line="16" column="33" />
       </file>
@@ -375,12 +315,6 @@
       </file>
       <file name="$USER_HOME$/Documents/code/business-immo-directory/prod" timestamp="1544462887412">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/farewell/farewell/src/App.css" timestamp="1548327441457">
-        <mark key="[" line="45" column="23" />
-        <mark key="]" line="45" column="23" />
-        <mark key="^" line="38" column="23" />
-        <mark key="." line="45" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/code/blog/src/components/header/SiteNav.tsx" timestamp="1549104965434">
         <mark key="[" line="149" column="0" />
@@ -510,12 +444,6 @@
       </file>
       <file name="$USER_HOME$/Documents/code/sphere/api/src/Domain/Contract/Query/SignedContractNames.php" timestamp="1539079193430">
         <mark key="[" line="6" column="25" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/forge/startproject/root/README.md" timestamp="1548175166504">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="^" line="21" column="14" />
-        <mark key="." line="25" column="0" />
       </file>
       <file name="/connections [Business immo legacy]" timestamp="1542726121828">
         <mark key="[" line="0" column="0" />
@@ -694,53 +622,53 @@
       <register name="a" type="4">
         <text>http://devlocal.businessimmo.com</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>css</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>The Purpose of Education</text>
+        <text>css</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbnN3ZXJzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LS0tCmxheW91dDogcG9zdAp0aXRsZTogIlRoZSBQdXJwb3NlIG9mIEVkdWNhdGlvbiIKYXV0aG9yOiBHaG9zdAp0YWdzOiBbIlNwZWVjaGVzIl0KaW1hZ2U6IGltZy9kZW1vNC5qcGcKZGF0ZTogIjIwMTItMDgtMjBUMTU6MTE6NTUuMDAwWiIKZHJhZnQ6IGZhbHNlCi0tLQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPENvbnRhaW5lciB0ZXh0IGZsdWlkPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBvaW50aW5nPXshZml4ZWR9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBUaGUgbGVhbiwgdGhlIGxhbXAsIHRoZSB0dW5uZWwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPENvbnRhaW5lciB0ZXh0Pgo=</text>
       </register>
       <register name="r" type="4">
         <text>technical_accounting.account.filters.period</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bGF5b3V0OiBwb3N0Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBtYWlsY2hpbXBBY3Rpb246ICdodHRwczovL3R3aXR0ZXIudXMxOS5saXN0LW1hbmFnZS5jb20vc3Vic2NyaWJlL3Bvc3Q/dT1hODliNjk4N2FjMjQ4YzgxYjBiN2YzYTBmJmFtcDtpZD03ZDc3N2I3ZDc1JywKICBtYWlsY2hpbXBOYW1lOiAnYl9hODliNjk4N2FjMjQ4YzgxYjBiN2YzYTBmXzdkNzc3YjdkNzUnLAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">IyBUaGUgbGVhbiwgdGhlIGxhbXAsIHRoZSB0dW5uZWwK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxhIGhyZWY9Ii9yc3MueG1sIj5SU1M8L2E+Cg==</text>
+        <text encoding="base64">bGF5b3V0OiBwb3N0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgICA8YSBocmVmPSJodHRwczovL2dob3N0Lm9yZyIgdGFyZ2V0PSJfYmxhbmsiIHJlbD0ibm9vcGVuZXIgbm9yZWZlcnJlciI+CiAgICAgICAgICAgIEdob3N0CiAgICAgICAgICA8L2E+Cg==</text>
+        <text encoding="base64">ICBtYWlsY2hpbXBBY3Rpb246ICdodHRwczovL3R3aXR0ZXIudXMxOS5saXN0LW1hbmFnZS5jb20vc3Vic2NyaWJlL3Bvc3Q/dT1hODliNjk4N2FjMjQ4YzgxYjBiN2YzYTBmJmFtcDtpZD03ZDc3N2I3ZDc1JywKICBtYWlsY2hpbXBOYW1lOiAnYl9hODliNjk4N2FjMjQ4YzgxYjBiN2YzYTBmXzdkNzc3YjdkNzUnLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGxpIHJvbGU9Im1lbnVpdGVtIj4KICAgICAgICAgICAgICA8TGluayB0bz0iL3RhZ3MvZ2V0dGluZy1zdGFydGVkLyI+R2V0dGluZyBTdGFydGVkPC9MaW5rPgogICAgICAgICAgICA8L2xpPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBmYWNlYm9vazogJ2h0dHBzOi8vd3d3LmZhY2Vib29rLmNvbS9naG9zdCcsCiAgdHdpdHRlcjogJ2h0dHBzOi8vdHdpdHRlci5jb20vdHJ5Z2hvc3QnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxhIGhyZWY9Ii9yc3MueG1sIj5SU1M8L2E+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
