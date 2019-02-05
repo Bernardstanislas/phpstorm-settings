@@ -301,6 +301,12 @@
       <file name="$USER_HOME$/Documents/code/daju/tests/Feature/ExampleTest.php" timestamp="1542454312130">
         <mark key="[" line="16" column="33" />
       </file>
+      <file name="$USER_HOME$/Documents/code/portail.io/.circleci/config.yml" timestamp="1549364009569">
+        <mark key="[" line="26" column="11" />
+        <mark key="]" line="27" column="18" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="9" column="17" />
+      </file>
       <file name="$USER_HOME$/Documents/code/alto-espace-emprunteur/client/src/components/Messages/MessageForm/index.js" timestamp="1539792632670">
         <mark key="[" line="0" column="0" />
       </file>
@@ -627,20 +633,20 @@
       <register name="a" type="4">
         <text>http://devlocal.businessimmo.com</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>gr</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGV4ZWN1dG9yOiBub2RlCg==</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>gr</text>
+        <text>Setup Dependencies</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbnN3ZXJzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPENvbnRhaW5lciB0ZXh0IGZsdWlkPgo=</text>
+        <text encoding="base64">ICAgIGV4ZWN1dG9yOiBub2RlCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
