@@ -74,6 +74,11 @@
       <file name="/daju-test.public.user [daju-test]" timestamp="1540332795150">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/portail.io/imports/client/components/Company/CompanyInsights/CompanySetup/CompanySetup.js" timestamp="1549379547763">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/code/sphere/frontend/src/modules/Contract/Form/AttributeWidgetFactory/AttributeWidgetFactory.spec.js" timestamp="1538409328868">
         <mark key="[" line="95" column="32" />
       </file>
@@ -298,14 +303,19 @@
       <file name="$USER_HOME$/Documents/code/simplesamlphp/modules/businessimmolegacy/Language.php" timestamp="1542099904341">
         <mark key="[" line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/portail.io/package.json" timestamp="1549379441506">
+        <mark key="[" line="9" column="29" />
+        <mark key="]" line="9" column="29" />
+        <mark key="." line="9" column="29" />
+      </file>
       <file name="$USER_HOME$/Documents/code/daju/tests/Feature/ExampleTest.php" timestamp="1542454312130">
         <mark key="[" line="16" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/code/portail.io/.circleci/config.yml" timestamp="1549364955599">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="5" column="32" />
+      <file name="$USER_HOME$/Documents/code/portail.io/.circleci/config.yml" timestamp="1549379105356">
+        <mark key="[" line="3" column="2" />
+        <mark key="]" line="3" column="2" />
+        <mark key="^" line="12" column="32" />
+        <mark key="." line="3" column="2" />
       </file>
       <file name="$USER_HOME$/Documents/code/alto-espace-emprunteur/client/src/components/Messages/MessageForm/index.js" timestamp="1539792632670">
         <mark key="[" line="0" column="0" />
@@ -634,13 +644,13 @@
         <text>http://devlocal.businessimmo.com</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLSB+Ly5tZXRlb3IK</text>
+        <text encoding="base64">aW1wb3J0IHsgRGl2aWRlciB9IGZyb20gJ34vdWknOwo=</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>Setup Dependencies</text>
+        <text>; exit 0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbnN3ZXJzXD4=</text>
@@ -649,37 +659,37 @@
         <text encoding="base64">ICAgIGV4ZWN1dG9yOiBub2RlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLSB+Ly5tZXRlb3IK</text>
+        <text encoding="base64">aW1wb3J0IHsgRGl2aWRlciB9IGZyb20gJ34vdWknOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLSBydW46CiAgICAgICAgICBuYW1lOiBTZXR1cCBNZXRlb3IKICAgICAgICAgIGNvbW1hbmQ6IG1ldGVvciB8fCBjdXJsIGh0dHBzOi8vaW5zdGFsbC5tZXRlb3IuY29tIHwgL2Jpbi9zaAo=</text>
+        <text encoding="base64">aW1wb3J0IEJ1dHRvbiBmcm9tICdAbWF0ZXJpYWwtdWkvY29yZS9CdXR0b24nOwppbXBvcnQgQ2FyZCBmcm9tICdAbWF0ZXJpYWwtdWkvY29yZS9DYXJkJzsKaW1wb3J0IENhcmRIZWFkZXIgZnJvbSAnQG1hdGVyaWFsLXVpL2NvcmUvQ2FyZEhlYWRlcic7CmltcG9ydCBDYXJkQ29udGVudCBmcm9tICdAbWF0ZXJpYWwtdWkvY29yZS9DYXJkQ29udGVudCc7Cg==</text>
       </register>
       <register name="r" type="4">
         <text>technical_accounting.account.filters.period</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLSB+Ly5tZXRlb3IK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLSB+Ly5tZXRlb3IK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3Qgc2hvZUJsdWUgPSAiIzAzNmI1MyI7Cg==</text>
+        <text encoding="base64">ICAgICAgLSBydW46CiAgICAgICAgICBuYW1lOiBTZXR1cCBNZXRlb3IKICAgICAgICAgIGNvbW1hbmQ6IG1ldGVvciB8fCBjdXJsIGh0dHBzOi8vaW5zdGFsbC5tZXRlb3IuY29tIHwgL2Jpbi9zaAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBvaW50aW5nPXshZml4ZWR9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPENvbnRhaW5lciB0ZXh0Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3Qgc2hvZUJsdWUgPSAiIzAzNmI1MyI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBvaW50aW5nPXshZml4ZWR9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
