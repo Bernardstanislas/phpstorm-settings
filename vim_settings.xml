@@ -130,10 +130,11 @@
       <file name="$USER_HOME$/Documents/code/business-immo-directory/src/AppBundle/Resources/views/Back/Admin/standard_layout.html.twig" timestamp="1543330198521">
         <mark key="[" line="14" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/code/daju-landing/src/components/layout.js" timestamp="1549380830224">
-        <mark key="[" line="66" column="49" />
-        <mark key="]" line="66" column="49" />
-        <mark key="." line="66" column="49" />
+      <file name="$USER_HOME$/Documents/code/daju-landing/src/components/layout.js" timestamp="1549382200800">
+        <mark key="[" line="108" column="33" />
+        <mark key="]" line="108" column="33" />
+        <mark key="." line="108" column="33" />
+        <mark key="^" line="108" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/code/business-immo-directory/src/DataFixtures/ORM/press_dossier.yml" timestamp="1543911375242">
         <mark key="[" line="1" column="13" />
@@ -163,11 +164,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/blog/src/components/Footer.tsx" timestamp="1549105095287">
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="0" />
-        <mark key="." line="86" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/code/portail.io/README.md" timestamp="1548948601475">
         <mark key="[" line="0" column="0" />
       </file>
@@ -194,7 +190,7 @@
       <file name="$USER_HOME$/Documents/code/business-immo-directory/src/AppBundle/Resources/views/Back/Layout/top_bar.html.twig" timestamp="1543329996045">
         <mark key="[" line="12" column="73" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1549380653361">
+      <file name="/GraphQL.result.json" timestamp="1549381922017">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/blog-dojo-cqrs/src/events/namespace.ts" timestamp="1545580874953">
@@ -276,9 +272,9 @@
       <file name="$USER_HOME$/Documents/code/francis/api/phpstan.neon" timestamp="1539757812763">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/blog/src/pages/index.tsx" timestamp="1549104700265">
-        <mark key="[" line="174" column="40" />
-        <mark key="]" line="174" column="40" />
+      <file name="$USER_HOME$/Documents/code/blog/src/pages/index.tsx" timestamp="1549381961706">
+        <mark key="[" line="183" column="0" />
+        <mark key="]" line="191" column="5" />
         <mark key="." line="174" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/code/blog/src/content/the-lean-the-lamp-the-tunnel.md" timestamp="1549107076519">
@@ -644,52 +640,52 @@
         <text>http://devlocal.businessimmo.com</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>src=&quot;https://camo.githubusercontent.com/13f6d1b02a34a39a5836045d88ddac63cf7c48b0/68747470733a2f2f6e6265646f732e6769746875622e696f2f7465726d746f7376672f6578616d706c65732f617765736f6d655f77696e646f775f6672616d652e737667&quot;</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>src=&quot;https://camo.githubusercontent.com/13f6d1b02a34a39a5836045d88ddac63cf7c48b0/68747470733a2f2f6e6265646f732e6769746875622e696f2f7465726d746f7376672f6578616d706c65732f617765736f6d655f77696e646f775f6672616d652e737667&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbnN3ZXJzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGV4ZWN1dG9yOiBub2RlCg==</text>
+        <text encoding="base64">ICAgIGhlYWRlcjogZmlsZShyZWxhdGl2ZVBhdGg6IHsgZXE6ICJpbWcvYmxvZy1jb3Zlci5qcGciIH0pIHsKICAgICAgY2hpbGRJbWFnZVNoYXJwIHsKICAgICAgICAjIFNwZWNpZnkgdGhlIGltYWdlIHByb2Nlc3Npbmcgc3BlY2lmaWNhdGlvbnMgcmlnaHQgaW4gdGhlIHF1ZXJ5LgogICAgICAgICMgTWFrZXMgaXQgdHJpdmlhbCB0byB1cGRhdGUgYXMgeW91ciBwYWdlJ3MgZGVzaWduIGNoYW5nZXMuCiAgICAgICAgZmx1aWQobWF4V2lkdGg6IDIwMDApIHsKICAgICAgICAgIC4uLkdhdHNieUltYWdlU2hhcnBGbHVpZAogICAgICAgIH0KICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRGl2aWRlciB9IGZyb20gJ34vdWknOwo=</text>
+        <text encoding="base64">ICAgICAgICBzaXRlIHsKICAgICAgICAgIHNpdGVNZXRhZGF0YSB7CiAgICAgICAgICAgIHRpdGxlCiAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IEJ1dHRvbiBmcm9tICdAbWF0ZXJpYWwtdWkvY29yZS9CdXR0b24nOwppbXBvcnQgQ2FyZCBmcm9tICdAbWF0ZXJpYWwtdWkvY29yZS9DYXJkJzsKaW1wb3J0IENhcmRIZWFkZXIgZnJvbSAnQG1hdGVyaWFsLXVpL2NvcmUvQ2FyZEhlYWRlcic7CmltcG9ydCBDYXJkQ29udGVudCBmcm9tICdAbWF0ZXJpYWwtdWkvY29yZS9DYXJkQ29udGVudCc7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgRGl2aWRlciB9IGZyb20gJ34vdWknOwo=</text>
       </register>
       <register name="r" type="4">
         <text>technical_accounting.account.filters.period</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLSB+Ly5tZXRlb3IK</text>
+        <text encoding="base64">aW1wb3J0IEJ1dHRvbiBmcm9tICdAbWF0ZXJpYWwtdWkvY29yZS9CdXR0b24nOwppbXBvcnQgQ2FyZCBmcm9tICdAbWF0ZXJpYWwtdWkvY29yZS9DYXJkJzsKaW1wb3J0IENhcmRIZWFkZXIgZnJvbSAnQG1hdGVyaWFsLXVpL2NvcmUvQ2FyZEhlYWRlcic7CmltcG9ydCBDYXJkQ29udGVudCBmcm9tICdAbWF0ZXJpYWwtdWkvY29yZS9DYXJkQ29udGVudCc7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLSB+Ly5tZXRlb3IK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLSBydW46CiAgICAgICAgICBuYW1lOiBTZXR1cCBNZXRlb3IKICAgICAgICAgIGNvbW1hbmQ6IG1ldGVvciB8fCBjdXJsIGh0dHBzOi8vaW5zdGFsbC5tZXRlb3IuY29tIHwgL2Jpbi9zaAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLSB+Ly5tZXRlb3IK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLSBydW46CiAgICAgICAgICBuYW1lOiBTZXR1cCBNZXRlb3IKICAgICAgICAgIGNvbW1hbmQ6IG1ldGVvciB8fCBjdXJsIGh0dHBzOi8vaW5zdGFsbC5tZXRlb3IuY29tIHwgL2Jpbi9zaAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3Qgc2hvZUJsdWUgPSAiIzAzNmI1MyI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBvaW50aW5nPXshZml4ZWR9Cg==</text>
+        <text encoding="base64">Y29uc3Qgc2hvZUJsdWUgPSAiIzAzNmI1MyI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
