@@ -21,6 +21,12 @@
       <file name="$USER_HOME$/Documents/code/alto-espace-emprunteur/.gitignore" timestamp="1539620320846">
         <mark key="[" line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/forge/.circleci/config.yml" timestamp="1548782394308">
+        <mark key="[" line="967" column="35" />
+        <mark key="]" line="893" column="10" />
+        <mark key="." line="893" column="10" />
+        <mark key="^" line="868" column="5" />
+      </file>
       <file name="$USER_HOME$/Documents/code/blog-dojo-cqrs/src/index.ts" timestamp="1546093050136">
         <mark key="[" line="0" column="0" />
       </file>
@@ -69,6 +75,12 @@
       </file>
       <file name="/users [Business immo legacy]" timestamp="1542619981758">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/francis/api/.env" timestamp="1548009943120">
+        <mark key="[" line="30" column="15" />
+        <mark key="]" line="30" column="47" />
+        <mark key="." line="30" column="15" />
+        <mark key="^" line="17" column="59" />
       </file>
       <file name="/GraphQL.variables.json" timestamp="1549393307548">
         <mark key="[" line="0" column="0" />
@@ -137,6 +149,12 @@
         <mark key="]" line="3" column="45" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/farewell/farewell/src/people.service.tsx" timestamp="1548325366204">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="14" column="4" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="/alto.app_users [alto@localhost]" timestamp="1540895428308">
         <mark key="[" line="0" column="0" />
       </file>
@@ -148,6 +166,12 @@
       </file>
       <file name="$USER_HOME$/Documents/code/alto-espace-emprunteur/client/src/components/Header/tests/Header.test.js" timestamp="1540201904512">
         <mark key="[" line="16" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/kata/composer.json" timestamp="1549027992046">
+        <mark key="[" line="17" column="16" />
+        <mark key="]" line="14" column="4" />
+        <mark key="^" line="14" column="4" />
+        <mark key="." line="14" column="4" />
       </file>
       <file name="/business_immo_legacy.activity_sectors [Business immo legacy]" timestamp="1542805803223">
         <mark key="[" line="0" column="0" />
@@ -181,6 +205,12 @@
       </file>
       <file name="$USER_HOME$/Documents/code/simplesamlphp/modules/businessimmolegacy/Language.php" timestamp="1542099904341">
         <mark key="[" line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/lol/backend/docker/php/xdebug.ini" timestamp="1548927095133">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="4" column="31" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/portail.io/.circleci/config.yml" timestamp="1549379105356">
         <mark key="[" line="3" column="2" />
@@ -265,6 +295,12 @@
       <file name="/business_immo_legacy.connections [Business immo legacy]" timestamp="1542731402346">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/forge/startproject/root/README.md" timestamp="1548175166504">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="21" column="14" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="/connections [Business immo legacy]" timestamp="1542726121828">
         <mark key="[" line="0" column="0" />
       </file>
@@ -300,11 +336,29 @@
         <mark key="^" line="27" column="15" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/daju-landing/src/components/siteMetadata.hoc.tsx" timestamp="1549469871788">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="0" column="31" />
+        <mark key="^" line="0" column="31" />
+        <mark key="." line="0" column="31" />
+      </file>
       <file name="/alto.migration_versions [alto@localhost]" timestamp="1539609562574">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/forge-dev/backend/front/templates/app.html" timestamp="1548774461914">
+        <mark key="[" line="16" column="50" />
+        <mark key="]" line="16" column="48" />
+        <mark key="." line="16" column="48" />
+        <mark key="^" line="16" column="48" />
+      </file>
       <file name="/alto-espace-emprunteur.message [Alto staging]" timestamp="1540544860068">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/forge/startproject/api/Dockerfile" timestamp="1548076931693">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="^" line="73" column="0" />
+        <mark key="." line="73" column="0" />
       </file>
       <file name="/daju.public.api_keys [Daju Postgres local]" timestamp="1544683989937">
         <mark key="[" line="0" column="0" />
@@ -391,6 +445,12 @@
       <file name="/app_users [francis@localhost]" timestamp="1547200899685">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/farewell/people.js" timestamp="1548325360244">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="14" column="4" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="14" column="3" />
+      </file>
       <file name="$USER_HOME$/Documents/code/portail.io/README.md" timestamp="1548948601475">
         <mark key="[" line="0" column="0" />
       </file>
@@ -435,8 +495,26 @@
       <file name="/person [Business immo directory]" timestamp="1543222815601">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/forge/startproject/api-platform/plopIgnore/client/src/pages/Login/Login.form.tsx" timestamp="1548177850543">
+        <mark key="[" line="78" column="24" />
+        <mark key="]" line="78" column="24" />
+        <mark key="^" line="78" column="37" />
+        <mark key="." line="78" column="24" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2f06f4c5-3f90-4e16-a04a-d16027afbf01/console.sql" timestamp="1539357442635">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/forge/TO_DELETE" timestamp="1547722592555">
+        <mark key="[" line="0" column="135" />
+        <mark key="]" line="0" column="158" />
+        <mark key="^" line="0" column="158" />
+        <mark key="." line="0" column="158" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/farewell/asakai.py" timestamp="1548257815631">
+        <mark key="[" line="15" column="23" />
+        <mark key="]" line="8" column="28" />
+        <mark key="." line="8" column="28" />
+        <mark key="^" line="8" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/code/blog/src/pages/about.tsx" timestamp="1549104895108">
         <mark key="[" line="42" column="0" />
@@ -469,6 +547,12 @@
       </file>
       <file name="$USER_HOME$/Documents/code/business-immo-directory/prod" timestamp="1544462887412">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/farewell/farewell/src/App.css" timestamp="1548327441457">
+        <mark key="[" line="45" column="23" />
+        <mark key="]" line="45" column="23" />
+        <mark key="^" line="38" column="23" />
+        <mark key="." line="45" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/code/blog/src/components/header/SiteNav.tsx" timestamp="1549104965434">
         <mark key="[" line="149" column="0" />
