@@ -100,12 +100,12 @@
       <file name="$USER_HOME$/Documents/code/daju/resources/js/app.js" timestamp="1544191529232">
         <mark key="[" line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/daju-landing/src/components/Layout/Layout.view.tsx" timestamp="1549445909030">
+      <file name="$USER_HOME$/Documents/code/daju-landing/src/components/Layout/Layout.view.tsx" timestamp="1549448291203">
         <mark key="'" line="27" column="4" />
-        <mark key="[" line="16" column="13" />
-        <mark key="]" line="16" column="13" />
-        <mark key="." line="16" column="13" />
-        <mark key="^" line="16" column="12" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="15" column="26" />
         <mark key="o" line="95" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/code/simplesamlphp/templates/login.php" timestamp="1541693235848">
@@ -737,8 +737,8 @@
       <register name="a" type="4">
         <text>http://devlocal.businessimmo.com</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>i</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CmNvbnNvbGUubG9nKCdJbWcnLCB0eXBlb2YgR2F0c2J5SW1hZ2VQcm9wcyk7Cg==</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
@@ -752,40 +752,40 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICJ0c2xpbnQiOiAiNS4xMi4xIiwK</text>
       </register>
-      <register name="1" type="4">
-        <text>{
-    fluid: any
-  }</text>
+      <register name="1" type="2">
+        <text encoding="base64">CmNvbnNvbGUubG9nKCdJbWcnLCB0eXBlb2YgR2F0c2J5SW1hZ2VQcm9wcyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBtZXRhLAo=</text>
+      <register name="2" type="4">
+        <text>{
+    fluid: any
+  }</text>
       </register>
       <register name="r" type="4">
         <text>technical_accounting.account.filters.period</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBtZXRhLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgcmVuZGVyTGF5b3V0OiBSZWFjdC5SZWFjdE5vZGUgPSAoZGF0YSkgPT4gewogIAp9Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICJmb3JtYXQiOiAicHJldHRpZXIgLS13cml0ZSBcInNyYy8qKi8qLmpzXCIiLAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAiZGV2RGVwZW5kZW5jaWVzIjogewogIH0K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICJAdHlwZXMvbm9kZSI6ICJeMTAuMTIuMjEiLAogICAgIkB0eXBlcy9yZWFjdCI6ICJeMTYuOC4xIiwKICAgICJAdHlwZXMvcmVhY3QtZG9tIjogIl4xNi4wLjExIiwKICAgICJAdHlwZXMvcmVhY3QtaGVsbWV0IjogIl41LjAuOCIsCiAgICAiZ2F0c2J5LXBsdWdpbi1sZXNzIjogIl4yLjAuMTEiLAogICAgImdhdHNieS1wbHVnaW4tdHlwZXNjcmlwdCI6ICJeMi4wLjciLAogICAgImxlc3MiOiAiXjMuOS4wIiwKICAgICJwcmV0dGllciI6ICJeMS4xNS4yIiwKICAgICJzZW1hbnRpYy11aS1sZXNzIjogIl4yLjQuMSIK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Y29uc3QgcmVuZGVyTGF5b3V0OiBSZWFjdC5SZWFjdE5vZGUgPSAoZGF0YSkgPT4gewogIAp9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICJmb3JtYXQiOiAicHJldHRpZXIgLS13cml0ZSBcInNyYy8qKi8qLmpzXCIiLAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAiZGV2RGVwZW5kZW5jaWVzIjogewogIH0K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICJAdHlwZXMvbm9kZSI6ICJeMTAuMTIuMjEiLAogICAgIkB0eXBlcy9yZWFjdCI6ICJeMTYuOC4xIiwKICAgICJAdHlwZXMvcmVhY3QtZG9tIjogIl4xNi4wLjExIiwKICAgICJAdHlwZXMvcmVhY3QtaGVsbWV0IjogIl41LjAuOCIsCiAgICAiZ2F0c2J5LXBsdWdpbi1sZXNzIjogIl4yLjAuMTEiLAogICAgImdhdHNieS1wbHVnaW4tdHlwZXNjcmlwdCI6ICJeMi4wLjciLAogICAgImxlc3MiOiAiXjMuOS4wIiwKICAgICJwcmV0dGllciI6ICJeMS4xNS4yIiwKICAgICJzZW1hbnRpYy11aS1sZXNzIjogIl4yLjQuMSIK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">dHlwZSBQcm9wcyA9IHsKICAKfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
