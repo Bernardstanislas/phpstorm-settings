@@ -633,11 +633,11 @@
       <file name="$USER_HOME$/Documents/code/sf-auth0/.gitignore" timestamp="1538777892419">
         <mark key="[" line="8" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/code/daju-landing/src/hoc/siteMetadata.hoc.tsx" timestamp="1549532648138">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="6" column="17" />
-        <mark key="." line="4" column="15" />
-        <mark key="^" line="4" column="15" />
+      <file name="$USER_HOME$/Documents/code/daju-landing/src/hoc/siteMetadata.hoc.tsx" timestamp="1549547062791">
+        <mark key="[" line="21" column="22" />
+        <mark key="]" line="21" column="22" />
+        <mark key="." line="21" column="22" />
+        <mark key="^" line="23" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/code/daju/assets/js/app.js" timestamp="1540756883918">
         <mark key="[" line="0" column="0" />
@@ -784,13 +784,13 @@
         <text>http://devlocal.businessimmo.com</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">OiA8UCBleHRlbmRzIG9iamVjdD4oQ29tcG9uZW50OiBSZWFjdC5Db21wb25lbnRUeXBlPFA+KSA9PiAocHJvcHM6IFApID0+IFJlYWN0LkNvbXBvbmVudFR5cGU8UD4=</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">OiA8UCBleHRlbmRzIG9iamVjdD4oQ29tcG9uZW50OiBSZWFjdC5Db21wb25lbnRUeXBlPFA+KSA9PiAocHJvcHM6IFApID0+IFJlYWN0LkNvbXBvbmVudFR5cGU8UD4=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGlsZHJlblw+</text>
