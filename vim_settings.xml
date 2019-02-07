@@ -436,11 +436,11 @@
       <file name="$USER_HOME$/Documents/code/portail.io/README.md" timestamp="1548948601475">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/daju-landing/src/components/SEO/SEO.view.tsx" timestamp="1549472337700">
-        <mark key="'" line="15" column="6" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/Documents/code/daju-landing/src/components/SEO/SEO.view.tsx" timestamp="1549532655879">
+        <mark key="'" line="18" column="6" />
+        <mark key="[" line="4" column="20" />
+        <mark key="]" line="4" column="20" />
+        <mark key="." line="4" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/code/daju-landing/src/components/SEO.tsx" timestamp="1549470196620">
         <mark key="[" line="65" column="0" />
@@ -633,10 +633,11 @@
       <file name="$USER_HOME$/Documents/code/sf-auth0/.gitignore" timestamp="1538777892419">
         <mark key="[" line="8" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/code/daju-landing/src/hoc/siteMetadata.hoc.tsx" timestamp="1549472456699">
-        <mark key="[" line="25" column="63" />
-        <mark key="]" line="25" column="73" />
-        <mark key="." line="25" column="63" />
+      <file name="$USER_HOME$/Documents/code/daju-landing/src/hoc/siteMetadata.hoc.tsx" timestamp="1549532648138">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="6" column="17" />
+        <mark key="." line="4" column="15" />
+        <mark key="^" line="4" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/code/daju/assets/js/app.js" timestamp="1540756883918">
         <mark key="[" line="0" column="0" />
@@ -783,19 +784,19 @@
         <text>http://devlocal.businessimmo.com</text>
       </register>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGlsZHJlblw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgZGV0YWlsc1F1ZXJ5ID0gZ3JhcGhxbGAKICBxdWVyeSBEZWZhdWx0U0VPUXVlcnkgewogICAgc2l0ZSB7CiAgICAgIHNpdGVNZXRhZGF0YSB7CiAgICAgICAgdGl0bGUKICAgICAgICBkZXNjcmlwdGlvbgogICAgICAgIGF1dGhvcgogICAgICB9CiAgICB9CiAgfQpgOwo=</text>
+        <text encoding="base64">ICB0aXRsZTogc3RyaW5nOwogIGRlc2NyaXB0aW9uOiBzdHJpbmc7CiAgYXV0aG9yOiBzdHJpbmc7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHRpdGxlVGVtcGxhdGU9e2AlcyB8ICR7dGl0bGV9YH0K</text>
