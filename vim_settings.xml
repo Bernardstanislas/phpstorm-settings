@@ -112,11 +112,11 @@
       <file name="$USER_HOME$/Documents/code/daju/resources/js/app.js" timestamp="1544191529232">
         <mark key="[" line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/daju-landing/src/components/Layout/Layout.view.tsx" timestamp="1549561847438">
-        <mark key="[" line="19" column="12" />
-        <mark key="]" line="13" column="10" />
-        <mark key="." line="13" column="10" />
-        <mark key="^" line="12" column="11" />
+      <file name="$USER_HOME$/Documents/code/daju-landing/src/components/Layout/Layout.view.tsx" timestamp="1549635103550">
+        <mark key="[" line="71" column="45" />
+        <mark key="]" line="122" column="16" />
+        <mark key="." line="122" column="16" />
+        <mark key="^" line="122" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/code/simplesamlphp/templates/login.php" timestamp="1541693235848">
         <mark key="[" line="15" column="2" />
@@ -248,10 +248,11 @@
       <file name="$USER_HOME$/Documents/code/daju-landing/.gitignore" timestamp="1548695318758">
         <mark key="[" line="69" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/daju-landing/src/pages/index.tsx" timestamp="1549551326225">
-        <mark key="[" line="17" column="9" />
-        <mark key="]" line="17" column="9" />
-        <mark key="." line="17" column="9" />
+      <file name="$USER_HOME$/Documents/code/daju-landing/src/pages/index.tsx" timestamp="1549635345752">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="13" column="43" />
       </file>
       <file name="/main.daju_user [data.db]" timestamp="1540750682062">
         <mark key="[" line="0" column="0" />
@@ -444,6 +445,11 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="14" column="3" />
       </file>
+      <file name="$USER_HOME$/Documents/code/daju-landing/src/components/TryItOut/TryItOut.view.tsx" timestamp="1549635126188">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/code/portail.io/README.md" timestamp="1548948601475">
         <mark key="[" line="0" column="0" />
       </file>
@@ -488,7 +494,7 @@
       <file name="/main.user [data.db]" timestamp="1540758356007">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/daju-landing/src/components/SEO/index.tsx" timestamp="1549561907625">
+      <file name="$USER_HOME$/Documents/code/daju-landing/src/components/SEO/index.tsx" timestamp="1549635244027">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="67" />
         <mark key="^" line="6" column="8" />
@@ -560,9 +566,9 @@
         <mark key="]" line="149" column="0" />
         <mark key="." line="149" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/daju-landing/src/components/Layout/index.tsx" timestamp="1549561960152">
+      <file name="$USER_HOME$/Documents/code/daju-landing/src/components/Layout/index.tsx" timestamp="1549634664333">
         <mark key="'" line="0" column="1" />
-        <mark key="[" line="2" column="48" />
+        <mark key="[" line="6" column="58" />
       </file>
       <file name="$USER_HOME$/Documents/code/business-immo-directory/src/Resources/views/Front/Layout/partials/top_bar.html.twig" timestamp="1543843158065">
         <mark key="[" line="17" column="40" />
@@ -801,13 +807,13 @@
         <text>http://devlocal.businessimmo.com</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSE9DUHJvcHMgfSBmcm9tICIuLi91dGlscy90eXBpbmciOwo=</text>
+        <text encoding="base64">ICBCdXR0b24K</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">SE9DUHJvcHM8UCwgV2l0aFNpdGVNZXRhZGF0YVByb3BzPg==</text>
+        <text>/TryItOut.view</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGlsZHJlblw+</text>
@@ -816,37 +822,37 @@
         <text encoding="base64">dHlwZSBDb250YWluZXJQcm9wcyA9IE9taXQ8Vmlld1Byb3BzLCBrZXlvZiBXaXRoU2l0ZU1ldGFkYXRhUHJvcHM+Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSE9DUHJvcHMgfSBmcm9tICIuLi91dGlscy90eXBpbmciOwo=</text>
+        <text encoding="base64">ICBCdXR0b24K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">RGlmZgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="r" type="4">
         <text>technical_accounting.account.filters.period</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjaGlsZHJlbj86IFJlYWN0LlJlYWN0Tm9kZTsK</text>
+        <text encoding="base64">ICAgIDxTZWdtZW50IHN0eWxlPXt7IHBhZGRpbmc6ICIyZW0gMCA1ZW0gMCIgfX0gYmFzaWM+CiAgICAgIDxHcmlkIGNvbHVtbj17M30gY2VudGVyZWQgcGFkZGVkPgogICAgICAgIDxDb250YWluZXIgdGV4dD4KICAgICAgICAgIDxIZWFkZXIKICAgICAgICAgICAgYXM9ImgzIgogICAgICAgICAgICBjb250ZW50PSJXYW50IHRvIGdpdmUgaXQgYSB0cnk/IgogICAgICAgICAgICBzdHlsZT17ewogICAgICAgICAgICAgIGZvbnRTaXplOiAiMnJlbSIKICAgICAgICAgICAgfX0KICAgICAgICAgIC8+CiAgICAgICAgICA8cD5HZXQgc3RhcnRlZCBpbiBtaW51dGVzIHdpdGggb3VyIGZyZWUgcGxhbiE8L3A+CiAgICAgICAgICA8QnV0dG9uIHByaW1hcnkgc2l6ZT0iaHVnZSI+CiAgICAgICAgICAgIEdldCBTdGFydGVkCiAgICAgICAgICAgIDxJY29uIG5hbWU9ImFycm93IHJpZ2h0IiAvPgogICAgICAgICAgPC9CdXR0b24+CiAgICAgICAgPC9Db250YWluZXI+CiAgICAgIDwvR3JpZD4KICAgIDwvU2VnbWVudD4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSE9DUHJvcHMgfSBmcm9tICIuLi8uLi91dGlscy90eXBpbmciOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxJdGVtCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgaW5qZWN0ZWRQcm9wcyA9IHsKICAgICAgICAuLi5wcm9wcywKICAgICAgICBkZW1vSW1hZ2U6IGxvbAogICAgICB9Owo=</text>
+        <text encoding="base64">aW1wb3J0IHsgSE9DUHJvcHMgfSBmcm9tICIuLi91dGlscy90eXBpbmciOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CnR5cGUgSE9DPFA+ID0gRGlmZjxQLCBXaXRoRGVtb0ltYWdlUHJvcHM+Owo=</text>
+        <text encoding="base64">RGlmZgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSE9DUHJvcHMgfSBmcm9tICIuLi8uLi91dGlscy90eXBpbmciOwo=</text>
+        <text encoding="base64">ICBjaGlsZHJlbj86IFJlYWN0LlJlYWN0Tm9kZTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRlbW9JbWFnZT17bG9sIGFzIFdpdGhEZW1vSW1hZ2VQcm9wc1siZGVtb0ltYWdlIl19CiAgICAgICAgICB7Li4ucHJvcHN9Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgSE9DUHJvcHMgfSBmcm9tICIuLi8uLi91dGlscy90eXBpbmciOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkZW1vSW1hZ2U6IEdhdHNieUltYWdlUHJvcHM7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgaW5qZWN0ZWRQcm9wcyA9IHsKICAgICAgICAuLi5wcm9wcywKICAgICAgICBkZW1vSW1hZ2U6IGxvbAogICAgICB9Owo=</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
