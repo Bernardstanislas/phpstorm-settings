@@ -271,6 +271,11 @@
       <file name="/sphere.public.company [Sphere]" timestamp="1538490576302">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/daju-landing/src/semantic/site/elements/segment.overrides" timestamp="1549642788461">
+        <mark key="[" line="2" column="32" />
+        <mark key="]" line="4" column="22" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/code/daju-landing/src/components/layout.css" timestamp="1549387146430">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -693,6 +698,11 @@
       <file name="$USER_HOME$/Documents/code/daju/config/services_test.yml" timestamp="1539172430896">
         <mark key="[" line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/daju-landing/src/semantic/site/elements/segment.variables" timestamp="1549642783544">
+        <mark key="[" line="17" column="17" />
+        <mark key="]" line="17" column="18" />
+        <mark key="." line="17" column="18" />
+      </file>
       <file name="$USER_HOME$/Documents/code/sphere/frontend/.dockerignore" timestamp="1539099850767">
         <mark key="[" line="1" column="4" />
       </file>
@@ -807,7 +817,7 @@
         <text>http://devlocal.businessimmo.com</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBCdXR0b24K</text>
+        <text encoding="base64">QHZlcnRpY2FsTWFyZ2luOiAzcmVtOwo=</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
@@ -819,7 +829,7 @@
         <text encoding="base64">XDxjaGlsZHJlblw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dHlwZSBDb250YWluZXJQcm9wcyA9IE9taXQ8Vmlld1Byb3BzLCBrZXlvZiBXaXRoU2l0ZU1ldGFkYXRhUHJvcHM+Owo=</text>
+        <text encoding="base64">QHZlcnRpY2FsTWFyZ2luOiAzcmVtOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBCdXR0b24K</text>
