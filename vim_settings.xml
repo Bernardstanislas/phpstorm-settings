@@ -244,6 +244,7 @@
       <file name="$USER_HOME$/Documents/code/alto-espace-emprunteur/client/src/components/Messages/MessageForm/index.js" timestamp="1539792632670">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/daju/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php" timestamp="1549909595212" />
       <file name="/alto.question [alto@localhost]" timestamp="1540371054416">
         <mark key="[" line="0" column="0" />
       </file>
@@ -648,6 +649,11 @@
         <mark key="." line="1" column="22" />
         <mark key="^" line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/daju/resources/views/templates/details.blade.php" timestamp="1549910328246">
+        <mark key="[" line="11" column="93" />
+        <mark key="]" line="11" column="93" />
+        <mark key="." line="11" column="93" />
+      </file>
       <file name="$USER_HOME$/Documents/code/daju-landing/src/components/Homepage/Header/Menu/Menu.view.tsx" timestamp="1549905918569">
         <mark key="[" line="3" column="67" />
         <mark key="]" line="3" column="67" />
@@ -660,7 +666,7 @@
       <file name="$USER_HOME$/Documents/code/daju/Procfile" timestamp="1544781263123">
         <mark key="[" line="1" column="52" />
       </file>
-      <file name="/PHP Console" timestamp="1548931270040">
+      <file name="/PHP Console" timestamp="1549909664763">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/alto-espace-emprunteur/client/src/components/Header/LogoutButton.style.js" timestamp="1539679599817">
@@ -866,14 +872,14 @@
       <register name="a" type="4">
         <text>http://devlocal.businessimmo.com</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>edit</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>edit</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGlsZHJlblw+</text>
