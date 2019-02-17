@@ -203,10 +203,10 @@
         <mark key="^" line="2" column="24" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/blog/src/pages/index.tsx" timestamp="1550419585975">
-        <mark key="[" line="174" column="40" />
-        <mark key="]" line="174" column="40" />
-        <mark key="." line="174" column="40" />
+      <file name="$USER_HOME$/Documents/code/blog/src/pages/index.tsx" timestamp="1550424500331">
+        <mark key="[" line="174" column="45" />
+        <mark key="]" line="174" column="45" />
+        <mark key="." line="174" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/code/blog/src/content/the-lean-the-lamp-the-tunnel.md" timestamp="1549107076519">
         <mark key="[" line="10" column="0" />
@@ -875,13 +875,13 @@
         <text>http://devlocal.businessimmo.com</text>
       </register>
       <register name="&quot;" type="4">
-        <text>lendroit.jpeg</text>
+        <text>svg</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>lendroit.jpeg</text>
+        <text>svg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGlsZHJlblw+</text>
