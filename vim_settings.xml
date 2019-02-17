@@ -110,10 +110,10 @@
         <mark key="]" line="81" column="26" />
         <mark key="." line="81" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/code/blog/src/website-config.ts" timestamp="1549105259721">
-        <mark key="[" line="32" column="16" />
-        <mark key="]" line="32" column="50" />
-        <mark key="." line="38" column="0" />
+      <file name="$USER_HOME$/Documents/code/blog/src/website-config.ts" timestamp="1550419534633">
+        <mark key="[" line="34" column="13" />
+        <mark key="]" line="34" column="13" />
+        <mark key="." line="34" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/code/blog/src/components/Footer.tsx" timestamp="1549105095287">
         <mark key="[" line="86" column="0" />
@@ -135,13 +135,16 @@
       <file name="/a.sql" timestamp="1546096690619">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/blog/src/content/img/logo.svg" timestamp="1550419424817">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/code/daju/package.json" timestamp="1544365275388">
         <mark key="[" line="9" column="176" />
       </file>
       <file name="$USER_HOME$/Documents/code/daju/src/Infrastructure/resources/home.twig.html" timestamp="1540416209587">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1549488966169">
+      <file name="/GraphQL.result.json" timestamp="1550419376634">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/blog-dojo-cqrs/src/events/namespace.ts" timestamp="1545580874953">
@@ -200,9 +203,9 @@
         <mark key="^" line="2" column="24" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/blog/src/pages/index.tsx" timestamp="1549489145262">
-        <mark key="[" line="126" column="30" />
-        <mark key="]" line="191" column="5" />
+      <file name="$USER_HOME$/Documents/code/blog/src/pages/index.tsx" timestamp="1550419585975">
+        <mark key="[" line="174" column="40" />
+        <mark key="]" line="174" column="40" />
         <mark key="." line="174" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/code/blog/src/content/the-lean-the-lamp-the-tunnel.md" timestamp="1549107076519">
@@ -244,7 +247,6 @@
       <file name="$USER_HOME$/Documents/code/alto-espace-emprunteur/client/src/components/Messages/MessageForm/index.js" timestamp="1539792632670">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/daju/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php" timestamp="1549909595212" />
       <file name="/alto.question [alto@localhost]" timestamp="1540371054416">
         <mark key="[" line="0" column="0" />
       </file>
@@ -515,7 +517,7 @@
         <mark key="]" line="75" column="2" />
         <mark key="." line="4" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/code/blog/src/templates/post.tsx" timestamp="1549105013050">
+      <file name="$USER_HOME$/Documents/code/blog/src/templates/post.tsx" timestamp="1550419596703">
         <mark key="[" line="332" column="40" />
         <mark key="]" line="332" column="40" />
         <mark key="." line="332" column="40" />
@@ -526,7 +528,7 @@
       <file name="/fragment.php" timestamp="1547200510277">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/blog/src/components/header/SiteNavLogo.tsx" timestamp="1549105041428">
+      <file name="$USER_HOME$/Documents/code/blog/src/components/header/SiteNavLogo.tsx" timestamp="1550419504529">
         <mark key="[" line="40" column="44" />
         <mark key="]" line="40" column="44" />
         <mark key="." line="40" column="44" />
@@ -873,13 +875,13 @@
         <text>http://devlocal.businessimmo.com</text>
       </register>
       <register name="&quot;" type="4">
-        <text>edit</text>
+        <text>lendroit.jpeg</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>edit</text>
+        <text>lendroit.jpeg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGlsZHJlblw+</text>
