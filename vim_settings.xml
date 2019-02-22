@@ -311,6 +311,11 @@
         <mark key="]" line="28" column="15" />
         <mark key="." line="28" column="15" />
       </file>
+      <file name="$USER_HOME$/Documents/code/daju/resources/semantic/site/globals/site.variables" timestamp="1550831306379">
+        <mark key="[" line="31" column="13" />
+        <mark key="]" line="31" column="14" />
+        <mark key="." line="31" column="14" />
+      </file>
       <file name="$USER_HOME$/Documents/code/francis/client/package.json" timestamp="1547128878146">
         <mark key="[" line="66" column="5" />
       </file>
@@ -427,6 +432,11 @@
         <mark key="]" line="17" column="24" />
         <mark key="." line="17" column="24" />
       </file>
+      <file name="$USER_HOME$/Documents/code/daju/node_modules/semantic-ui-less/themes/default/globals/site.variables" timestamp="1550831295391">
+        <mark key="[" line="34" column="13" />
+        <mark key="]" line="34" column="14" />
+        <mark key="." line="34" column="14" />
+      </file>
       <file name="$USER_HOME$/Documents/code/daju-landing/src/components/SEO.tsx" timestamp="1549470196620">
         <mark key="[" line="65" column="0" />
         <mark key="]" line="75" column="2" />
@@ -517,8 +527,8 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/daju/resources/semantic/theme.config" timestamp="1550766983684">
-        <mark key="[" line="90" column="0" />
+      <file name="$USER_HOME$/Documents/code/daju/resources/semantic/theme.config" timestamp="1550831409619">
+        <mark key="[" line="83" column="17" />
         <mark key="]" line="90" column="0" />
         <mark key="." line="90" column="0" />
         <mark key="^" line="90" column="0" />
@@ -552,7 +562,7 @@
       <file name="$USER_HOME$/Documents/code/daju/Procfile" timestamp="1544781263123">
         <mark key="[" line="1" column="52" />
       </file>
-      <file name="/PHP Console" timestamp="1550772730299">
+      <file name="/PHP Console" timestamp="1550831441420">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/alto-espace-emprunteur/client/src/components/Header/LogoutButton.style.js" timestamp="1539679599817">
