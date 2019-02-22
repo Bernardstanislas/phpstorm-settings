@@ -435,8 +435,8 @@
       <file name="$USER_HOME$/Documents/code/portail.io/README.md" timestamp="1548948601475">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/daju/vendor/forestadmin/forest-laravel/src/Bootstraper.php" timestamp="1550836627345">
-        <mark key="[" line="182" column="0" />
+      <file name="$USER_HOME$/Documents/code/daju/vendor/forestadmin/forest-laravel/src/Bootstraper.php" timestamp="1550844552357">
+        <mark key="[" line="187" column="28" />
         <mark key="]" line="191" column="9" />
         <mark key="^" line="182" column="25" />
         <mark key="." line="182" column="25" />
@@ -653,8 +653,11 @@
       <file name="/alto-espace-emprunteur.app_users [Alto staging]" timestamp="1540894265954">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/daju/composer.json" timestamp="1550836420509">
-        <mark key="[" line="65" column="25" />
+      <file name="$USER_HOME$/Documents/code/daju/composer.json" timestamp="1550844018742">
+        <mark key="[" line="9" column="37" />
+        <mark key="]" line="11" column="34" />
+        <mark key="^" line="11" column="33" />
+        <mark key="." line="11" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/code/daju-landing/src/components/Homepage/Footer/index.tsx" timestamp="1549646166199">
         <mark key="[" line="0" column="0" />
@@ -673,10 +676,10 @@
       <file name="$USER_HOME$/Documents/code/daju/config/services_test.yml" timestamp="1539172430896">
         <mark key="[" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/forest-laravel/src/Bootstraper.php" timestamp="1550836660655">
-        <mark key="[" line="182" column="0" />
-        <mark key="]" line="190" column="9" />
-        <mark key="." line="182" column="0" />
+      <file name="$USER_HOME$/Documents/code/forest-laravel/src/Bootstraper.php" timestamp="1550844682664">
+        <mark key="[" line="187" column="12" />
+        <mark key="]" line="187" column="12" />
+        <mark key="." line="187" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/code/daju-landing/src/semantic/site/elements/segment.variables" timestamp="1549642783544">
         <mark key="[" line="17" column="17" />
@@ -796,20 +799,20 @@
       <register name="a" type="4">
         <text>http://devlocal.businessimmo.com</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>isset</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>key_exists</text>
+        <text>isset</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGlsZHJlblw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkY2xpZW50ID0gbmV3IENsaWVudCgpOwogICAgICAgICRyZXNwb25zZSA9ICRjbGllbnQtPnJlcXVlc3QoJ1BPU1QnLCAnL2FwaW1hcHMnLCAkb3B0aW9ucyk7CgogICAgICAgICRib2R5ID0ganNvbl9kZWNvZGUoJHJlc3BvbnNlLT5nZXRCb2R5KCksIHRydWUpOwoKICAgICAgICBpZiAoaXNzZXQoJGJvZHkpICYmICRtZXNzYWdlID0gJGJvZHlbJ3dhcm5pbmcnXSkgewogICAgICAgICAgLy8gVE9ETzogQ3JlYXRlIGEgZGVkaWNhdGVkIGxvZ2dlciB0byBpbXByb3ZlIHRoZSBsb2dnaW5nIGV4cGVyaWVuY2UuCiAgICAgICAgICBMb2dnZXI6Ondhcm5pbmcoJG1lc3NhZ2UpOwogICAgICAgIH0K</text>
+      <register name="0" type="4">
+        <text>forestadmin/forest-laravel</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
