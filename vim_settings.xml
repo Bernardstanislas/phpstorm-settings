@@ -107,10 +107,10 @@
         <mark key="]" line="86" column="0" />
         <mark key="." line="86" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/daju/resources/js/app.js" timestamp="1550835401721">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Documents/code/daju/resources/js/app.js" timestamp="1551118273859">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/simplesamlphp/templates/login.php" timestamp="1541693235848">
         <mark key="[" line="15" column="2" />
@@ -160,6 +160,7 @@
         <mark key="]" line="3" column="45" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/daju/app/Http/Controllers/TemplateController.php" timestamp="1551116832240" />
       <file name="/alto.app_users [alto@localhost]" timestamp="1540895428308">
         <mark key="[" line="0" column="0" />
       </file>
@@ -376,7 +377,6 @@
       <file name="$USER_HOME$/Documents/code/blog-dojo-cqrs/src/events/article-created.event.ts" timestamp="1545326672860">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/daju/app/Http/Middleware/Authenticate.php" timestamp="1550834080747" />
       <file name="$USER_HOME$/Documents/code/business-immo-directory/config/packages/dev/hautelook_alice.yaml" timestamp="1543830441846">
         <mark key="[" line="1" column="27" />
       </file>
@@ -573,10 +573,11 @@
       <file name="/alto.additional_document_requirement [alto@localhost]" timestamp="1540919918492">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/daju/resources/views/templates/details.blade.php" timestamp="1550833640730">
-        <mark key="[" line="11" column="93" />
-        <mark key="]" line="11" column="93" />
-        <mark key="." line="11" column="93" />
+      <file name="$USER_HOME$/Documents/code/daju/resources/views/templates/details.blade.php" timestamp="1551117886115">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="28" column="137" />
       </file>
       <file name="$USER_HOME$/Documents/code/daju/node_modules/semantic-ui-less/theme.less" timestamp="1550832703909">
         <mark key="[" line="25" column="8" />
@@ -591,7 +592,7 @@
         <mark key="]" line="0" column="92" />
         <mark key="." line="0" column="92" />
       </file>
-      <file name="/PHP Console" timestamp="1550836255870">
+      <file name="/PHP Console" timestamp="1551117589053">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/alto-espace-emprunteur/client/src/components/Header/LogoutButton.style.js" timestamp="1539679599817">
@@ -802,13 +803,13 @@
         <text>http://devlocal.businessimmo.com</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">JiBucG0gaW5zdGFsbCAmJiBucG0gcnVuIHByb2Q=</text>
+        <text encoding="base64">ICAgICAgICAgIA==</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JiBucG0gaW5zdGFsbCAmJiBucG0gcnVuIHByb2Q=</text>
+        <text encoding="base64">ICAgICAgICAgIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGlsZHJlblw+</text>
