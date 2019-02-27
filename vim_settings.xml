@@ -178,6 +178,11 @@
       <file name="$USER_HOME$/Documents/code/alto-espace-emprunteur/client/src/components/Header/tests/Header.test.js" timestamp="1540201904512">
         <mark key="[" line="16" column="15" />
       </file>
+      <file name="$USER_HOME$/Documents/code/daju/config/larecipe.php" timestamp="1551296273574">
+        <mark key="[" line="133" column="29" />
+        <mark key="]" line="133" column="29" />
+        <mark key="." line="133" column="29" />
+      </file>
       <file name="/business_immo_legacy.activity_sectors [Business immo legacy]" timestamp="1542805803223">
         <mark key="[" line="0" column="0" />
       </file>
@@ -797,13 +802,13 @@
         <text>http://devlocal.businessimmo.com</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgIA==</text>
+        <text>light</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgIA==</text>
+        <text>light</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGlsZHJlblw+</text>
