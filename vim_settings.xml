@@ -650,10 +650,11 @@
       <file name="/sphere.public.stored_event [Sphere]" timestamp="1538648676281">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/daju/resources/views/layouts/app.blade.php" timestamp="1551440268561">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="19" column="54" />
-        <mark key="." line="28" column="49" />
+      <file name="$USER_HOME$/Documents/code/daju/resources/views/layouts/app.blade.php" timestamp="1551464230861">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="38" column="35" />
       </file>
       <file name="/business_immo_legacy.users [Business immo legacy]" timestamp="1544441105456">
         <mark key="[" line="0" column="0" />
@@ -844,53 +845,53 @@
       <register name="a" type="4">
         <text>http://devlocal.businessimmo.com</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>Quickstart</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJpdGVtIj4KICAgICAgICAgICAgICAgICAgICBMb2dvdXQKICAgICAgICAgICAgICAgIDwvYT4K</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>Quickstart</text>
+        <text>Profile</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGlsZHJlblw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LSAjIyBbUXVpY2tzdGFydF0oL2RvY3Mve3t2ZXJzaW9ufX0vcXVpY2tzdGFydCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJpdGVtIj4xPC9hPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LSBb8J+UkSBPYnRhaW4geW91ciBBUEkgS2V5XSgjb2J0YWluLXlvdXItYXBpLWtleSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJpdGVtIj4KICAgICAgICAgICAgICAgICAgICBMb2dvdXQKICAgICAgICAgICAgICAgIDwvYT4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LSBb8J+UkSBPYnRhaW4geW91ciBBUEkgS2V5XSgjb2J0YWluLXlvdXItYXBpLWtleSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aSBjbGFzcz0icG93ZXIgb2ZmIGljb24iPjwvaT4K</text>
       </register>
       <register name="r" type="4">
         <text>technical_accounting.account.filters.period</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">WW91IGNhbiBlZGl0IG9ubGluZSB0aGUgdGVtcGxhdGVzIG9mIHlvdXIgUERGcywgYW5kIGxldCB0aGUgZGV2ZWxvcGVycyByZWZlciB0byB0aGVzZSB0ZW1wbGF0ZXMgd2hlbiBjYWxsaW5nIHRoZSBBUEkuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImJvdHRvbSBtZW51Ij4K</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CldpdGggdGVtcGxhdGluZywgeQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJpdGVtIj4KICAgICAgICAgICAgICAgICAgICA8aSBjbGFzcz0idXNlciBpY29uIj48L2k+CiAgICAgICAgICAgICAgICAgICAgUHJvZmlsZQogICAgICAgICAgICAgICAgPC9hPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCAkYmFzZVVybCA9ICcnOwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5zZWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJpdGVtIj4xPC9hPgogICAgICAgICAgICAgICAgPGEgY2xhc3M9Iml0ZW0iPjI8L2E+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAogICAgJGJhc2VVcmwgPSAnJwo=</text>
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
