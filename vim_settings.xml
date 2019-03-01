@@ -650,11 +650,11 @@
       <file name="/sphere.public.stored_event [Sphere]" timestamp="1538648676281">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/daju/resources/views/layouts/app.blade.php" timestamp="1551464230861">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-        <mark key="^" line="38" column="35" />
+      <file name="$USER_HOME$/Documents/code/daju/resources/views/layouts/app.blade.php" timestamp="1551482875161">
+        <mark key="[" line="37" column="27" />
+        <mark key="]" line="37" column="27" />
+        <mark key="." line="37" column="27" />
+        <mark key="^" line="33" column="35" />
       </file>
       <file name="/business_immo_legacy.users [Business immo legacy]" timestamp="1544441105456">
         <mark key="[" line="0" column="0" />
@@ -845,20 +845,20 @@
       <register name="a" type="4">
         <text>http://devlocal.businessimmo.com</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJpdGVtIj4KICAgICAgICAgICAgICAgICAgICBMb2dvdXQKICAgICAgICAgICAgICAgIDwvYT4K</text>
+      <register name="&quot;" type="4">
+        <text>Templates</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>Profile</text>
+        <text>Templates</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGlsZHJlblw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJpdGVtIj4xPC9hPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJpdGVtIj4KICAgICAgICAgICAgICAgICAgICA8aSBjbGFzcz0ib2JqZWN0IGdyb3VwIGljb24iPjwvaT4KICAgICAgICAgICAgICAgICAgICB7eyBfXygnVGVtcGxhdGVzJykgfX0KICAgICAgICAgICAgICAgIDwvYT4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJpdGVtIj4KICAgICAgICAgICAgICAgICAgICBMb2dvdXQKICAgICAgICAgICAgICAgIDwvYT4K</text>
