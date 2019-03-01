@@ -154,7 +154,6 @@
         <mark key="]" line="3" column="45" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/daju/app/Http/Controllers/TemplateController.php" timestamp="1551116832240" />
       <file name="/alto.app_users [alto@localhost]" timestamp="1540895428308">
         <mark key="[" line="0" column="0" />
       </file>
@@ -196,6 +195,10 @@
       <file name="$USER_HOME$/Documents/code/daju-landing/src/components/Homepage/Features/index.tsx" timestamp="1549736123239">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/daju/resources/docs/0.3/quickstart.md" timestamp="1551447503399">
+        <mark key="[" line="37" column="18" />
+        <mark key="]" line="5" column="56" />
+      </file>
       <file name="$USER_HOME$/Documents/code/blog/src/pages/index.tsx" timestamp="1550424500331">
         <mark key="[" line="174" column="45" />
         <mark key="]" line="174" column="45" />
@@ -216,6 +219,12 @@
       </file>
       <file name="$USER_HOME$/Documents/code/alto-espace-emprunteur/client/src/components/Messages/MessageForm/index.js" timestamp="1539792632670">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/daju/resources/docs/0.3/templating.md" timestamp="1551447496277">
+        <mark key="[" line="7" column="15" />
+        <mark key="]" line="7" column="15" />
+        <mark key="^" line="6" column="30" />
+        <mark key="." line="7" column="15" />
       </file>
       <file name="/alto.question [alto@localhost]" timestamp="1540371054416">
         <mark key="[" line="0" column="0" />
@@ -416,6 +425,11 @@
       <file name="$USER_HOME$/Documents/code/alto-espace-emprunteur/api/src/Controller/UserController.php" timestamp="1540287749609">
         <mark key="[" line="12" column="33" />
       </file>
+      <file name="$USER_HOME$/Documents/code/daju/app/Http/Requests/PrintTemplateRequest.php" timestamp="1551447132557">
+        <mark key="[" line="21" column="45" />
+        <mark key="]" line="21" column="45" />
+        <mark key="." line="21" column="45" />
+      </file>
       <file name="$USER_HOME$/Documents/code/francis/client/src/pages/Login/Login.js" timestamp="1547030606444">
         <mark key="[" line="9" column="14" />
       </file>
@@ -546,6 +560,11 @@
       </file>
       <file name="$USER_HOME$/Documents/code/daju/tests/Feature/ExampleTest.php" timestamp="1542454312130">
         <mark key="[" line="16" column="33" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/daju/resources/docs/0.3/index.md" timestamp="1551447558297">
+        <mark key="[" line="2" column="6" />
+        <mark key="]" line="2" column="6" />
+        <mark key="." line="2" column="6" />
       </file>
       <file name="/business_immo_directory.subscriber_logins [Business immo directory]" timestamp="1543855037340">
         <mark key="[" line="0" column="0" />
@@ -825,53 +844,53 @@
       <register name="a" type="4">
         <text>http://devlocal.businessimmo.com</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDwhLS0gQ3Jpc3AgLS0+CiAgICA8c2NyaXB0IHNyYz0ie3sgYXNzZXQoJ2pzL2NyaXNwLmpzJykgfX0iPjwvc2NyaXB0Pgo=</text>
+      <register name="&quot;" type="4">
+        <text>Quickstart</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>seeInElement</text>
+        <text>Quickstart</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGlsZHJlblw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDwhLS0gQ3Jpc3AgLS0+CiAgICA8c2NyaXB0IHNyYz0ie3sgYXNzZXQoJ2pzL2NyaXNwLmpzJykgfX0iPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">LSAjIyBbUXVpY2tzdGFydF0oL2RvY3Mve3t2ZXJzaW9ufX0vcXVpY2tzdGFydCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">LSBb8J+UkSBPYnRhaW4geW91ciBBUEkgS2V5XSgjb2J0YWluLXlvdXItYXBpLWtleSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCAkYmFzZVVybCA9ICcnOwoK</text>
+        <text encoding="base64">LSBb8J+UkSBPYnRhaW4geW91ciBBUEkgS2V5XSgjb2J0YWluLXlvdXItYXBpLWtleSkK</text>
       </register>
       <register name="r" type="4">
         <text>technical_accounting.account.filters.period</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5zZWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAogICAgJGJhc2VVcmwgPSAnJwo=</text>
+        <text encoding="base64">WW91IGNhbiBlZGl0IG9ubGluZSB0aGUgdGVtcGxhdGVzIG9mIHlvdXIgUERGcywgYW5kIGxldCB0aGUgZGV2ZWxvcGVycyByZWZlciB0byB0aGVzZSB0ZW1wbGF0ZXMgd2hlbiBjYWxsaW5nIHRoZSBBUEkuCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICR0ZW1wbGF0ZS0+YXV0aG9yKCktPmFzc29jaWF0ZSgkdXNlcik7Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">CldpdGggdGVtcGxhdGluZywgeQ==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5kb250U2VlSW5EYUB0YWJhc2UoJ2FwaV9rZXlzJywgWydhcGlrZXlhYmxlX2lkJyA9PiAkdXNlci0+aWRdKQogICAgICAgICAgICAtPnByZXNzKCdDcmVhdGUgQVBJIEtleScpCiAgICAgICAgICAgIC0+c2VlSW5EYXRhYmFzZSgnYXBpX2tleXMnLCBbJ2FwaWtleWFibGVfaWQnID0+ICR1c2VyLT5pZF0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAnZW1haWwnID0+ICRmYWtlci0+dW5pcXVlKCktPnNhZmVFbWFpbCwKICAgICAgICAncGFzc3dvcmQnID0+ICckMnkkMTAkVEtoOEgxLlBmUXgzN1lnQ3p3aUtiLktqTnlXZ2FIYjljYmNvUWdkSVZGbFlnN0I3N1VkRm0nLCAvLyBzZWNyZXQKICAgICAgICAncmVtZW1iZXJfdG9rZW4nID0+IHN0cl9yYW5kb20oMTApLAo=</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCAkYmFzZVVybCA9ICcnOwoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">L3B1YmxpYy92ZW5kb3IK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5zZWUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAogICAgJGJhc2VVcmwgPSAnJwo=</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
