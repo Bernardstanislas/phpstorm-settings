@@ -650,11 +650,10 @@
       <file name="/sphere.public.stored_event [Sphere]" timestamp="1538648676281">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/daju/resources/views/layouts/app.blade.php" timestamp="1551482875161">
-        <mark key="[" line="37" column="27" />
-        <mark key="]" line="37" column="27" />
-        <mark key="." line="37" column="27" />
-        <mark key="^" line="33" column="35" />
+      <file name="$USER_HOME$/Documents/code/daju/resources/views/layouts/app.blade.php" timestamp="1551635131183">
+        <mark key="[" line="51" column="31" />
+        <mark key="]" line="51" column="31" />
+        <mark key="." line="51" column="31" />
       </file>
       <file name="/business_immo_legacy.users [Business immo legacy]" timestamp="1544441105456">
         <mark key="[" line="0" column="0" />
@@ -846,13 +845,13 @@
         <text>http://devlocal.businessimmo.com</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Templates</text>
+        <text>attached</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>Templates</text>
+        <text>attached</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGlsZHJlblw+</text>
@@ -861,37 +860,37 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJpdGVtIj4KICAgICAgICAgICAgICAgICAgICA8aSBjbGFzcz0ib2JqZWN0IGdyb3VwIGljb24iPjwvaT4KICAgICAgICAgICAgICAgICAgICB7eyBfXygnVGVtcGxhdGVzJykgfX0KICAgICAgICAgICAgICAgIDwvYT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJpdGVtIj4KICAgICAgICAgICAgICAgICAgICBMb2dvdXQKICAgICAgICAgICAgICAgIDwvYT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aDE+bG9sPC9oMT4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aSBjbGFzcz0icG93ZXIgb2ZmIGljb24iPjwvaT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJpdGVtIj4KICAgICAgICAgICAgICAgICAgICBMb2dvdXQKICAgICAgICAgICAgICAgIDwvYT4K</text>
       </register>
       <register name="r" type="4">
         <text>technical_accounting.account.filters.period</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aSBjbGFzcz0icG93ZXIgb2ZmIGljb24iPjwvaT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImJvdHRvbSBtZW51Ij4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImJvdHRvbSBtZW51Ij4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJpdGVtIj4KICAgICAgICAgICAgICAgICAgICA8aSBjbGFzcz0idXNlciBpY29uIj48L2k+CiAgICAgICAgICAgICAgICAgICAgUHJvZmlsZQogICAgICAgICAgICAgICAgPC9hPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJpdGVtIj4KICAgICAgICAgICAgICAgICAgICA8aSBjbGFzcz0idXNlciBpY29uIj48L2k+CiAgICAgICAgICAgICAgICAgICAgUHJvZmlsZQogICAgICAgICAgICAgICAgPC9hPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJpdGVtIj4xPC9hPgogICAgICAgICAgICAgICAgPGEgY2xhc3M9Iml0ZW0iPjI8L2E+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJpdGVtIj4xPC9hPgogICAgICAgICAgICAgICAgPGEgY2xhc3M9Iml0ZW0iPjI8L2E+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
