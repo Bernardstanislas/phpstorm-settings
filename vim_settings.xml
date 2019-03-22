@@ -144,8 +144,10 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/code/daju/.circleci/config.yml" timestamp="1553281871042">
-        <mark key="[" line="7" column="11" />
+      <file name="$USER_HOME$/Documents/code/daju/.circleci/config.yml" timestamp="1553288757742">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/daju/package.json" timestamp="1544365275388">
         <mark key="[" line="9" column="176" />
@@ -595,9 +597,9 @@
       <file name="/app_users [francis@localhost]" timestamp="1547200899685">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/daju/phpunit.xml" timestamp="1553281567460">
+      <file name="$USER_HOME$/Documents/code/daju/phpunit.xml" timestamp="1553288741810">
         <mark key="[" line="32" column="40" />
-        <mark key="]" line="32" column="62" />
+        <mark key="]" line="32" column="40" />
         <mark key="^" line="32" column="38" />
         <mark key="." line="32" column="40" />
       </file>
@@ -1047,14 +1049,14 @@
       <register name="a" type="4">
         <text>http://devlocal.businessimmo.com</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICdpbnB1dCcgPT4gWydsb2wnID0+ICdvdWknXQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBQREZJTkZPX1BBVEg6IC91c3IvYmluL3BkZmluZm8K</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICdpbnB1dCcgPT4gWydsb2wnID0+ICdvdWknXQ==</text>
+        <text>/usr/local/bin/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGlsZHJlblw+</text>
@@ -1063,37 +1065,38 @@
         <text>/usr/local/bin/pdfinfo</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UtPmFzc2VydFN0YXR1cygyMDEpOwo=</text>
+        <text encoding="base64">ICAgICAgICBQREZJTkZPX1BBVEg6IC91c3IvYmluL3BkZmluZm8K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">LT53aXRoSGVhZGVycyhbCiAgICAgICAgICAgICdYLUF1dGhvcml6YXRpb24nID0+ICRhcGlLZXktPmtleQogICAgICAgIF0p</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>technical_accounting.account.filters.period</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">LT53aXRoSGVhZGVycyhbCiAgICAgICAgICAgICdYLUF1dGhvcml6YXRpb24nID0+ICRhcGlLZXktPmtleQogICAgICAgIF0p</text>
+        <text>t
+    - image: u007/pdfinfo</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">LT5qc29uKAogICAgICAgICAgICAnUE9TVCcsCiAgICAgICAgICAgICcvYXBpL3ByaW50L3RlbXBsYXRlJywKICAgICAgICAgICAgWyd0ZW1wbGF0ZUlkJyA9PiAkdGVtcGxhdGUtPmlkXQogICAgICAgICk=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC0gaW1hZ2U6IG1lcmNzdHVkaW8vcGRmaW5mbwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHVzZSBDcmVhdGVzQXBwbGljYXRpb247Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UtPmFzc2VydFN0YXR1cygyMDEpOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">dXNlIEFwcFxVc2VyOwo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">LT53aXRoSGVhZGVycyhbCiAgICAgICAgICAgICdYLUF1dGhvcml6YXRpb24nID0+ICRhcGlLZXktPmtleQogICAgICAgIF0p</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">LT53aXRoSGVhZGVycyhbCiAgICAgICAgICAgICdYLUF1dGhvcml6YXRpb24nID0+ICRhcGlLZXktPmtleQogICAgICAgIF0p</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgWydYLUF1dGhvcml6YXRpb24nID0+ICRhcGlLZXktPmtleV0K</text>
+      <register name="8" type="4">
+        <text encoding="base64">LT5qc29uKAogICAgICAgICAgICAnUE9TVCcsCiAgICAgICAgICAgICcvYXBpL3ByaW50L3RlbXBsYXRlJywKICAgICAgICAgICAgWyd0ZW1wbGF0ZUlkJyA9PiAkdGVtcGxhdGUtPmlkXQogICAgICAgICk=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAnYXBpa2V5YWJsZV9pZCcgPT4gMSwK</text>
+        <text encoding="base64">ICAgIHVzZSBDcmVhdGVzQXBwbGljYXRpb247Cg==</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
