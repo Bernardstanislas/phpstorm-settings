@@ -182,8 +182,8 @@
       <file name="$USER_HOME$/Documents/code/daju/app/Http/Middleware/RedirectIfAuthenticated.php" timestamp="1550834495870">
         <mark key="[" line="20" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/code/daju/app/User.php" timestamp="1553294380311">
-        <mark key="[" line="58" column="40" />
+      <file name="$USER_HOME$/Documents/code/daju/app/User.php" timestamp="1553357748112">
+        <mark key="[" line="66" column="5" />
         <mark key="]" line="66" column="0" />
         <mark key="." line="66" column="0" />
       </file>
@@ -698,10 +698,10 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/daju/app/Services/PrintLifecycleManager.php" timestamp="1553355530523">
-        <mark key="[" line="39" column="28" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/Documents/code/daju/app/Services/PrintLifecycleManager.php" timestamp="1553357596778">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="/fragment.js" timestamp="1546092896444">
         <mark key="[" line="0" column="0" />
@@ -873,8 +873,9 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/daju/app/Http/Controllers/Api/PrintController.php" timestamp="1553356284232">
-        <mark key="[" line="21" column="67" />
+      <file name="$USER_HOME$/Documents/code/daju/app/Http/Controllers/Api/PrintController.php" timestamp="1553357753161">
+        <mark key="'" line="35" column="8" />
+        <mark key="[" line="33" column="9" />
         <mark key="]" line="21" column="67" />
         <mark key="." line="21" column="67" />
         <mark key="^" line="21" column="65" />
@@ -914,7 +915,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="163" column="32" filename="$USER_HOME$/Documents/code/business-immo-directory/devops/provisioning/roles/simplesamlphp/templates/simplesaml_config.php.j2" />
       <jump line="49" column="0" filename="$USER_HOME$/Documents/code/business-immo-directory/devops/provisioning/roles/simplesamlphp/templates/simplesaml_config.php.j2" />
       <jump line="208" column="0" filename="$USER_HOME$/Documents/code/business-immo-directory/devops/provisioning/roles/simplesamlphp/templates/authsources.php.j2" />
       <jump line="62" column="9" filename="$USER_HOME$/Documents/code/business-immo-directory/devops/provisioning/roles/simplesamlphp/templates/authsources.php.j2" />
@@ -1014,13 +1014,14 @@
       <jump line="115" column="0" filename="$USER_HOME$/Documents/code/daju/resources/views/auth/register.blade.php" />
       <jump line="14" column="22" filename="$USER_HOME$/Documents/code/daju/app/PrintJob.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/code/daju/app/PrintJob.php" />
+      <jump line="35" column="8" filename="$USER_HOME$/Documents/code/daju/app/Http/Controllers/Api/PrintController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>http://devlocal.businessimmo.com</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">JHRoaXMtPnRlbXBsYXRlLT5pZA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPIGNoZWNrIGlmIHRoZSBjYXJkcyBhcmUgc3RpbGwgdmFsaWQKICAgICAgICBpZiAoJG93bmVyLT5nZXRQcmludGVkUGFnZXNDb3VudFRoaXNNb250aCgpID4gMTAwICYmICEkb3duZXItPmhhc0NhcmRzKCkpIHsKICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
@@ -1035,37 +1036,37 @@
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB0ZXN0VGVtcGxhdGVQcmludCgpCiAgICB7CiAgICAgICAgJHJlc3BvbnNlID0gJHRoaXMKICAgICAgICAgICAgLT53aXRoSGVhZGVyKCdYLUF1dGhvcml6YXRpb24nLCAkdGhpcy0+YXBpS2V5LT5rZXkpCiAgICAgICAgICAgIC0+anNvbigKICAgICAgICAgICAgJ1BPU1QnLAogICAgICAgICAgICAnL2FwaS9wcmludC90ZW1wbGF0ZScsCiAgICAgICAgICAgIFsndGVtcGxhdGVJZCcgPT4gJHRoaXMtPnRlbXBsYXRlLT5pZF0KICAgICAgICApOwoKICAgICAgICAkcmVzcG9uc2UtPmFzc2VydFN0YXR1cygyMDEpOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkcGFnZUNvdW50ID0gJHBkZkFuYWx5emVyLT5jb3VudFBhZ2VzKCRwcmludGVkUGRmKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPIGNoZWNrIGlmIHRoZSBjYXJkcyBhcmUgc3RpbGwgdmFsaWQKICAgICAgICBpZiAoJG93bmVyLT5nZXRQcmludGVkUGFnZXNDb3VudFRoaXNNb250aCgpID4gMTAwICYmICEkb3duZXItPmhhc0NhcmRzKCkpIHsKICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETyBoYW5kbGUgdGhlIGV4Y2VwdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICAkcGFnZUNvdW50ID0gJHBkZkFuYWx5emVyLT5jb3VudFBhZ2VzKCRwcmludGVkUGRmKTsK</text>
       </register>
       <register name="r" type="4">
         <text>technical_accounting.account.filters.period</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETyBoYW5kbGUgdGhlIGV4Y2VwdGlvbgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkaHRtbCA9ICRyZXF1ZXN0LT5pbnB1dCgnaHRtbCcpOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAkaHRtbCA9ICRyZXF1ZXN0LT5pbnB1dCgnaHRtbCcpOwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkcHJpbnRlZFBkZiA9ICRwZGZQcmludGVyLT5wcmludCgkaHRtbCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkcHJpbnRKb2IgPSAK</text>
+        <text encoding="base64">ICAgICAgICAkcHJpbnRlZFBkZiA9ICRwZGZQcmludGVyLT5wcmludCgkaHRtbCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAogICAgcHJpdmF0ZSAK</text>
+        <text encoding="base64">ICAgICAgICAkcHJpbnRKb2IgPSAK</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
