@@ -375,11 +375,10 @@
         <mark key="]" line="22" column="39" />
         <mark key="." line="22" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/code/daju/database/migrations/2019_03_25_172243_switch_templates_to_uuids.php" timestamp="1553535718809">
-        <mark key="[" line="37" column="87" />
-        <mark key="]" line="37" column="87" />
-        <mark key="." line="37" column="87" />
-        <mark key="^" line="59" column="43" />
+      <file name="$USER_HOME$/Documents/code/daju/database/migrations/2019_03_25_172243_switch_templates_to_uuids.php" timestamp="1553550770383">
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="104" column="0" />
+        <mark key="." line="104" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1546857417233">
         <mark key="[" line="0" column="0" />
@@ -615,6 +614,12 @@
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2f06f4c5-3f90-4e16-a04a-d16027afbf01/console.sql" timestamp="1539357442635">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/daju/app/Template.php" timestamp="1553551017789">
+        <mark key="[" line="7" column="1" />
+        <mark key="]" line="8" column="13" />
+        <mark key="^" line="8" column="13" />
+        <mark key="." line="8" column="13" />
       </file>
       <file name="/fragment.js" timestamp="1546092896444">
         <mark key="[" line="0" column="0" />
@@ -905,53 +910,53 @@
       <register name="a" type="4">
         <text>http://devlocal.businessimmo.com</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>get</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT51bmlxdWUoJ3RlbXBsYXRlX2lkJyk7Cg==</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>get</text>
+        <text>templates</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGlsZHJlblw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5mb3JlaWduKCd0ZW1wbGF0ZV9pZCcpLT5yZWZlcmVuY2VzKCdpZCcpLT5vbigndGVtcGxhdGVzJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTY2hlbWE6OnRhYmxlKCdwcmludF9qb2JzJywgZnVuY3Rpb24gKEJsdWVQcmludCAkdGFibGUpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5mb3JlaWduKCd0ZW1wbGF0ZV9pZCcpLT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT51bmlxdWUoJ3RlbXBsYXRlX2lkJyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT51bmlxdWUoJ2lkJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5pbmNyZW1lbnRzKCdpZCcpOwo=</text>
       </register>
       <register name="r" type="4">
         <text>technical_accounting.account.filters.period</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5kcm9wUHJpbWFyeSgpOwogICAgICAgICAgICAkdGFibGUtPnByaW1hcnkoJ25ld19pZCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTY2hlbWE6OnRhYmxlKCdwcmludF9qb2JzJywgZnVuY3Rpb24gKEJsdWVwcmludCAkdGFibGUpIHsKICAgICAgICAgICAgJHRhYmxlLT5wcmltYXJ5KCdpZCcpOwogICAgICAgICAgICAkdGFibGUtPmRyb3BDb2x1bW4oJ25ld19pZCcpOwogICAgICAgIH0pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5kcm9wUHJpbWFyeSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgICR0YWJsZS0+ZHJvcFByaW1hcnkoJ2lkJyk7CiAgICAgICAgICAgICR0YWJsZS0+cmVuYW1lQ29sdW1uKCdpZCcsICdvbGRfaWQnKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5yZW5hbWVDb2x1bW4oJ2lkJywgJ29sZF9pZCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgUHJpbnRKb2I6OndoZXJlKCcnKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTY2hlbWE6OnRhYmxlKCd0ZW1wbGF0ZXMnLCBmdW5jdGlvbiAoQmx1ZXByaW50ICR0YWJsZSkgewogICAgICAgICAgICAvLwogICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT51bmlxdWUoJ25ld19pZCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5kcm9wQ29sdW1uKCd0ZW1wbGF0ZV9pZCcpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5yZW5hbWVDb2x1bW4oJ25ld19pZCcsICdpZCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5mb3JlaWduKCd0ZW1wbGF0ZV9pZCcpLT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5kcm9wQ29sdW1uKCdpZCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT51bmlxdWUoJ2lkJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
