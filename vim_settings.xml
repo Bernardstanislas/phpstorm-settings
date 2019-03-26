@@ -6,9 +6,6 @@
       <file name="$USER_HOME$/Documents/code/blog-dojo-cqrs/src/event-sourced-article.repository.ts" timestamp="1546095334296">
         <mark key="[" line="8" column="13" />
       </file>
-      <file name="/a.dummy" timestamp="1553531342754">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/sphere.public.contract [Sphere]" timestamp="1538641346930">
         <mark key="[" line="0" column="0" />
       </file>
@@ -50,9 +47,6 @@
       </file>
       <file name="$USER_HOME$/Documents/code/daju/src/Application/Controller/SecurityController.php" timestamp="1540753026650">
         <mark key="[" line="12" column="41" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/daju/config/app.php" timestamp="1553280728161">
-        <mark key="[" line="28" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/code/daju-landing/src/components/Homepage/TryItOut/index.tsx" timestamp="1549645881980">
         <mark key="[" line="3" column="13" />
@@ -103,7 +97,7 @@
       <file name="$USER_HOME$/Documents/code/simplesamlphp/templates/login.php" timestamp="1541693235848">
         <mark key="[" line="15" column="2" />
       </file>
-      <file name="/a.sql" timestamp="1553530658210">
+      <file name="/a.sql" timestamp="1553552505717">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/blog/src/content/img/logo.svg" timestamp="1550419424817">
@@ -156,10 +150,10 @@
       <file name="$USER_HOME$/Documents/code/daju/app/Http/Middleware/RedirectIfAuthenticated.php" timestamp="1550834495870">
         <mark key="[" line="20" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/code/daju/app/User.php" timestamp="1553357748112">
-        <mark key="[" line="66" column="5" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
+      <file name="$USER_HOME$/Documents/code/daju/app/User.php" timestamp="1553552640328">
+        <mark key="[" line="13" column="19" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/blog-dojo-cqrs/tslint.json" timestamp="1545580922904">
         <mark key="[" line="14" column="37" />
@@ -171,6 +165,12 @@
       </file>
       <file name="/daju.public.cards [Daju Postgres local]" timestamp="1553532269833">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/daju/database/migrations/2019_03_25_220414_switch_users_to_uuids.php" timestamp="1553554734493">
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="." line="79" column="0" />
+        <mark key="^" line="38" column="10" />
       </file>
       <file name="/alto.app_users [alto@localhost]" timestamp="1540895428308">
         <mark key="[" line="0" column="0" />
@@ -353,7 +353,7 @@
       <file name="$USER_HOME$/Documents/code/alto-espace-emprunteur/api/templates/base.html.twig" timestamp="1540894714113">
         <mark key="[" line="240" column="188" />
       </file>
-      <file name="/dummy.sql" timestamp="1553532371998">
+      <file name="/dummy.sql" timestamp="1553554244466">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -361,11 +361,11 @@
       <file name="/sphere.public.users [Sphere]" timestamp="1538658271254">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/daju/database/migrations/2019_03_25_155850_switch_cards_to_uuids.php" timestamp="1553535494587">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="35" column="34" />
-        <mark key="^" line="48" column="48" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/Documents/code/daju/database/migrations/2019_03_25_155850_switch_cards_to_uuids.php" timestamp="1553554698398">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="47" column="48" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1553531506462">
         <mark key="[" line="0" column="0" />
@@ -375,13 +375,18 @@
         <mark key="]" line="22" column="39" />
         <mark key="." line="22" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/code/daju/database/migrations/2019_03_25_172243_switch_templates_to_uuids.php" timestamp="1553550770383">
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="104" column="0" />
-        <mark key="." line="104" column="0" />
+      <file name="$USER_HOME$/Documents/code/daju/database/migrations/2019_03_25_172243_switch_templates_to_uuids.php" timestamp="1553554709324">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1546857417233">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/daju/database/migrations/2019_03_25_223610_switch_print_jobs_to_uuids.php" timestamp="1553554621677">
+        <mark key="[" line="53" column="20" />
+        <mark key="]" line="53" column="20" />
+        <mark key="." line="53" column="20" />
       </file>
       <file name="/business_immo_legacy.connections [Business immo legacy]" timestamp="1542731402346">
         <mark key="[" line="0" column="0" />
@@ -473,6 +478,9 @@
         <mark key="[" line="1" column="27" />
       </file>
       <file name="/daju-test.public.user [daju-test]" timestamp="1540332795150">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/daju.public.print_jobs [Daju Postgres local]" timestamp="1553554244088">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/message [Alto staging]" timestamp="1540801614622">
@@ -580,11 +588,11 @@
         <mark key="." line="27" column="85" />
         <mark key="^" line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/daju/app/PrintJob.php" timestamp="1553292169609">
-        <mark key="[" line="20" column="5" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="17" column="9" />
+      <file name="$USER_HOME$/Documents/code/daju/app/PrintJob.php" timestamp="1553553603222">
+        <mark key="[" line="7" column="1" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="19" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/code/business-immo-directory/src/AppBundle/Resources/views/Back/Layout/top_bar.html.twig" timestamp="1543329996045">
         <mark key="[" line="12" column="73" />
@@ -694,7 +702,7 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="28" column="137" />
       </file>
-      <file name="$USER_HOME$/Documents/code/daju/database/migrations/2019_03_21_210120_create_cards_table.php" timestamp="1553531676635">
+      <file name="$USER_HOME$/Documents/code/daju/database/migrations/2019_03_21_210120_create_cards_table.php" timestamp="1553552026337">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="71" />
         <mark key="." line="18" column="36" />
@@ -772,9 +780,6 @@
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="7" />
         <mark key="." line="28" column="45" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/daju/config/pdf.php" timestamp="1553281599574">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/alto-espace-emprunteur.app_users [Alto staging]" timestamp="1540894265954">
         <mark key="[" line="0" column="0" />
@@ -911,52 +916,52 @@
         <text>http://devlocal.businessimmo.com</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT51bmlxdWUoJ3RlbXBsYXRlX2lkJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT51bmlxdWUoJ2lkJyk7Cg==</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>templates</text>
+        <text>removeColumn</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGlsZHJlblw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTY2hlbWE6OnRhYmxlKCdwcmludF9qb2JzJywgZnVuY3Rpb24gKEJsdWVQcmludCAkdGFibGUpIHsK</text>
+        <text encoding="base64">ICAgICAgICBTY2hlbWE6OnRhYmxlKCdwcmludF9qb2JzJywgZnVuY3Rpb24gKEJsdWVwcmludCAkdGFibGUpIHsKICAgICAgICAgICAgJHRhYmxlLT5kcm9wUHJpbWFyeSgnaWQnKTsKICAgICAgICAgICAgJHRhYmxlLT5yZW5hbWVDb2x1bW4oJ2lkJywgJ29sZF9pZCcpOwogICAgICAgIH0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT51bmlxdWUoJ3RlbXBsYXRlX2lkJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT51bmlxdWUoJ2lkJyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5pbmNyZW1lbnRzKCdpZCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT51bmlxdWUoJ2lkJyk7Cg==</text>
       </register>
       <register name="r" type="4">
         <text>technical_accounting.account.filters.period</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTY2hlbWE6OnRhYmxlKCdwcmludF9qb2JzJywgZnVuY3Rpb24gKEJsdWVwcmludCAkdGFibGUpIHsKICAgICAgICAgICAgJHRhYmxlLT5wcmltYXJ5KCdpZCcpOwogICAgICAgICAgICAkdGFibGUtPmRyb3BDb2x1bW4oJ25ld19pZCcpOwogICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT51bmlxdWUoJ2lkJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgICR0YWJsZS0+ZHJvcFByaW1hcnkoJ2lkJyk7CiAgICAgICAgICAgICR0YWJsZS0+cmVuYW1lQ29sdW1uKCdpZCcsICdvbGRfaWQnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT51bmlxdWUoJ2lkJyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUHJpbnRKb2I6OndoZXJlKCcnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT51bmlxdWUoJ2lkJyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5kcm9wVW5pcXVlKCdwcmludF9qb2JzX3BrZXknKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5kcm9wQ29sdW1uKCd0ZW1wbGF0ZV9pZCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5kcm9wVW5pcXVlKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5mb3JlaWduKCd0ZW1wbGF0ZV9pZCcpLT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT51bmlxdWUoJ2lkJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBGaWxsIHRoZSBuZXcgaWQgY29sdW1uCiAgICAgICAgVXNlcjo6YWxsKCktPmVhY2goZnVuY3Rpb24gKFVzZXIgJHVzZXIpIHsKICAgICAgICAgICAgJHVzZXItPm5ld19pZCA9IFV1aWQ6OnV1aWQ0KCk7CiAgICAgICAgICAgICR1c2VyLT5zYXZlKCk7CgogICAgICAgICAgICAvLyBGaWxsIHRoZSBjb3JyZXNwb25kaW5nIGZvcmVpZ24ga2V5cwogICAgICAgICAgICBQcmludEpvYjo6d2hlcmUoJ293bmVyX2lkJywgJz0nLCAkdXNlci0+aWQpLT5lYWNoKGZ1bmN0aW9uIChQcmludEpvYiAkcHJpbnRKb2IpIHVzZSAoJHVzZXIpIHsKICAgICAgICAgICAgICAgICRwcmludEpvYi0+bmV3X293bmVyX2lkID0gJHVzZXItPm5ld19pZDsKICAgICAgICAgICAgICAgICRwcmludEpvYi0+c2F2ZSgpOwogICAgICAgICAgICB9KTsKICAgICAgICAgICAgVGVtcGxhdGU6OndoZXJlKCdhdXRob3JfaWQnLCAnPScsICR1c2VyLT5pZCktPmVhY2goZnVuY3Rpb24gKFRlbXBsYXRlICR0ZW1wbGF0ZSkgdXNlICgkdXNlcikgewogICAgICAgICAgICAgICAgJHRlbXBsYXRlLT5uZXdfYXV0aG9yX2lkID0gJHVzZXItPm5ld19pZDsKICAgICAgICAgICAgICAgICR0ZW1wbGF0ZS0+c2F2ZSgpOwogICAgICAgICAgICB9KTsKICAgICAgICAgICAgQ2FyZDo6d2hlcmUoJ293bmVyX2lkJywgJz0nLCAkdXNlci0+aWQpLT5lYWNoKGZ1bmN0aW9uIChDYXJkICRjYXJkKSB1c2UgKCR1c2VyKSB7CiAgICAgICAgICAgICAgICAkY2FyZC0+bmV3X293bmVyX2lkID0gJHVzZXItPm5ld19pZDsKICAgICAgICAgICAgICAgICRjYXJkLT5zYXZlKCk7CiAgICAgICAgICAgIH0pOwogICAgICAgIH0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
