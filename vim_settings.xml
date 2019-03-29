@@ -563,10 +563,10 @@
         <mark key="^" line="8" column="13" />
         <mark key="." line="8" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/code/daju/app/Services/PrintLifecycleManager.php" timestamp="1553791095459">
-        <mark key="[" line="54" column="10" />
-        <mark key="]" line="44" column="9" />
-        <mark key="." line="34" column="11" />
+      <file name="$USER_HOME$/Documents/code/daju/app/Services/PrintLifecycleManager.php" timestamp="1553860151401">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
         <mark key="^" line="34" column="11" />
       </file>
       <file name="/fragment.js" timestamp="1546092896444">
@@ -581,10 +581,11 @@
       <file name="$USER_HOME$/Documents/code/alto-espace-emprunteur/client/src/redux/Message/selectors.js" timestamp="1540477052429">
         <mark key="[" line="5" column="66" />
       </file>
-      <file name="$USER_HOME$/Documents/code/daju/webpack.mix.js" timestamp="1553792054901">
-        <mark key="[" line="23" column="22" />
-        <mark key="]" line="23" column="22" />
-        <mark key="." line="23" column="22" />
+      <file name="$USER_HOME$/Documents/code/daju/webpack.mix.js" timestamp="1553860686710">
+        <mark key="[" line="23" column="47" />
+        <mark key="]" line="23" column="46" />
+        <mark key="." line="23" column="46" />
+        <mark key="^" line="23" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/code/daju/resources/views/home.blade.php" timestamp="1553192895336">
         <mark key="[" line="23" column="0" />
@@ -612,10 +613,8 @@
       <file name="$USER_HOME$/Documents/code/business-immo-directory/src/Resources/views/Front/Layout/partials/top_bar.html.twig" timestamp="1543843158065">
         <mark key="[" line="17" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/code/daju/resources/js/preview.js" timestamp="1553792427796">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Documents/code/daju/resources/js/preview.js" timestamp="1553860790878">
+        <mark key="'" line="1" column="24" />
       </file>
       <file name="/daju.public.api_key_admin_events [Daju Postgres local]" timestamp="1543084318445">
         <mark key="[" line="0" column="0" />
@@ -635,16 +634,16 @@
       <file name="/alto.additional_document_requirement [alto@localhost]" timestamp="1540919918492">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/daju/resources/views/templates/details.blade.php" timestamp="1553792198895">
-        <mark key="[" line="32" column="103" />
-        <mark key="]" line="34" column="23" />
-        <mark key="^" line="34" column="23" />
-        <mark key="." line="34" column="23" />
+      <file name="$USER_HOME$/Documents/code/daju/resources/views/templates/details.blade.php" timestamp="1553861676215">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="28" />
+        <mark key="." line="30" column="28" />
+        <mark key="^" line="31" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/code/daju/app/Http/Controllers/PreviewController.php" timestamp="1553792632147">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="40" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Documents/code/daju/app/Http/Controllers/PreviewController.php" timestamp="1553859097594">
+        <mark key="[" line="40" column="20" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/daju/database/migrations/2019_03_21_210120_create_cards_table.php" timestamp="1553552026337">
         <mark key="[" line="24" column="0" />
@@ -660,7 +659,7 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1553792673262">
+      <file name="/PHP Console" timestamp="1553861461549">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/alto-espace-emprunteur/client/src/components/Header/LogoutButton.style.js" timestamp="1539679599817">
@@ -745,7 +744,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="0" filename="$USER_HOME$/Documents/code/business-immo-directory/devops/provisioning/roles/simplesamlphp/templates/simplesaml_config.php.j2" />
       <jump line="208" column="0" filename="$USER_HOME$/Documents/code/business-immo-directory/devops/provisioning/roles/simplesamlphp/templates/authsources.php.j2" />
       <jump line="62" column="9" filename="$USER_HOME$/Documents/code/business-immo-directory/devops/provisioning/roles/simplesamlphp/templates/authsources.php.j2" />
       <jump line="53" column="0" filename="$USER_HOME$/Documents/code/simplesamlphp/modules/businessimmotheme/themes/businessimmo/core/loginuserpass.twig" />
@@ -845,58 +843,59 @@
       <jump line="14" column="22" filename="$USER_HOME$/Documents/code/daju/app/PrintJob.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/code/daju/app/PrintJob.php" />
       <jump line="35" column="8" filename="$USER_HOME$/Documents/code/daju/app/Http/Controllers/Api/PrintController.php" />
+      <jump line="5" column="24" filename="$USER_HOME$/Documents/code/daju/resources/js/preview.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>http://devlocal.businessimmo.com</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxGYWNhZGVzXFJlc3BvbnNlOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGNvbC02</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>details</text>
+        <text encoding="base64">IGNvbC02</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGlsZHJlblw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxGYWNhZGVzXFJlc3BvbnNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0ZW1wbGF0ZTogJCgndGV4dGFyZWFbbmFtZT1jb250ZW50XScpLnZhbCgpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcSHR0cFxSZXNwb25zZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBwcmV2aWV3Rm9ybSA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCd0ZW1wbGF0ZS1wcmV2aWV3Jyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iZm9ybS1yb3ciPgo=</text>
       </register>
       <register name="r" type="4">
         <text>technical_accounting.account.filters.period</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZGF0YSk7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBjYXJkLmFkZEV2ZW50TGlzdGVuZXIoJ2NoYW5nZScsIGV2ZW50ID0+IHsKICAgICAgICBjb25zdCBkaXNwbGF5RXJyb3IgPSBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnY2FyZC1lcnJvcnMnKTsKICAgICAgICBpZiAoZXZlbnQuZXJyb3IpIHsKICAgICAgICAgICAgZGlzcGxheUVycm9yLnRleHRDb250ZW50ID0gZXZlbnQuZXJyb3IubWVzc2FnZTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBkaXNwbGF5RXJyb3IudGV4dENvbnRlbnQgPSAnJzsKICAgICAgICB9CiAgICB9KTsKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzdHJpcGUuY3JlYXRlVG9rZW4oY2FyZCkudGhlbihyZXN1bHQgPT4gewogICAgICAgICAgICBpZiAocmVzdWx0LmVycm9yKSB7CiAgICAgICAgICAgICAgICAvLyBJbmZvcm0gdGhlIGN1c3RvbWVyIHRoYXQgdGhlcmUgd2FzIGFuIGVycm9yLgogICAgICAgICAgICAgICAgY29uc3QgZXJyb3JFbGVtZW50ID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2NhcmQtZXJyb3JzJyk7CiAgICAgICAgICAgICAgICBlcnJvckVsZW1lbnQudGV4dENvbnRlbnQgPSByZXN1bHQuZXJyb3IubWVzc2FnZTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIC8vIFNlbmQgdGhlIHRva2VuIHRvIHlvdXIgc2VydmVyLgogICAgICAgICAgICAgICAgc3RyaXBlVG9rZW5IYW5kbGVyKHJlc3VsdC50b2tlbik7CiAgICAgICAgICAgIH0KICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICcuLi8uLi9idWlsZC93ZWJwYWNrL3BkZi53b3JrZXIuYnVuZGxlLmpzJzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIENyZWF0ZSBhIHRva2VuIG9yIGRpc3BsYXkgYW4gZXJyb3Igd2hlbiB0aGUgZm9ybSBpcyBzdWJtaXR0ZWQuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHByZT4nIC4gcHJpbnRfcigkaW5wdXQpIC4gJzwvcHJlPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHN0eWxlID0gewogICAgICAgIGJhc2U6IHsKICAgICAgICAgICAgLy8gQWRkIHlvdXIgYmFzZSBpbnB1dCBzdHlsZXMgaGVyZS4gRm9yIGV4YW1wbGU6CiAgICAgICAgICAgIGZvbnRTaXplOiAnMTZweCcsCiAgICAgICAgICAgIGNvbG9yOiAiIzMyMzI1ZCIsCiAgICAgICAgfQogICAgfTsKCiAgICAvLyBDcmVhdGUgYW4gaW5zdGFuY2Ugb2YgdGhlIGNhcmQgRWxlbWVudC4KICAgIGNvbnN0IGNhcmQgPSBlbGVtZW50cy5jcmVhdGUoJ2NhcmQnKTsKCiAgICAvLyBBZGQgYW4gaW5zdGFuY2Ugb2YgdGhlIGNhcmQgRWxlbWVudCBpbnRvIHRoZSBgY2FyZC1lbGVtZW50YCA8ZGl2Pi4KICAgIGNhcmQubW91bnQoJyNjYXJkLWVsZW1lbnQnKTsK</text>
+        <text encoding="base64">CiAgICBjb25zdCBwcmV2aWV3Rm9ybSA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCd0ZW1wbGF0ZS1wcmV2aWV3Jyk7IHByZXZpZXdGb3JtLmFkZEV2ZW50TGlzdGVuZXIoJ3N1Ym1pdCcsIGV2ZW50ID0+IHsKICAgICAgICBldmVudC5wcmV2ZW50RGVmYXVsdCgpOwoKICAgICAgICBjb25zdCB0ZW1wbGF0ZUlucHV0ID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgnaW5wdXQnKTsKICAgICAgICB0ZW1wbGF0ZUlucHV0LnNldEF0dHJpYnV0ZSgndHlwZScsICdoaWRkZW4nKTsKICAgICAgICB0ZW1wbGF0ZUlucHV0LnNldEF0dHJpYnV0ZSgnbmFtZScsICd0ZW1wbGF0ZScpOwogICAgICAgIHRlbXBsYXRlSW5wdXQuc2V0QXR0cmlidXRlKCd2YWx1ZScsICQoJ3RleHRhcmVhW25hbWU9Y29udGVudF0nKS52YWwoKSk7CiAgICAgICAgcHJldmlld0Zvcm0uYXBwZW5kQ2hpbGQodGVtcGxhdGVJbnB1dCk7CgogICAgICAgIHByZXZpZXdGb3JtLnN1Ym1pdCgpOwogICAgfSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
