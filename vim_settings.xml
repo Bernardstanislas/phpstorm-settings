@@ -102,6 +102,12 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/oreqo/server/database/migrations/2019_04_21_084634_switch_users_to_uuids.php" timestamp="1555836551342">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
+        <mark key="^" line="62" column="9" />
+      </file>
       <file name="$USER_HOME$/Documents/code/daju/resources/views/auth/login.blade.php" timestamp="1553194246358">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="14" column="10" />
@@ -311,7 +317,7 @@
         <mark key="^" line="47" column="48" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553789789656">
+      <file name="/Dummy.txt" timestamp="1555836272360">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/daju/app/Http/Requests/CreditCardStoreRequest.php" timestamp="1553202803286">
@@ -337,11 +343,6 @@
       </file>
       <file name="/connections [Business immo legacy]" timestamp="1542726121828">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/oreqo/client/App.js" timestamp="1554665789503">
-        <mark key="[" line="5" column="25" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/francis/client/package.json" timestamp="1547128878146">
         <mark key="[" line="66" column="5" />
@@ -416,6 +417,9 @@
       </file>
       <file name="$USER_HOME$/Documents/code/daju/app/Http/Controllers/Auth/ResetPasswordController.php" timestamp="1552577176782">
         <mark key="[" line="27" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/oreqo/server/app/User.php" timestamp="1555836368983">
+        <mark key="^" line="10" column="16" />
       </file>
       <file name="/sphere.public.attribute [Sphere]" timestamp="1538386377660">
         <mark key="[" line="0" column="0" />
@@ -854,13 +858,13 @@
         <text>http://devlocal.businessimmo.com</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZWdpc3RlckZvclB1c2hOb3RpZmljYXRpb25zQXN5bmMoKQogICAgICAgICAgICAudGhlbihjb25zb2xlLmxvZykKICAgICAgICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKTsK</text>
+        <text encoding="base64">ICAgICAgICBTY2hlbWE6OnRhYmxlKCd1c2VycycsIGZ1bmN0aW9uIChCbHVlcHJpbnQgJHRhYmxlKSB7CiAgICAgICAgICAgIC8vCiAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>https://your-server.com/users/push-token</text>
+        <text>increments</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGlsZHJlblw+</text>
@@ -869,37 +873,37 @@
         <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJyb3cganVzdGlmeS1jb250ZW50LWNlbnRlciI+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZWdpc3RlckZvclB1c2hOb3RpZmljYXRpb25zQXN5bmMoKQogICAgICAgICAgICAudGhlbihjb25zb2xlLmxvZykKICAgICAgICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKTsK</text>
+        <text encoding="base64">ICAgICAgICBTY2hlbWE6OnRhYmxlKCd1c2VycycsIGZ1bmN0aW9uIChCbHVlcHJpbnQgJHRhYmxlKSB7CiAgICAgICAgICAgIC8vCiAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIEdldCB0aGUgdG9rZW4gdGhhdCB1bmlxdWVseSBpZGVudGlmaWVzIHRoaXMgZGV2aWNlCiAgICBsZXQgdG9rZW4gPSBhd2FpdCBOb3RpZmljYXRpb25zLmdldEV4cG9QdXNoVG9rZW5Bc3luYygpOwogICAgY29uc29sZS5sb2coJ3Rva2VuJywgdG9rZW4pOwo=</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="r" type="4">
         <text>technical_accounting.account.filters.period</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTY2hlbWE6OnRhYmxlKCd1c2VycycsIGZ1bmN0aW9uIChCbHVlcHJpbnQgJHRhYmxlKSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8YnV0dG9uIHR5cGU9InN1Ym1pdCIgY2xhc3M9ImJ0biBidG4tcHJpbWFyeSBhbGlnbi1zZWxmLWNlbnRlciI+e3sgX18oJ1NhdmUgVGVtcGxhdGUnKSB9fTwvYnV0dG9uPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9kaXY+CiAgICA8L2Rpdj4KPC9kaXY+Cg==</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcQ29udHJhY3RzXEF1dGhcTXVzdFZlcmlmeUVtYWlsOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PGRpdiBjbGFzcz0iY29udGFpbmVyIj4KICAgIDxkaXYgY2xhc3M9InJvdyBqdXN0aWZ5LWNvbnRlbnQtY2VudGVyIj4KICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtbWQtMTIiPgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJjYXJkIj4K</text>
+        <text encoding="base64">ICAgICAgICByZWdpc3RlckZvclB1c2hOb3RpZmljYXRpb25zQXN5bmMoKQogICAgICAgICAgICAudGhlbihjb25zb2xlLmxvZykKICAgICAgICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNhcmQtaGVhZGVyIj4K</text>
+        <text encoding="base64">ICAgIC8vIEdldCB0aGUgdG9rZW4gdGhhdCB1bmlxdWVseSBpZGVudGlmaWVzIHRoaXMgZGV2aWNlCiAgICBsZXQgdG9rZW4gPSBhd2FpdCBOb3RpZmljYXRpb25zLmdldEV4cG9QdXNoVG9rZW5Bc3luYygpOwogICAgY29uc29sZS5sb2coJ3Rva2VuJywgdG9rZW4pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8YnV0dG9uIHR5cGU9InN1Ym1pdCIgY2xhc3M9ImJ0biBidG4tcHJpbWFyeSBhbGlnbi1zZWxmLWNlbnRlciI+e3sgX18oJ1NhdmUgVGVtcGxhdGUnKSB9fTwvYnV0dG9uPgo=</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
