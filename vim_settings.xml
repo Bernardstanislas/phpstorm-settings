@@ -638,6 +638,11 @@
       <file name="/dojocqrs.public.catalog [dojocqrs@localhost]" timestamp="1546095643295">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/oreqo/.circleci/config.yml" timestamp="1555867103199">
+        <mark key="[" line="46" column="10" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
       <file name="/alto.additional_document_requirement [alto@localhost]" timestamp="1540919918492">
         <mark key="[" line="0" column="0" />
       </file>
@@ -858,13 +863,13 @@
         <text>http://devlocal.businessimmo.com</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTY2hlbWE6OnRhYmxlKCd1c2VycycsIGZ1bmN0aW9uIChCbHVlcHJpbnQgJHRhYmxlKSB7CiAgICAgICAgICAgIC8vCiAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICMgcnVuIHRlc3RzIQo=</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>increments</text>
+        <text>/server</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGlsZHJlblw+</text>
@@ -873,37 +878,37 @@
         <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJyb3cganVzdGlmeS1jb250ZW50LWNlbnRlciI+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTY2hlbWE6OnRhYmxlKCd1c2VycycsIGZ1bmN0aW9uIChCbHVlcHJpbnQgJHRhYmxlKSB7CiAgICAgICAgICAgIC8vCiAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICMgcnVuIHRlc3RzIQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">CiAgICAtIHJ1bjoKICAgICAgICBuYW1lOiBJbnN0YWxsIENocm9tZSBkZXBlbmRlbmNpZXMKICAgICAgICBjb21tYW5kOiB8CiAgICAgICAgICBhcHQtZ2V0IGluc3RhbGwgLXkgbGliZ2NvbmYyLTQgbGliYXRrLWJyaWRnZTIuMC0wIGxpYmd0ay0zLTAgY2hyb21pdW0K</text>
       </register>
       <register name="r" type="4">
         <text>technical_accounting.account.filters.period</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTY2hlbWE6OnRhYmxlKCd1c2VycycsIGZ1bmN0aW9uIChCbHVlcHJpbnQgJHRhYmxlKSB7Cg==</text>
+        <text encoding="base64">CiAgICAtIHJ1bjoKICAgICAgICBuYW1lOiBJbnN0YWxsIFBkZmluZm8KICAgICAgICBjb21tYW5kOiBhcHQtZ2V0IGluc3RhbGwgLXkgcG9wcGxlci11dGlscwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcQ29udHJhY3RzXEF1dGhcTXVzdFZlcmlmeUVtYWlsOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZWdpc3RlckZvclB1c2hOb3RpZmljYXRpb25zQXN5bmMoKQogICAgICAgICAgICAudGhlbihjb25zb2xlLmxvZykKICAgICAgICAgICAgLmNhdGNoKGNvbnNvbGUubG9nKTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIEdldCB0aGUgdG9rZW4gdGhhdCB1bmlxdWVseSBpZGVudGlmaWVzIHRoaXMgZGV2aWNlCiAgICBsZXQgdG9rZW4gPSBhd2FpdCBOb3RpZmljYXRpb25zLmdldEV4cG9QdXNoVG9rZW5Bc3luYygpOwogICAgY29uc29sZS5sb2coJ3Rva2VuJywgdG9rZW4pOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICMgU3BlY2lmeSBzZXJ2aWNlIGRlcGVuZGVuY2llcyBoZXJlIGlmIG5lY2Vzc2FyeQogICAgIyBDaXJjbGVDSSBtYWludGFpbnMgYSBsaWJyYXJ5IG9mIHByZS1idWlsdCBpbWFnZXMKICAgICMgZG9jdW1lbnRlZCBhdCBodHRwczovL2NpcmNsZWNpLmNvbS9kb2NzLzIuMC9jaXJjbGVjaS1pbWFnZXMvCiAgICAjIC0gaW1hZ2U6IGNpcmNsZWNpL215c3FsOjkuNAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBQREZJTkZPX1BBVEg6IC91c3IvYmluL3BkZmluZm9ACg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBTY2hlbWE6OnRhYmxlKCd1c2VycycsIGZ1bmN0aW9uIChCbHVlcHJpbnQgJHRhYmxlKSB7CiAgICAgICAgICAgIC8vCiAgICAgICAgfSk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8YnV0dG9uIHR5cGU9InN1Ym1pdCIgY2xhc3M9ImJ0biBidG4tcHJpbWFyeSBhbGlnbi1zZWxmLWNlbnRlciI+e3sgX18oJ1NhdmUgVGVtcGxhdGUnKSB9fTwvYnV0dG9uPgo=</text>
+        <text encoding="base64">ICAgICAgICBTY2hlbWE6OnRhYmxlKCd1c2VycycsIGZ1bmN0aW9uIChCbHVlcHJpbnQgJHRhYmxlKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
