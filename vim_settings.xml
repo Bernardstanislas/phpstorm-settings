@@ -6,11 +6,10 @@
       <file name="$USER_HOME$/Documents/code/blog-dojo-cqrs/src/event-sourced-article.repository.ts" timestamp="1546095334296">
         <mark key="[" line="8" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/code/oreqo/server/tests/Feature/ApiTokenTest.php" timestamp="1555958172136">
-        <mark key="[" line="38" column="26" />
-        <mark key="]" line="38" column="26" />
-        <mark key="." line="38" column="26" />
-        <mark key="^" line="17" column="5" />
+      <file name="$USER_HOME$/Documents/code/oreqo/server/tests/Feature/ApiTokenTest.php" timestamp="1555961763662">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="61" />
+        <mark key="." line="73" column="12" />
       </file>
       <file name="/sphere.public.contract [Sphere]" timestamp="1538641346930">
         <mark key="[" line="0" column="0" />
@@ -85,18 +84,6 @@
       <file name="$USER_HOME$/Documents/code/blog-dojo-cqrs/src/repository/Repository.ts" timestamp="1546093069663">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/daju/resources/views/auth/passwords/email.blade.php" timestamp="1552575306797">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="22" column="96" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/daju/app/Print.php" timestamp="1553275116545">
-        <mark key="[" line="6" column="6" />
-        <mark key="]" line="6" column="6" />
-        <mark key="." line="6" column="6" />
-        <mark key="^" line="8" column="3" />
-      </file>
       <file name="$USER_HOME$/Documents/code/daju/resources/js/app.js" timestamp="1553195003098">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="15" column="3" />
@@ -116,25 +103,7 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/oreqo/server/database/migrations/2019_04_21_084634_switch_users_to_uuids.php" timestamp="1555836551342">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
-        <mark key="^" line="62" column="9" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/daju/resources/views/auth/login.blade.php" timestamp="1553194246358">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="14" column="10" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="9" column="7" />
-      </file>
       <file name="$USER_HOME$/Documents/code/oreqo/server/app/Http/Middleware/Authenticate.php" timestamp="1555955520155" />
-      <file name="$USER_HOME$/Documents/code/daju/.circleci/config.yml" timestamp="1553370005047">
-        <mark key="[" line="49" column="26" />
-        <mark key="]" line="49" column="77" />
-        <mark key="." line="49" column="77" />
-        <mark key="^" line="49" column="77" />
-      </file>
       <file name="$USER_HOME$/Documents/code/oreqo/server/database/factories/UserFactory.php" timestamp="1555954652403">
         <mark key="[" line="24" column="44" />
         <mark key="]" line="23" column="0" />
@@ -145,12 +114,6 @@
       </file>
       <file name="$USER_HOME$/Documents/code/daju/src/Infrastructure/resources/home.twig.html" timestamp="1540416209587">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/oreqo/server/database/migrations/2019_04_22_173604_add_api_tokens.php" timestamp="1555954590144">
-        <mark key="[" line="31" column="12" />
-        <mark key="]" line="32" column="0" />
-        <mark key="^" line="19" column="31" />
-        <mark key="." line="30" column="60" />
       </file>
       <file name="$USER_HOME$/Documents/code/daju/app/Http/Controllers/Auth/LoginController.php" timestamp="1550834573778">
         <mark key="[" line="27" column="30" />
@@ -169,6 +132,7 @@
       <file name="$USER_HOME$/Documents/code/blog-dojo-cqrs/src/events/namespace.ts" timestamp="1545580874953">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/oreqo/server/vendor/laravel/framework/src/Illuminate/Auth/RequestGuard.php" timestamp="1555958761847" />
       <file name="$USER_HOME$/Documents/code/oreqo/server/database/migrations/2016_09_13_042808_create_api_keys_table.php" timestamp="1555948817617">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -213,12 +177,6 @@
       <file name="/alto.app_users [alto@localhost]" timestamp="1540895428308">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/daju/resources/views/templates/landing.blade.php" timestamp="1551890539653">
-        <mark key="[" line="10" column="63" />
-        <mark key="]" line="10" column="63" />
-        <mark key="." line="10" column="63" />
-        <mark key="^" line="148" column="2" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fbf7ae17-6879-44d2-a8b4-848aedaa252f/console_1.sql" timestamp="1539522648106">
         <mark key="[" line="0" column="0" />
       </file>
@@ -231,31 +189,19 @@
       <file name="/bi_directory_user [Business immo directory]" timestamp="1541062470407">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/oreqo/server/app/Http/Resources/User.php" timestamp="1555961086166">
+        <mark key="[" line="17" column="29" />
+        <mark key="]" line="17" column="29" />
+        <mark key="^" line="18" column="31" />
+        <mark key="." line="17" column="29" />
+      </file>
       <file name="$USER_HOME$/Documents/code/daju/app/Http/Controllers/HomeController.php" timestamp="1553790532960">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="18" column="5" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/daju/resources/views/layouts/app.less" timestamp="1551886515230">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="8" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/code/alto-espace-emprunteur/client/src/components/Header/tests/Header.test.js" timestamp="1540201904512">
         <mark key="[" line="16" column="15" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/daju/resources/views/profile/index.blade.php" timestamp="1553792066829">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="52" />
-        <mark key="^" line="57" column="32" />
-        <mark key="." line="58" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/daju/config/larecipe.php" timestamp="1552577833417">
-        <mark key="[" line="18" column="22" />
-        <mark key="]" line="125" column="0" />
-        <mark key="." line="125" column="0" />
-        <mark key="^" line="126" column="0" />
       </file>
       <file name="/business_immo_legacy.activity_sectors [Business immo legacy]" timestamp="1542805803223">
         <mark key="[" line="0" column="0" />
@@ -274,12 +220,6 @@
       </file>
       <file name="$USER_HOME$/Documents/code/daju-landing/src/components/Homepage/Features/index.tsx" timestamp="1549736123239">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/daju/app/Http/Controllers/CreditCardController.php" timestamp="1553790540215">
-        <mark key="[" line="20" column="5" />
-        <mark key="]" line="20" column="5" />
-        <mark key="^" line="28" column="54" />
-        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/daju/app/Http/Requests/PreviewTemplateRequest.php" timestamp="1553863776744">
         <mark key="[" line="27" column="33" />
@@ -314,12 +254,6 @@
       <file name="/business_immo_legacy.sessions [Business immo legacy]" timestamp="1542123983757">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/daju/database/migrations/2019_03_22_171601_create_prints_table.php" timestamp="1553276237397">
-        <mark key="[" line="22" column="37" />
-        <mark key="]" line="22" column="37" />
-        <mark key="." line="22" column="37" />
-        <mark key="^" line="22" column="27" />
-      </file>
       <file name="$USER_HOME$/Documents/code/oreqo/.buildpacks" timestamp="1555870856574">
         <mark key="[" line="0" column="0" />
       </file>
@@ -348,23 +282,11 @@
       <file name="vm:508" timestamp="1545574396439">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/daju/resources/js/billing.js" timestamp="1553791866148">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="13" column="33" />
-        <mark key="." line="49" column="36" />
-        <mark key="^" line="0" column="62" />
-      </file>
       <file name="$USER_HOME$/Documents/code/daju-landing/src/components/Homepage/Header/Splash/index.tsx" timestamp="1549738110353">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/sphere.public.company [Sphere]" timestamp="1538490576302">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/daju/.env" timestamp="1553281812552">
-        <mark key="[" line="42" column="14" />
-        <mark key="]" line="42" column="35" />
-        <mark key="." line="44" column="15" />
-        <mark key="^" line="44" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/code/alto-espace-emprunteur/api/templates/base.html.twig" timestamp="1540894714113">
         <mark key="[" line="240" column="188" />
@@ -377,17 +299,11 @@
       <file name="/sphere.public.users [Sphere]" timestamp="1538658271254">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/daju/database/migrations/2019_03_25_155850_switch_cards_to_uuids.php" timestamp="1553554698398">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="^" line="47" column="48" />
-        <mark key="." line="34" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1555957798623">
+      <file name="/Dummy.txt" timestamp="1555961352001">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/oreqo/server/app/UsesUuid.php" timestamp="1555948616682">
-        <mark key="[" line="11" column="44" />
+      <file name="$USER_HOME$/Documents/code/oreqo/server/app/UsesUuid.php" timestamp="1555961126364">
+        <mark key="[" line="13" column="62" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
@@ -431,12 +347,6 @@
       </file>
       <file name="$USER_HOME$/Documents/code/business-immo-directory/config/services/mails.yml" timestamp="1544606690906">
         <mark key="[" line="83" column="51" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/daju/resources/views/auth/passwords/reset.blade.php" timestamp="1552576316853">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="27" column="9" />
-        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/daju/resources/views/layouts/auth.blade.php" timestamp="1552578048581">
         <mark key="[" line="24" column="65" />
@@ -501,7 +411,7 @@
       <file name="$USER_HOME$/Documents/code/alto-espace-emprunteur/client/src/components/Messages/MessageList/index.js" timestamp="1539763616649">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/oreqo/server/app/Models/User.php" timestamp="1555949021287">
+      <file name="$USER_HOME$/Documents/code/oreqo/server/app/Models/User.php" timestamp="1555961322055">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
@@ -542,6 +452,7 @@
       <file name="/sphere.public.lob [Sphere]" timestamp="1538553946559">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/oreqo/server/vendor/laravel/framework/src/Illuminate/Auth/EloquentUserProvider.php" timestamp="1555958856346" />
       <file name="$USER_HOME$/Downloads/logo25.svg" timestamp="1552577081073">
         <mark key="[" line="29" column="26" />
         <mark key="]" line="29" column="26" />
@@ -570,12 +481,6 @@
       <file name="$USER_HOME$/Documents/code/business-immo-directory/src/AppBundle/Resources/views/Back/Admin/standard_layout.html.twig" timestamp="1543330198521">
         <mark key="[" line="14" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/code/daju/tests/Feature/PrintedPagesCountTest.php" timestamp="1553359764541">
-        <mark key="[" line="22" column="28" />
-        <mark key="]" line="22" column="28" />
-        <mark key="." line="22" column="28" />
-        <mark key="^" line="27" column="13" />
-      </file>
       <file name="$USER_HOME$/Documents/code/oreqo/server/config/forest.php" timestamp="1555924102260">
         <mark key="[" line="5" column="25" />
         <mark key="]" line="3" column="45" />
@@ -591,41 +496,17 @@
       <file name="/app_users [francis@localhost]" timestamp="1547200899685">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/daju/phpunit.xml" timestamp="1553290432944">
-        <mark key="[" line="32" column="40" />
-        <mark key="]" line="32" column="40" />
-        <mark key="^" line="32" column="38" />
-        <mark key="." line="32" column="40" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/daju/app/Http/Controllers/ProfileController.php" timestamp="1553189488719">
-        <mark key="[" line="23" column="21" />
-        <mark key="]" line="22" column="17" />
-        <mark key="." line="22" column="17" />
-        <mark key="^" line="22" column="17" />
-      </file>
       <file name="$USER_HOME$/Documents/code/portail.io/README.md" timestamp="1548948601475">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/daju/app/Card.php" timestamp="1553531614716">
-        <mark key="[" line="7" column="1" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/daju-landing/src/components/Homepage/Pricing/index.tsx" timestamp="1549735913675">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/daju/routes/web.php" timestamp="1553791156277">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="27" column="85" />
-        <mark key="." line="27" column="85" />
-        <mark key="^" line="26" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/daju/app/PrintJob.php" timestamp="1553553603222">
-        <mark key="[" line="7" column="1" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-        <mark key="^" line="19" column="9" />
+      <file name="$USER_HOME$/Documents/code/oreqo/server/tests/Feature/UserTest.php" timestamp="1555962192210">
+        <mark key="[" line="41" column="23" />
+        <mark key="]" line="41" column="23" />
+        <mark key="." line="41" column="23" />
+        <mark key="^" line="41" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/code/oreqo/server/database/seeds/UsersTableSeeder.php" timestamp="1555957541868">
         <mark key="[" line="15" column="51" />
@@ -636,12 +517,6 @@
         <mark key="[" line="0" column="76" />
         <mark key="]" line="0" column="76" />
         <mark key="." line="0" column="76" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/daju/database/migrations/2019_03_26_085919_make_the_morph_compatible_with_uuids.php" timestamp="1553591119699">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="22" column="11" />
-        <mark key="." line="22" column="10" />
-        <mark key="^" line="22" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/code/business-immo-directory/src/AppBundle/Resources/views/Back/Layout/top_bar.html.twig" timestamp="1543329996045">
         <mark key="[" line="12" column="73" />
@@ -655,10 +530,10 @@
       <file name="/dojocqrs.public.article [dojocqrs@localhost]" timestamp="1546095394939">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/oreqo/server/phpunit.xml" timestamp="1555868933083">
-        <mark key="[" line="26" column="38" />
-        <mark key="]" line="26" column="38" />
-        <mark key="." line="26" column="38" />
+      <file name="$USER_HOME$/Documents/code/oreqo/server/phpunit.xml" timestamp="1555960764300">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/oreqo/server/composer.json" timestamp="1555946145911">
         <mark key="[" line="58" column="5" />
@@ -667,6 +542,11 @@
       </file>
       <file name="/main.user [data.db]" timestamp="1540758356007">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/oreqo/server/.env.testing" timestamp="1555960760112">
+        <mark key="[" line="2" column="8" />
+        <mark key="]" line="2" column="59" />
+        <mark key="." line="2" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/code/daju/public/svg/logo-dark.svg" timestamp="1552577403665">
         <mark key="[" line="29" column="26" />
@@ -682,18 +562,6 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2f06f4c5-3f90-4e16-a04a-d16027afbf01/console.sql" timestamp="1539357442635">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/daju/app/Template.php" timestamp="1553551017789">
-        <mark key="[" line="7" column="1" />
-        <mark key="]" line="8" column="13" />
-        <mark key="^" line="8" column="13" />
-        <mark key="." line="8" column="13" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/daju/app/Services/PrintLifecycleManager.php" timestamp="1553864393174">
-        <mark key="[" line="52" column="163" />
-        <mark key="]" line="52" column="163" />
-        <mark key="." line="52" column="163" />
-        <mark key="^" line="49" column="63" />
-      </file>
       <file name="/fragment.js" timestamp="1546092896444">
         <mark key="[" line="0" column="0" />
       </file>
@@ -701,12 +569,6 @@
         <mark key="[" line="6" column="15" />
         <mark key="]" line="6" column="15" />
         <mark key="." line="6" column="15" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/daju/resources/sass/_login.scss" timestamp="1552578034285">
-        <mark key="[" line="13" column="4" />
-        <mark key="]" line="63" column="6" />
-        <mark key="^" line="64" column="12" />
-        <mark key="." line="63" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/code/alto-espace-emprunteur/client/src/redux/Message/selectors.js" timestamp="1540477052429">
         <mark key="[" line="5" column="66" />
@@ -729,19 +591,13 @@
       <file name="$USER_HOME$/Documents/code/daju/src/Application/Controller/PrintingController.php" timestamp="1540751693507">
         <mark key="[" line="14" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/code/daju/database/factories/CardFactory.php" timestamp="1553533098532">
-        <mark key="[" line="8" column="72" />
-        <mark key="]" line="9" column="72" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="8" column="70" />
-      </file>
       <file name="$USER_HOME$/Documents/code/daju/tests/Feature/ExampleTest.php" timestamp="1542454312130">
         <mark key="[" line="16" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/code/oreqo/server/routes/api.php" timestamp="1555954878350">
-        <mark key="[" line="17" column="3" />
-        <mark key="]" line="15" column="24" />
-        <mark key="." line="15" column="24" />
+      <file name="$USER_HOME$/Documents/code/oreqo/server/routes/api.php" timestamp="1555960991760">
+        <mark key="[" line="2" column="28" />
+        <mark key="]" line="16" column="24" />
+        <mark key="." line="16" column="24" />
       </file>
       <file name="/business_immo_directory.subscriber_logins [Business immo directory]" timestamp="1543855037340">
         <mark key="[" line="0" column="0" />
@@ -771,7 +627,7 @@
       <file name="/dojocqrs.public.catalog [dojocqrs@localhost]" timestamp="1546095643295">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/oreqo/.circleci/config.yml" timestamp="1555868747001">
+      <file name="$USER_HOME$/Documents/code/oreqo/.circleci/config.yml" timestamp="1555960366621">
         <mark key="[" line="6" column="7" />
         <mark key="]" line="6" column="7" />
         <mark key="." line="6" column="7" />
@@ -782,24 +638,6 @@
       <file name="$USER_HOME$/Documents/code/oreqo/server/app/Http/Kernel.php" timestamp="1555956653767">
         <mark key="[" line="62" column="79" />
       </file>
-      <file name="$USER_HOME$/Documents/code/daju/resources/views/templates/details.blade.php" timestamp="1553863284853">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="12" />
-        <mark key="." line="35" column="12" />
-        <mark key="^" line="36" column="13" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/daju/app/Http/Controllers/PreviewController.php" timestamp="1553863833950">
-        <mark key="[" line="33" column="9" />
-        <mark key="]" line="39" column="10" />
-        <mark key="." line="39" column="10" />
-        <mark key="^" line="39" column="10" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/daju/database/migrations/2019_03_21_210120_create_cards_table.php" timestamp="1553552026337">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="71" />
-        <mark key="." line="18" column="36" />
-        <mark key="^" line="21" column="39" />
-      </file>
       <file name="/alto-test.app_users [alto-test]" timestamp="1539672566207">
         <mark key="[" line="0" column="0" />
       </file>
@@ -809,7 +647,7 @@
         <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/oreqo/server/vendor/laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php" timestamp="1555955494059" />
-      <file name="/PHP Console" timestamp="1555957562368">
+      <file name="/PHP Console" timestamp="1555961131407">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/alto-espace-emprunteur/client/src/components/Header/LogoutButton.style.js" timestamp="1539679599817">
@@ -841,12 +679,6 @@
       <file name="$USER_HOME$/Documents/code/forge/startproject/api-platform/plopIgnore/.gitkeep" timestamp="1548240678433">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/daju/database/migrations/2019_03_25_155850_switch_to_uuids.php" timestamp="1553531332180">
-        <mark key="[" line="49" column="49" />
-        <mark key="]" line="51" column="8" />
-        <mark key="^" line="51" column="35" />
-        <mark key="." line="51" column="8" />
-      </file>
       <file name="$USER_HOME$/Documents/code/business-immo-directory/vendor/xsolve-pl/xsolve-cookie-acknowledgement-bundle/Xsolve/CookieAcknowledgementBundle/Resources/config/services.yml" timestamp="1543458330098">
         <mark key="[" line="6" column="15" />
       </file>
@@ -873,6 +705,7 @@
         <mark key="]" line="17" column="22" />
         <mark key="." line="17" column="22" />
       </file>
+      <file name="$USER_HOME$/Documents/code/oreqo/server/vendor/laravel/framework/src/Illuminate/Auth/TokenGuard.php" timestamp="1555958685446" />
       <file name="$USER_HOME$/Documents/code/oreqo/server/routes/console.php" timestamp="1555919334647">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -884,6 +717,7 @@
       <file name="/daju.public.users [Daju Postgres local]" timestamp="1553791434444">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/oreqo/server/vendor/laravel/framework/src/Illuminate/Auth/SessionGuard.php" timestamp="1555958794160" />
       <file name="$USER_HOME$/Documents/code/daju/app/Http/Requests/TemplateDetailsRequest.php" timestamp="1553594781569">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="7" />
@@ -1017,53 +851,53 @@
       <register name="a" type="4">
         <text>http://devlocal.businessimmo.com</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">JHRoaXMtPmZha2VyLT5w</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JHRoaXMtPmZha2VyLT5w</text>
+        <text>created_at</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGlsZHJlblw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHRlc3QKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGF1dGhlbnRpY2F0aW9uRmFpbHNXaXRoQmFkQ3JlZGVudGlhbHMoKQogICAgewogICAgICAgICR1c2VyID0gZmFjdG9yeShVc2VyOjpjbGFzcyktPmNyZWF0ZSgpOwogICAgICAgICRyZXNwb25zZSA9ICR0aGlzLT5wb3N0SnNvbignYXBpL3Rva2VuJywgWwogICAgICAgICAgICAnZW1haWwnID0+ICR1c2VyLT5lbWFpbCwKICAgICAgICAgICAgJ3Bhc3N3b3JkJyA9PiAkdXNlci0+cGFzc3dvcmQgLiAnbG9sJwogICAgICAgIF0pOwoKICAgICAgICAkcmVzcG9uc2UtPmFzc2VydFN0YXR1cyhSZXNwb25zZTo6SFRUUF9VTkFVVEhPUklaRUQpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdjcmVhdGVkX2F0JyA9PiAkdXNlci0+Y3JlYXRlZF9hdCwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBBdXRoOjpndWFyZCgpLT5hdHRlbXB0KCRyZXF1ZXN0LT5vbmx5KCdlbWFpbCcsICdwYXNzd29yZCcpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vCg==</text>
+        <text encoding="base64">ICAgICAgICBdKTsK</text>
       </register>
       <register name="r" type="4">
         <text>technical_accounting.account.filters.period</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2hhc2gnID0+IHRydWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2FwaV90b2tlbicgPT4gSGFzaDo6bWFrZSgkYXBpVG9rZW4pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
+        <text encoding="base64">ICAgICAgICAkYXBpVG9rZW4gPSBTdHI6OnJhbmRvbSg4MCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT53aXRoSGVhZGVyKCdBdXRob3JpemF0aW9uJywgJ0JlYXJlciAnIC4gJGFwaVRva2VuKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT53aXRoSGVhZGVyKCdBdXRob3JpemF0aW9uJywgJ0JlYXJlciAnIC4gJHRva2VuKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIEFwcFxNb2RlbHNcVXNlc1V1aWQ7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIEFwcFxBcGlLZXk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgWwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">JGZhY3RvcnktPmRlZmluZShBcGlLZXk6OmNsYXNzLCBmdW5jdGlvbiAoRmFrZXIgJGZha2VyKSB7CiAgICByZXR1cm4gWwogICAgICAgIC8vCiAgICBdOwp9KTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcGFyZW50Ojp0b0FycmF5KCRyZXF1ZXN0KTsK</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
