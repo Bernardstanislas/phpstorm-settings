@@ -10,6 +10,7 @@
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="start" type="PLAIN_TEXT" />
       <mapping pattern="preprod" type="PLAIN_TEXT" />
+      <mapping pattern="packer" type="PLAIN_TEXT" />
       <mapping pattern="enable" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="prod" type="PLAIN_TEXT" />

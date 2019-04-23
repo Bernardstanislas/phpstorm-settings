@@ -103,7 +103,6 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/oreqo/server/app/Http/Middleware/Authenticate.php" timestamp="1555955520155" />
       <file name="$USER_HOME$/Documents/code/oreqo/server/database/factories/UserFactory.php" timestamp="1555954652403">
         <mark key="[" line="24" column="44" />
         <mark key="]" line="23" column="0" />
@@ -132,7 +131,6 @@
       <file name="$USER_HOME$/Documents/code/blog-dojo-cqrs/src/events/namespace.ts" timestamp="1545580874953">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/oreqo/server/vendor/laravel/framework/src/Illuminate/Auth/RequestGuard.php" timestamp="1555958761847" />
       <file name="$USER_HOME$/Documents/code/oreqo/server/database/migrations/2016_09_13_042808_create_api_keys_table.php" timestamp="1555948817617">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -177,6 +175,9 @@
       <file name="/alto.app_users [alto@localhost]" timestamp="1540895428308">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/Infra/docker/volumes/.gitignore" timestamp="1556024438598">
+        <mark key="[" line="6" column="11" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fbf7ae17-6879-44d2-a8b4-848aedaa252f/console_1.sql" timestamp="1539522648106">
         <mark key="[" line="0" column="0" />
       </file>
@@ -199,6 +200,11 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="18" column="5" />
         <mark key="." line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/Infra/docker/README.md" timestamp="1556024679336">
+        <mark key="[" line="12" column="19" />
+        <mark key="]" line="12" column="19" />
+        <mark key="." line="12" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/code/alto-espace-emprunteur/client/src/components/Header/tests/Header.test.js" timestamp="1540201904512">
         <mark key="[" line="16" column="15" />
@@ -278,7 +284,6 @@
       <file name="/francis.public.app_users [francis@localhost]" timestamp="1547200602261">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/oreqo/server/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php" timestamp="1555955835281" />
       <file name="vm:508" timestamp="1545574396439">
         <mark key="[" line="0" column="0" />
       </file>
@@ -393,7 +398,6 @@
         <mark key="]" line="27" column="18" />
         <mark key="." line="27" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/code/oreqo/server/config/database.php" timestamp="1555872462067" />
       <file name="$USER_HOME$/Documents/code/business-immo-directory/src/AppBundle/Resources/views/Front/Career/documentation.html.twig" timestamp="1542809132124">
         <mark key="[" line="0" column="0" />
       </file>
@@ -452,7 +456,6 @@
       <file name="/sphere.public.lob [Sphere]" timestamp="1538553946559">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/oreqo/server/vendor/laravel/framework/src/Illuminate/Auth/EloquentUserProvider.php" timestamp="1555958856346" />
       <file name="$USER_HOME$/Downloads/logo25.svg" timestamp="1552577081073">
         <mark key="[" line="29" column="26" />
         <mark key="]" line="29" column="26" />
@@ -605,7 +608,6 @@
       <file name="$USER_HOME$/Documents/code/business-immo-directory/prod" timestamp="1544462887412">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/oreqo/server/vendor/chrisbjr/api-guard/src/Models/ApiKey.php" timestamp="1555948001914" />
       <file name="/oreqo.public.api_keys [oreqo@localhost]" timestamp="1555949063473">
         <mark key="[" line="0" column="0" />
       </file>
@@ -638,6 +640,13 @@
       <file name="$USER_HOME$/Documents/code/oreqo/server/app/Http/Kernel.php" timestamp="1555956653767">
         <mark key="[" line="62" column="79" />
       </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/Infra/docker/docker-stack" timestamp="1556024708760">
+        <mark key="'" line="38" column="4" />
+        <mark key="[" line="38" column="4" />
+        <mark key="]" line="38" column="4" />
+        <mark key="." line="38" column="4" />
+        <mark key="^" line="1" column="78" />
+      </file>
       <file name="/alto-test.app_users [alto-test]" timestamp="1539672566207">
         <mark key="[" line="0" column="0" />
       </file>
@@ -646,7 +655,6 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/oreqo/server/vendor/laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php" timestamp="1555955494059" />
       <file name="/PHP Console" timestamp="1555961131407">
         <mark key="[" line="0" column="0" />
       </file>
@@ -705,7 +713,6 @@
         <mark key="]" line="17" column="22" />
         <mark key="." line="17" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/code/oreqo/server/vendor/laravel/framework/src/Illuminate/Auth/TokenGuard.php" timestamp="1555958685446" />
       <file name="$USER_HOME$/Documents/code/oreqo/server/routes/console.php" timestamp="1555919334647">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -717,7 +724,6 @@
       <file name="/daju.public.users [Daju Postgres local]" timestamp="1553791434444">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/oreqo/server/vendor/laravel/framework/src/Illuminate/Auth/SessionGuard.php" timestamp="1555958794160" />
       <file name="$USER_HOME$/Documents/code/daju/app/Http/Requests/TemplateDetailsRequest.php" timestamp="1553594781569">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="7" />
@@ -746,7 +752,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="208" column="0" filename="$USER_HOME$/Documents/code/business-immo-directory/devops/provisioning/roles/simplesamlphp/templates/authsources.php.j2" />
       <jump line="62" column="9" filename="$USER_HOME$/Documents/code/business-immo-directory/devops/provisioning/roles/simplesamlphp/templates/authsources.php.j2" />
       <jump line="53" column="0" filename="$USER_HOME$/Documents/code/simplesamlphp/modules/businessimmotheme/themes/businessimmo/core/loginuserpass.twig" />
       <jump line="14" column="10" filename="$USER_HOME$/Documents/code/business-immo-directory/devops/provisioning/roles/simplesamlphp/tasks/main.yml" />
@@ -846,22 +851,23 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/code/daju/app/PrintJob.php" />
       <jump line="35" column="8" filename="$USER_HOME$/Documents/code/daju/app/Http/Controllers/Api/PrintController.php" />
       <jump line="5" column="24" filename="$USER_HOME$/Documents/code/daju/resources/js/preview.js" />
+      <jump line="38" column="4" filename="$USER_HOME$/Documents/code/france-connect/Infra/docker/docker-stack" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>http://devlocal.businessimmo.com</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>./</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>created_at</text>
+        <text>./</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjaGlsZHJlblw+</text>
+        <text encoding="base64">XDxwYWNrZXJcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICdjcmVhdGVkX2F0JyA9PiAkdXNlci0+Y3JlYXRlZF9hdCwK</text>
@@ -904,9 +910,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjaGlsZHJlblw+</last-search>
+      <last-search encoding="base64">XDxwYWNrZXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjaGlsZHJlblw+</last-pattern>
+      <last-pattern encoding="base64">XDxwYWNrZXJcPg==</last-pattern>
       <last-replace>boutique\.businessimmo\.com</last-replace>
       <last-substitute encoding="base64">XDxhbnN3ZXJzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -914,7 +920,6 @@
     </search>
     <history>
       <history-search>
-        <entry>myapp\.com\/app_dev\.php</entry>
         <entry encoding="base64">XDxfYXR0cmlidXRlc1dpdGhGcmllbmRseU5hbWVcPg==</entry>
         <entry encoding="base64">XDxhdHRyaWJ1dGVzXD4=</entry>
         <entry encoding="base64">XDxEZWZpbml0aW9uRGVjb3JhdG9yXD4=</entry>
@@ -934,6 +939,7 @@
         <entry encoding="base64">XDxhbnN3ZXJzXD4=</entry>
         <entry encoding="base64">XDxkYXRhXD4=</entry>
         <entry encoding="base64">XDxjaGlsZHJlblw+</entry>
+        <entry encoding="base64">XDxwYWNrZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2NvbnRyYWN0RGF0YS9jb21tYW5kRGF0YS9n</entry>
