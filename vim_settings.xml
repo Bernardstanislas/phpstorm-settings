@@ -11,10 +11,11 @@
         <mark key="]" line="66" column="61" />
         <mark key="." line="73" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/rnipp-mock/src/server.js" timestamp="1556113298826">
+      <file name="$USER_HOME$/Documents/code/france-connect/rnipp-mock/src/server.js" timestamp="1556114682473">
         <mark key="[" line="21" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+        <mark key="]" line="12" column="2" />
+        <mark key="." line="12" column="2" />
+        <mark key="^" line="12" column="2" />
       </file>
       <file name="/sphere.public.contract [Sphere]" timestamp="1538641346930">
         <mark key="[" line="0" column="0" />
@@ -94,11 +95,7 @@
         <mark key="]" line="15" column="3" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/cypress/integration/mire.spec.js" timestamp="1556111767000">
-        <mark key="[" line="16" column="10" />
-        <mark key="]" line="16" column="10" />
-        <mark key="." line="16" column="10" />
-      </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/cypress/integration/mire.spec.js" timestamp="1556117037998" />
       <file name="$USER_HOME$/Documents/code/simplesamlphp/templates/login.php" timestamp="1541693235848">
         <mark key="[" line="15" column="2" />
       </file>
@@ -650,6 +647,7 @@
       <file name="$USER_HOME$/Documents/code/oreqo/server/app/Http/Kernel.php" timestamp="1555956653767">
         <mark key="[" line="62" column="79" />
       </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/rnipp/tests-rnipp.txt" timestamp="1556114310150" />
       <file name="$USER_HOME$/Documents/code/france-connect/Infra/docker/docker-stack" timestamp="1556033553503">
         <mark key="'" line="38" column="4" />
         <mark key="[" line="38" column="4" />
