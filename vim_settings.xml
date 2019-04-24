@@ -89,6 +89,11 @@
         <mark key="]" line="15" column="3" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/cypress/integration/mire.spec.js" timestamp="1556111767000">
+        <mark key="[" line="16" column="10" />
+        <mark key="]" line="16" column="10" />
+        <mark key="." line="16" column="10" />
+      </file>
       <file name="$USER_HOME$/Documents/code/simplesamlphp/templates/login.php" timestamp="1541693235848">
         <mark key="[" line="15" column="2" />
       </file>
@@ -858,13 +863,13 @@
         <text>http://devlocal.businessimmo.com</text>
       </register>
       <register name="&quot;" type="4">
-        <text>./</text>
+        <text>a img</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>./</text>
+        <text>a img</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYWNrZXJcPg==</text>
