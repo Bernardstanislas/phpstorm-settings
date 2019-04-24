@@ -11,6 +11,11 @@
         <mark key="]" line="66" column="61" />
         <mark key="." line="73" column="12" />
       </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/rnipp-mock/src/server.js" timestamp="1556113298826">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="/sphere.public.contract [Sphere]" timestamp="1538641346930">
         <mark key="[" line="0" column="0" />
       </file>
@@ -862,8 +867,8 @@
       <register name="a" type="4">
         <text>http://devlocal.businessimmo.com</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>a img</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
@@ -878,37 +883,37 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICdjcmVhdGVkX2F0JyA9PiAkdXNlci0+Y3JlYXRlZF9hdCwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBdKTsK</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ2xvbCcpOwo=</text>
       </register>
       <register name="r" type="4">
         <text>technical_accounting.account.filters.period</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2FwaV90b2tlbicgPT4gSGFzaDo6bWFrZSgkYXBpVG9rZW4pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkYXBpVG9rZW4gPSBTdHI6OnJhbmRvbSg4MCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBdKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT53aXRoSGVhZGVyKCdBdXRob3JpemF0aW9uJywgJ0JlYXJlciAnIC4gJGFwaVRva2VuKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2FwaV90b2tlbicgPT4gSGFzaDo6bWFrZSgkYXBpVG9rZW4pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT53aXRoSGVhZGVyKCdBdXRob3JpemF0aW9uJywgJ0JlYXJlciAnIC4gJHRva2VuKQo=</text>
+        <text encoding="base64">ICAgICAgICAkYXBpVG9rZW4gPSBTdHI6OnJhbmRvbSg4MCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIEFwcFxNb2RlbHNcVXNlc1V1aWQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT53aXRoSGVhZGVyKCdBdXRob3JpemF0aW9uJywgJ0JlYXJlciAnIC4gJGFwaVRva2VuKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgWwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT53aXRoSGVhZGVyKCdBdXRob3JpemF0aW9uJywgJ0JlYXJlciAnIC4gJHRva2VuKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcGFyZW50Ojp0b0FycmF5KCRyZXF1ZXN0KTsK</text>
+        <text encoding="base64">dXNlIEFwcFxNb2RlbHNcVXNlc1V1aWQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
