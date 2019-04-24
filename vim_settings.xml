@@ -507,11 +507,11 @@
       <file name="/app_users [francis@localhost]" timestamp="1547200899685">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/.gitlab-ci.yml" timestamp="1556119821562">
-        <mark key="[" line="26" column="6" />
-        <mark key="]" line="26" column="6" />
-        <mark key="." line="26" column="6" />
-        <mark key="^" line="24" column="11" />
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/.gitlab-ci.yml" timestamp="1556123052851">
+        <mark key="[" line="8" column="86" />
+        <mark key="]" line="8" column="85" />
+        <mark key="." line="8" column="85" />
+        <mark key="^" line="8" column="85" />
       </file>
       <file name="$USER_HOME$/Documents/code/portail.io/README.md" timestamp="1548948601475">
         <mark key="[" line="0" column="0" />
@@ -684,6 +684,7 @@
         <mark key="]" line="21" column="34" />
         <mark key="." line="21" column="34" />
       </file>
+      <file name="/.gitlab-ci.yml" timestamp="1556122358532" />
       <file name="/business_immo_legacy.jobs [Business immo legacy]" timestamp="1541682002486">
         <mark key="[" line="0" column="0" />
       </file>
@@ -873,13 +874,13 @@
         <text>http://devlocal.businessimmo.com</text>
       </register>
       <register name="&quot;" type="4">
-        <text>env TZ='Europe/Paris' npm run test:unit</text>
+        <text>/path/to/n</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>env TZ='Europe/Paris' npm run test:unit</text>
+        <text>/path/to/n</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYWNrZXJcPg==</text>
@@ -888,37 +889,37 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICdjcmVhdGVkX2F0JyA9PiAkdXNlci0+Y3JlYXRlZF9hdCwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBzdGFnZTogdGVzdF91bml0Cg==</text>
+        <text encoding="base64">ICAtIG5wbSBpbnN0YWxsIC1nIGJlYW1lLWluc3RhLXNzbAogIC0gYmVhbWUtaW5zdGEtc3NsIHR1bm5lbCBtYWtlIC0tZHN0IDgwMDggLS1wcm90byBodHRwCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c3RhZ2VzOgogIC0gdGVzdF91bml0Cgo=</text>
+        <text encoding="base64">ICBzdGFnZTogdGVzdF91bml0Cg==</text>
       </register>
       <register name="r" type="4">
         <text>technical_accounting.account.filters.period</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1hZ2U6IGN5cHJlc3MvYmFzZTo4CgpjYWNoZToKICBrZXk6ICI0ZGRlMGQ0NzIwN2M4MmEwNzQ3OTg5YTQwOTdkODYyMyIgIyBucG0gbW9kdWxlcyBjYWNoZSBrZXkKICB1bnRyYWNrZWQ6IHRydWUKICBwb2xpY3k6IHB1bGwgI8KgZ2l0bGFiLWNpIGNhY2hlIHBvbGljeQoK</text>
+        <text encoding="base64">c3RhZ2VzOgogIC0gdGVzdF91bml0Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAtIG5wbSBydW4gaW5zdGFsbC1jaQo=</text>
+        <text encoding="base64">aW1hZ2U6IGN5cHJlc3MvYmFzZTo4CgpjYWNoZToKICBrZXk6ICI0ZGRlMGQ0NzIwN2M4MmEwNzQ3OTg5YTQwOTdkODYyMyIgIyBucG0gbW9kdWxlcyBjYWNoZSBrZXkKICB1bnRyYWNrZWQ6IHRydWUKICBwb2xpY3k6IHB1bGwgI8KgZ2l0bGFiLWNpIGNhY2hlIHBvbGljeQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YmVmb3JlX3NjcmlwdDoKICAgIC0gCg==</text>
+        <text encoding="base64">ICAtIG5wbSBydW4gaW5zdGFsbC1jaQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YmVmb3JlX3NjcmlwdDoKICAgIC0gCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2xvbCcpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ2xvbCcpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBdKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
