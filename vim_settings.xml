@@ -134,7 +134,7 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1556182661455">
+      <file name="/GraphQL.result.json" timestamp="1556194170450">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/blog-dojo-cqrs/src/events/namespace.ts" timestamp="1545580874953">
@@ -144,6 +144,12 @@
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/fc-commons/helpers/CryptoHelper.class.js" timestamp="1556196801552">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="16" column="50" />
+        <mark key="^" line="16" column="50" />
+        <mark key="." line="16" column="50" />
       </file>
       <file name="/business_immo_legacy.user_peoples [Business immo legacy]" timestamp="1542280507623">
         <mark key="[" line="0" column="0" />
@@ -302,6 +308,9 @@
       <file name="/sphere.public.company [Sphere]" timestamp="1538490576302">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/fc-commons/helpers/CryptoHelper.js" timestamp="1556196570660">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/code/alto-espace-emprunteur/api/templates/base.html.twig" timestamp="1540894714113">
         <mark key="[" line="240" column="188" />
       </file>
@@ -313,7 +322,7 @@
       <file name="/sphere.public.users [Sphere]" timestamp="1538658271254">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555961352001">
+      <file name="/Dummy.txt" timestamp="1556196531957">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/oreqo/server/app/UsesUuid.php" timestamp="1555961126364">
@@ -878,13 +887,13 @@
         <text>http://devlocal.businessimmo.com</text>
       </register>
       <register name="&quot;" type="4">
-        <text>new (</text>
+        <text>var</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>new (</text>
+        <text>var</text>
       </register>
       <register name="/" type="4">
         <text>ansible</text>
