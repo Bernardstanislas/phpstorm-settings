@@ -126,6 +126,9 @@
       <file name="$USER_HOME$/Documents/code/daju/app/Http/Controllers/Auth/LoginController.php" timestamp="1550834573778">
         <mark key="[" line="27" column="30" />
       </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/fc-commons/models/partner.js" timestamp="1556203460439">
+        <mark key="'" line="51" column="33" />
+      </file>
       <file name="$USER_HOME$/Documents/code/oreqo/server/app/Http/Middleware/JsonMiddleware.php" timestamp="1555956499580">
         <mark key="[" line="16" column="5" />
       </file>
@@ -145,12 +148,12 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/fc-commons/helpers/CryptoHelper.class.js" timestamp="1556201303979">
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/fc-commons/helpers/CryptoHelper.class.js" timestamp="1556204159756">
         <mark key="'" line="15" column="4" />
-        <mark key="[" line="84" column="14" />
-        <mark key="]" line="84" column="14" />
+        <mark key="[" line="69" column="4" />
+        <mark key="]" line="69" column="4" />
         <mark key="^" line="69" column="10" />
-        <mark key="." line="84" column="14" />
+        <mark key="." line="69" column="4" />
       </file>
       <file name="/business_immo_legacy.user_peoples [Business immo legacy]" timestamp="1542280507623">
         <mark key="[" line="0" column="0" />
@@ -595,6 +598,9 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2f06f4c5-3f90-4e16-a04a-d16027afbf01/console.sql" timestamp="1539357442635">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/fc-commons/helpers/cryptoHelper.js" timestamp="1556203203488">
+        <mark key="[" line="16" column="59" />
+      </file>
       <file name="/fragment.js" timestamp="1546092896444">
         <mark key="[" line="0" column="0" />
       </file>
@@ -762,6 +768,13 @@
       <file name="/alto-espace-emprunteur.app_users [Alto staging]" timestamp="1540894265954">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/partenaires/controllers/sharingFSController.js" timestamp="1556203911998">
+        <mark key="'" line="170" column="30" />
+        <mark key="[" line="10" column="21" />
+        <mark key="]" line="12" column="1" />
+        <mark key="." line="12" column="1" />
+        <mark key="^" line="12" column="1" />
+      </file>
       <file name="$USER_HOME$/Documents/code/daju-landing/src/components/Homepage/Footer/index.tsx" timestamp="1549646166199">
         <mark key="[" line="0" column="0" />
       </file>
@@ -782,15 +795,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1144" column="0" filename="$USER_HOME$/Documents/code/business-immo-directory/src/AppBundle/Entity/Company.php" />
-      <jump line="1163" column="0" filename="$USER_HOME$/Documents/code/business-immo-directory/src/AppBundle/Entity/Company.php" />
-      <jump line="15" column="11" filename="$USER_HOME$/Documents/code/business-immo-directory/src/AppBundle/Entity/Company.php" />
-      <jump line="4" column="4" filename="$USER_HOME$/Documents/code/business-immo-directory/src/AppBundle/Entity/Company.php" />
-      <jump line="21" column="41" filename="$USER_HOME$/Documents/code/business-immo-directory/app/config/config.yml" />
-      <jump line="4" column="21" filename="$USER_HOME$/Documents/code/business-immo-directory/src/AppBundle/Command/IndexArticleCommand.php" />
-      <jump line="17" column="29" filename="$USER_HOME$/Documents/code/business-immo-directory/src/AppBundle/Command/IndexArticleCommand.php" />
-      <jump line="22" column="14" filename="$USER_HOME$/Documents/code/business-immo-directory/src/AppBundle/Command/IndexArticleCommand.php" />
-      <jump line="11" column="9" filename="$USER_HOME$/Documents/code/business-immo-directory/src/AppBundle/Normalizer/Algolia/PersonNormalizer.php" />
       <jump line="42" column="4" filename="$USER_HOME$/Documents/code/business-immo-directory/config/bundles.php" />
       <jump line="1" column="7" filename="$USER_HOME$/Documents/code/business-immo-directory/config/packages/dev/config_dev.yml" />
       <jump line="12" column="6" filename="$USER_HOME$/Documents/code/business-immo-directory/src/Entity/ActivitySectorFamily.php" />
@@ -882,22 +886,31 @@
       <jump line="62" column="9" filename="$USER_HOME$/Documents/code/france-connect/Infra/docker/docker-stack" />
       <jump line="144" column="4" filename="$USER_HOME$/Documents/code/france-connect/Infra/docker/docker-stack" />
       <jump line="15" column="4" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/fc-commons/helpers/CryptoHelper.class.js" />
+      <jump line="30" column="11" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/fc-commons/models/partner.js" />
+      <jump line="35" column="11" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/fc-commons/models/partner.js" />
+      <jump line="2" column="6" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/fc-commons/models/partner.js" />
+      <jump line="3" column="6" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/fc-commons/models/partner.js" />
+      <jump line="45" column="30" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/fc-commons/models/partner.js" />
+      <jump line="50" column="17" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/fc-commons/models/partner.js" />
+      <jump line="51" column="33" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/fc-commons/models/partner.js" />
+      <jump line="10" column="6" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/partenaires/controllers/sharingFSController.js" />
+      <jump line="170" column="30" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/partenaires/controllers/sharingFSController.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>http://devlocal.businessimmo.com</text>
       </register>
       <register name="&quot;" type="4">
-        <text>.CryptoHelper</text>
+        <text encoding="base64">c3RhdGljIA==</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>.CryptoHelper</text>
+        <text encoding="base64">c3RhdGljIA==</text>
       </register>
       <register name="/" type="4">
-        <text>ansible</text>
+        <text encoding="base64">XDxjcnlwdG9IZWxwZXJcPg==</text>
       </register>
       <register name="0" type="4">
         <text>bcryptMatches = function (password, hash) {
@@ -952,9 +965,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ansible</last-search>
+      <last-search encoding="base64">XDxjcnlwdG9IZWxwZXJcPg==</last-search>
       <last-offset />
-      <last-pattern>ansible</last-pattern>
+      <last-pattern encoding="base64">XDxjcnlwdG9IZWxwZXJcPg==</last-pattern>
       <last-replace>boutique\.businessimmo\.com</last-replace>
       <last-substitute encoding="base64">XDxyZWRpc1N0b3JlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -962,9 +975,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxDb250ZW50XD4=</entry>
-        <entry encoding="base64">bmV3IA==</entry>
-        <entry encoding="base64">XDxhbGlhc1w+</entry>
         <entry>\:\/\/devlocal</entry>
         <entry>devwww</entry>
         <entry>businessimmo\.dev</entry>
@@ -982,6 +992,9 @@
         <entry encoding="base64">XDxyZWRpc1w+</entry>
         <entry encoding="base64">XDxyZWRpc1N0b3JlXD4=</entry>
         <entry>ansible</entry>
+        <entry encoding="base64">XDxjcnlwdG9IZWxwZXJMZWdhY3lcPg==</entry>
+        <entry encoding="base64">XDxDcnlwdG9IZWxwZXJcPg==</entry>
+        <entry encoding="base64">XDxjcnlwdG9IZWxwZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2NvbnRyYWN0RGF0YS9jb21tYW5kRGF0YS9n</entry>
