@@ -95,7 +95,6 @@
         <mark key="]" line="15" column="3" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/cypress/integration/mire.spec.js" timestamp="1556117037998" />
       <file name="$USER_HOME$/Documents/code/simplesamlphp/templates/login.php" timestamp="1541693235848">
         <mark key="[" line="15" column="2" />
       </file>
@@ -132,7 +131,7 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1550762418289">
+      <file name="/GraphQL.result.json" timestamp="1556182661455">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/blog-dojo-cqrs/src/events/namespace.ts" timestamp="1545580874953">
@@ -267,7 +266,6 @@
       <file name="/business_immo_legacy.sessions [Business immo legacy]" timestamp="1542123983757">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/rnipp-mock/src/controllers.js" timestamp="1556118678575" />
       <file name="$USER_HOME$/Documents/code/oreqo/.buildpacks" timestamp="1555870856574">
         <mark key="[" line="0" column="0" />
       </file>
@@ -654,13 +652,12 @@
       <file name="$USER_HOME$/Documents/code/oreqo/server/app/Http/Kernel.php" timestamp="1555956653767">
         <mark key="[" line="62" column="79" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/rnipp/tests-rnipp.txt" timestamp="1556114310150" />
-      <file name="$USER_HOME$/Documents/code/france-connect/Infra/docker/docker-stack" timestamp="1556033553503">
-        <mark key="'" line="38" column="4" />
+      <file name="$USER_HOME$/Documents/code/france-connect/Infra/docker/docker-stack" timestamp="1556182835307">
+        <mark key="'" line="10" column="12" />
         <mark key="[" line="38" column="4" />
         <mark key="]" line="38" column="4" />
         <mark key="." line="38" column="4" />
-        <mark key="^" line="1" column="78" />
+        <mark key="^" line="1" column="66" />
       </file>
       <file name="/alto-test.app_users [alto-test]" timestamp="1539672566207">
         <mark key="[" line="0" column="0" />
@@ -684,7 +681,6 @@
         <mark key="]" line="21" column="34" />
         <mark key="." line="21" column="34" />
       </file>
-      <file name="/.gitlab-ci.yml" timestamp="1556122358532" />
       <file name="/business_immo_legacy.jobs [Business immo legacy]" timestamp="1541682002486">
         <mark key="[" line="0" column="0" />
       </file>
@@ -768,21 +764,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="9" filename="$USER_HOME$/Documents/code/business-immo-directory/devops/provisioning/roles/simplesamlphp/templates/authsources.php.j2" />
-      <jump line="53" column="0" filename="$USER_HOME$/Documents/code/simplesamlphp/modules/businessimmotheme/themes/businessimmo/core/loginuserpass.twig" />
-      <jump line="14" column="10" filename="$USER_HOME$/Documents/code/business-immo-directory/devops/provisioning/roles/simplesamlphp/tasks/main.yml" />
-      <jump line="19" column="21" filename="$USER_HOME$/Documents/code/business-immo-directory/devops/provisioning/roles/simplesamlphp/tasks/main.yml" />
-      <jump line="19" column="0" filename="$USER_HOME$/Documents/code/simplesamlphp/modules/businessimmotheme/locales/fr/LC_MESSAGES/businessimmo.po" />
-      <jump line="6" column="26" filename="$USER_HOME$/Documents/code/business-immo-directory/app/config/parameters.yml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/code/business-immo-directory/app/config/parameters.yml" />
-      <jump line="280" column="41" filename="$USER_HOME$/Documents/code/business-immo-directory/app/config/services.yml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/code/business-immo-directory/app/config/services.yml" />
-      <jump line="13" column="25" filename="$USER_HOME$/Documents/code/business-immo-directory/src/AppBundle/Controller/Front/SamlController.php" />
-      <jump line="23" column="18" filename="$USER_HOME$/Documents/code/business-immo-directory/src/AppBundle/Resources/config/services.yml" />
-      <jump line="158" column="10" filename="$USER_HOME$/Documents/code/business-immo-directory/src/AppBundle/Resources/config/services.yml" />
-      <jump line="16" column="9" filename="$USER_HOME$/Documents/code/business-immo-directory/src/AppBundle/Resources/openapi.yaml" />
-      <jump line="21" column="0" filename="$USER_HOME$/Documents/code/business-immo-directory/src/AppBundle/Entity/Company.php" />
-      <jump line="40" column="0" filename="$USER_HOME$/Documents/code/business-immo-directory/src/AppBundle/Entity/Company.php" />
       <jump line="72" column="0" filename="$USER_HOME$/Documents/code/business-immo-directory/src/AppBundle/Entity/Company.php" />
       <jump line="81" column="0" filename="$USER_HOME$/Documents/code/business-immo-directory/src/AppBundle/Entity/Company.php" />
       <jump line="118" column="0" filename="$USER_HOME$/Documents/code/business-immo-directory/src/AppBundle/Entity/Company.php" />
@@ -868,22 +849,37 @@
       <jump line="35" column="8" filename="$USER_HOME$/Documents/code/daju/app/Http/Controllers/Api/PrintController.php" />
       <jump line="5" column="24" filename="$USER_HOME$/Documents/code/daju/resources/js/preview.js" />
       <jump line="38" column="4" filename="$USER_HOME$/Documents/code/france-connect/Infra/docker/docker-stack" />
+      <jump line="56" column="0" filename="$USER_HOME$/Documents/code/france-connect/Infra/docker/docker-stack" />
+      <jump line="65" column="6" filename="$USER_HOME$/Documents/code/france-connect/Infra/docker/docker-stack" />
+      <jump line="81" column="6" filename="$USER_HOME$/Documents/code/france-connect/Infra/docker/docker-stack" />
+      <jump line="98" column="6" filename="$USER_HOME$/Documents/code/france-connect/Infra/docker/docker-stack" />
+      <jump line="115" column="6" filename="$USER_HOME$/Documents/code/france-connect/Infra/docker/docker-stack" />
+      <jump line="137" column="2" filename="$USER_HOME$/Documents/code/france-connect/Infra/docker/docker-stack" />
+      <jump line="145" column="4" filename="$USER_HOME$/Documents/code/france-connect/Infra/docker/docker-stack" />
+      <jump line="148" column="4" filename="$USER_HOME$/Documents/code/france-connect/Infra/docker/docker-stack" />
+      <jump line="158" column="6" filename="$USER_HOME$/Documents/code/france-connect/Infra/docker/docker-stack" />
+      <jump line="177" column="2" filename="$USER_HOME$/Documents/code/france-connect/Infra/docker/docker-stack" />
+      <jump line="190" column="6" filename="$USER_HOME$/Documents/code/france-connect/Infra/docker/docker-stack" />
+      <jump line="238" column="24" filename="$USER_HOME$/Documents/code/france-connect/Infra/docker/docker-stack" />
+      <jump line="239" column="30" filename="$USER_HOME$/Documents/code/france-connect/Infra/docker/docker-stack" />
+      <jump line="249" column="25" filename="$USER_HOME$/Documents/code/france-connect/Infra/docker/docker-stack" />
+      <jump line="10" column="12" filename="$USER_HOME$/Documents/code/france-connect/Infra/docker/docker-stack" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>http://devlocal.businessimmo.com</text>
       </register>
       <register name="&quot;" type="4">
-        <text>/path/to/n</text>
+        <text>/</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>/path/to/n</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwYWNrZXJcPg==</text>
+        <text>packer</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICdjcmVhdGVkX2F0JyA9PiAkdXNlci0+Y3JlYXRlZF9hdCwK</text>
@@ -926,9 +922,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwYWNrZXJcPg==</last-search>
+      <last-search>packer</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwYWNrZXJcPg==</last-pattern>
+      <last-pattern>packer</last-pattern>
       <last-replace>boutique\.businessimmo\.com</last-replace>
       <last-substitute encoding="base64">XDxhbnN3ZXJzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -936,8 +932,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfYXR0cmlidXRlc1dpdGhGcmllbmRseU5hbWVcPg==</entry>
-        <entry encoding="base64">XDxhdHRyaWJ1dGVzXD4=</entry>
         <entry encoding="base64">XDxEZWZpbml0aW9uRGVjb3JhdG9yXD4=</entry>
         <entry encoding="base64">XDxodHRwc1w+</entry>
         <entry>Algolia</entry>
@@ -956,6 +950,8 @@
         <entry encoding="base64">XDxkYXRhXD4=</entry>
         <entry encoding="base64">XDxjaGlsZHJlblw+</entry>
         <entry encoding="base64">XDxwYWNrZXJcPg==</entry>
+        <entry>docker-compose</entry>
+        <entry>packer</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2NvbnRyYWN0RGF0YS9jb21tYW5kRGF0YS9n</entry>
