@@ -148,12 +148,12 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/fc-commons/helpers/CryptoHelper.class.js" timestamp="1556204159756">
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/fc-commons/helpers/CryptoHelper.class.js" timestamp="1556205111336">
         <mark key="'" line="15" column="4" />
-        <mark key="[" line="69" column="4" />
-        <mark key="]" line="69" column="4" />
+        <mark key="[" line="4" column="17" />
+        <mark key="]" line="4" column="17" />
         <mark key="^" line="69" column="10" />
-        <mark key="." line="69" column="4" />
+        <mark key="." line="4" column="17" />
       </file>
       <file name="/business_immo_legacy.user_peoples [Business immo legacy]" timestamp="1542280507623">
         <mark key="[" line="0" column="0" />
@@ -598,9 +598,6 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2f06f4c5-3f90-4e16-a04a-d16027afbf01/console.sql" timestamp="1539357442635">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/fc-commons/helpers/cryptoHelper.js" timestamp="1556203203488">
-        <mark key="[" line="16" column="59" />
-      </file>
       <file name="/fragment.js" timestamp="1546092896444">
         <mark key="[" line="0" column="0" />
       </file>
@@ -901,13 +898,13 @@
         <text>http://devlocal.businessimmo.com</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">c3RhdGljIA==</text>
+        <text>'JZBlwxfKnbn/RV025aw+dQxk+xoQT+Yr'</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3RhdGljIA==</text>
+        <text>'JZBlwxfKnbn/RV025aw+dQxk+xoQT+Yr'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjcnlwdG9IZWxwZXJcPg==</text>
