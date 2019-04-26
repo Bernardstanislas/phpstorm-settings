@@ -151,8 +151,8 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/fc-commons/helpers/CryptoHelper.class.js" timestamp="1556205111336">
-        <mark key="'" line="15" column="4" />
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/fc-commons/helpers/CryptoHelper.class.js" timestamp="1556280021324">
+        <mark key="'" line="48" column="60" />
         <mark key="[" line="4" column="17" />
         <mark key="]" line="4" column="17" />
         <mark key="^" line="69" column="10" />
@@ -279,11 +279,11 @@
       <file name="$USER_HOME$/Documents/code/daju/src/Application/assets/css/main.css" timestamp="1540755287135">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/foobar/.gitlab-ci.yml" timestamp="1556271294668">
-        <mark key="[" line="5" column="16" />
-        <mark key="]" line="5" column="16" />
-        <mark key="." line="5" column="16" />
-        <mark key="^" line="4" column="13" />
+      <file name="$USER_HOME$/Documents/code/france-connect/foobar/.gitlab-ci.yml" timestamp="1556282706424">
+        <mark key="[" line="10" column="21" />
+        <mark key="]" line="10" column="21" />
+        <mark key="." line="10" column="21" />
+        <mark key="^" line="10" column="51" />
       </file>
       <file name="/business_immo_legacy.sessions [Business immo legacy]" timestamp="1542123983757">
         <mark key="[" line="0" column="0" />
@@ -364,6 +364,7 @@
       <file name="/business_immo_legacy.connections [Business immo legacy]" timestamp="1542731402346">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/Infra/ansible/roles/deploy-core/templates/app.json.j2" timestamp="1556281999482" />
       <file name="/connections [Business immo legacy]" timestamp="1542726121828">
         <mark key="[" line="0" column="0" />
       </file>
@@ -803,9 +804,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="4" filename="$USER_HOME$/Documents/code/business-immo-directory/config/bundles.php" />
-      <jump line="1" column="7" filename="$USER_HOME$/Documents/code/business-immo-directory/config/packages/dev/config_dev.yml" />
-      <jump line="12" column="6" filename="$USER_HOME$/Documents/code/business-immo-directory/src/Entity/ActivitySectorFamily.php" />
       <jump line="13" column="6" filename="$USER_HOME$/Documents/code/business-immo-directory/src/Entity/ProfessionalExperience.php" />
       <jump line="16" column="6" filename="$USER_HOME$/Documents/code/business-immo-directory/src/Entity/PressDossier.php" />
       <jump line="13" column="6" filename="$USER_HOME$/Documents/code/business-immo-directory/src/Entity/HomeCover.php" />
@@ -903,22 +901,25 @@
       <jump line="51" column="33" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/fc-commons/models/partner.js" />
       <jump line="10" column="6" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/partenaires/controllers/sharingFSController.js" />
       <jump line="170" column="30" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/partenaires/controllers/sharingFSController.js" />
+      <jump line="4" column="4" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/fc-commons/helpers/CryptoHelper.class.js" />
+      <jump line="41" column="56" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/fc-commons/helpers/CryptoHelper.class.js" />
+      <jump line="48" column="60" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/fc-commons/helpers/CryptoHelper.class.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>http://devlocal.businessimmo.com</text>
       </register>
       <register name="&quot;" type="4">
-        <text>1.11</text>
+        <text encoding="base64">ZG9ja2VyICY=</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>1.11</text>
+        <text encoding="base64">ZG9ja2VyICY=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjcnlwdG9IZWxwZXJcPg==</text>
+        <text encoding="base64">XDxjaXBoZXJQYXNzXD4=</text>
       </register>
       <register name="0" type="4">
         <text>bcryptMatches = function (password, hash) {
@@ -936,46 +937,46 @@
 }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAtIHRlc3RfZTJlCg==</text>
+        <text encoding="base64">ICAgIC0gCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1hZ2U6IGN5cHJlc3MvYmFzZToxMAoK</text>
+        <text encoding="base64">ICAtIHRlc3RfZTJlCg==</text>
       </register>
       <register name="r" type="4">
         <text>technical_accounting.account.filters.period</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAKdGVzdF91bml0OgogIHN0YWdlOiB0ZXN0X3VuaXQKICBzY3JpcHQ6CiAgICAtIG5wbSBpIG5wbUBsYXRlc3QgLWcKICAgIC0gbnBtIGkKICAgIC0gbnBtIHJ1biB0ZXN0OnVuaXQKCnRlc3RfZTJlOgogIHN0YWdlOiB0ZXN0X2UyZQogIHNjcmlwdDoKICAgIC0gbnBtIGkgbnBtQGxhdGVzdCB3YWl0LW9uIC1nCiAgICAtIG5wbSBpCiAgICAtIG5wbSBzdGFydCAmIHdhaXQtb24gaHR0cDovL2xvY2FsaG9zdDozMDAwCiAgICAtIG5wbSBydW4gdGVzdDplMmUK</text>
+        <text encoding="base64">aW1hZ2U6IGN5cHJlc3MvYmFzZToxMAoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Q3J5cHRvSGVscGVyLnByb3RvdHlwZS5iY3J5cHRNYXRjaGVzID0gZnVuY3Rpb24gKHBhc3N3b3JkLCBoYXNoKSB7CiAgICB2YXIgZGVmZXJyZWQgPSBRLmRlZmVyKCk7CiAgICBiY3J5cHQuY29tcGFyZShwYXNzd29yZCwKICAgICAgICBoYXNoLAogICAgICAgIGZ1bmN0aW9uKGVyciwgcmVzKSB7CiAgICAgICAgICAgIGlmIChlcnIpIHsKICAgICAgICAgICAgICAgIGRlZmVycmVkLnJlamVjdChuZXcgRXJyb3IoZXJyKSk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBkZWZlcnJlZC5yZXNvbHZlKHJlcyk7IC8vIHJlcyA9IGJvb2xlYW4gaW5kaWNhdGluZyBpZiBwYXNzd29yZCBtYXRjaGVzIGhhc2gKICAgICAgICAgICAgfQogICAgICAgIH0pOwogICAgcmV0dXJuIGRlZmVycmVkLnByb21pc2U7Cn07Cg==</text>
+        <text encoding="base64">ICAKdGVzdF91bml0OgogIHN0YWdlOiB0ZXN0X3VuaXQKICBzY3JpcHQ6CiAgICAtIG5wbSBpIG5wbUBsYXRlc3QgLWcKICAgIC0gbnBtIGkKICAgIC0gbnBtIHJ1biB0ZXN0OnVuaXQKCnRlc3RfZTJlOgogIHN0YWdlOiB0ZXN0X2UyZQogIHNjcmlwdDoKICAgIC0gbnBtIGkgbnBtQGxhdGVzdCB3YWl0LW9uIC1nCiAgICAtIG5wbSBpCiAgICAtIG5wbSBzdGFydCAmIHdhaXQtb24gaHR0cDovL2xvY2FsaG9zdDozMDAwCiAgICAtIG5wbSBydW4gdGVzdDplMmUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CkNyeXB0b0hlbHBlci5wcm90b3R5cGUuYmNyeXB0ID0gZnVuY3Rpb24gKHBhc3N3b3JkKSB7CiAgICB2YXIgZGVmZXJyZWQgPSBRLmRlZmVyKCk7CiAgICBiY3J5cHQuaGFzaChwYXNzd29yZCwKICAgICAgICBiQ3J5cHRSb3VuZHMsCiAgICAgICAgZnVuY3Rpb24oZXJyLCBoYXNoKSB7CiAgICAgICAgICAgIGlmIChlcnIpIHsKICAgICAgICAgICAgICAgIGRlZmVycmVkLnJlamVjdChuZXcgRXJyb3IoZXJyKSk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBkZWZlcnJlZC5yZXNvbHZlKGhhc2gpOwogICAgICAgICAgICB9CiAgICAgICAgfSk7CiAgICByZXR1cm4gZGVmZXJyZWQucHJvbWlzZTsKfTsKCg==</text>
+        <text encoding="base64">Q3J5cHRvSGVscGVyLnByb3RvdHlwZS5iY3J5cHRNYXRjaGVzID0gZnVuY3Rpb24gKHBhc3N3b3JkLCBoYXNoKSB7CiAgICB2YXIgZGVmZXJyZWQgPSBRLmRlZmVyKCk7CiAgICBiY3J5cHQuY29tcGFyZShwYXNzd29yZCwKICAgICAgICBoYXNoLAogICAgICAgIGZ1bmN0aW9uKGVyciwgcmVzKSB7CiAgICAgICAgICAgIGlmIChlcnIpIHsKICAgICAgICAgICAgICAgIGRlZmVycmVkLnJlamVjdChuZXcgRXJyb3IoZXJyKSk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBkZWZlcnJlZC5yZXNvbHZlKHJlcyk7IC8vIHJlcyA9IGJvb2xlYW4gaW5kaWNhdGluZyBpZiBwYXNzd29yZCBtYXRjaGVzIGhhc2gKICAgICAgICAgICAgfQogICAgICAgIH0pOwogICAgcmV0dXJuIGRlZmVycmVkLnByb21pc2U7Cn07Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gVGhpcyBpcyB3aGF0IHNob3VsZCBiZSB1c2VkIHRvIHN0b3JlIGVuY3J5cHRlZCBwYXNzd29yZHMK</text>
+        <text encoding="base64">CkNyeXB0b0hlbHBlci5wcm90b3R5cGUuYmNyeXB0ID0gZnVuY3Rpb24gKHBhc3N3b3JkKSB7CiAgICB2YXIgZGVmZXJyZWQgPSBRLmRlZmVyKCk7CiAgICBiY3J5cHQuaGFzaChwYXNzd29yZCwKICAgICAgICBiQ3J5cHRSb3VuZHMsCiAgICAgICAgZnVuY3Rpb24oZXJyLCBoYXNoKSB7CiAgICAgICAgICAgIGlmIChlcnIpIHsKICAgICAgICAgICAgICAgIGRlZmVycmVkLnJlamVjdChuZXcgRXJyb3IoZXJyKSk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBkZWZlcnJlZC5yZXNvbHZlKGhhc2gpOwogICAgICAgICAgICB9CiAgICAgICAgfSk7CiAgICByZXR1cm4gZGVmZXJyZWQucHJvbWlzZTsKfTsKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fQpDcnlwdG9IZWxwZXIucHJvdG90eXBlLmJjcnlwdCA9IGZ1bmN0aW9uIChwYXNzd29yZCkgewo=</text>
+        <text encoding="base64">Ly8gVGhpcyBpcyB3aGF0IHNob3VsZCBiZSB1c2VkIHRvIHN0b3JlIGVuY3J5cHRlZCBwYXNzd29yZHMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ci8vIFRoaXMgaXMgd2hhdCBzaG91bGQgYmUgdXNlZCB0byBzdG9yZSBlbmNyeXB0ZWQgcGFzc3dvcmRzCg==</text>
+        <text encoding="base64">fQpDcnlwdG9IZWxwZXIucHJvdG90eXBlLmJjcnlwdCA9IGZ1bmN0aW9uIChwYXNzd29yZCkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CkNyeXB0b0hlbHBlci5wcm90b3R5cGUuZGVjcnlwdCA9IGZ1bmN0aW9uIChwYXNzd29yZCkgewogICAgdmFyIGRlY2lwaGVyID0gY3J5cHRvLmNyZWF0ZURlY2lwaGVyKCdhZXMtMjU2LWNiYycsIGNpcGhlclBhc3MpOwogICAgdmFyIGRlYyA9IGRlY2lwaGVyLnVwZGF0ZShwYXNzd29yZCwgJ2hleCcsICd1dGY4Jyk7CiAgICBkZWMgKz0gZGVjaXBoZXIuZmluYWwoJ3V0ZjgnKTsKICAgIHJldHVybiBKU09OLnBhcnNlKGRlYykucGFzc3dvcmQ7Cn07Cg==</text>
+        <text encoding="base64">Ci8vIFRoaXMgaXMgd2hhdCBzaG91bGQgYmUgdXNlZCB0byBzdG9yZSBlbmNyeXB0ZWQgcGFzc3dvcmRzCg==</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjcnlwdG9IZWxwZXJcPg==</last-search>
+      <last-search encoding="base64">XDxjaXBoZXJQYXNzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjcnlwdG9IZWxwZXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxjaXBoZXJQYXNzXD4=</last-pattern>
       <last-replace>boutique\.businessimmo\.com</last-replace>
       <last-substitute encoding="base64">XDxyZWRpc1N0b3JlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -983,7 +984,6 @@
     </search>
     <history>
       <history-search>
-        <entry>\:\/\/devlocal</entry>
         <entry>devwww</entry>
         <entry>businessimmo\.dev</entry>
         <entry>feature-saml</entry>
@@ -1003,6 +1003,7 @@
         <entry encoding="base64">XDxjcnlwdG9IZWxwZXJMZWdhY3lcPg==</entry>
         <entry encoding="base64">XDxDcnlwdG9IZWxwZXJcPg==</entry>
         <entry encoding="base64">XDxjcnlwdG9IZWxwZXJcPg==</entry>
+        <entry encoding="base64">XDxjaXBoZXJQYXNzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2NvbnRyYWN0RGF0YS9jb21tYW5kRGF0YS9n</entry>
