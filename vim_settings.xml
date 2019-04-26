@@ -11,17 +11,14 @@
         <mark key="]" line="66" column="61" />
         <mark key="." line="73" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/rnipp-mock/src/server.js" timestamp="1556114682473">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="12" column="2" />
-        <mark key="." line="12" column="2" />
-        <mark key="^" line="12" column="2" />
-      </file>
       <file name="/sphere.public.contract [Sphere]" timestamp="1538641346930">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/foobar/experimental/ansible/roles/appserver/tasks/main.yml" timestamp="1556286764363">
-        <mark key="[" line="54" column="0" />
+      <file name="$USER_HOME$/Documents/code/france-connect/foobar/experimental/ansible/roles/appserver/tasks/main.yml" timestamp="1556287402638">
+        <mark key="[" line="59" column="15" />
+        <mark key="]" line="59" column="16" />
+        <mark key="^" line="59" column="18" />
+        <mark key="." line="59" column="16" />
       </file>
       <file name="/dojocqrs.public.event [dojocqrs@localhost]" timestamp="1546096010638">
         <mark key="[" line="0" column="0" />
@@ -143,6 +140,11 @@
       <file name="$USER_HOME$/Documents/code/oreqo/server/app/Http/Middleware/JsonMiddleware.php" timestamp="1555956499580">
         <mark key="[" line="16" column="5" />
       </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/Infra/docker/build/nodejs.json" timestamp="1556288225766">
+        <mark key="[" line="26" column="132" />
+        <mark key="]" line="26" column="132" />
+        <mark key="." line="26" column="132" />
+      </file>
       <file name="$USER_HOME$/Documents/code/oreqo/server/database/factories/ApiKeyFactory.php" timestamp="1555952264303">
         <mark key="[" line="10" column="34" />
         <mark key="]" line="13" column="0" />
@@ -196,12 +198,6 @@
       <file name="/daju.public.cards [Daju Postgres local]" timestamp="1553590061019">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/daju/database/migrations/2019_03_25_220414_switch_users_to_uuids.php" timestamp="1555947222503">
-        <mark key="[" line="117" column="0" />
-        <mark key="]" line="117" column="64" />
-        <mark key="." line="220" column="10" />
-        <mark key="^" line="220" column="10" />
-      </file>
       <file name="/alto.app_users [alto@localhost]" timestamp="1540895428308">
         <mark key="[" line="0" column="0" />
       </file>
@@ -211,20 +207,8 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fbf7ae17-6879-44d2-a8b4-848aedaa252f/console_1.sql" timestamp="1539522648106">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/oreqo/server/app/Http/Controllers/ApiTokenController.php" timestamp="1555955842069">
-        <mark key="[" line="21" column="47" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="26" column="7" />
-      </file>
       <file name="/bi_directory_user [Business immo directory]" timestamp="1541062470407">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/oreqo/server/app/Http/Resources/User.php" timestamp="1555961086166">
-        <mark key="[" line="17" column="29" />
-        <mark key="]" line="17" column="29" />
-        <mark key="^" line="18" column="31" />
-        <mark key="." line="17" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/code/daju/app/Http/Controllers/HomeController.php" timestamp="1553790532960">
         <mark key="[" line="10" column="0" />
@@ -241,12 +225,6 @@
       </file>
       <file name="/business_immo_legacy.activity_sectors [Business immo legacy]" timestamp="1542805803223">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/oreqo/server/app/Models/ApiKey.php" timestamp="1555948752070">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="5" column="49" />
-        <mark key="." line="10" column="0" />
       </file>
       <file name="/business_immo_legacy.user_roles [Business immo legacy]" timestamp="1543854934084">
         <mark key="[" line="0" column="0" />
@@ -287,10 +265,10 @@
       <file name="$USER_HOME$/Documents/code/daju/src/Application/assets/css/main.css" timestamp="1540755287135">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/foobar/.gitlab-ci.yml" timestamp="1556285427646">
-        <mark key="[" line="15" column="6" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/Documents/code/france-connect/foobar/.gitlab-ci.yml" timestamp="1556287936126">
+        <mark key="[" line="15" column="55" />
+        <mark key="]" line="15" column="55" />
+        <mark key="." line="15" column="55" />
       </file>
       <file name="/business_immo_legacy.sessions [Business immo legacy]" timestamp="1542123983757">
         <mark key="[" line="0" column="0" />
@@ -418,12 +396,6 @@
       <file name="/alto-espace-emprunteur.message [Alto staging]" timestamp="1540544860068">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/oreqo/server/tests/Feature/ApiKeyTest.php" timestamp="1555952325248">
-        <mark key="[" line="44" column="51" />
-        <mark key="]" line="44" column="49" />
-        <mark key="." line="44" column="49" />
-        <mark key="^" line="44" column="49" />
-      </file>
       <file name="$USER_HOME$/Documents/code/daju/tests/Feature/TemplateTest.php" timestamp="1553595597442">
         <mark key="[" line="44" column="66" />
         <mark key="]" line="44" column="63" />
@@ -505,6 +477,11 @@
         <mark key="]" line="29" column="26" />
         <mark key="." line="29" column="26" />
       </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/foobar/experimental/docker/build/nodejs.json" timestamp="1556288276858">
+        <mark key="[" line="26" column="106" />
+        <mark key="]" line="26" column="106" />
+        <mark key="." line="26" column="106" />
+      </file>
       <file name="$USER_HOME$/Documents/code/alto-espace-emprunteur/api/src/Controller/UserController.php" timestamp="1540287749609">
         <mark key="[" line="12" column="33" />
       </file>
@@ -528,12 +505,6 @@
       <file name="$USER_HOME$/Documents/code/business-immo-directory/src/AppBundle/Resources/views/Back/Admin/standard_layout.html.twig" timestamp="1543330198521">
         <mark key="[" line="14" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/code/oreqo/server/config/forest.php" timestamp="1555924102260">
-        <mark key="[" line="5" column="25" />
-        <mark key="]" line="3" column="45" />
-        <mark key="." line="3" column="45" />
-        <mark key="^" line="4" column="40" />
-      </file>
       <file name="$USER_HOME$/Documents/code/blog-dojo-cqrs/.gitignore" timestamp="1545231227960">
         <mark key="[" line="0" column="0" />
       </file>
@@ -543,23 +514,11 @@
       <file name="/app_users [francis@localhost]" timestamp="1547200899685">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/.gitlab-ci.yml" timestamp="1556123052851">
-        <mark key="[" line="8" column="86" />
-        <mark key="]" line="8" column="85" />
-        <mark key="." line="8" column="85" />
-        <mark key="^" line="8" column="85" />
-      </file>
       <file name="$USER_HOME$/Documents/code/portail.io/README.md" timestamp="1548948601475">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/daju-landing/src/components/Homepage/Pricing/index.tsx" timestamp="1549735913675">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/oreqo/server/tests/Feature/UserTest.php" timestamp="1555962192210">
-        <mark key="[" line="41" column="23" />
-        <mark key="]" line="41" column="23" />
-        <mark key="." line="41" column="23" />
-        <mark key="^" line="41" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/code/oreqo/server/database/seeds/UsersTableSeeder.php" timestamp="1555957541868">
         <mark key="[" line="15" column="51" />
@@ -745,12 +704,6 @@
       <file name="$USER_HOME$/Documents/code/sphere/api/src/Domain/Contract/Query/SignedContractNames.php" timestamp="1539079193430">
         <mark key="[" line="6" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/code/oreqo/app.json" timestamp="1555872127781">
-        <mark key="[" line="3" column="14" />
-        <mark key="]" line="3" column="14" />
-        <mark key="." line="3" column="14" />
-        <mark key="^" line="3" column="14" />
-      </file>
       <file name="$USER_HOME$/Documents/code/alto-espace-emprunteur/api/src/logs/.gitignore" timestamp="1539365791558">
         <mark key="[" line="0" column="0" />
       </file>
@@ -917,31 +870,19 @@
         <text>http://devlocal.businessimmo.com</text>
       </register>
       <register name="&quot;" type="4">
-        <text>$USER_HOME$/Documents/code/france-connect/Infra/docker</text>
+        <text encoding="base64">IG5vZGVqc191aWQ9e3t1c2VyIGB1aWRgfX0=</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>$USER_HOME$/Documents/code/france-connect/Infra/docker</text>
+        <text encoding="base64">IG5vZGVqc191aWQ9e3t1c2VyIGB1aWRgfX0=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaXBoZXJQYXNzXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>bcryptMatches = function (password, hash) {
-    var deferred = Q.defer();
-    bcrypt.compare(password,
-        hash,
-        function(err, res) {
-            if (err) {
-                deferred.reject(new Error(err));
-            } else {
-                deferred.resolve(res); // res = boolean indicating if password matches hash
-            }
-        });
-    return deferred.promise;
-}</text>
+      <register name="0" type="2">
+        <text encoding="base64">Ci0gZGVidWc6CiAgICB2YXI6IGRvY2tlcgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAogICAgLQo=</text>
