@@ -189,11 +189,12 @@
       <file name="$USER_HOME$/Documents/code/daju/src/Application/assets/css/main.css" timestamp="1540755287135">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/foobar/.gitlab-ci.yml" timestamp="1556359644949">
+      <file name="$USER_HOME$/Documents/code/france-connect/foobar/.gitlab-ci.yml" timestamp="1556378594321">
+        <mark key="'" line="42" column="42" />
         <mark key="k" line="32" column="17" />
-        <mark key="[" line="31" column="56" />
-        <mark key="]" line="31" column="71" />
-        <mark key="." line="31" column="56" />
+        <mark key="[" line="30" column="26" />
+        <mark key="]" line="30" column="26" />
+        <mark key="." line="30" column="26" />
         <mark key="^" line="32" column="45" />
       </file>
       <file name="/business_immo_legacy.sessions [Business immo legacy]" timestamp="1542123983757">
@@ -627,26 +628,26 @@
       <jump line="48" column="60" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/fc-commons/helpers/CryptoHelper.class.js" />
       <jump line="36" column="4" filename="$USER_HOME$/Documents/code/france-connect/foobar/.gitlab-ci.yml" />
       <jump line="39" column="4" filename="$USER_HOME$/Documents/code/france-connect/foobar/.gitlab-ci.yml" />
-      <jump line="42" column="4" filename="$USER_HOME$/Documents/code/france-connect/foobar/.gitlab-ci.yml" />
       <jump line="45" column="4" filename="$USER_HOME$/Documents/code/france-connect/foobar/.gitlab-ci.yml" />
       <jump line="48" column="4" filename="$USER_HOME$/Documents/code/france-connect/foobar/.gitlab-ci.yml" />
       <jump line="31" column="4" filename="$USER_HOME$/Documents/code/france-connect/foobar/.gitlab-ci.yml" />
+      <jump line="42" column="42" filename="$USER_HOME$/Documents/code/france-connect/foobar/.gitlab-ci.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>http://devlocal.businessimmo.com</text>
       </register>
       <register name="&quot;" type="4">
-        <text>france-connect/infra</text>
+        <text encoding="base64">IGNlbnRvcy1iYXNl</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>france-connect/infra</text>
+        <text encoding="base64">IGNlbnRvcy1iYXNl</text>
       </register>
       <register name="/" type="4">
-        <text>g4vroche\/foobar</text>
+        <text>france-connect\/infra</text>
       </register>
       <register name="0" type="4">
         <text>g4vroche/foobar</text>
@@ -685,21 +686,20 @@
         <text encoding="base64">ICAgIC0gZG9ja2VyIGxvZ2luIC11IGdpdGxhYi1jaS10b2tlbiAtcCAkQ0lfSk9CX1RPS0VOICRDSV9SRUdJU1RSWQo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL2c0dnJvY2hlXC9mb29iYXIvZnJhbmNlLWNvbm5lY3RcL2luZnJhL2c=</text>
+        <text encoding="base64">JzwsJz5zL2ZyYW5jZS1jb25uZWN0XC9pbmZyYS9nNHZyb2NoZVwvZm9vYmFyL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>g4vroche\/foobar</last-search>
+      <last-search>france-connect\/infra</last-search>
       <last-offset />
-      <last-pattern>g4vroche\/foobar</last-pattern>
-      <last-replace>france-connect\/infra</last-replace>
-      <last-substitute>g4vroche\/foobar</last-substitute>
+      <last-pattern>france-connect\/infra</last-pattern>
+      <last-replace>g4vroche\/foobar</last-replace>
+      <last-substitute>france-connect\/infra</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>feature-saml</entry>
         <entry>develop\.businessimmo\.mbiz\.io</entry>
         <entry encoding="base64">XDxjbGlwUGF0aDE4XD4=</entry>
         <entry encoding="base64">XDxhcnRpY2xlUmVwb3NpdG9yeVw+</entry>
@@ -719,9 +719,9 @@
         <entry encoding="base64">XDxjaXBoZXJQYXNzXD4=</entry>
         <entry>centos-base</entry>
         <entry>g4vroche\/foobar</entry>
+        <entry>france-connect\/infra</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/FILE/MESSAGE/g</entry>
         <entry encoding="base64">JzwsJz5zL1NFTkRfTUVTU0FHRS9BQ0tOT1dMRURHRV9NRVNTQUdFUy9n</entry>
         <entry>%s/package-lock\.json/yarn\.lock/g</entry>
         <entry encoding="base64">JzwsJz5zL09GRkVSU19FRElUSU9OX0RBVEUvQkFOS19BUFBPSU5UTUVOVF9EQVRFL2c=</entry>
@@ -741,6 +741,7 @@
         <entry encoding="base64">JzwsJz5zL2NlbnRvcy1iYXNlL25vZGVqcy9n</entry>
         <entry encoding="base64">JzwsJz5zL2NlbnRvcy1iYXNlL3JwL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2c0dnJvY2hlXC9mb29iYXIvZnJhbmNlLWNvbm5lY3RcL2luZnJhL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL2ZyYW5jZS1jb25uZWN0XC9pbmZyYS9nNHZyb2NoZVwvZm9vYmFyL2c=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
