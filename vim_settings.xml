@@ -189,12 +189,12 @@
       <file name="$USER_HOME$/Documents/code/daju/src/Application/assets/css/main.css" timestamp="1540755287135">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/foobar/.gitlab-ci.yml" timestamp="1556309319042">
+      <file name="$USER_HOME$/Documents/code/france-connect/foobar/.gitlab-ci.yml" timestamp="1556359644949">
         <mark key="k" line="32" column="17" />
-        <mark key="[" line="32" column="18" />
-        <mark key="]" line="32" column="18" />
-        <mark key="." line="32" column="18" />
-        <mark key="^" line="30" column="37" />
+        <mark key="[" line="31" column="56" />
+        <mark key="]" line="31" column="71" />
+        <mark key="." line="31" column="56" />
+        <mark key="^" line="32" column="45" />
       </file>
       <file name="/business_immo_legacy.sessions [Business immo legacy]" timestamp="1542123983757">
         <mark key="[" line="0" column="0" />
@@ -637,19 +637,19 @@
         <text>http://devlocal.businessimmo.com</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>france-connect/infra</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>france-connect/infra</text>
       </register>
       <register name="/" type="4">
         <text>g4vroche\/foobar</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIC0gZXhwb3J0IElNQUdFX0lEPSIkKGRvY2tlciBpbWFnZXMgfCBncmVwIC1FICdmcmFuY2Vjb25uZWN0XC9jZW50b3MtYmFzZScgfCBhd2sgLWUgJ3twcmludCAkM30nKSIKICAgIC0gZG9ja2VyIHRhZyAkSU1BR0VfSUQgJENJX1JFR0lTVFJZL2c0dnJvY2hlL2Zvb2Jhci9mcmFuY2Vjb25uZWN0L2NlbnRvcy1iYXNlOnRlc3QtYnVpbGQKICAgIC0gZG9ja2VyIHB1c2ggJENJX1JFR0lTVFJZL2c0dnJvY2hlL2Zvb2Jhci9mcmFuY2Vjb25uZWN0L2NlbnRvcy1iYXNlOnRlc3QtYnVpbGQK</text>
+      <register name="0" type="4">
+        <text>g4vroche/foobar</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIC0gZXhwb3J0IElNQUdFX0lEPSIkKGRvY2tlciBpbWFnZXMgfCBncmVwIC1FICdmcmFuY2Vjb25uZWN0XC9ycCcgfCBhd2sgLWUgJ3twcmludCAkM30nKSIK</text>
