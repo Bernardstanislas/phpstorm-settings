@@ -114,6 +114,7 @@
       <file name="/alto.document [alto@localhost]" timestamp="1539358673958">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/admin/helpers/emailHelper.js" timestamp="1556473073297" />
       <file name="$USER_HOME$/Documents/code/france-connect/Infra/docker/volumes/FranceConnect/projects/fc/core/config/redis.json" timestamp="1556184222531">
         <mark key="[" line="0" column="0" />
       </file>
@@ -179,8 +180,9 @@
       <file name="$USER_HOME$/Documents/code/simplesamlphp/templates/login.php" timestamp="1541693235848">
         <mark key="[" line="15" column="2" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/foobar/experimental/docker/docker-stack" timestamp="1556470501557">
-        <mark key="[" line="1" column="13" />
+      <file name="$USER_HOME$/Documents/code/france-connect/foobar/experimental/docker/docker-stack" timestamp="1556473397413">
+        <mark key="'" line="22" column="77" />
+        <mark key="[" line="48" column="72" />
         <mark key="]" line="161" column="110" />
         <mark key="." line="161" column="110" />
         <mark key="^" line="161" column="110" />
@@ -538,7 +540,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/code/business-immo-directory/src/Entity/PressDossier.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/code/business-immo-directory/src/Entity/ProfessionalExperience.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/code/business-immo-directory/src/Entity/ProfessionalFunction.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/code/business-immo-directory/src/Entity/User.php" />
@@ -638,6 +639,7 @@
       <jump line="42" column="16" filename="$USER_HOME$/Documents/code/france-connect/foobar/.gitlab-ci.yml" />
       <jump line="39" column="4" filename="$USER_HOME$/Documents/code/france-connect/foobar/.gitlab-ci.yml" />
       <jump line="40" column="68" filename="$USER_HOME$/Documents/code/france-connect/foobar/.gitlab-ci.yml" />
+      <jump line="22" column="77" filename="$USER_HOME$/Documents/code/france-connect/foobar/experimental/docker/docker-stack" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -653,7 +655,7 @@
         <text>mongodb-mocks</text>
       </register>
       <register name="/" type="4">
-        <text>mondogdb</text>
+        <text>up</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC0gZG9ja2VyIHB1bGwgJENJX1JFR0lTVFJZL2c0dnJvY2hlL2Zvb2Jhci9mcmFuY2Vjb25uZWN0L21vbmdvZDp0ZXN0LWJ1aWxkCiAgICAtIGRvY2tlciB0YWcgJENJX1JFR0lTVFJZL2c0dnJvY2hlL2Zvb2Jhci9mcmFuY2Vjb25uZWN0L21vbmdvZDp0ZXN0LWJ1aWxkIGZyYW5jZWNvbm5lY3QvbW9uZ29kCg==</text>
@@ -696,9 +698,9 @@
       </register>
     </registers>
     <search>
-      <last-search>mondogdb</last-search>
+      <last-search>up</last-search>
       <last-offset />
-      <last-pattern>mondogdb</last-pattern>
+      <last-pattern>up</last-pattern>
       <last-replace>mongodb</last-replace>
       <last-substitute>mondogdb</last-substitute>
       <last-dir>1</last-dir>
@@ -706,7 +708,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxWQVJOSVNIX1VSTFw+</entry>
         <entry encoding="base64">XDxhbnN3ZXJzXD4=</entry>
         <entry encoding="base64">XDxkYXRhXD4=</entry>
         <entry encoding="base64">XDxjaGlsZHJlblw+</entry>
@@ -726,6 +727,7 @@
         <entry>push</entry>
         <entry>mongod</entry>
         <entry>mondogdb</entry>
+        <entry>up</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL25ldyAvL2c=</entry>
