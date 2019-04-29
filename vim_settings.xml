@@ -332,12 +332,12 @@
       <file name="$USER_HOME$/Documents/code/daju/src/Application/assets/css/main.css" timestamp="1540755287135">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/foobar/.gitlab-ci.yml" timestamp="1556540338778">
+      <file name="$USER_HOME$/Documents/code/france-connect/foobar/.gitlab-ci.yml" timestamp="1556541084993">
         <mark key="'" line="17" column="25" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-        <mark key="^" line="37" column="32" />
+        <mark key="[" line="25" column="75" />
+        <mark key="]" line="19" column="9" />
+        <mark key="." line="19" column="9" />
+        <mark key="^" line="38" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/code/business-immo-directory/prod" timestamp="1544462887412">
         <mark key="[" line="0" column="0" />
@@ -646,14 +646,14 @@
       <register name="a" type="4">
         <text>http://devlocal.businessimmo.com</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">LWwg</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>centos-base</text>
+        <text encoding="base64">LWwg</text>
       </register>
       <register name="/" type="4">
         <text>init</text>
