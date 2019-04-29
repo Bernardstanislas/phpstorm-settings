@@ -181,11 +181,10 @@
         <mark key="]" line="16" column="10" />
         <mark key="." line="16" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/Infra/docker/docker-compose.yml" timestamp="1556548079533">
-        <mark key="[" line="214" column="44" />
-        <mark key="]" line="214" column="44" />
-        <mark key="." line="214" column="44" />
-        <mark key="^" line="209" column="14" />
+      <file name="$USER_HOME$/Documents/code/france-connect/Infra/docker/docker-compose.yml" timestamp="1556553679109">
+        <mark key="[" line="216" column="0" />
+        <mark key="]" line="216" column="0" />
+        <mark key="." line="216" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/simplesamlphp/templates/login.php" timestamp="1541693235848">
         <mark key="[" line="15" column="2" />
@@ -384,6 +383,9 @@
       </file>
       <file name="/business_immo_directory.press_dossier [Business immo directory]" timestamp="1543830277977">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/package.json" timestamp="1556553557869">
+        <mark key="[" line="12" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/code/france-connect/foobar/experimental/docker/hosts" timestamp="1556292888699">
         <mark key="[" line="0" column="0" />
@@ -657,8 +659,8 @@
       <register name="a" type="4">
         <text>http://devlocal.businessimmo.com</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>a img</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIG5ldHdvcmtzOgogICAgICAtIGZjCg==</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
@@ -673,37 +675,37 @@
         <text>$CI_REGISTRY/</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC0gZWNobyAkUkVHSVNUUllfUFJFRklYCiAgICAtIGVjaG8gJFJFR0lTVFJZX1NVRkZJWAogICAgLSBlY2hvICIkUkVHSVNUUllfUFJFRklYL2ZyYW5jZWNvbm5lY3QvY2VudG9zLWJhc2U6JFJFR0lTVFJZX1NVRkZJWCIK</text>
+        <text encoding="base64">ICAgIG5ldHdvcmtzOgogICAgICAtIGZjCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC0gZWNobyAkQ0lfUFJPSkVDVF9QQVRICg==</text>
+        <text encoding="base64">ICAgIC0gZWNobyAkUkVHSVNUUllfUFJFRklYCiAgICAtIGVjaG8gJFJFR0lTVFJZX1NVRkZJWAogICAgLSBlY2hvICIkUkVHSVNUUllfUFJFRklYL2ZyYW5jZWNvbm5lY3QvY2VudG9zLWJhc2U6JFJFR0lTVFJZX1NVRkZJWCIK</text>
       </register>
       <register name="r" type="4">
         <text>technical_accounting.account.filters.period</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PT09PT09PQpXT1JLSU5HX0RJUj1gZGlybmFtZSAkKHJlYWRsaW5rIC1mICIkMCIpYAo+Pj4+Pj4+IFtGQ1AtMjA2XSA6d3JlbmNoOiBVc2Ugc2ggaW5zdGVhZCBvZiBiYXNoIHdoZW4gYnVpbGRpbmcgaW1hZ2VzCg==</text>
+        <text encoding="base64">ICAgIC0gZWNobyAkQ0lfUFJPSkVDVF9QQVRICg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiMhL2Jpbi9iYXNoCg==</text>
+        <text encoding="base64">PT09PT09PQpXT1JLSU5HX0RJUj1gZGlybmFtZSAkKHJlYWRsaW5rIC1mICIkMCIpYAo+Pj4+Pj4+IFtGQ1AtMjA2XSA6d3JlbmNoOiBVc2Ugc2ggaW5zdGVhZCBvZiBiYXNoIHdoZW4gYnVpbGRpbmcgaW1hZ2VzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyEvYmluL3NoCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiMhL2Jpbi9iYXNoCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">L3JuaXBwCg==</text>
+        <text encoding="base64">IyEvYmluL3NoCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">L3JuaXBwCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAtIGNkIC4uCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAtIHN1IC1jICJnaXQgY2xvbmUgaHR0cHM6Ly9naXRsYWItY2ktdG9rZW46JHtDSV9KT0JfVE9LRU59QGdpdGxhYi5jb20vZnJhbmNlLWNvbm5lY3QvRnJhbmNlQ29ubmVjdCIgJEFQUF9VU0VSCiAgLSBzdSAtYyAiZ2l0IGNsb25lIGh0dHBzOi8vZ2l0bGFiLWNpLXRva2VuOiR7Q0lfSk9CX1RPS0VOfUBnaXRsYWIuY29tL2ZyYW5jZS1jb25uZWN0L0luZnJhIiAkQVBQX1VTRVIKICAtIHN1IC1jICJnaXQgY2xvbmUgaHR0cHM6Ly9naXRsYWItY2ktdG9rZW46JHtDSV9KT0JfVE9LRU59QGdpdGxhYi5jb20vZnJhbmNlLWNvbm5lY3Qvcm5pcHAtbW9jayIgJEFQUF9VU0VSCiAgLSBzdSAtYyAiZ2l0IGNsb25lIGh0dHBzOi8vZ2l0aHViLmNvbS9mcmFuY2UtY29ubmVjdC9pZGVudGl0eS1wcm92aWRlci1leGFtcGxlLmdpdCIgJEFQUF9VU0VSCiAgLSBzdSAtYyAiZ2l0IGNsb25lIGh0dHBzOi8vZ2l0aHViLmNvbS9mcmFuY2UtY29ubmVjdC9zZXJ2aWNlLXByb3ZpZGVyLWV4YW1wbGUuZ2l0IiAkQVBQX1VTRVIKICAtIHN1IC1jICJnaXQgY2xvbmUgaHR0cHM6Ly9naXRodWIuY29tL2ZyYW5jZS1jb25uZWN0L2RhdGEtcHJvdmlkZXItZXhhbXBsZS5naXQiICRBUFBfVVNFUgogIC0gY2QgJENJX1BST0pFQ1RfRElSL2RvY2tlci92b2x1bWVzCiAgLSBsbiAtcyAkQ0lfUFJPSkVDVF9ESVIvLi4vRnJhbmNlQ29ubmVjdAogIC0gbG4gLXMgJENJX1BST0pFQ1RfRElSLy4uL3JuaXBwLW1vY2sKICAtIGxuIC1zICRDSV9QUk9KRUNUX0RJUi8uLi9pZGVudGl0eS1wcm92aWRlci1leGFtcGxlCiAgLSBsbiAtcyAkQ0lfUFJPSkVDVF9ESVIvLi4vc2VydmljZS1wcm92aWRlci1leGFtcGxlCiAgLSBsbiAtcyAkQ0lfUFJPSkVDVF9ESVIvLi4vZGF0YS1wcm92aWRlci1leGFtcGxlCg==</text>
+        <text encoding="base64">ICAtIGNkIC4uCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2NlbnRvcy1iYXNlL3JwL2c=</text>
