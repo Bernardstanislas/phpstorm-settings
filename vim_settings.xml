@@ -180,12 +180,12 @@
       <file name="$USER_HOME$/Documents/code/simplesamlphp/templates/login.php" timestamp="1541693235848">
         <mark key="[" line="15" column="2" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/foobar/experimental/docker/docker-stack" timestamp="1556527920639">
+      <file name="$USER_HOME$/Documents/code/france-connect/foobar/experimental/docker/docker-stack" timestamp="1556530524560">
         <mark key="'" line="50" column="46" />
-        <mark key="[" line="158" column="51" />
-        <mark key="]" line="50" column="46" />
-        <mark key="." line="50" column="46" />
-        <mark key="^" line="50" column="56" />
+        <mark key="[" line="81" column="76" />
+        <mark key="]" line="65" column="79" />
+        <mark key="." line="65" column="76" />
+        <mark key="^" line="151" column="0" />
       </file>
       <file name="/a.sql" timestamp="1553552505717">
         <mark key="[" line="0" column="0" />
@@ -646,7 +646,7 @@
         <text>http://devlocal.businessimmo.com</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IC0tbm8tYnVpbGQ=</text>
+        <text encoding="base64">LVQg</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
@@ -657,8 +657,8 @@
       <register name="/" type="4">
         <text>init</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIC0gZG9ja2VyIHB1bGwgJENJX1JFR0lTVFJZL2c0dnJvY2hlL2Zvb2Jhci9mcmFuY2Vjb25uZWN0L21vbmdvZDp0ZXN0LWJ1aWxkCiAgICAtIGRvY2tlciB0YWcgJENJX1JFR0lTVFJZL2c0dnJvY2hlL2Zvb2Jhci9mcmFuY2Vjb25uZWN0L21vbmdvZDp0ZXN0LWJ1aWxkIGZyYW5jZWNvbm5lY3QvbW9uZ29kCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">LVQg</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIC0gZG9ja2VyIHRhZyAkQ0lfUkVHSVNUUlkvZzR2cm9jaGUvZm9vYmFyL2ZyYW5jZWNvbm5lY3QvbW9uZ29kOnRlc3QtYnVpbGQgZnJhbmNlY29ubmVjdC9tb25nb2QK</text>
