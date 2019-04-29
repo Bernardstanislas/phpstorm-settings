@@ -266,8 +266,10 @@
       <file name="/alto.app_users [alto@localhost]" timestamp="1540895428308">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/Infra/docker/volumes/.gitignore" timestamp="1556024438598">
-        <mark key="[" line="6" column="11" />
+      <file name="$USER_HOME$/Documents/code/france-connect/Infra/docker/volumes/.gitignore" timestamp="1556545915559">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/blog/routes/web.php" timestamp="1541360882749">
         <mark key="[" line="14" column="27" />
@@ -287,6 +289,9 @@
       <file name="/fragment.js" timestamp="1546092896444">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/Infra/docker/README.md" timestamp="1556545890356">
+        <mark key="[" line="50" column="20" />
+      </file>
       <file name="$USER_HOME$/Documents/code/alto-espace-emprunteur/client/src/components/Header/tests/Header.test.js" timestamp="1540201904512">
         <mark key="[" line="16" column="15" />
       </file>
@@ -296,11 +301,12 @@
       <file name="/business_immo_legacy.activity_sectors [Business immo legacy]" timestamp="1542805803223">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/Infra/.gitlab-ci.yml" timestamp="1556544533635">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="21" column="103" />
-        <mark key="." line="21" column="103" />
-        <mark key="^" line="21" column="103" />
+      <file name="$USER_HOME$/Documents/code/france-connect/Infra/.gitlab-ci.yml" timestamp="1556546836549">
+        <mark key="'" line="35" column="2" />
+        <mark key="[" line="1" column="4" />
+        <mark key="]" line="1" column="8" />
+        <mark key="." line="1" column="8" />
+        <mark key="^" line="1" column="8" />
       </file>
       <file name="/business_immo_legacy.user_roles [Business immo legacy]" timestamp="1543854934084">
         <mark key="[" line="0" column="0" />
@@ -401,6 +407,12 @@
       </file>
       <file name="/francis.public.app_users [francis@localhost]" timestamp="1547200602261">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/Infra/docker/docker-stack" timestamp="1556546653005">
+        <mark key="[" line="1" column="33" />
+        <mark key="]" line="1" column="33" />
+        <mark key="." line="1" column="33" />
+        <mark key="^" line="2" column="45" />
       </file>
       <file name="/alto-test.app_users [alto-test]" timestamp="1539672566207">
         <mark key="[" line="0" column="0" />
@@ -545,12 +557,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/code/business-immo-directory/src/Entity/User.php" />
-      <jump line="13" column="27" filename="$USER_HOME$/Documents/code/business-immo-directory/gulpfile.js" />
-      <jump line="13" column="43" filename="$USER_HOME$/Documents/code/business-immo-directory/cap/stages/alkante_tasks.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/code/business-immo-directory/cap/stages/alkante_tasks.rb" />
-      <jump line="22" column="8" filename="$USER_HOME$/Documents/code/business-immo-directory/config/services.yaml" />
-      <jump line="18" column="6" filename="$USER_HOME$/Documents/code/business-immo-directory/src/Entity/Subscriber.php" />
       <jump line="601" column="49" filename="$USER_HOME$/Documents/code/business-immo-directory/src/Entity/Subscriber.php" />
       <jump line="26" column="0" filename="$USER_HOME$/Documents/code/business-immo-directory/src/Controller/Front/AccountController.php" />
       <jump line="17" column="3" filename="$USER_HOME$/Documents/code/daju/app/Http/Controllers/TemplateController.php" />
@@ -645,69 +651,75 @@
       <jump line="40" column="69" filename="$USER_HOME$/Documents/code/france-connect/foobar/.gitlab-ci.yml" />
       <jump line="50" column="46" filename="$USER_HOME$/Documents/code/france-connect/foobar/experimental/docker/docker-stack" />
       <jump line="17" column="25" filename="$USER_HOME$/Documents/code/france-connect/foobar/.gitlab-ci.yml" />
+      <jump line="38" column="0" filename="$USER_HOME$/Documents/code/france-connect/Infra/.gitlab-ci.yml" />
+      <jump line="40" column="2" filename="$USER_HOME$/Documents/code/france-connect/Infra/.gitlab-ci.yml" />
+      <jump line="42" column="2" filename="$USER_HOME$/Documents/code/france-connect/Infra/.gitlab-ci.yml" />
+      <jump line="44" column="2" filename="$USER_HOME$/Documents/code/france-connect/Infra/.gitlab-ci.yml" />
+      <jump line="46" column="2" filename="$USER_HOME$/Documents/code/france-connect/Infra/.gitlab-ci.yml" />
+      <jump line="48" column="2" filename="$USER_HOME$/Documents/code/france-connect/Infra/.gitlab-ci.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>http://devlocal.businessimmo.com</text>
       </register>
       <register name="&quot;" type="4">
-        <text>docker:image:</text>
+        <text>.</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>docker:image:</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>init</text>
+        <text>centos-base</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC0gLi9kb2NrZXItc3RhY2sgYnVpbGQgY2VudG9zLWJhc2UK</text>
+        <text encoding="base64">ICAtIGRvY2tlciB0YWcgZnJhbmNlY29ubmVjdC9jZW50b3MtYmFzZSAkQ0lfUkVHSVNUUlkvJENJX1BST0pFQ1RfUEFUSF9TTFVHL2ZyYW5jZWNvbm5lY3QvY2VudG9zLWJhc2U6JENJX0NPTU1JVF9SRUZfTkFNRQogIC0gZG9ja2VyIHB1c2ggJENJX1JFR0lTVFJZLyRDSV9QUk9KRUNUX1BBVEhfU0xVRy9mcmFuY2Vjb25uZWN0L2NlbnRvcy1iYXNlOiRDSV9DT01NSVRfUkVGX05BTUUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LSBwaXAgaW5zdGFsbCBkb2NrZXItY29tcG9zZQo=</text>
+        <text encoding="base64">PT09PT09PQpXT1JLSU5HX0RJUj1gZGlybmFtZSAkKHJlYWRsaW5rIC1mICIkMCIpYAo+Pj4+Pj4+IFtGQ1AtMjA2XSA6d3JlbmNoOiBVc2Ugc2ggaW5zdGVhZCBvZiBiYXNoIHdoZW4gYnVpbGRpbmcgaW1hZ2VzCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC0gLi9kb2NrZXItc3RhY2sgYnVpbGQgY2VudG9zLWJhc2UKICAgIC0gZG9ja2VyIHRhZyBmcmFuY2Vjb25uZWN0L2NlbnRvcy1iYXNlICRDSV9SRUdJU1RSWS9nNHZyb2NoZS9mb29iYXIvZnJhbmNlY29ubmVjdC9jZW50b3MtYmFzZTp0ZXN0LWJ1aWxkCiAgICAtIGRvY2tlciBwdXNoICRDSV9SRUdJU1RSWS9nNHZyb2NoZS9mb29iYXIvZnJhbmNlY29ubmVjdC9jZW50b3MtYmFzZTp0ZXN0LWJ1aWxkCiAgICAtIHN1IC1jICIuL2RvY2tlci1zdGFjayBidWlsZCBub2RlanMiIGNpCiAgICAtIGRvY2tlciB0YWcgZnJhbmNlY29ubmVjdC9ub2RlanMgJENJX1JFR0lTVFJZL2c0dnJvY2hlL2Zvb2Jhci9mcmFuY2Vjb25uZWN0L25vZGVqczp0ZXN0LWJ1aWxkCiAgICAtIGRvY2tlciBwdXNoICRDSV9SRUdJU1RSWS9nNHZyb2NoZS9mb29iYXIvZnJhbmNlY29ubmVjdC9ub2RlanM6dGVzdC1idWlsZAo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiMhL2Jpbi9iYXNoCg==</text>
       </register>
       <register name="r" type="4">
         <text>technical_accounting.account.filters.period</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC0gZWNobyAiY2kgQUxMPShBTEwpIE5PUEFTU1dEOkFMTCIgPj4gL2V0Yy9zdWRvZXJzCg==</text>
+        <text encoding="base64">IyEvYmluL3NoCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC0gc3UgY2kK</text>
+        <text encoding="base64">L3JuaXBwCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC0gd2hvYW1pCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAtIGNkIC4uCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC0gZG9ja2VyIHRhZyBmcmFuY2Vjb25uZWN0L2VsYXN0aWNzZWFyY2ggJENJX1JFR0lTVFJZL2c0dnJvY2hlL2Zvb2Jhci9mcmFuY2Vjb25uZWN0L2VsYXN0aWNzZWFyY2g6dGVzdC1idWlsZAogICAgLSBkb2NrZXIgcHVzaCAkQ0lfUkVHSVNUUlkvZzR2cm9jaGUvZm9vYmFyL2ZyYW5jZWNvbm5lY3QvZWxhc3RpY3NlYXJjaDp0ZXN0LWJ1aWxkCiAgICAtIGRvY2tlciB0YWcgZnJhbmNlY29ubmVjdC9sb2djb2xsZWN0ICRDSV9SRUdJU1RSWS9nNHZyb2NoZS9mb29iYXIvZnJhbmNlY29ubmVjdC9sb2djb2xsZWN0OnRlc3QtYnVpbGQKICAgIC0gZG9ja2VyIHB1c2ggJENJX1JFR0lTVFJZL2c0dnJvY2hlL2Zvb2Jhci9mcmFuY2Vjb25uZWN0L2xvZ2NvbGxlY3Q6dGVzdC1idWlsZAogICAgLSBkb2NrZXIgdGFnIGZyYW5jZWNvbm5lY3QvbW9uZ29kICRDSV9SRUdJU1RSWS9nNHZyb2NoZS9mb29iYXIvZnJhbmNlY29ubmVjdC9tb25nb2Q6dGVzdC1idWlsZAogICAgLSBkb2NrZXIgcHVzaCAkQ0lfUkVHSVNUUlkvZzR2cm9jaGUvZm9vYmFyL2ZyYW5jZWNvbm5lY3QvbW9uZ29kOnRlc3QtYnVpbGQK</text>
+        <text encoding="base64">ICAtIHN1IC1jICJnaXQgY2xvbmUgaHR0cHM6Ly9naXRsYWItY2ktdG9rZW46JHtDSV9KT0JfVE9LRU59QGdpdGxhYi5jb20vZnJhbmNlLWNvbm5lY3QvRnJhbmNlQ29ubmVjdCIgJEFQUF9VU0VSCiAgLSBzdSAtYyAiZ2l0IGNsb25lIGh0dHBzOi8vZ2l0bGFiLWNpLXRva2VuOiR7Q0lfSk9CX1RPS0VOfUBnaXRsYWIuY29tL2ZyYW5jZS1jb25uZWN0L0luZnJhIiAkQVBQX1VTRVIKICAtIHN1IC1jICJnaXQgY2xvbmUgaHR0cHM6Ly9naXRsYWItY2ktdG9rZW46JHtDSV9KT0JfVE9LRU59QGdpdGxhYi5jb20vZnJhbmNlLWNvbm5lY3Qvcm5pcHAtbW9jayIgJEFQUF9VU0VSCiAgLSBzdSAtYyAiZ2l0IGNsb25lIGh0dHBzOi8vZ2l0aHViLmNvbS9mcmFuY2UtY29ubmVjdC9pZGVudGl0eS1wcm92aWRlci1leGFtcGxlLmdpdCIgJEFQUF9VU0VSCiAgLSBzdSAtYyAiZ2l0IGNsb25lIGh0dHBzOi8vZ2l0aHViLmNvbS9mcmFuY2UtY29ubmVjdC9zZXJ2aWNlLXByb3ZpZGVyLWV4YW1wbGUuZ2l0IiAkQVBQX1VTRVIKICAtIHN1IC1jICJnaXQgY2xvbmUgaHR0cHM6Ly9naXRodWIuY29tL2ZyYW5jZS1jb25uZWN0L2RhdGEtcHJvdmlkZXItZXhhbXBsZS5naXQiICRBUFBfVVNFUgogIC0gY2QgJENJX1BST0pFQ1RfRElSL2RvY2tlci92b2x1bWVzCiAgLSBsbiAtcyAkQ0lfUFJPSkVDVF9ESVIvLi4vRnJhbmNlQ29ubmVjdAogIC0gbG4gLXMgJENJX1BST0pFQ1RfRElSLy4uL3JuaXBwLW1vY2sKICAtIGxuIC1zICRDSV9QUk9KRUNUX0RJUi8uLi9pZGVudGl0eS1wcm92aWRlci1leGFtcGxlCiAgLSBsbiAtcyAkQ0lfUFJPSkVDVF9ESVIvLi4vc2VydmljZS1wcm92aWRlci1leGFtcGxlCiAgLSBsbiAtcyAkQ0lfUFJPSkVDVF9ESVIvLi4vZGF0YS1wcm92aWRlci1leGFtcGxlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC0gc3VkbyAtaSBjaQo=</text>
+        <text encoding="base64">ICAtIGRvY2tlciB0YWcgZnJhbmNlY29ubmVjdC9jZW50b3MtYmFzZSAkQ0lfUkVHSVNUUlkvJENJX1BST0pFQ1RfUEFUSF9TTFVHL2ZyYW5jZWNvbm5lY3QvY2VudG9zLWJhc2U6JENJX0NPTU1JVF9SRUZfTkFNRQogIC0gZG9ja2VyIHB1c2ggJENJX1JFR0lTVFJZLyRDSV9QUk9KRUNUX1BBVEhfU0xVRy9mcmFuY2Vjb25uZWN0L2NlbnRvcy1iYXNlOiRDSV9DT01NSVRfUkVGX05BTUUKICAtIGRvY2tlciB0YWcgZnJhbmNlY29ubmVjdC9jZW50b3MtYmFzZSAkQ0lfUkVHSVNUUlkvJENJX1BST0pFQ1RfUEFUSF9TTFVHL2ZyYW5jZWNvbm5lY3QvY2VudG9zLWJhc2U6JENJX0NPTU1JVF9SRUZfTkFNRQogIC0gZG9ja2VyIHB1c2ggJENJX1JFR0lTVFJZLyRDSV9QUk9KRUNUX1BBVEhfU0xVRy9mcmFuY2Vjb25uZWN0L2NlbnRvcy1iYXNlOiRDSV9DT01NSVRfUkVGX05BTUUKICAtIGRvY2tlciB0YWcgZnJhbmNlY29ubmVjdC9jZW50b3MtYmFzZSAkQ0lfUkVHSVNUUlkvJENJX1BST0pFQ1RfUEFUSF9TTFVHL2ZyYW5jZWNvbm5lY3QvY2VudG9zLWJhc2U6JENJX0NPTU1JVF9SRUZfTkFNRQogIC0gZG9ja2VyIHB1c2ggJENJX1JFR0lTVFJZLyRDSV9QUk9KRUNUX1BBVEhfU0xVRy9mcmFuY2Vjb25uZWN0L2NlbnRvcy1iYXNlOiRDSV9DT01NSVRfUkVGX05BTUUKCgoKICAtIGRvY2tlciBwdWxsICRDSV9SRUdJU1RSWS9nNHZyb2NoZS9mb29iYXIvZnJhbmNlY29ubmVjdC9jZW50b3MtYmFzZTp0ZXN0LWJ1aWxkCiAgLSBkb2NrZXIgdGFnICRDSV9SRUdJU1RSWS9nNHZyb2NoZS9mb29iYXIvZnJhbmNlY29ubmVjdC9jZW50b3MtYmFzZTp0ZXN0LWJ1aWxkIGZyYW5jZWNvbm5lY3QvY2VudG9zLWJhc2UKICAtIGRvY2tlciBwdWxsICRDSV9SRUdJU1RSWS9nNHZyb2NoZS9mb29iYXIvZnJhbmNlY29ubmVjdC9lbGFzdGljc2VhcmNoOnRlc3QtYnVpbGQKICAtIGRvY2tlciB0YWcgJENJX1JFR0lTVFJZL2c0dnJvY2hlL2Zvb2Jhci9mcmFuY2Vjb25uZWN0L2VsYXN0aWNzZWFyY2g6dGVzdC1idWlsZCBmcmFuY2Vjb25uZWN0L2VsYXN0aWNzZWFyY2gKICAtIGRvY2tlciBwdWxsICRDSV9SRUdJU1RSWS9nNHZyb2NoZS9mb29iYXIvZnJhbmNlY29ubmVjdC9sb2djb2xsZWN0OnRlc3QtYnVpbGQKICAtIGRvY2tlciB0YWcgJENJX1JFR0lTVFJZL2c0dnJvY2hlL2Zvb2Jhci9mcmFuY2Vjb25uZWN0L2xvZ2NvbGxlY3Q6dGVzdC1idWlsZCBmcmFuY2Vjb25uZWN0L2xvZ2NvbGxlY3QKICAtIGRvY2tlciBwdWxsICRDSV9SRUdJU1RSWS9nNHZyb2NoZS9mb29iYXIvZnJhbmNlY29ubmVjdC9tb25nb2Q6dGVzdC1idWlsZAogIC0gZG9ja2VyIHRhZyAkQ0lfUkVHSVNUUlkvZzR2cm9jaGUvZm9vYmFyL2ZyYW5jZWNvbm5lY3QvbW9uZ29kOnRlc3QtYnVpbGQgZnJhbmNlY29ubmVjdC9tb25nb2QKICAtIGRvY2tlciBwdWxsICRDSV9SRUdJU1RSWS9nNHZyb2NoZS9mb29iYXIvZnJhbmNlY29ubmVjdC9tb25nb2RiLW1vY2tzOnRlc3QtYnVpbGQKICAtIGRvY2tlciB0YWcgJENJX1JFR0lTVFJZL2c0dnJvY2hlL2Zvb2Jhci9mcmFuY2Vjb25uZWN0L21vbmdvZGItbW9ja3M6dGVzdC1idWlsZCBmcmFuY2Vjb25uZWN0L21vbmdvZGItbW9ja3MKICAtIGRvY2tlciBwdWxsICRDSV9SRUdJU1RSWS9nNHZyb2NoZS9mb29iYXIvZnJhbmNlY29ubmVjdC9ub2RlanM6dGVzdC1idWlsZAogIC0gZG9ja2VyIHRhZyAkQ0lfUkVHSVNUUlkvZzR2cm9jaGUvZm9vYmFyL2ZyYW5jZWNvbm5lY3Qvbm9kZWpzOnRlc3QtYnVpbGQgZnJhbmNlY29ubmVjdC9ub2RlanMKICAtIGRvY2tlciBwdWxsICRDSV9SRUdJU1RSWS9nNHZyb2NoZS9mb29iYXIvZnJhbmNlY29ubmVjdC9ycDp0ZXN0LWJ1aWxkCiAgLSBkb2NrZXIgdGFnICRDSV9SRUdJU1RSWS9nNHZyb2NoZS9mb29iYXIvZnJhbmNlY29ubmVjdC9ycDp0ZXN0LWJ1aWxkIGZyYW5jZWNvbm5lY3QvcnAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC0gZXhpdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL21vbmdvZC9tb25nb2RiLW1vY2tzL2c=</text>
+        <text encoding="base64">JzwsJz5zL2NlbnRvcy1iYXNlL3JwL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>init</last-search>
+      <last-search>centos-base</last-search>
       <last-offset />
-      <last-pattern>init</last-pattern>
-      <last-replace>mongodb-mocks</last-replace>
-      <last-substitute>init</last-substitute>
+      <last-pattern>centos-base</last-pattern>
+      <last-replace>rp</last-replace>
+      <last-substitute>centos-base</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -725,7 +737,6 @@
         <entry encoding="base64">XDxDcnlwdG9IZWxwZXJcPg==</entry>
         <entry encoding="base64">XDxjcnlwdG9IZWxwZXJcPg==</entry>
         <entry encoding="base64">XDxjaXBoZXJQYXNzXD4=</entry>
-        <entry>centos-base</entry>
         <entry>g4vroche\/foobar</entry>
         <entry>france-connect\/infra</entry>
         <entry>push</entry>
@@ -733,20 +744,15 @@
         <entry>up</entry>
         <entry>mongod</entry>
         <entry>init</entry>
+        <entry>centos-base</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL1w6XC9cL2RldmxvY2FsL3NcOlwvXC9kZXZ3d3cvZw==</entry>
-        <entry encoding="base64">JzwsJz5zL2Rldnd3dy93d3cvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2J1c2luZXNzaW1tb1wuZGV2L2ZlYXR1cmUtc2FtbFwuYnVzaW5lc3NpbW1vXC5tYml6XC5pby9n</entry>
         <entry encoding="base64">JzwsJz5zL2ZlYXR1cmUtc2FtbC9kZXZlbG9wL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2RldmVsb3BcLmJ1c2luZXNzaW1tb1wubWJpelwuaW8vYm91dGlxdWVcLmJ1c2luZXNzaW1tb1wuY29tL2c=</entry>
         <entry>w</entry>
         <entry>x</entry>
         <entry encoding="base64">JzwsJz5zL2NlbnRvcy1iYXNlL2VsYXN0aWMvZw==</entry>
-        <entry encoding="base64">JzwsJz5zL2NlbnRvcy1iYXNlL2xvZ2NvbGxlY3QvZw==</entry>
-        <entry encoding="base64">JzwsJz5zL2NlbnRvcy1iYXNlL21vbmdvZC9n</entry>
-        <entry encoding="base64">JzwsJz5zL2NlbnRvcy1iYXNlL25vZGVqcy9n</entry>
-        <entry encoding="base64">JzwsJz5zL2NlbnRvcy1iYXNlL3JwL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2c0dnJvY2hlXC9mb29iYXIvZnJhbmNlLWNvbm5lY3RcL2luZnJhL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2ZyYW5jZS1jb25uZWN0XC9pbmZyYS9nNHZyb2NoZVwvZm9vYmFyL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3B1c2gvcHVsbC9n</entry>
@@ -755,6 +761,12 @@
         <entry encoding="base64">JzwsJz5zL21vbmRvZ2RiL21vbmdvZGIvZw==</entry>
         <entry encoding="base64">JzwsJz5zL21vbmdvZC9tb25nb2RiLW1vY2tzL0c=</entry>
         <entry encoding="base64">JzwsJz5zL21vbmdvZC9tb25nb2RiLW1vY2tzL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL2NlbnRvcy1iYXNlL2VsYXN0aWNzZWFyY2gvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL2NlbnRvcy1iYXNlL2xvZ2NvbGxlY3QvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL2NlbnRvcy1iYXNlL21vbmdvZC9n</entry>
+        <entry encoding="base64">JzwsJz5zL2NlbnRvcy1iYXNlL21vbmdvZGItbW9ja3MvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL2NlbnRvcy1iYXNlL25vZGVqcy9n</entry>
+        <entry encoding="base64">JzwsJz5zL2NlbnRvcy1iYXNlL3JwL2c=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
