@@ -54,9 +54,9 @@
       <file name="$USER_HOME$/Documents/code/blog/.gitignore" timestamp="1549105786496">
         <mark key="[" line="115" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/test-gitlab-ci/.gitlab-ci.yml" timestamp="1556637030461">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
+      <file name="$USER_HOME$/Documents/code/france-connect/test-gitlab-ci/.gitlab-ci.yml" timestamp="1556637613057">
+        <mark key="[" line="9" column="17" />
+        <mark key="]" line="9" column="39" />
         <mark key="." line="19" column="0" />
         <mark key="^" line="18" column="32" />
       </file>
@@ -187,11 +187,12 @@
       <file name="/app_users [francis@localhost]" timestamp="1547200899685">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/.gitlab-ci.yml" timestamp="1556635729194">
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/.gitlab-ci.yml" timestamp="1556637772985">
         <mark key="'" line="58" column="35" />
-        <mark key="[" line="76" column="24" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
+        <mark key="[" line="80" column="49" />
+        <mark key="]" line="80" column="49" />
+        <mark key="." line="80" column="49" />
+        <mark key="^" line="79" column="54" />
       </file>
       <file name="$USER_HOME$/Documents/code/portail.io/README.md" timestamp="1548948601475">
         <mark key="[" line="0" column="0" />
@@ -707,20 +708,20 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC0gdW50aWwgJChjdXJsIC0tb3V0cHV0IC9kZXYvbnVsbCAtLXNpbGVudCAtLWhlYWQgLS1mYWlsIGh0dHA6Ly90ZXN0LmxvY2FsOjMwMDApOyBkbyBwcmludGYgJy4nIHNsZWVwIDUgZG9uZQogICAgLSBlY2hvICJDb250YWN0Igo=</text>
+      <register name="&quot;" type="4">
+        <text>verify</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>myhost</text>
+        <text>verify</text>
       </register>
       <register name="/" type="4">
         <text>franceconnect\/</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAtIHBpcCBpbnN0YWxsIGRvY2tlci1jb21wb3NlCg==</text>
+        <text encoding="base64">ICAgIC0gZG9ja2VyIGV4ZWMgLWQgY3lwcmVzcyAiJChucG0gYmluKS9jeXByZXNzIHZlcmlmeSIK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIC0gdW50aWwgJChjdXJsIC0tb3V0cHV0IC9kZXYvbnVsbCAtLXNpbGVudCAtLWhlYWQgLS1mYWlsIGh0dHA6Ly90ZXN0LmxvY2FsOjMwMDApOyBkbyBwcmludGYgJy4nIHNsZWVwIDUgZG9uZQogICAgLSBlY2hvICJDb250YWN0Igo=</text>
