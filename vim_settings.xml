@@ -308,11 +308,12 @@
       <file name="/business_immo_legacy.activity_sectors [Business immo legacy]" timestamp="1542805803223">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/Infra/.gitlab-ci.yml" timestamp="1556615661413">
-        <mark key="'" line="23" column="66" />
-        <mark key="[" line="19" column="50" />
-        <mark key="]" line="37" column="68" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/Documents/code/france-connect/Infra/.gitlab-ci.yml" timestamp="1556618559277">
+        <mark key="'" line="30" column="66" />
+        <mark key="[" line="18" column="17" />
+        <mark key="]" line="18" column="13" />
+        <mark key="." line="18" column="13" />
+        <mark key="^" line="18" column="13" />
       </file>
       <file name="/business_immo_legacy.user_roles [Business immo legacy]" timestamp="1543854934084">
         <mark key="[" line="0" column="0" />
