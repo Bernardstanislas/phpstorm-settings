@@ -54,6 +54,9 @@
       <file name="$USER_HOME$/Documents/code/alto-espace-emprunteur/client/src/components/Messages/MessageList/index.js" timestamp="1539763616649">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/.ci/hosts" timestamp="1556631353975">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/code/daju/app/Http/Controllers/Auth/ResetPasswordController.php" timestamp="1552577176782">
         <mark key="[" line="27" column="30" />
       </file>
@@ -172,16 +175,17 @@
       <file name="/app_users [francis@localhost]" timestamp="1547200899685">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/.gitlab-ci.yml" timestamp="1556629346548">
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/.gitlab-ci.yml" timestamp="1556631396217">
         <mark key="'" line="58" column="35" />
-        <mark key="[" line="26" column="0" />
+        <mark key="[" line="66" column="25" />
         <mark key="]" line="26" column="6" />
         <mark key="." line="26" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/code/portail.io/README.md" timestamp="1548948601475">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/cypress/integration/mire.spec.js" timestamp="1556613300930">
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/cypress/integration/mire.spec.js" timestamp="1556631175210">
+        <mark key="'" line="75" column="0" />
         <mark key="[" line="16" column="10" />
         <mark key="]" line="16" column="10" />
         <mark key="." line="16" column="10" />
@@ -561,7 +565,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="0" filename="$USER_HOME$/Documents/code/business-immo-directory/devops/provisioning/group_vars/production" />
       <jump line="67" column="39" filename="$USER_HOME$/Documents/code/business-immo-directory/devops/provisioning/group_vars/preproduction" />
       <jump line="97" column="2" filename="$USER_HOME$/Documents/code/business-immo-directory/devops/provisioning/group_vars/preproduction" />
       <jump line="63" column="2" filename="$USER_HOME$/Documents/code/business-immo-directory/devops/provisioning/group_vars/production" />
@@ -661,6 +664,7 @@
       <jump line="74" column="1" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/cypress/integration/mire.spec.js" />
       <jump line="49" column="15" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/.gitlab-ci.yml" />
       <jump line="50" column="35" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/.gitlab-ci.yml" />
+      <jump line="75" column="0" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/cypress/integration/mire.spec.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -686,14 +690,14 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y2FjaGU6CiAgcGF0aHM6CiAgICAtIC91c3IvbGliL3B5dGhvbjIuNy9zaXRlLXBhY2thZ2VzCiAgICAtIC9yb290Ly5jYWNoZS9waXAKICAgIC0gL3Zhci9saWIvZG9ja2VyL2F1ZnMvZGlmZgogICAgLSAvdmFyL2xpYi9kb2NrZXIvcmVwb3NpdG9yaWVzLWF1ZnMK</text>
+      <register name="&quot;" type="4">
+        <text>a img</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>local</text>
+        <text>a img</text>
       </register>
       <register name="/" type="4">
         <text>franceconnect\/</text>
