@@ -175,12 +175,12 @@
       <file name="/app_users [francis@localhost]" timestamp="1547200899685">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/.gitlab-ci.yml" timestamp="1556632501668">
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/.gitlab-ci.yml" timestamp="1556633636819">
         <mark key="'" line="58" column="35" />
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="31" />
-        <mark key="." line="70" column="0" />
-        <mark key="^" line="68" column="23" />
+        <mark key="[" line="76" column="22" />
+        <mark key="]" line="76" column="23" />
+        <mark key="." line="76" column="23" />
+        <mark key="^" line="76" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/code/portail.io/README.md" timestamp="1548948601475">
         <mark key="[" line="0" column="0" />
@@ -691,14 +691,14 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC0gLi9kb2NrZXItc3RhY2sgc3RhcnQgZmRwMQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>a img</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>franceconnect\/</text>
