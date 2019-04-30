@@ -175,11 +175,11 @@
       <file name="$USER_HOME$/Documents/code/portail.io/README.md" timestamp="1548948601475">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/cypress/integration/mire.spec.js" timestamp="1556552187257">
-        <mark key="'" line="74" column="0" />
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/cypress/integration/mire.spec.js" timestamp="1556613300930">
         <mark key="[" line="16" column="10" />
         <mark key="]" line="16" column="10" />
         <mark key="." line="16" column="10" />
+        <mark key="^" line="2" column="59" />
       </file>
       <file name="$USER_HOME$/Documents/code/france-connect/Infra/docker/docker-compose.yml" timestamp="1556553679109">
         <mark key="[" line="216" column="0" />
@@ -554,7 +554,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="3" filename="$USER_HOME$/Documents/code/daju/app/Http/Controllers/TemplateController.php" />
       <jump line="68" column="41" filename="$USER_HOME$/Documents/code/daju/app/Http/Controllers/Api/PrintController.php" />
       <jump line="36" column="9" filename="$USER_HOME$/Documents/code/business-immo-directory/devops/provisioning/group_vars/preproduction" />
       <jump line="48" column="0" filename="$USER_HOME$/Documents/code/business-immo-directory/devops/provisioning/group_vars/production" />
@@ -653,14 +652,15 @@
       <jump line="46" column="2" filename="$USER_HOME$/Documents/code/france-connect/Infra/.gitlab-ci.yml" />
       <jump line="48" column="2" filename="$USER_HOME$/Documents/code/france-connect/Infra/.gitlab-ci.yml" />
       <jump line="24" column="66" filename="$USER_HOME$/Documents/code/france-connect/Infra/.gitlab-ci.yml" />
-      <jump line="74" column="0" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/cypress/integration/mire.spec.js" />
+      <jump line="63" column="6" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/cypress/integration/mire.spec.js" />
+      <jump line="74" column="1" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/cypress/integration/mire.spec.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>http://devlocal.businessimmo.com</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG5ldHdvcmtzOgogICAgICAtIGZjCg==</text>
+      <register name="&quot;" type="4">
+        <text>a img</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
@@ -675,37 +675,37 @@
         <text>$CI_REGISTRY/</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG5ldHdvcmtzOgogICAgICAtIGZjCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC0gZWNobyAkUkVHSVNUUllfUFJFRklYCiAgICAtIGVjaG8gJFJFR0lTVFJZX1NVRkZJWAogICAgLSBlY2hvICIkUkVHSVNUUllfUFJFRklYL2ZyYW5jZWNvbm5lY3QvY2VudG9zLWJhc2U6JFJFR0lTVFJZX1NVRkZJWCIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>technical_accounting.account.filters.period</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC0gZWNobyAkQ0lfUFJPSkVDVF9QQVRICg==</text>
+        <text encoding="base64">ICAgIG5ldHdvcmtzOgogICAgICAtIGZjCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PT09PT09PQpXT1JLSU5HX0RJUj1gZGlybmFtZSAkKHJlYWRsaW5rIC1mICIkMCIpYAo+Pj4+Pj4+IFtGQ1AtMjA2XSA6d3JlbmNoOiBVc2Ugc2ggaW5zdGVhZCBvZiBiYXNoIHdoZW4gYnVpbGRpbmcgaW1hZ2VzCg==</text>
+        <text encoding="base64">ICAgIC0gZWNobyAkUkVHSVNUUllfUFJFRklYCiAgICAtIGVjaG8gJFJFR0lTVFJZX1NVRkZJWAogICAgLSBlY2hvICIkUkVHSVNUUllfUFJFRklYL2ZyYW5jZWNvbm5lY3QvY2VudG9zLWJhc2U6JFJFR0lTVFJZX1NVRkZJWCIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiMhL2Jpbi9iYXNoCg==</text>
+        <text encoding="base64">ICAgIC0gZWNobyAkQ0lfUFJPSkVDVF9QQVRICg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyEvYmluL3NoCg==</text>
+        <text encoding="base64">PT09PT09PQpXT1JLSU5HX0RJUj1gZGlybmFtZSAkKHJlYWRsaW5rIC1mICIkMCIpYAo+Pj4+Pj4+IFtGQ1AtMjA2XSA6d3JlbmNoOiBVc2Ugc2ggaW5zdGVhZCBvZiBiYXNoIHdoZW4gYnVpbGRpbmcgaW1hZ2VzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">L3JuaXBwCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiMhL2Jpbi9iYXNoCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">IyEvYmluL3NoCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAtIGNkIC4uCg==</text>
+        <text encoding="base64">L3JuaXBwCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2NlbnRvcy1iYXNlL3JwL2c=</text>
