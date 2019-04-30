@@ -172,11 +172,11 @@
       <file name="/app_users [francis@localhost]" timestamp="1547200899685">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/.gitlab-ci.yml" timestamp="1556615533813">
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/.gitlab-ci.yml" timestamp="1556616405556">
         <mark key="'" line="50" column="35" />
-        <mark key="[" line="9" column="41" />
-        <mark key="]" line="37" column="35" />
-        <mark key="." line="37" column="35" />
+        <mark key="[" line="20" column="62" />
+        <mark key="]" line="20" column="62" />
+        <mark key="." line="20" column="62" />
         <mark key="^" line="37" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/code/portail.io/README.md" timestamp="1548948601475">
@@ -309,9 +309,9 @@
       <file name="/business_immo_legacy.activity_sectors [Business immo legacy]" timestamp="1542805803223">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/Infra/.gitlab-ci.yml" timestamp="1556613727851">
+      <file name="$USER_HOME$/Documents/code/france-connect/Infra/.gitlab-ci.yml" timestamp="1556615661413">
         <mark key="'" line="23" column="66" />
-        <mark key="[" line="19" column="0" />
+        <mark key="[" line="19" column="50" />
         <mark key="]" line="37" column="68" />
         <mark key="." line="23" column="0" />
       </file>
@@ -686,14 +686,14 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC0gLi9kb2NrZXItc3RhY2sgdXAK</text>
+      <register name="&quot;" type="4">
+        <text>PATH</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>CI_PROJECT_DIR/../Infra/docker</text>
+        <text>PATH</text>
       </register>
       <register name="/" type="4">
         <text>franceconnect\/</text>
