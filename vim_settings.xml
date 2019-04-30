@@ -172,11 +172,11 @@
       <file name="/app_users [francis@localhost]" timestamp="1547200899685">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/.gitlab-ci.yml" timestamp="1556627282226">
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/.gitlab-ci.yml" timestamp="1556629346548">
         <mark key="'" line="58" column="35" />
-        <mark key="[" line="11" column="22" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="6" />
+        <mark key="." line="26" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/code/portail.io/README.md" timestamp="1548948601475">
         <mark key="[" line="0" column="0" />
@@ -419,8 +419,8 @@
       <file name="/francis.public.app_users [francis@localhost]" timestamp="1547200602261">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/Infra/docker/docker-stack" timestamp="1556546653005">
-        <mark key="[" line="1" column="33" />
+      <file name="$USER_HOME$/Documents/code/france-connect/Infra/docker/docker-stack" timestamp="1556629116978">
+        <mark key="[" line="148" column="49" />
         <mark key="]" line="1" column="33" />
         <mark key="." line="1" column="33" />
         <mark key="^" line="2" column="45" />
@@ -687,13 +687,13 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2FjaGU6CiAgcGF0aHM6CiAgICAtIC91c3IvbGliL3B5dGhvbjIuNy9zaXRlLXBhY2thZ2VzCiAgICAtIC9yb290Ly5jYWNoZS9waXAKICAgIC0gL3Zhci9saWIvZG9ja2VyL2F1ZnMvZGlmZgogICAgLSAvdmFyL2xpYi9kb2NrZXIvcmVwb3NpdG9yaWVzLWF1ZnMK</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>staging</text>
+        <text>local</text>
       </register>
       <register name="/" type="4">
         <text>franceconnect\/</text>
@@ -702,21 +702,24 @@
         <text encoding="base64">ICAtIHBpcCBpbnN0YWxsIGRvY2tlci1jb21wb3NlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2FjaGU6CiAgcGF0aHM6CiAgICAtIC91c3IvbGliL3B5dGhvbjIuNy9zaXRlLXBhY2thZ2VzCiAgICAtIC9yb290Ly5jYWNoZS9waXAKICAgIC0gL3Zhci9saWIvZG9ja2VyL2F1ZnMvZGlmZgogICAgLSAvdmFyL2xpYi9kb2NrZXIvcmVwb3NpdG9yaWVzLWF1ZnMK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="8">
-        <text encoding="base64">LS1zaW5nbGUtYnJhbmNoIAotLXNpbmdsZS1icmFuY2ggCi0tc2luZ2xlLWJyYW5jaCAKLS1zaW5nbGUtYnJhbmNoIA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>technical_accounting.account.filters.period</text>
       </register>
-      <register name="3" type="2">
+      <register name="3" type="8">
+        <text encoding="base64">LS1zaW5nbGUtYnJhbmNoIAotLXNpbmdsZS1icmFuY2ggCi0tc2luZ2xlLWJyYW5jaCAKLS1zaW5nbGUtYnJhbmNoIA==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIC0gY2htb2QgK3ggLi9kb2NrZXItc3RhY2sK</text>
       </register>
-      <register name="4" type="8">
+      <register name="5" type="8">
         <text>ht
 ht
 ht
@@ -751,20 +754,17 @@ pl
 m
 st</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIC0gZXhwb3J0IENPTVBPU0VfSU5URVJBQ1RJVkVfTk9fQ0xJPTEK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIC0gY2QgJERPQ0tFUl9ESVIKICAgIC0gcHdkCiAgICAtIGxzCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIC0gLi9kb2NrZXItc3RhY2sgdXAK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC0gZG9ja2VyIHB1bGwgJFJFR0lTVFJZX1BSRUZJWC9mcmFuY2Vjb25uZWN0L3JwOiRSRUdJU1RSWV9TVUZGSVgK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2ZyYW5jZWNvbm5lY3RcLy8vZw==</text>
