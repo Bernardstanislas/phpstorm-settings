@@ -137,7 +137,7 @@
       <file name="$USER_HOME$/Documents/code/oreqo/server/app/Http/Middleware/JsonMiddleware.php" timestamp="1555956499580">
         <mark key="[" line="16" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/Infra/ansible/roles/nginx-rp-vhost/defaults/main.yml" timestamp="1556791145853">
+      <file name="$USER_HOME$/Documents/code/france-connect/Infra/ansible/roles/nginx-rp-vhost/defaults/main.yml" timestamp="1556792162104">
         <mark key="[" line="12" column="0" />
       </file>
       <file name="/GraphQL.result.json" timestamp="1556783224625">
@@ -158,10 +158,12 @@
       <file name="$USER_HOME$/Documents/code/blog-dojo-cqrs/tslint.json" timestamp="1545580922904">
         <mark key="[" line="14" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/Infra/ansible/roles/nginx-rp-vhost/templates/vhost.conf.j2" timestamp="1556791134098">
+      <file name="$USER_HOME$/Documents/code/france-connect/Infra/ansible/roles/nginx-rp-vhost/templates/vhost.conf.j2" timestamp="1556792059099">
+        <mark key="'" line="11" column="12" />
         <mark key="[" line="11" column="83" />
-        <mark key="]" line="11" column="83" />
-        <mark key="." line="11" column="83" />
+        <mark key="]" line="5" column="9" />
+        <mark key="." line="5" column="9" />
+        <mark key="^" line="5" column="9" />
       </file>
       <file name="/daju.public.cards [Daju Postgres local]" timestamp="1553590061019">
         <mark key="[" line="0" column="0" />
@@ -409,12 +411,12 @@
       <file name="/app_users [francis@localhost]" timestamp="1547200899685">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/.gitlab-ci.yml" timestamp="1556790432873">
-        <mark key="'" line="85" column="16" />
-        <mark key="[" line="92" column="27" />
-        <mark key="]" line="94" column="0" />
-        <mark key="." line="94" column="0" />
-        <mark key="^" line="94" column="11" />
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/.gitlab-ci.yml" timestamp="1556799272095">
+        <mark key="'" line="87" column="16" />
+        <mark key="[" line="28" column="76" />
+        <mark key="]" line="28" column="30" />
+        <mark key="." line="28" column="30" />
+        <mark key="^" line="28" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/code/portail.io/README.md" timestamp="1548948601475">
         <mark key="[" line="0" column="0" />
@@ -528,6 +530,9 @@
       <file name="/business_immo_legacy.users [Business immo legacy]" timestamp="1544441105456">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/Infra/ansible/group_vars/fcadmin.yml" timestamp="1556792186733">
+        <mark key="[" line="1" column="27" />
+      </file>
       <file name="$USER_HOME$/Documents/code/forge/startproject/api-platform/plopIgnore/.gitkeep" timestamp="1548240678433">
         <mark key="[" line="0" column="0" />
       </file>
@@ -577,10 +582,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="2" filename="$USER_HOME$/Documents/code/business-immo-directory/devops/provisioning/group_vars/preproduction" />
-      <jump line="63" column="2" filename="$USER_HOME$/Documents/code/business-immo-directory/devops/provisioning/group_vars/production" />
-      <jump line="24" column="25" filename="$USER_HOME$/Downloads/logo25.svg" />
-      <jump line="9" column="48" filename="$USER_HOME$/Documents/code/blog-dojo-cqrs/src/commands/handlers/create-article.handler.ts" />
       <jump line="5" column="8" filename="$USER_HOME$/Documents/code/francis/api/config/packages/api_platform.yaml" />
       <jump line="26" column="25" filename="$USER_HOME$/Documents/code/francis/client/src/pages/Login/Login.form.js" />
       <jump line="20" column="2" filename="$USER_HOME$/Documents/code/francis/client/src/pages/Login/Login.form.js" />
@@ -677,6 +678,10 @@
       <jump line="50" column="35" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/.gitlab-ci.yml" />
       <jump line="75" column="0" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/cypress/integration/mire.spec.js" />
       <jump line="85" column="16" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/.gitlab-ci.yml" />
+      <jump line="5" column="7" filename="$USER_HOME$/Documents/code/france-connect/Infra/ansible/roles/nginx-rp-vhost/templates/vhost.conf.j2" />
+      <jump line="7" column="30" filename="$USER_HOME$/Documents/code/france-connect/Infra/ansible/roles/nginx-rp-vhost/templates/vhost.conf.j2" />
+      <jump line="8" column="12" filename="$USER_HOME$/Documents/code/france-connect/Infra/ansible/roles/nginx-rp-vhost/templates/vhost.conf.j2" />
+      <jump line="11" column="12" filename="$USER_HOME$/Documents/code/france-connect/Infra/ansible/roles/nginx-rp-vhost/templates/vhost.conf.j2" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -712,7 +717,7 @@
         <text>30</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">IFxc</text>
+        <text encoding="base64">XDxob3N0XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAtLWFkZC1ob3N0PWZjcC5kb2NrZXIuZGV2LWZyYW5jZWNvbm5lY3QuZnI6MTI3LjAuMC4xIFwK</text>
@@ -758,9 +763,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">IFxc</last-search>
+      <last-search encoding="base64">XDxob3N0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">IFxc</last-pattern>
+      <last-pattern encoding="base64">XDxob3N0XD4=</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">IFxc</last-substitute>
       <last-dir>1</last-dir>
@@ -768,7 +773,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwYWNrZXJcPg==</entry>
         <entry>docker-compose</entry>
         <entry>packer</entry>
         <entry encoding="base64">XDxyZWRpc1w+</entry>
@@ -788,6 +792,7 @@
         <entry>push</entry>
         <entry>franceconnect\/</entry>
         <entry encoding="base64">IFxc</entry>
+        <entry encoding="base64">XDxob3N0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2RldmVsb3BcLmJ1c2luZXNzaW1tb1wubWJpelwuaW8vYm91dGlxdWVcLmJ1c2luZXNzaW1tb1wuY29tL2c=</entry>
