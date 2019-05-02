@@ -189,9 +189,9 @@
       <file name="/app_users [francis@localhost]" timestamp="1547200899685">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/.gitlab-ci.yml" timestamp="1556784901901">
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/.gitlab-ci.yml" timestamp="1556786676663">
         <mark key="'" line="58" column="35" />
-        <mark key="[" line="78" column="17" />
+        <mark key="[" line="80" column="18" />
         <mark key="]" line="78" column="17" />
         <mark key="." line="78" column="17" />
         <mark key="^" line="79" column="54" />
@@ -278,6 +278,7 @@
       <file name="$USER_HOME$/Documents/code/blog-dojo-cqrs/tslint.json" timestamp="1545580922904">
         <mark key="[" line="14" column="37" />
       </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/Infra/ansible/roles/nginx-rp-vhost/templates/vhost.conf.j2" timestamp="1556785607557" />
       <file name="/daju.public.cards [Daju Postgres local]" timestamp="1553590061019">
         <mark key="[" line="0" column="0" />
       </file>
