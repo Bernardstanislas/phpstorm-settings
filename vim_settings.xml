@@ -190,8 +190,8 @@
       <file name="/app_users [francis@localhost]" timestamp="1547200899685">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/.gitlab-ci.yml" timestamp="1556788901449">
-        <mark key="'" line="58" column="35" />
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/.gitlab-ci.yml" timestamp="1556790432873">
+        <mark key="'" line="85" column="16" />
         <mark key="[" line="92" column="27" />
         <mark key="]" line="94" column="0" />
         <mark key="." line="94" column="0" />
@@ -571,7 +571,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="39" filename="$USER_HOME$/Documents/code/business-immo-directory/devops/provisioning/group_vars/preproduction" />
       <jump line="97" column="2" filename="$USER_HOME$/Documents/code/business-immo-directory/devops/provisioning/group_vars/preproduction" />
       <jump line="63" column="2" filename="$USER_HOME$/Documents/code/business-immo-directory/devops/provisioning/group_vars/production" />
       <jump line="24" column="25" filename="$USER_HOME$/Downloads/logo25.svg" />
@@ -671,6 +670,7 @@
       <jump line="49" column="15" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/.gitlab-ci.yml" />
       <jump line="50" column="35" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/.gitlab-ci.yml" />
       <jump line="75" column="0" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/cypress/integration/mire.spec.js" />
+      <jump line="85" column="16" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/.gitlab-ci.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -706,7 +706,7 @@
         <text>mycv.pdf</text>
       </register>
       <register name="/" type="4">
-        <text>franceconnect\/</text>
+        <text encoding="base64">IFxc</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAtLWFkZC1ob3N0PWZjcC5kb2NrZXIuZGV2LWZyYW5jZWNvbm5lY3QuZnI6MTI3LjAuMC4xIFwK</text>
@@ -745,24 +745,23 @@
         <text encoding="base64">ICAgIC0gYXBrIGFkZCAteSBub2RlanMgbm9kZWpzLW5wbSB4dmZiCiAgICAtIG5wbSBpbnN0YWxsIGN5cHJlc3MKICAgIC0gbnB4IGN5cHJlc3MgaW5zdGFsbAogICAgLSBucHggY3lwcmVzcyBydW4K</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL2ZyYW5jZWNvbm5lY3RcLy8vZw==</text>
+        <text encoding="base64">JzwsJz5zLyBcXC8vZw==</text>
       </register>
       <register name="z" type="4">
         <text>vEd$pj_eej</text>
       </register>
     </registers>
     <search>
-      <last-search>franceconnect\/</last-search>
+      <last-search encoding="base64">IFxc</last-search>
       <last-offset />
-      <last-pattern>franceconnect\/</last-pattern>
+      <last-pattern encoding="base64">IFxc</last-pattern>
       <last-replace />
-      <last-substitute>franceconnect\/</last-substitute>
+      <last-substitute encoding="base64">IFxc</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjaGlsZHJlblw+</entry>
         <entry encoding="base64">XDxwYWNrZXJcPg==</entry>
         <entry>docker-compose</entry>
         <entry>packer</entry>
@@ -782,9 +781,9 @@
         <entry>centos-base</entry>
         <entry>push</entry>
         <entry>franceconnect\/</entry>
+        <entry encoding="base64">IFxc</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2ZlYXR1cmUtc2FtbC9kZXZlbG9wL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2RldmVsb3BcLmJ1c2luZXNzaW1tb1wubWJpelwuaW8vYm91dGlxdWVcLmJ1c2luZXNzaW1tb1wuY29tL2c=</entry>
         <entry>w</entry>
         <entry>x</entry>
@@ -804,6 +803,7 @@
         <entry encoding="base64">JzwsJz5zL2NlbnRvcy1iYXNlL3JwL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3B1c2gvcHVsbC9n</entry>
         <entry encoding="base64">JzwsJz5zL2ZyYW5jZWNvbm5lY3RcLy8vZw==</entry>
+        <entry encoding="base64">JzwsJz5zLyBcXC8vZw==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
