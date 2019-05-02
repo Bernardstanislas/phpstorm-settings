@@ -161,11 +161,11 @@
       <file name="$USER_HOME$/Documents/code/blog-dojo-cqrs/tslint.json" timestamp="1545580922904">
         <mark key="[" line="14" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/Infra/ansible/roles/nginx-rp-vhost/templates/vhost.conf.j2" timestamp="1556792059099">
+      <file name="$USER_HOME$/Documents/code/france-connect/Infra/ansible/roles/nginx-rp-vhost/templates/vhost.conf.j2" timestamp="1556803633542">
         <mark key="'" line="11" column="12" />
-        <mark key="[" line="11" column="83" />
-        <mark key="]" line="5" column="9" />
-        <mark key="." line="5" column="9" />
+        <mark key="[" line="8" column="87" />
+        <mark key="]" line="8" column="118" />
+        <mark key="." line="8" column="87" />
         <mark key="^" line="5" column="9" />
       </file>
       <file name="/daju.public.cards [Daju Postgres local]" timestamp="1553590061019">
@@ -709,8 +709,8 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC0gZWNobyAkRE9DS0VSX0hPU1RfSVAK</text>
+      <register name="&quot;" type="4">
+        <text>30</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
@@ -721,8 +721,8 @@
       <register name="/" type="4">
         <text>127\.0\.0\.1</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAtLWFkZC1ob3N0PWZjcC5kb2NrZXIuZGV2LWZyYW5jZWNvbm5lY3QuZnI6MTI3LjAuMC4xIFwK</text>
+      <register name="0" type="4">
+        <text>{{ rproxy_vhost_fail_timeout }}</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIC0gZWNobyAkRE9DS0VSX0hPU1RfSVAK</text>
