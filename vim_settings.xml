@@ -42,6 +42,9 @@
       <file name="$USER_HOME$/Documents/code/sphere/frontend/src/modules/Contract/Form/AttributeWidgetFactory/AttributeWidgetFactory.spec.js" timestamp="1538409328868">
         <mark key="[" line="95" column="32" />
       </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/fc-commons/test/integration/elasticSearchTest.js" timestamp="1556814119551">
+        <mark key="'" line="8" column="12" />
+      </file>
       <file name="$USER_HOME$/Documents/code/alto-espace-emprunteur/client/src/components/Messages/MessageList/Message/index.js" timestamp="1539763740062">
         <mark key="[" line="0" column="0" />
       </file>
@@ -125,11 +128,23 @@
       <file name="$USER_HOME$/Documents/code/oreqo/server/app/Http/Middleware/JsonMiddleware.php" timestamp="1555956499580">
         <mark key="[" line="16" column="5" />
       </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/Infra/docker/build/nodejs.json" timestamp="1556288225766">
+        <mark key="[" line="26" column="132" />
+        <mark key="]" line="26" column="132" />
+        <mark key="." line="26" column="132" />
+      </file>
       <file name="$USER_HOME$/Documents/code/france-connect/Infra/ansible/roles/nginx-rp-vhost/defaults/main.yml" timestamp="1556805827631">
         <mark key="[" line="13" column="27" />
         <mark key="]" line="13" column="28" />
         <mark key="^" line="13" column="26" />
         <mark key="." line="13" column="28" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/bash/mocha.sh" timestamp="1556814184640">
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="14" column="42" />
+        <mark key="]" line="27" column="18" />
+        <mark key="." line="27" column="18" />
+        <mark key="^" line="27" column="18" />
       </file>
       <file name="/GraphQL.result.json" timestamp="1556783224625">
         <mark key="[" line="0" column="0" />
@@ -161,6 +176,11 @@
       </file>
       <file name="/alto.app_users [alto@localhost]" timestamp="1540895428308">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/Infra/docker/volumes/.gitignore" timestamp="1556545915559">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fbf7ae17-6879-44d2-a8b4-848aedaa252f/console_1.sql" timestamp="1539522648106">
         <mark key="[" line="0" column="0" />
@@ -433,7 +453,7 @@
       <file name="/main.user [data.db]" timestamp="1540758356007">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/fc-commons/test/integration/models/clientSpec.js" timestamp="1556812245460">
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/fc-commons/test/integration/models/clientSpec.js" timestamp="1556813953953">
         <mark key="[" line="93" column="30" />
         <mark key="]" line="93" column="30" />
         <mark key="." line="93" column="30" />
@@ -477,6 +497,11 @@
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b4896aa8-3fb2-415d-a7fe-608e94f30975/console_3.sql" timestamp="1538645089390">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/fc-commons/test/integration/services/historyServiceIntegSpec.js" timestamp="1556813894990">
+        <mark key="[" line="407" column="0" />
+        <mark key="]" line="407" column="0" />
+        <mark key="." line="407" column="0" />
       </file>
       <file name="/daju.public.migrations [Daju Postgres local]" timestamp="1553531666834">
         <mark key="[" line="0" column="0" />
@@ -588,13 +613,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="25" filename="$USER_HOME$/Documents/code/francis/client/src/pages/Login/Login.form.js" />
-      <jump line="20" column="2" filename="$USER_HOME$/Documents/code/francis/client/src/pages/Login/Login.form.js" />
-      <jump line="19" column="21" filename="$USER_HOME$/Documents/code/francis/client/src/pages/Login/Login.form.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/code/francis/client/src/pages/Login/Login.form.js" />
-      <jump line="13" column="8" filename="$USER_HOME$/Documents/code/francis/README.md" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/code/francis/README.md" />
-      <jump line="6" column="37" filename="$USER_HOME$/Documents/code/francis/api/tests/Controller/UserControllerTest.php" />
       <jump line="17" column="0" filename="$USER_HOME$/Documents/code/daju-landing/src/pages/index.js" />
       <jump line="2" column="807" filename="$USER_HOME$/Documents/code/farewell/Everybody @ Theodo.html" />
       <jump line="23" column="47" filename="$USER_HOME$/Documents/code/forge/startproject/Makefile" />
@@ -688,6 +706,13 @@
       <jump line="8" column="12" filename="$USER_HOME$/Documents/code/france-connect/Infra/ansible/roles/nginx-rp-vhost/templates/vhost.conf.j2" />
       <jump line="11" column="12" filename="$USER_HOME$/Documents/code/france-connect/Infra/ansible/roles/nginx-rp-vhost/templates/vhost.conf.j2" />
       <jump line="87" column="74" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/.gitlab-ci.yml" />
+      <jump line="97" column="11" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/bash/mocha.sh" />
+      <jump line="15" column="0" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/bash/mocha.sh" />
+      <jump line="24" column="0" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/bash/mocha.sh" />
+      <jump line="28" column="0" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/bash/mocha.sh" />
+      <jump line="4" column="45" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/fc-commons/test/integration/elasticSearchTest.js" />
+      <jump line="6" column="40" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/fc-commons/test/integration/elasticSearchTest.js" />
+      <jump line="8" column="12" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/fc-commons/test/integration/elasticSearchTest.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -713,53 +738,53 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>err, createdClient</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>err, createdClient</text>
+        <text>./projects/partenaires/test/integration/</text>
       </register>
       <register name="/" type="4">
-        <text>127\.0\.0\.1</text>
+        <text encoding="base64">XDxjb25maWdNYW5hZ2VyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHNpdGU6IFN0cmluZywK</text>
+        <text encoding="base64">Li9wcm9qZWN0cy9wYXJ0ZW5haXJlcy90ZXN0L2ludGVncmF0aW9uLycK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncmVxLmJvZHknLCByZXEuYm9keSk7CiAgICAgICAgY29uc29sZS5sb2coJ3Byb3ZpZGVyIGJlZm9yZSBleHRlbnNpb24nLCBwcm92aWRlcik7Cg==</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncHJvdmlkZXIgYmVmb3JlIHVwZGF0ZScsIHByb3ZpZGVyKTsK</text>
+        <text encoding="base64">Li9wcm9qZWN0cy9wYXJ0ZW5haXJlcy90ZXN0L2ludGVncmF0aW9uLycK</text>
       </register>
       <register name="r" type="4">
         <text>technical_accounting.account.filters.period</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncHJvdmlkZXIgYWZ0ZXIgdXBkYXRlJywgcHJvdmlkZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncmVxLmJvZHknLCByZXEuYm9keSk7CiAgICAgICAgY29uc29sZS5sb2coJ3Byb3ZpZGVyIGJlZm9yZSBleHRlbnNpb24nLCBwcm92aWRlcik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC0gZWNobyAkRE9DS0VSX0hPU1RfSVAK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncHJvdmlkZXIgYmVmb3JlIHVwZGF0ZScsIHByb3ZpZGVyKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGV4cGlyZV9pbjogMSB3ZWVrCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncHJvdmlkZXIgYWZ0ZXIgdXBkYXRlJywgcHJvdmlkZXIpOwo=</text>
       </register>
-      <register name="6" type="8">
-        <text encoding="base64">IC1kCiAtZAogLWQ=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC0gZWNobyAkRE9DS0VSX0hPU1RfSVAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC0gdW50aWwgJChjdXJsIC0tb3V0cHV0IC9kZXYvbnVsbCAtLXNpbGVudCAtLWhlYWQgLS1mYWlsIGh0dHA6Ly90ZXN0LmxvY2FsOjMwMDApOyBkbyBwcmludGYgJy4nIHNsZWVwIDUgZG9uZQogICAgLSBlY2hvICJDb250YWN0Igo=</text>
+        <text encoding="base64">ICAgIGV4cGlyZV9pbjogMSB3ZWVrCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAtIGV4cG9ydCBSRUdJU1RSWV9QUkVGSVg9IiRDSV9SRUdJU1RSWS8kKGVjaG8gJENJX1BST0pFQ1RfTkFNRVNQQUNFIHwgYXdrICd7cHJpbnQgdG9sb3dlcigkMCl9JykvaW5mcmEiCiAgLSBleHBvcnQgUkVHSVNUUllfU1VGRklYPSIkKGVjaG8gJElORlJBX0JSQU5DSCB8IGF3ayAne3ByaW50IHRvbG93ZXIoJDApfScpIgogIC0gZXhwb3J0IERPQ0tFUl9ESVI9IiRDSV9QUk9KRUNUX0RJUi8uLi9JbmZyYS9kb2NrZXIiCiAgLSBhZGR1c2VyIC1EIC11ICRDSV9VU0VSX0lEICRDSV9VU0VSCiAgLSBjZCAkQ0lfUFJPSkVDVF9ESVIvLi4KICAtIHN1IC1jICJnaXQgY2xvbmUgLS1zaW5nbGUtYnJhbmNoIC0tYnJhbmNoICRJTkZSQV9CUkFOQ0ggaHR0cHM6Ly9naXRsYWItY2ktdG9rZW46JHtDSV9KT0JfVE9LRU59QGdpdGxhYi5jb20vZnJhbmNlLWNvbm5lY3QvSW5mcmEiIGNpCiAgLSBzdSAtYyAiZ2l0IGNsb25lIGh0dHBzOi8vZ2l0bGFiLWNpLXRva2VuOiR7Q0lfSk9CX1RPS0VOfUBnaXRsYWIuY29tL2ZyYW5jZS1jb25uZWN0L3JuaXBwLW1vY2siIGNpCiAgLSBzdSAtYyAiZ2l0IGNsb25lIGh0dHBzOi8vZ2l0aHViLmNvbS9mcmFuY2UtY29ubmVjdC9pZGVudGl0eS1wcm92aWRlci1leGFtcGxlLmdpdCIgY2kKICAtIHN1IC1jICJnaXQgY2xvbmUgaHR0cHM6Ly9naXRodWIuY29tL2ZyYW5jZS1jb25uZWN0L3NlcnZpY2UtcHJvdmlkZXItZXhhbXBsZS5naXQiIGNpCiAgLSBzdSAtYyAiZ2l0IGNsb25lIGh0dHBzOi8vZ2l0aHViLmNvbS9mcmFuY2UtY29ubmVjdC9kYXRhLXByb3ZpZGVyLWV4YW1wbGUuZ2l0IiBjaQogIC0gY2hvd24gLVIgY2k6Y2kgJENJX1BST0pFQ1RfRElSCiAgLSBjZCAkRE9DS0VSX0RJUi92b2x1bWVzCiAgLSBsbiAtcyAkQ0lfUFJPSkVDVF9ESVIvLi4vRnJhbmNlQ29ubmVjdAogIC0gbG4gLXMgJENJX1BST0pFQ1RfRElSLy4uL3JuaXBwLW1vY2sKICAtIGxuIC1zICRDSV9QUk9KRUNUX0RJUi8uLi9pZGVudGl0eS1wcm92aWRlci1leGFtcGxlCiAgLSBsbiAtcyAkQ0lfUFJPSkVDVF9ESVIvLi4vc2VydmljZS1wcm92aWRlci1leGFtcGxlCiAgLSBsbiAtcyAkQ0lfUFJPSkVDVF9ESVIvLi4vZGF0YS1wcm92aWRlci1leGFtcGxlCiAgLSBkb2NrZXIgcHVsbCAkUkVHSVNUUllfUFJFRklYL2ZyYW5jZWNvbm5lY3QvY2VudG9zLWJhc2U6JFJFR0lTVFJZX1NVRkZJWAogIC0gZG9ja2VyIHRhZyAkUkVHSVNUUllfUFJFRklYL2ZyYW5jZWNvbm5lY3QvY2VudG9zLWJhc2U6JFJFR0lTVFJZX1NVRkZJWCBmcmFuY2Vjb25uZWN0L2NlbnRvcy1iYXNlCiAgLSBkb2NrZXIgcHVsbCAkUkVHSVNUUllfUFJFRklYL2ZyYW5jZWNvbm5lY3QvZWxhc3RpY3NlYXJjaDokUkVHSVNUUllfU1VGRklYCiAgLSBkb2NrZXIgdGFnICRSRUdJU1RSWV9QUkVGSVgvZnJhbmNlY29ubmVjdC9lbGFzdGljc2VhcmNoOiRSRUdJU1RSWV9TVUZGSVggZnJhbmNlY29ubmVjdC9lbGFzdGljc2VhcmNoCiAgLSBkb2NrZXIgcHVsbCAkUkVHSVNUUllfUFJFRklYL2ZyYW5jZWNvbm5lY3QvbG9nY29sbGVjdDokUkVHSVNUUllfU1VGRklYCiAgLSBkb2NrZXIgdGFnICRSRUdJU1RSWV9QUkVGSVgvZnJhbmNlY29ubmVjdC9sb2djb2xsZWN0OiRSRUdJU1RSWV9TVUZGSVggZnJhbmNlY29ubmVjdC9sb2djb2xsZWN0CiAgLSBkb2NrZXIgcHVsbCAkUkVHSVNUUllfUFJFRklYL2ZyYW5jZWNvbm5lY3QvbW9uZ29kOiRSRUdJU1RSWV9TVUZGSVgKICAtIGRvY2tlciB0YWcgJFJFR0lTVFJZX1BSRUZJWC9mcmFuY2Vjb25uZWN0L21vbmdvZDokUkVHSVNUUllfU1VGRklYIGZyYW5jZWNvbm5lY3QvbW9uZ29kCiAgLSBkb2NrZXIgcHVsbCAkUkVHSVNUUllfUFJFRklYL2ZyYW5jZWNvbm5lY3QvbW9uZ29kYi1tb2NrczokUkVHSVNUUllfU1VGRklYCiAgLSBkb2NrZXIgdGFnICRSRUdJU1RSWV9QUkVGSVgvZnJhbmNlY29ubmVjdC9tb25nb2RiLW1vY2tzOiRSRUdJU1RSWV9TVUZGSVggZnJhbmNlY29ubmVjdC9tb25nb2RiLW1vY2tzCiAgLSBkb2NrZXIgcHVsbCAkUkVHSVNUUllfUFJFRklYL2ZyYW5jZWNvbm5lY3Qvbm9kZWpzOiRSRUdJU1RSWV9TVUZGSVgKICAtIGRvY2tlciB0YWcgJFJFR0lTVFJZX1BSRUZJWC9mcmFuY2Vjb25uZWN0L25vZGVqczokUkVHSVNUUllfU1VGRklYIGZyYW5jZWNvbm5lY3Qvbm9kZWpzCiAgLSBkb2NrZXIgcHVsbCAkUkVHSVNUUllfUFJFRklYL2ZyYW5jZWNvbm5lY3QvcnA6JFJFR0lTVFJZX1NVRkZJWAogIC0gZG9ja2VyIHRhZyAkUkVHSVNUUllfUFJFRklYL2ZyYW5jZWNvbm5lY3QvcnA6JFJFR0lTVFJZX1NVRkZJWCBmcmFuY2Vjb25uZWN0L3JwCiAgLSBleHBvcnQgQ09NUE9TRV9JTlRFUkFDVElWRV9OT19DTEk9MQogIC0gY2QgJERPQ0tFUl9ESVIKICAtIC4vZG9ja2VyLXN0YWNrIHVwCiAgLSBzbGVlcCAxbSAjIFNsZWVwIDEgbWludXRlIHRvIHdhaXQgZm9yIHRoZSBkYXRhYmFzZSB0byBiZSB1cCA6LywgVE9ETzogaW1wcm92ZSB0aGlzIGhhY2tpc2ggc29sdXRpb24KICAtIC4vZG9ja2VyLXN0YWNrIGluaXQKICAtIC4vZG9ja2VyLXN0YWNrIGRlcGxveV9jb25maWcgZmNwCiAgLSAuL2RvY2tlci1zdGFjayBucG0KICAtIC4vZG9ja2VyLXN0YWNrIHRlc3QKICAtIC4vZG9ja2VyLXN0YWNrIHN0YXJ0IGZjCiAgLSAuL2RvY2tlci1zdGFjayBzdGFydCBmc3AxCiAgLSAuL2RvY2tlci1zdGFjayBzdGFydCBmaXAxCiAgLSAuL2RvY2tlci1zdGFjayBzdGFydCBmZHAxCiAgLSAuL2RvY2tlci1zdGFjayBzdGFydCBmY2FkbWluCiAgLSAuL2RvY2tlci1zdGFjayBzdGFydCBwYXJ0ZW5haXJlcwogIC0gLi9kb2NrZXItc3RhY2sgc3RhcnQgcm5pcHAKICAtIC4vZG9ja2VyLXN0YWNrIHN0YXJ0IHVzZXJzCiAgLSBjYXQgJENJX1BST0pFQ1RfRElSLy5jaS9ob3N0cyA+PiAvZXRjL2hvc3RzCiAgLSBjZCAkQ0lfUFJPSkVDVF9ESVIKICAtIGRvY2tlcgo=</text>
+      <register name="8" type="8">
+        <text encoding="base64">IC1kCiAtZAogLWQ=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjYWNoZToKICAgIHBhdGhzOgogICAgLSAvdXNyL2xpYi9weXRob24yLjcvc2l0ZS1wYWNrYWdlcwogICAgLSAvcm9vdC8uY2FjaGUvcGlwCiAgICAtIC92YXIvbGliL2RvY2tlci9hdWZzL2RpZmYKICAgIC0gL3Zhci9saWIvZG9ja2VyL3JlcG9zaXRvcmllcy1hdWZzCg==</text>
+        <text encoding="base64">ICAgIC0gdW50aWwgJChjdXJsIC0tb3V0cHV0IC9kZXYvbnVsbCAtLXNpbGVudCAtLWhlYWQgLS1mYWlsIGh0dHA6Ly90ZXN0LmxvY2FsOjMwMDApOyBkbyBwcmludGYgJy4nIHNsZWVwIDUgZG9uZQogICAgLSBlY2hvICJDb250YWN0Igo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/127\.0\.0\.1/\$DOCKER_HOST_IP/g</text>
@@ -769,9 +794,9 @@
       </register>
     </registers>
     <search>
-      <last-search>127\.0\.0\.1</last-search>
+      <last-search encoding="base64">XDxjb25maWdNYW5hZ2VyXD4=</last-search>
       <last-offset />
-      <last-pattern>127\.0\.0\.1</last-pattern>
+      <last-pattern encoding="base64">XDxjb25maWdNYW5hZ2VyXD4=</last-pattern>
       <last-replace>\$DOCKER_HOST_IP</last-replace>
       <last-substitute>127\.0\.0\.1</last-substitute>
       <last-dir>1</last-dir>
@@ -779,10 +804,6 @@
     </search>
     <history>
       <history-search>
-        <entry>packer</entry>
-        <entry encoding="base64">XDxyZWRpc1w+</entry>
-        <entry encoding="base64">XDxyZWRpc1N0b3JlXD4=</entry>
-        <entry>ansible</entry>
         <entry encoding="base64">XDxjcnlwdG9IZWxwZXJMZWdhY3lcPg==</entry>
         <entry encoding="base64">XDxDcnlwdG9IZWxwZXJcPg==</entry>
         <entry encoding="base64">XDxjcnlwdG9IZWxwZXJcPg==</entry>
@@ -799,6 +820,10 @@
         <entry encoding="base64">IFxc</entry>
         <entry encoding="base64">XDxob3N0XD4=</entry>
         <entry>127\.0\.0\.1</entry>
+        <entry encoding="base64">XDx1bml0X3Rlc3RzXD4=</entry>
+        <entry encoding="base64">XDxmY19jb21tb25zX3Rlc3RzXD4=</entry>
+        <entry encoding="base64">XDxmY190ZXN0c1w+</entry>
+        <entry encoding="base64">XDxjb25maWdNYW5hZ2VyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
