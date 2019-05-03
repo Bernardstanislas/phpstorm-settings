@@ -140,11 +140,7 @@
         <mark key="." line="13" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/bash/mocha.sh" timestamp="1556814184640">
-        <mark key="'" line="28" column="0" />
         <mark key="[" line="14" column="42" />
-        <mark key="]" line="27" column="18" />
-        <mark key="." line="27" column="18" />
-        <mark key="^" line="27" column="18" />
       </file>
       <file name="/GraphQL.result.json" timestamp="1556783224625">
         <mark key="[" line="0" column="0" />
@@ -221,9 +217,9 @@
       </file>
       <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/fc-commons/models/client.js" timestamp="1556811384888">
         <mark key="[" line="31" column="16" />
-        <mark key="]" line="32" column="18" />
-        <mark key="^" line="32" column="18" />
-        <mark key="." line="32" column="18" />
+        <mark key="]" line="31" column="18" />
+        <mark key="^" line="31" column="18" />
+        <mark key="." line="31" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/code/simplesamlphp/modules/businessimmolegacy/Language.php" timestamp="1542099904341">
         <mark key="[" line="5" column="0" />
@@ -431,7 +427,9 @@
       <file name="/app_users [francis@localhost]" timestamp="1547200899685">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/.gitlab-ci.yml" timestamp="1556809347415" />
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/.gitlab-ci.yml" timestamp="1556873537537">
+        <mark key="[" line="90" column="41" />
+      </file>
       <file name="$USER_HOME$/Documents/code/portail.io/README.md" timestamp="1548948601475">
         <mark key="[" line="0" column="0" />
       </file>
@@ -453,12 +451,7 @@
       <file name="/main.user [data.db]" timestamp="1540758356007">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/fc-commons/test/integration/models/clientSpec.js" timestamp="1556813953953">
-        <mark key="[" line="93" column="30" />
-        <mark key="]" line="93" column="30" />
-        <mark key="." line="93" column="30" />
-        <mark key="^" line="93" column="44" />
-      </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/fc-commons/test/integration/models/clientSpec.js" timestamp="1556813953953" />
       <file name="$USER_HOME$/Documents/code/blog/routes/web.php" timestamp="1541360882749">
         <mark key="[" line="14" column="27" />
       </file>
