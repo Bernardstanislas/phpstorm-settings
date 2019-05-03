@@ -440,10 +440,11 @@
       <file name="$USER_HOME$/Documents/code/daju-landing/src/components/Homepage/Pricing/index.tsx" timestamp="1549735913675">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/awx/installer/inventory" timestamp="1556895411344">
-        <mark key="[" line="79" column="12" />
-        <mark key="]" line="79" column="12" />
-        <mark key="." line="79" column="12" />
+      <file name="$USER_HOME$/Documents/code/awx/installer/inventory" timestamp="1556896062472">
+        <mark key="[" line="56" column="20" />
+        <mark key="]" line="56" column="20" />
+        <mark key="." line="56" column="20" />
+        <mark key="^" line="56" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/code/business-immo-directory/src/AppBundle/Resources/views/Back/Layout/top_bar.html.twig" timestamp="1543329996045">
         <mark key="[" line="12" column="73" />
@@ -741,13 +742,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>awx</text>
+        <text>tmp/awxcompose</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>awx</text>
+        <text>tmp/awxcompose</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb25maWdNYW5hZ2VyXD4=</text>
