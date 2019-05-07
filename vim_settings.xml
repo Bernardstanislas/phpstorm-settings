@@ -94,6 +94,12 @@
         <mark key="." line="78" column="40" />
         <mark key="^" line="78" column="40" />
       </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/cypress/integration/partenaires/partenaires.spec.js" timestamp="1557243965201">
+        <mark key="[" line="54" column="4" />
+        <mark key="]" line="54" column="8" />
+        <mark key="^" line="54" column="8" />
+        <mark key="." line="54" column="8" />
+      </file>
       <file name="$USER_HOME$/Documents/code/simplesamlphp/templates/login.php" timestamp="1541693235848">
         <mark key="[" line="15" column="2" />
       </file>
@@ -426,12 +432,12 @@
       <file name="/app_users [francis@localhost]" timestamp="1547200899685">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/.gitlab-ci.yml" timestamp="1557241648267">
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/.gitlab-ci.yml" timestamp="1557244042580">
         <mark key="'" line="122" column="534" />
-        <mark key="[" line="75" column="6" />
+        <mark key="[" line="32" column="15" />
         <mark key="l" line="98" column="22" />
-        <mark key="]" line="75" column="6" />
-        <mark key="." line="75" column="6" />
+        <mark key="]" line="32" column="15" />
+        <mark key="." line="32" column="15" />
         <mark key="^" line="89" column="66" />
       </file>
       <file name="$USER_HOME$/Documents/code/portail.io/README.md" timestamp="1548948601475">
@@ -763,13 +769,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>sh -c &quot;</text>
+        <text>ci:ci</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>sh -c &quot;</text>
+        <text>ci:ci</text>
       </register>
       <register name="/" type="4">
         <text>husky</text>
