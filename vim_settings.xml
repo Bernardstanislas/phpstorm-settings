@@ -155,7 +155,7 @@
         <mark key="'" line="30" column="0" />
         <mark key="[" line="14" column="42" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1556894699792">
+      <file name="/GraphQL.result.json" timestamp="1557321650417">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/blog-dojo-cqrs/src/events/namespace.ts" timestamp="1545580874953">
@@ -432,13 +432,13 @@
       <file name="/app_users [francis@localhost]" timestamp="1547200899685">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/.gitlab-ci.yml" timestamp="1557244042580">
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/.gitlab-ci.yml" timestamp="1557244056417">
         <mark key="'" line="122" column="534" />
         <mark key="[" line="32" column="15" />
         <mark key="l" line="98" column="22" />
-        <mark key="]" line="32" column="15" />
-        <mark key="." line="32" column="15" />
-        <mark key="^" line="89" column="66" />
+        <mark key="]" line="32" column="31" />
+        <mark key="." line="32" column="31" />
+        <mark key="^" line="32" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/code/portail.io/README.md" timestamp="1548948601475">
         <mark key="[" line="0" column="0" />
@@ -446,10 +446,10 @@
       <file name="$USER_HOME$/Documents/code/daju-landing/src/components/Homepage/Pricing/index.tsx" timestamp="1549735913675">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/awx/installer/inventory" timestamp="1557048830543">
-        <mark key="[" line="102" column="15" />
-        <mark key="]" line="102" column="15" />
-        <mark key="." line="102" column="15" />
+      <file name="$USER_HOME$/Documents/code/awx/installer/inventory" timestamp="1557321662979">
+        <mark key="[" line="57" column="25" />
+        <mark key="]" line="57" column="25" />
+        <mark key="." line="57" column="25" />
         <mark key="^" line="102" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/code/business-immo-directory/src/AppBundle/Resources/views/Back/Layout/top_bar.html.twig" timestamp="1543329996045">
@@ -769,13 +769,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>ci:ci</text>
+        <text>stan</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>ci:ci</text>
+        <text>stan</text>
       </register>
       <register name="/" type="4">
         <text>husky</text>
