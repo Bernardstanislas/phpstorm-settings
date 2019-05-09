@@ -556,6 +556,11 @@
       <file name="/alto-test.app_users [alto-test]" timestamp="1539672566207">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/cypress.json" timestamp="1557414591197">
+        <mark key="[" line="1" column="24" />
+        <mark key="]" line="1" column="24" />
+        <mark key="." line="1" column="24" />
+      </file>
       <file name="/PHP Console" timestamp="1555961131407">
         <mark key="[" line="0" column="0" />
       </file>
@@ -789,14 +794,14 @@
           <key char="95" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJwcmUtY29tbWl0IjogIm5wbSBydW4gdXBkYXRlLWRlcGVuZGVuY2llcy1oYXNoIiwK</text>
+      <register name="&quot;" type="4">
+        <text>120</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>120</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwaW5vXD4=</text>
