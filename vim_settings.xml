@@ -6,13 +6,18 @@
       <file name="$USER_HOME$/Documents/code/blog-dojo-cqrs/src/event-sourced-article.repository.ts" timestamp="1546095334296">
         <mark key="[" line="8" column="13" />
       </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/eidas-bridge/app.js" timestamp="1557408958578">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="/sphere.public.contract [Sphere]" timestamp="1538641346930">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1556468030376">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/fc-commons/package.json" timestamp="1557136200922" />
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/fc-commons/package.json" timestamp="1557405564768" />
       <file name="$USER_HOME$/Documents/code/france-connect/foobar/experimental/ansible/roles/appserver/tasks/main.yml" timestamp="1556287402638">
         <mark key="[" line="59" column="15" />
         <mark key="]" line="59" column="16" />
@@ -48,9 +53,6 @@
       </file>
       <file name="$USER_HOME$/Documents/code/sphere/frontend/src/modules/Contract/Form/AttributeWidgetFactory/AttributeWidgetFactory.spec.js" timestamp="1538409328868">
         <mark key="[" line="95" column="32" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/fc-commons/test/integration/elasticSearchTest.js" timestamp="1556814119551">
-        <mark key="'" line="8" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/code/alto-espace-emprunteur/client/src/components/Messages/MessageList/Message/index.js" timestamp="1539763740062">
         <mark key="[" line="0" column="0" />
@@ -93,13 +95,6 @@
       <file name="$USER_HOME$/Documents/code/blog-dojo-cqrs/src/repository/Repository.ts" timestamp="1546093069663">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/cypress/integration/mire.spec.js" timestamp="1557241161197">
-        <mark key="'" line="74" column="0" />
-        <mark key="[" line="86" column="8" />
-        <mark key="]" line="78" column="40" />
-        <mark key="." line="78" column="40" />
-        <mark key="^" line="78" column="40" />
-      </file>
       <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/cypress/integration/partenaires/partenaires.spec.js" timestamp="1557243965201">
         <mark key="[" line="54" column="4" />
         <mark key="]" line="54" column="8" />
@@ -113,13 +108,6 @@
       </file>
       <file name="$USER_HOME$/Documents/code/simplesamlphp/templates/login.php" timestamp="1541693235848">
         <mark key="[" line="15" column="2" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/foobar/experimental/docker/docker-stack" timestamp="1556530524560">
-        <mark key="'" line="50" column="46" />
-        <mark key="[" line="81" column="76" />
-        <mark key="]" line="65" column="79" />
-        <mark key="." line="65" column="76" />
-        <mark key="^" line="151" column="0" />
       </file>
       <file name="/a.sql" timestamp="1553552505717">
         <mark key="[" line="0" column="0" />
@@ -162,10 +150,6 @@
         <mark key="^" line="13" column="26" />
         <mark key="." line="13" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/bash/mocha.sh" timestamp="1557236730733">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="14" column="42" />
-      </file>
       <file name="/GraphQL.result.json" timestamp="1557402456858">
         <mark key="[" line="0" column="0" />
       </file>
@@ -183,13 +167,6 @@
       </file>
       <file name="$USER_HOME$/Documents/code/blog-dojo-cqrs/tslint.json" timestamp="1545580922904">
         <mark key="[" line="14" column="37" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/Infra/ansible/roles/nginx-rp-vhost/templates/vhost.conf.j2" timestamp="1556803633542">
-        <mark key="'" line="11" column="12" />
-        <mark key="[" line="8" column="87" />
-        <mark key="]" line="8" column="118" />
-        <mark key="." line="8" column="87" />
-        <mark key="^" line="5" column="9" />
       </file>
       <file name="/daju.public.cards [Daju Postgres local]" timestamp="1553590061019">
         <mark key="[" line="0" column="0" />
@@ -234,13 +211,6 @@
       <file name="/business_immo_legacy.activity_sectors [Business immo legacy]" timestamp="1542805803223">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/Infra/.gitlab-ci.yml" timestamp="1556618559277">
-        <mark key="'" line="30" column="66" />
-        <mark key="[" line="18" column="17" />
-        <mark key="]" line="18" column="13" />
-        <mark key="." line="18" column="13" />
-        <mark key="^" line="18" column="13" />
-      </file>
       <file name="/business_immo_legacy.user_roles [Business immo legacy]" timestamp="1543854934084">
         <mark key="[" line="0" column="0" />
       </file>
@@ -271,13 +241,6 @@
       </file>
       <file name="$USER_HOME$/Documents/code/daju/src/Application/assets/css/main.css" timestamp="1540755287135">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/foobar/.gitlab-ci.yml" timestamp="1556626418739">
-        <mark key="'" line="17" column="25" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="30" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="23" column="85" />
       </file>
       <file name="/business_immo_legacy.sessions [Business immo legacy]" timestamp="1542123983757">
         <mark key="[" line="0" column="0" />
@@ -435,9 +398,6 @@
       </file>
       <file name="/oreqo.public.users [oreqo@localhost]" timestamp="1555957440913">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/fc-commons/mongooseDAO.js" timestamp="1557232218673">
-        <mark key="'" line="79" column="28" />
       </file>
       <file name="/alto.document [alto@localhost]" timestamp="1539358673958">
         <mark key="[" line="0" column="0" />
@@ -673,7 +633,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="0" filename="$USER_HOME$/Documents/code/daju/resources/views/auth/login.blade.php" />
       <jump line="30" column="47" filename="$USER_HOME$/Documents/code/daju/resources/views/auth/login.blade.php" />
       <jump line="19" column="0" filename="$USER_HOME$/Documents/code/daju/resources/views/auth/login.blade.php" />
       <jump line="77" column="0" filename="$USER_HOME$/Documents/code/daju/resources/views/auth/register.blade.php" />
@@ -773,6 +732,7 @@
       <jump line="6" column="6" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/admin/app.js" />
       <jump line="303" column="7" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/admin/app.js" />
       <jump line="4" column="38" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/admin/app.js" />
+      <jump line="14" column="8" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/eidas-bridge/app.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -825,7 +785,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgUmF2ZW4gICAgICAgICAgICAgICAgPSByZXF1aXJlKCdyYXZlbicpOwo=</text>
+        <text encoding="base64">Y29uc3QgaW5kZXhSb3V0ZXIgPSByZXF1aXJlKCcuL3JvdXRlcy9pbmRleCcpOwo=</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
@@ -834,43 +794,43 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxoZWFwZHVtcFw+</text>
+        <text encoding="base64">XDxwaW5vXD4=</text>
       </register>
       <register name="0" type="4">
         <text>https://gitlab-ci-token:${CI_JOB_TOKEN}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgUmF2ZW4gICAgICAgICAgICAgICAgPSByZXF1aXJlKCdyYXZlbicpOwo=</text>
+        <text encoding="base64">Y29uc3QgaW5kZXhSb3V0ZXIgPSByZXF1aXJlKCcuL3JvdXRlcy9pbmRleCcpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJiYXNlNjR1cmwiOiAiKiJzCg==</text>
+        <text encoding="base64">Y29uc3QgeyBwaW5vIH0gPSBsb2dnZXI7Cg==</text>
       </register>
       <register name="r" type="4">
         <text>technical_accounting.account.filters.period</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC0gZG9ja2VyLWNvbXBvc2UgLXAgZmMgZXhlYyAtVCBycCBzeXN0ZW1jdGwgcmVzdGFydCBuZ2lueAo=</text>
+        <text encoding="base64">Y29uc3QgUmF2ZW4gICAgICAgICAgICAgICAgPSByZXF1aXJlKCdyYXZlbicpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICJiYXNlNjR1cmwiOiAiKiJzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2cocmVzdWx0Lm9ycGhhbnMoKSk7Cg==</text>
+        <text encoding="base64">ICAgIC0gZG9ja2VyLWNvbXBvc2UgLXAgZmMgZXhlYyAtVCBycCBzeXN0ZW1jdGwgcmVzdGFydCBuZ2lueAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC0gY2QgJERPQ0tFUl9ESVIK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2cocmVzdWx0Lm9ycGhhbnMoKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjYWNoZToKICAgIHBhdGhzOgogICAgICAtIC91c3IvbGliL3B5dGhvbjIuNy9zaXRlLXBhY2thZ2VzCiAgICAgIC0gL3Jvb3QvLmNhY2hlL3BpcAogICAgICAtIC92YXIvbGliL2RvY2tlci9hdWZzL2RpZmYKICAgICAgLSAvdmFyL2xpYi9kb2NrZXIvcmVwb3NpdG9yaWVzLWF1ZnMK</text>
+        <text encoding="base64">ICAgIC0gY2QgJERPQ0tFUl9ESVIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLSBGQy1vdXQubG9nCiAgICAgIC0gRkMtZXJyLmxvZwogICAgICAtIGZzcDEtZXJyb3ItMC5sb2cKICAgICAgLSBmc3AxLW91dC0wLmxvZwogICAgICAtIGZpcDEtZXJyb3ItMC5sb2cKICAgICAgLSBmaXAxLW91dC0wLmxvZwogICAgICAtIEZDLmFjY2Vzcy5sb2cKICAgICAgLSBGQy5lcnJvci5sb2cKICAgICAgLSBmc3AxLmFjY2Vzcy5sb2cKICAgICAgLSBmc3AxLmVycm9yLmxvZwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLzEyN1wuMFwuMFwuMS8xNzJcLjE3XC4wXC4xL2c=</text>
@@ -880,9 +840,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxoZWFwZHVtcFw+</last-search>
+      <last-search encoding="base64">XDxwaW5vXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxoZWFwZHVtcFw+</last-pattern>
+      <last-pattern encoding="base64">XDxwaW5vXD4=</last-pattern>
       <last-replace>172\.17\.0\.1</last-replace>
       <last-substitute>husky</last-substitute>
       <last-dir>1</last-dir>
@@ -890,7 +850,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mongod</entry>
         <entry>init</entry>
         <entry>centos-base</entry>
         <entry>push</entry>
@@ -910,6 +869,7 @@
         <entry encoding="base64">XDxyZWFkQXN5bmNcPg==</entry>
         <entry encoding="base64">XDxSYXZlblw+</entry>
         <entry encoding="base64">XDxoZWFwZHVtcFw+</entry>
+        <entry encoding="base64">XDxwaW5vXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>x</entry>
