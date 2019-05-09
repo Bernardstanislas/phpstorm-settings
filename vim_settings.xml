@@ -201,10 +201,10 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fbf7ae17-6879-44d2-a8b4-848aedaa252f/console_1.sql" timestamp="1539522648106">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/cypress/integration/fc/mire.spec.js" timestamp="1557390578128">
-        <mark key="[" line="66" column="9" />
-        <mark key="]" line="16" column="14" />
-        <mark key="." line="16" column="14" />
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/cypress/integration/fc/mire.spec.js" timestamp="1557395671233">
+        <mark key="[" line="86" column="9" />
+        <mark key="]" line="86" column="9" />
+        <mark key="." line="86" column="9" />
         <mark key="^" line="16" column="14" />
       </file>
       <file name="/bi_directory_user [Business immo directory]" timestamp="1541062470407">
@@ -795,13 +795,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>/fc-commons'</text>
+        <text>skip</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>/fc-commons'</text>
+        <text>skip</text>
       </register>
       <register name="/" type="4">
         <text>husky</text>
