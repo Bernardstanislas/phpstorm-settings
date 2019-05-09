@@ -513,6 +513,11 @@
       <file name="$USER_HOME$/Documents/code/business-immo-directory/src/Resources/views/Front/Layout/partials/top_bar.html.twig" timestamp="1543843158065">
         <mark key="[" line="17" column="40" />
       </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/.huskyrc" timestamp="1557412062869">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="/daju.public.api_key_admin_events [Daju Postgres local]" timestamp="1543084318445">
         <mark key="[" line="0" column="0" />
       </file>
@@ -785,7 +790,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgaW5kZXhSb3V0ZXIgPSByZXF1aXJlKCcuL3JvdXRlcy9pbmRleCcpOwo=</text>
+        <text encoding="base64">ICAgICJwcmUtY29tbWl0IjogIm5wbSBydW4gdXBkYXRlLWRlcGVuZGVuY2llcy1oYXNoIiwK</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
@@ -800,37 +805,37 @@
         <text>https://gitlab-ci-token:${CI_JOB_TOKEN}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgaW5kZXhSb3V0ZXIgPSByZXF1aXJlKCcuL3JvdXRlcy9pbmRleCcpOwo=</text>
+        <text encoding="base64">ICAgICJwcmUtY29tbWl0IjogIm5wbSBydW4gdXBkYXRlLWRlcGVuZGVuY2llcy1oYXNoIiwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgeyBwaW5vIH0gPSBsb2dnZXI7Cg==</text>
+        <text encoding="base64">Y29uc3QgaW5kZXhSb3V0ZXIgPSByZXF1aXJlKCcuL3JvdXRlcy9pbmRleCcpOwo=</text>
       </register>
       <register name="r" type="4">
         <text>technical_accounting.account.filters.period</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgUmF2ZW4gICAgICAgICAgICAgICAgPSByZXF1aXJlKCdyYXZlbicpOwo=</text>
+        <text encoding="base64">Y29uc3QgeyBwaW5vIH0gPSBsb2dnZXI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJiYXNlNjR1cmwiOiAiKiJzCg==</text>
+        <text encoding="base64">Y29uc3QgUmF2ZW4gICAgICAgICAgICAgICAgPSByZXF1aXJlKCdyYXZlbicpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC0gZG9ja2VyLWNvbXBvc2UgLXAgZmMgZXhlYyAtVCBycCBzeXN0ZW1jdGwgcmVzdGFydCBuZ2lueAo=</text>
+        <text encoding="base64">ICAgICJiYXNlNjR1cmwiOiAiKiJzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIC0gZG9ja2VyLWNvbXBvc2UgLXAgZmMgZXhlYyAtVCBycCBzeXN0ZW1jdGwgcmVzdGFydCBuZ2lueAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2cocmVzdWx0Lm9ycGhhbnMoKSk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC0gY2QgJERPQ0tFUl9ESVIK</text>
+        <text encoding="base64">Y29uc29sZS5sb2cocmVzdWx0Lm9ycGhhbnMoKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC0gY2QgJERPQ0tFUl9ESVIK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLzEyN1wuMFwuMFwuMS8xNzJcLjE3XC4wXC4xL2c=</text>
