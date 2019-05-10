@@ -546,7 +546,7 @@
       <file name="$USER_HOME$/Documents/code/alto-espace-emprunteur/client/src/components/Header/LogoutButton.style.js" timestamp="1539679599817">
         <mark key="[" line="5" column="16" />
       </file>
-      <file name="/JavaScript Console" timestamp="1548324669640">
+      <file name="/JavaScript Console" timestamp="1557477630458">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/business_immo_legacy.jobs [Business immo legacy]" timestamp="1541682002486">
@@ -561,8 +561,10 @@
       <file name="/sphere.public.stored_event [Sphere]" timestamp="1538648676281">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/test/integration/helpers/FRIDPIdentitySpec.js" timestamp="1557477584510">
-        <mark key="[" line="7" column="8" />
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/test/integration/helpers/FRIDPIdentitySpec.js" timestamp="1557479668003">
+        <mark key="[" line="7" column="9" />
+        <mark key="]" line="7" column="9" />
+        <mark key="." line="7" column="9" />
       </file>
       <file name="/business_immo_legacy.users [Business immo legacy]" timestamp="1544441105456">
         <mark key="[" line="0" column="0" />
@@ -774,13 +776,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>score</text>
+        <text>only</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>score</text>
+        <text>only</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwaW5vXD4=</text>
