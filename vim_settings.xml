@@ -182,6 +182,9 @@
       <file name="$USER_HOME$/Documents/code/simplesamlphp/modules/businessimmolegacy/Language.php" timestamp="1542099904341">
         <mark key="[" line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/routes/web.php" timestamp="1557531600137">
+        <mark key="[" line="13" column="29" />
+      </file>
       <file name="$USER_HOME$/Documents/code/alto-espace-emprunteur/client/src/components/Messages/MessageForm/index.js" timestamp="1539792632670">
         <mark key="[" line="0" column="0" />
       </file>
@@ -247,7 +250,7 @@
       <file name="$USER_HOME$/Documents/code/alto-espace-emprunteur/api/templates/base.html.twig" timestamp="1540894714113">
         <mark key="[" line="240" column="188" />
       </file>
-      <file name="/dummy.sql" timestamp="1557504815952">
+      <file name="/dummy.sql" timestamp="1557531191421">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/sphere.public.users [Sphere]" timestamp="1538658271254">
@@ -262,7 +265,7 @@
       <file name="/business_immo_legacy.connections [Business immo legacy]" timestamp="1542731402346">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/stackoverflow-on-the-go.public.posts [stackoverflow-on-the-go@localhost]" timestamp="1557504815304">
+      <file name="/stackoverflow-on-the-go.public.posts [stackoverflow-on-the-go@localhost]" timestamp="1557531175757">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/connections [Business immo legacy]" timestamp="1542726121828">
@@ -388,17 +391,13 @@
         <mark key="^" line="18" column="17" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/.gitlab-ci.yml" timestamp="1557483348492">
-        <mark key="'" line="27" column="17" />
-        <mark key="[" line="7" column="0" />
-        <mark key="l" line="103" column="22" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/code/portail.io/README.md" timestamp="1548948601475">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/daju-landing/src/components/Homepage/Pricing/index.tsx" timestamp="1549735913675">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/stackoverflow-on-the-go.public.answers [stackoverflow-on-the-go@localhost]" timestamp="1557531154771">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/business-immo-directory/src/AppBundle/Resources/views/Back/Layout/top_bar.html.twig" timestamp="1543329996045">
@@ -430,6 +429,12 @@
       </file>
       <file name="/fragment.js" timestamp="1546092896444">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/resources/views/welcome.blade.php" timestamp="1557531891311">
+        <mark key="[" line="96" column="17" />
+        <mark key="]" line="96" column="17" />
+        <mark key="." line="96" column="17" />
+        <mark key="^" line="97" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/code/alto-espace-emprunteur/client/src/redux/Message/selectors.js" timestamp="1540477052429">
         <mark key="[" line="5" column="66" />
@@ -728,14 +733,14 @@
           <key char="95" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVjaG8gJ0Fuc3dlciBJZCAnIC4gJHJlYWRlci0+Z2V0QXR0cmlidXRlKCdJZCcpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>div</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>postsB</text>
+        <text>div</text>
       </register>
       <register name="/" type="4">
         <text>apps</text>
