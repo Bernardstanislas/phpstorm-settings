@@ -149,11 +149,11 @@
       <file name="$USER_HOME$/Documents/code/blog-dojo-cqrs/src/events/namespace.ts" timestamp="1545580874953">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/database/seeds/PostSeeder.php" timestamp="1557512766792">
-        <mark key="[" line="21" column="19" />
-        <mark key="]" line="21" column="19" />
-        <mark key="." line="21" column="19" />
-        <mark key="^" line="20" column="35" />
+      <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/database/seeds/PostSeeder.php" timestamp="1557512977353">
+        <mark key="[" line="60" column="34" />
+        <mark key="]" line="60" column="34" />
+        <mark key="." line="60" column="34" />
+        <mark key="^" line="60" column="33" />
       </file>
       <file name="/business_immo_legacy.user_peoples [Business immo legacy]" timestamp="1542280507623">
         <mark key="[" line="0" column="0" />
@@ -824,19 +824,19 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>posts</text>
+        <text encoding="base64">JHJlYWRlci0+Z2V0QXR0cmlidXRlKCdJZCcpID09PSAkYWNjZXB0ZWRBbnN3ZXJNYXBbJHJlYWRlci0+Z2V0QXR0cmlidXRlKCdQYXJlbnRJZCcpXSw=</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>posts</text>
+        <text encoding="base64">JHJlYWRlci0+Z2V0QXR0cmlidXRlKCdJZCcpID09PSAkYWNjZXB0ZWRBbnN3ZXJNYXBbJHJlYWRlci0+Z2V0QXR0cmlidXRlKCdQYXJlbnRJZCcpXSw=</text>
       </register>
       <register name="/" type="4">
         <text>apps</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBEQjo6dGFibGUoJ3Bvc3RzJyktPmRlbGV0ZSgpOwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">JHJlYWRlci0+Z2V0QXR0cmlidXRlKCdJZCcpID09PSAkYWNjZXB0ZWRBbnN3ZXJNYXBbJHJlYWRlci0+Z2V0QXR0cmlidXRlKCdQYXJlbnRJZCcpXQ==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBEQjo6dGFibGUoJ3Bvc3RzJyktPmRlbGV0ZSgpOwo=</text>
