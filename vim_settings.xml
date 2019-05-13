@@ -41,6 +41,12 @@
       <file name="/business_immo_directory.person [Business immo directory]" timestamp="1542906982261">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/fc-commons/repositories/Provider.repository.js" timestamp="1557756328661">
+        <mark key="[" line="55" column="80" />
+        <mark key="]" line="55" column="80" />
+        <mark key="." line="55" column="80" />
+        <mark key="^" line="55" column="65" />
+      </file>
       <file name="$USER_HOME$/Documents/code/sphere/frontend/src/modules/Contract/Form/AttributeWidgetFactory/AttributeWidgetFactory.spec.js" timestamp="1538409328868">
         <mark key="[" line="95" column="32" />
       </file>
@@ -393,6 +399,10 @@
       <file name="$USER_HOME$/Documents/code/business-immo-directory/config/packages/dev/hautelook_alice.yaml" timestamp="1543830441846">
         <mark key="[" line="1" column="27" />
       </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/fc-commons/test/unit/helpers/emailHelperSpec.js" timestamp="1557756875862">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="29" />
+      </file>
       <file name="/daju-test.public.user [daju-test]" timestamp="1540332795150">
         <mark key="[" line="0" column="0" />
       </file>
@@ -535,6 +545,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b4896aa8-3fb2-415d-a7fe-608e94f30975/console_4.sql" timestamp="1538646928470">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/admin/repositories/Provider.repository.js" timestamp="1557754807670">
+        <mark key="[" line="10" column="43" />
+        <mark key="]" line="10" column="43" />
+        <mark key="^" line="10" column="41" />
+        <mark key="." line="10" column="43" />
+      </file>
       <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/.gitignore" timestamp="1557504895790">
         <mark key="[" line="11" column="5" />
       </file>
@@ -568,6 +584,13 @@
       </file>
       <file name="/daju.public.api_key_admin_events [Daju Postgres local]" timestamp="1543084318445">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/fc-commons/test/unit/repositories/Provider.repository.test.js" timestamp="1557757351998">
+        <mark key="'" line="0" column="23" />
+        <mark key="[" line="10" column="19" />
+        <mark key="]" line="10" column="19" />
+        <mark key="^" line="1" column="5" />
+        <mark key="." line="10" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/fc-commons/test/integration/services/historyServiceIntegSpec.js" timestamp="1556813894990">
         <mark key="[" line="407" column="0" />
@@ -658,11 +681,11 @@
       <file name="$USER_HOME$/Documents/code/sphere/api/src/Domain/Contract/Query/SignedContractNames.php" timestamp="1539079193430">
         <mark key="[" line="6" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/admin/controllers/providerController.js" timestamp="1557753008492">
-        <mark key="[" line="68" column="23" />
-        <mark key="]" line="68" column="22" />
-        <mark key="." line="68" column="22" />
-        <mark key="^" line="68" column="22" />
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/admin/controllers/providerController.js" timestamp="1557754697045">
+        <mark key="[" line="42" column="66" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="42" column="65" />
       </file>
       <file name="$USER_HOME$/Documents/code/alto-espace-emprunteur/api/src/logs/.gitignore" timestamp="1539365791558">
         <mark key="[" line="0" column="0" />
@@ -708,7 +731,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="22" filename="$USER_HOME$/Documents/code/daju/app/PrintJob.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/code/daju/app/PrintJob.php" />
       <jump line="35" column="8" filename="$USER_HOME$/Documents/code/daju/app/Http/Controllers/Api/PrintController.php" />
       <jump line="5" column="24" filename="$USER_HOME$/Documents/code/daju/resources/js/preview.js" />
@@ -808,6 +830,7 @@
       <jump line="56" column="14" filename="$USER_HOME$/Documents/code/france-connect/Infra/docker/docker-stack" />
       <jump line="655" column="21" filename="$USER_HOME$/Documents/code/plastic/tests/DSL/SearchBuilderTest.php" />
       <jump line="92" column="8" filename="$USER_HOME$/Documents/code/plastic/tests/DSL/SearchBuilderTest.php" />
+      <jump line="0" column="23" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/fc-commons/test/unit/repositories/Provider.repository.test.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -860,52 +883,58 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>alt</text>
+        <text>provider) {
+                assert.deepEqual(provider, dummyProvider);
+                done();
+            }</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>alt</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
         <text>apps</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAiYWx0IiA6ICJlSURBUyBCcmlkZ2UiLAo=</text>
+        <text encoding="base64">dmFyIGFzc2VydCA9IHJlcXVpcmUoJ2NoYWknKS5hc3NlcnQsCiAgICBzaW5vbiA9IHJlcXVpcmUoJ3Npbm9uJyksCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2hpdGUtc3BhY2U6IG5vd3JhcDsK</text>
+      <register name="1" type="4">
+        <text>provider) {
+                assert.deepEqual(provider, dummyProvider);
+                done();
+            }</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGV4dC1vdmVyZmxvdzogZWxsaXBzaXM7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcHJvdmlkZXJzOwo=</text>
       </register>
       <register name="r" type="4">
         <text>technical_accounting.account.filters.period</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Ly8gV2hpbGUgdGhlcmUgaXMgbm8gc2VydmljZSBjb250YWluZXIgdG8gcGVyZm9ybSB0aGUgZGVwZW5kZW5jeSBpbmplY3Rpb24sIGRvIGl0IGJ5IGhhbmQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGEgewogICAgICAgIHRleHQtZGVjb3JhdGlvbjogbm9uZTsKICAgICAgICBmb250LXNpemU6IDEuMnJlbTsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICovCiAgICBhc3luYyBmaW5kCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8cD48YSBocmVmPSJ7eyByb3V0ZSgnc2hvdy1wb3N0JywgWydpZCcgPT4gJHBvc3QtPmlkXSkgfX0iPnt7ICRwb3N0LT50aXRsZSB9fTwvYT48L3A+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Y29uc3QgY29tbW9ucyA9IHJlcXVpcmUoJ0ZyYW5jZUNvbm5lY3QvcHJvamVjdHMvZmMvZmMtY29tbW9ucy9tYWluJyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YSB7CiAgICB0ZXh0LWRlY29yYXRpb246IG5vbmU7CiAgICBmb250LXNpemU6IDEuMnJlbTsKfQo=</text>
+        <text encoding="base64">ICAgIHByb3ZpZGVyTW9kZWwuZmluZCgpLndoZXJlKCduYW1lJywgcmVxLmJvZHkubmFtZSkuZXhpc3RzKCkudGhlbigocmVzdWx0KSA9PiB7CiAgICAgICAgY29uc29sZS5sb2coJ0V4aXN0cyA/JywgcmVzdWx0KTsKICAgIH0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLzEyN1wuMFwuMFwuMS8xNzJcLjE3XC4wXC4xL2c=</text>
