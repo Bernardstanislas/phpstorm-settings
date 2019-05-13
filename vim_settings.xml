@@ -142,7 +142,7 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1557740778526">
+      <file name="/GraphQL.result.json" timestamp="1557740879420">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/blog-dojo-cqrs/src/events/namespace.ts" timestamp="1545580874953">
@@ -334,6 +334,9 @@
       <file name="$USER_HOME$/Documents/code/daju/app/Services/HandlebarsTemplateEngine.php" timestamp="1553863392415">
         <mark key="[" line="12" column="58" />
       </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/Infra/ansible/env-fcp/docker/group_vars/all/vars.yml" timestamp="1557742515467">
+        <mark key="[" line="114" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/code/francis/.gitignore" timestamp="1547032674570">
         <mark key="[" line="2" column="6" />
       </file>
@@ -357,11 +360,6 @@
       </file>
       <file name="/daju.public.api_keys [Daju Postgres local]" timestamp="1553590973763">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/partenaires/package.json" timestamp="1557735975867">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/business-immo-directory/src/AppBundle/Resources/views/Front/Career/documentation.html.twig" timestamp="1542809132124">
         <mark key="[" line="0" column="0" />
@@ -580,11 +578,6 @@
       </file>
       <file name="$USER_HOME$/Documents/code/test-gitlab-ci/Dangerfile" timestamp="1557497164871">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/admin/package.json" timestamp="1557735888764">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
       </file>
       <file name="/alto-test.app_users [alto-test]" timestamp="1539672566207">
         <mark key="[" line="0" column="0" />
