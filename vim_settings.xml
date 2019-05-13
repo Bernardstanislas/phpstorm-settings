@@ -585,12 +585,12 @@
       <file name="/daju.public.api_key_admin_events [Daju Postgres local]" timestamp="1543084318445">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/fc-commons/test/unit/repositories/Provider.repository.test.js" timestamp="1557757351998">
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/fc-commons/test/unit/repositories/Provider.repository.test.js" timestamp="1557760915739">
         <mark key="'" line="0" column="23" />
-        <mark key="[" line="10" column="19" />
-        <mark key="]" line="10" column="19" />
+        <mark key="[" line="24" column="8" />
+        <mark key="]" line="24" column="8" />
         <mark key="^" line="1" column="5" />
-        <mark key="." line="10" column="19" />
+        <mark key="." line="24" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/fc-commons/test/integration/services/historyServiceIntegSpec.js" timestamp="1556813894990">
         <mark key="[" line="407" column="0" />
@@ -883,16 +883,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>provider) {
-                assert.deepEqual(provider, dummyProvider);
-                done();
-            }</text>
+        <text>assertTrue</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>assertTrue</text>
       </register>
       <register name="/" type="4">
         <text>apps</text>
