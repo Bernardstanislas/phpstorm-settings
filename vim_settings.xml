@@ -458,6 +458,11 @@
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/.gitlab-ci.yml" timestamp="1557751179155">
+        <mark key="[" line="60" column="35" />
+        <mark key="]" line="60" column="35" />
+        <mark key="." line="60" column="35" />
+      </file>
       <file name="$USER_HOME$/Documents/code/portail.io/README.md" timestamp="1548948601475">
         <mark key="[" line="0" column="0" />
       </file>
@@ -847,20 +852,20 @@
           <key char="95" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2hpdGUtc3BhY2U6IG5vd3JhcDsK</text>
+      <register name="&quot;" type="4">
+        <text>fcp</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGE=</text>
+        <text>fcp</text>
       </register>
       <register name="/" type="4">
         <text>apps</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxmb3JtIG1ldGhvZD0iR0VUIiBhY3Rpb249Int7IHJvdXRlKCdob21lJykgfX0iPgogICAgICAgIDxpbnB1dCBuYW1lPSJxdWVyeSIgdmFsdWU9Int7ICRxdWVyeSB9fSIvPgogICAgPC9mb3JtPgo=</text>
+        <text encoding="base64">ICAgIC0gLi9kb2NrZXItc3RhY2sgZGVwbG95X2NvbmZpZyBmY3AK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgd2hpdGUtc3BhY2U6IG5vd3JhcDsK</text>
