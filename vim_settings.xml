@@ -41,10 +41,10 @@
       <file name="/business_immo_directory.person [Business immo directory]" timestamp="1542906982261">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/fc-commons/repositories/Provider.repository.js" timestamp="1557756328661">
-        <mark key="[" line="55" column="80" />
-        <mark key="]" line="55" column="80" />
-        <mark key="." line="55" column="80" />
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/fc-commons/repositories/Provider.repository.js" timestamp="1557763021751">
+        <mark key="[" line="11" column="10" />
+        <mark key="]" line="11" column="10" />
+        <mark key="." line="11" column="10" />
         <mark key="^" line="55" column="65" />
       </file>
       <file name="$USER_HOME$/Documents/code/sphere/frontend/src/modules/Contract/Form/AttributeWidgetFactory/AttributeWidgetFactory.spec.js" timestamp="1538409328868">
@@ -585,12 +585,14 @@
       <file name="/daju.public.api_key_admin_events [Daju Postgres local]" timestamp="1543084318445">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/fc-commons/test/unit/repositories/Provider.repository.test.js" timestamp="1557760915739">
-        <mark key="'" line="0" column="23" />
-        <mark key="[" line="24" column="8" />
-        <mark key="]" line="24" column="8" />
-        <mark key="^" line="1" column="5" />
-        <mark key="." line="24" column="8" />
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/fc-commons/test/unit/repositories/Provider.repository.test.js" timestamp="1557763816033">
+        <mark key="'" line="92" column="59" />
+        <mark key="[" line="6" column="9" />
+        <mark key="l" line="87" column="40" />
+        <mark key="m" line="87" column="40" />
+        <mark key="]" line="6" column="9" />
+        <mark key="." line="6" column="9" />
+        <mark key="^" line="84" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/fc-commons/test/integration/services/historyServiceIntegSpec.js" timestamp="1556813894990">
         <mark key="[" line="407" column="0" />
@@ -731,7 +733,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/code/daju/app/PrintJob.php" />
       <jump line="35" column="8" filename="$USER_HOME$/Documents/code/daju/app/Http/Controllers/Api/PrintController.php" />
       <jump line="5" column="24" filename="$USER_HOME$/Documents/code/daju/resources/js/preview.js" />
       <jump line="38" column="4" filename="$USER_HOME$/Documents/code/france-connect/Infra/docker/docker-stack" />
@@ -831,6 +832,7 @@
       <jump line="655" column="21" filename="$USER_HOME$/Documents/code/plastic/tests/DSL/SearchBuilderTest.php" />
       <jump line="92" column="8" filename="$USER_HOME$/Documents/code/plastic/tests/DSL/SearchBuilderTest.php" />
       <jump line="0" column="23" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/fc-commons/test/unit/repositories/Provider.repository.test.js" />
+      <jump line="92" column="59" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/fc-commons/test/unit/repositories/Provider.repository.test.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -883,55 +885,54 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>assertTrue</text>
+        <text>only</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>assertTrue</text>
+        <text>only</text>
       </register>
       <register name="/" type="4">
         <text>apps</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dmFyIGFzc2VydCA9IHJlcXVpcmUoJ2NoYWknKS5hc3NlcnQsCiAgICBzaW5vbiA9IHJlcXVpcmUoJ3Npbm9uJyksCg==</text>
+        <text encoding="base64">CiAgICBpdCgndGVsbHMgYSBwcm92aWRlciBleGlzdHMgaWYgdGhlcmUgaXMgYWxyZWFkeSBvbmUgd2l0aCB0aGUgc2FtZSBuYW1lIGluIHRoZSBkYXRhYmFzZScsIChkb25lKSA9PiB7CiAgICAgICAgLy8gR2l2ZW4KICAgICAgICBjb25zdCBmYWtlTW9kZWwgPSB7CiAgICAgICAgICAgIGZpbmQ6IHNpbm9uLnN0dWIoKS53aXRoQXJncyh7bmFtZTogZHVtbXlQcm92aWRlci5uYW1lfSkucmVzb2x2ZXMoW2R1bW15UHJvdmlkZXJdKQogICAgICAgIH07CiAgICAgICAgY29uc3QgcHJvdmlkZXJSZXBvc2l0b3J5ID0gbmV3IFByb3ZpZGVyUmVwb3NpdG9yeShmYWtlTW9kZWwpOwoKICAgICAgICAvLyBXaGVuCiAgICAgICAgcHJvdmlkZXJSZXBvc2l0b3J5LmV4aXN0cyhkdW1teVByb3ZpZGVyLm5hbWUpLnRoZW4oKHByb3ZpZGVyRXhpc3RzKSA9PiB7CiAgICAgICAgICAgIC8vIFRoZW4KICAgICAgICAgICAgYXNzZXJ0LmlzVHJ1ZShwcm92aWRlckV4aXN0cyk7CiAgICAgICAgICAgIGRvbmUoKTsKICAgICAgICB9KTsKICAgIH0pOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>provider) {
-                assert.deepEqual(provider, dummyProvider);
-                done();
-            }</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcHJvdmlkZXJzOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncHJvdmlkZXJFeGlzdHMnLCBwcm92aWRlckV4aXN0cyk7Cg==</text>
       </register>
       <register name="r" type="4">
         <text>technical_accounting.account.filters.period</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gV2hpbGUgdGhlcmUgaXMgbm8gc2VydmljZSBjb250YWluZXIgdG8gcGVyZm9ybSB0aGUgZGVwZW5kZW5jeSBpbmplY3Rpb24sIGRvIGl0IGJ5IGhhbmQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3Jlc3VsdCcsIHJlc3VsdCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUaGVuCiAgICAgICAgYXNzZXJ0LmlzVHJ1ZShwcm92aWRlckV4aXN0cyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICovCiAgICBhc3luYyBmaW5kCg==</text>
+        <text encoding="base64">CiAgICBpdCgndGVsbHMgYSBwcm92aWRlciBleGlzdHMgaWYgdGhlcmUgaXMgYWxyZWFkeSBvbmUgd2l0aCB0aGUgc2FtZSBuYW1lIGluIHRoZSBkYXRhYmFzZScsICgpID0+IHsKICAgICAgICAvLyBHaXZlbgogICAgICAgIGNvbnN0IGZha2VNb2RlbCA9IHsKICAgICAgICAgICAgZmluZDogc2lub24uc3R1YigpLndpdGhBcmdzKHtuYW1lOiBkdW1teVByb3ZpZGVyLm5hbWV9KS5yZXR1cm5zKFtkdW1teVByb3ZpZGVyXSkKICAgICAgICB9OwogICAgICAgIGNvbnN0IHByb3ZpZGVyUmVwb3NpdG9yeSA9IG5ldyBQcm92aWRlclJlcG9zaXRvcnkoZmFrZU1vZGVsKTsKCiAgICAgICAgLy8gV2hlbgogICAgICAgIGNvbnN0IHByb3ZpZGVyRXhpc3RzID0gcHJvdmlkZXJSZXBvc2l0b3J5LmV4aXN0cyhkdW1teVByb3ZpZGVyLm5hbWUpOwoKICAgICAgICAvLyBUaGVuCiAgICAgICAgYXNzZXJ0LmlzVHJ1ZShwcm92aWRlckV4aXN0cyk7CiAgICB9KTsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgY29tbW9ucyA9IHJlcXVpcmUoJ0ZyYW5jZUNvbm5lY3QvcHJvamVjdHMvZmMvZmMtY29tbW9ucy9tYWluJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByb3ZpZGVyTW9kZWwuZmluZCgpLndoZXJlKCduYW1lJywgcmVxLmJvZHkubmFtZSkuZXhpc3RzKCkudGhlbigocmVzdWx0KSA9PiB7CiAgICAgICAgY29uc29sZS5sb2coJ0V4aXN0cyA/JywgcmVzdWx0KTsKICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUaGVuCiAgICAgICAgYXNzZXJ0LmlzVHJ1ZShwcm92aWRlckV4aXN0cyk7Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSB7Cg==</text>
+      <register name="9" type="4">
+        <text>stub().returns({
+                exec: sinon.spy
+            })</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLzEyN1wuMFwuMFwuMS8xNzJcLjE3XC4wXC4xL2c=</text>
