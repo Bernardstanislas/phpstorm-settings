@@ -310,6 +310,7 @@
       <file name="/Dummy.txt" timestamp="1557602141031">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/admin/middleware/formValidator.js" timestamp="1557751464902" />
       <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/webpack.mix.js" timestamp="1557747214798">
         <mark key="[" line="2" column="17" />
         <mark key="]" line="2" column="17" />
@@ -643,6 +644,7 @@
       <file name="/sphere.public.stored_event [Sphere]" timestamp="1538648676281">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/admin/views/providerDetail.ejs" timestamp="1557751265466" />
       <file name="/business_immo_legacy.users [Business immo legacy]" timestamp="1544441105456">
         <mark key="[" line="0" column="0" />
       </file>
@@ -671,6 +673,12 @@
       </file>
       <file name="$USER_HOME$/Documents/code/sf-auth0/.gitignore" timestamp="1538777892419">
         <mark key="[" line="8" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/Infra/docker/volumes/mongod/scripts/mongo-init.js" timestamp="1557751972323">
+        <mark key="[" line="100" column="3" />
+        <mark key="]" line="100" column="3" />
+        <mark key="." line="100" column="3" />
+        <mark key="^" line="99" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/code/daju/assets/js/app.js" timestamp="1540756883918">
         <mark key="[" line="0" column="0" />
@@ -853,19 +861,19 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>fcp</text>
+        <text>alt</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>fcp</text>
+        <text>alt</text>
       </register>
       <register name="/" type="4">
         <text>apps</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC0gLi9kb2NrZXItc3RhY2sgZGVwbG95X2NvbmZpZyBmY3AK</text>
+        <text encoding="base64">ICAiYWx0IiA6ICJlSURBUyBCcmlkZ2UiLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgd2hpdGUtc3BhY2U6IG5vd3JhcDsK</text>
