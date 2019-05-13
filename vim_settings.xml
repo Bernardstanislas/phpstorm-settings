@@ -355,6 +355,11 @@
       <file name="/daju.public.api_keys [Daju Postgres local]" timestamp="1553590973763">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/partenaires/package.json" timestamp="1557735975867">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/code/business-immo-directory/src/AppBundle/Resources/views/Front/Career/documentation.html.twig" timestamp="1542809132124">
         <mark key="[" line="0" column="0" />
       </file>
@@ -533,7 +538,6 @@
       <file name="/oreqo.public.api_keys [oreqo@localhost]" timestamp="1555949063473">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/daju/tests/BrowserTestCase.php" timestamp="1557601671906" />
       <file name="$USER_HOME$/Documents/code/business-immo-directory/src/Resources/views/Front/Layout/partials/top_bar.html.twig" timestamp="1543843158065">
         <mark key="[" line="17" column="40" />
       </file>
@@ -576,6 +580,11 @@
       </file>
       <file name="$USER_HOME$/Documents/code/test-gitlab-ci/Dangerfile" timestamp="1557497164871">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/admin/package.json" timestamp="1557735888764">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="/alto-test.app_users [alto-test]" timestamp="1539672566207">
         <mark key="[" line="0" column="0" />
@@ -831,8 +840,8 @@
           <key char="95" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>$users</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBbRkNQLTE5MV0gOmhlYXZ5X21pbnVzX3NpZ246IFJlbW92ZSB1bnVzZWQgbGlicmFyaWVzCg==</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
@@ -846,40 +855,40 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxmb3JtIG1ldGhvZD0iR0VUIiBhY3Rpb249Int7IHJvdXRlKCdob21lJykgfX0iPgogICAgICAgIDxpbnB1dCBuYW1lPSJxdWVyeSIgdmFsdWU9Int7ICRxdWVyeSB9fSIvPgogICAgPC9mb3JtPgo=</text>
       </register>
-      <register name="1" type="4">
-        <text>function($id) {
-
-})</text>
+      <register name="1" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBbRkNQLTE5MV0gOmhlYXZ5X21pbnVzX3NpZ246IFJlbW92ZSB1bnVzZWQgbGlicmFyaWVzCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxmb3JtIG1ldGhvZD0iR0VUIiBhY3Rpb249Int7IHJvdXRlKCdob21lJykgfX0iPgogICAgICAgIDxpbnB1dCBuYW1lPSJxdWVyeSIgdmFsdWU9Int7ICRxdWVyeSB9fSIvPgogICAgPC9mb3JtPgo=</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="r" type="4">
         <text>technical_accounting.account.filters.period</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QGlmICgkcG9zdHMpCiAgICBAZm9yZWFjaCAoJHBvc3RzIGFzICRwb3N0KQogICAgICAgIDxwPnt7ICRwb3N0LT50aXRsZSB9fTwvcD4KICAgIEBlbmRmb3JlYWNoCkBlbmRpZgoKQGlmICgkcXVlcnkgJiYgY291bnQoJHBvc3RzKSA9PT0gMCkKICAgIE5vIHJlc3VsdCBmb3IgInt7ICRxdWVyeSB9fSIuCkBlbmRpZgo=</text>
+        <text encoding="base64">ICAgICJtb25nb29zZSI6ICJeNC4xMy43IiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAibW9uZ29kYiI6ICJeMi4yLjMzIiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IFtGQ1AtMTkxXSA6aGVhdnlfbWludXNfc2lnbjogUmVtb3ZlIHVudXNlZCBsaWJyYXJpZXMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Um91dGU6OmdldCgnLycsIGZ1bmN0aW9uICgpIHsKICAgIHJldHVybiB2aWV3KCdob21lJyk7Cn0pOwo=</text>
+      <register name="7" type="4">
+        <text>function($id) {
+
+})</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIDxmb3JtIG1ldGhvZD0iR0VUIiBhY3Rpb249Int7IHJvdXRlKCdob21lJykgfX0iPgogICAgICAgIDxpbnB1dCBuYW1lPSJxdWVyeSIgdmFsdWU9Int7ICRxdWVyeSB9fSIvPgogICAgPC9mb3JtPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">QGlmICgkcG9zdHMpCiAgICBAZm9yZWFjaCAoJHBvc3RzIGFzICRwb3N0KQogICAgICAgIDxwPnt7ICRwb3N0LT50aXRsZSB9fTwvcD4KICAgIEBlbmRmb3JlYWNoCkBlbmRpZgoKQGlmICgkcXVlcnkgJiYgY291bnQoJHBvc3RzKSA9PT0gMCkKICAgIE5vIHJlc3VsdCBmb3IgInt7ICRxdWVyeSB9fSIuCkBlbmRpZgo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLzEyN1wuMFwuMFwuMS8xNzJcLjE3XC4wXC4xL2c=</text>
