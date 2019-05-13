@@ -92,11 +92,11 @@
       <file name="$USER_HOME$/Documents/code/blog-dojo-cqrs/src/repository/Repository.ts" timestamp="1546093069663">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/resources/views/home.blade.php" timestamp="1557667102563">
-        <mark key="[" line="19" column="7" />
-        <mark key="]" line="19" column="7" />
-        <mark key="." line="19" column="7" />
-        <mark key="^" line="10" column="8" />
+      <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/resources/views/home.blade.php" timestamp="1557748795736">
+        <mark key="[" line="24" column="25" />
+        <mark key="]" line="24" column="25" />
+        <mark key="." line="24" column="25" />
+        <mark key="^" line="24" column="54" />
       </file>
       <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/resources/views/post.blade.php" timestamp="1557667021842">
         <mark key="[" line="11" column="27" />
@@ -142,7 +142,7 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1557740879420">
+      <file name="/GraphQL.result.json" timestamp="1557746521757">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/blog-dojo-cqrs/src/events/namespace.ts" timestamp="1545580874953">
@@ -201,7 +201,7 @@
       <file name="/business_immo_legacy.activity_sectors [Business immo legacy]" timestamp="1542805803223">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/Infra/.gitlab-ci.yml" timestamp="1557501174161">
+      <file name="$USER_HOME$/Documents/code/france-connect/Infra/.gitlab-ci.yml" timestamp="1557746499172">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="7" />
         <mark key="." line="7" column="7" />
@@ -309,6 +309,12 @@
       </file>
       <file name="/Dummy.txt" timestamp="1557602141031">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/webpack.mix.js" timestamp="1557747214798">
+        <mark key="[" line="2" column="17" />
+        <mark key="]" line="2" column="17" />
+        <mark key="^" line="2" column="16" />
+        <mark key="." line="2" column="17" />
       </file>
       <file name="/business_immo_legacy.connections [Business immo legacy]" timestamp="1542731402346">
         <mark key="[" line="0" column="0" />
@@ -445,6 +451,12 @@
         <mark key="]" line="22" column="46" />
         <mark key="^" line="18" column="17" />
         <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/resources/sass/app.scss" timestamp="1557749074372">
+        <mark key="a" line="14" column="3" />
+        <mark key="[" line="57" column="29" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/portail.io/README.md" timestamp="1548948601475">
         <mark key="[" line="0" column="0" />
@@ -836,13 +848,13 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2hpdGUtc3BhY2U6IG5vd3JhcDsK</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>$users</text>
+        <text encoding="base64">IGE=</text>
       </register>
       <register name="/" type="4">
         <text>apps</text>
@@ -851,39 +863,37 @@
         <text encoding="base64">ICAgIDxmb3JtIG1ldGhvZD0iR0VUIiBhY3Rpb249Int7IHJvdXRlKCdob21lJykgfX0iPgogICAgICAgIDxpbnB1dCBuYW1lPSJxdWVyeSIgdmFsdWU9Int7ICRxdWVyeSB9fSIvPgogICAgPC9mb3JtPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2hpdGUtc3BhY2U6IG5vd3JhcDsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cmVkaXNfaG9zdDogJ3JlZGlzJwpyZWRpc19wb3J0OiA2Mzc5Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGV4dC1vdmVyZmxvdzogZWxsaXBzaXM7Cg==</text>
       </register>
       <register name="r" type="4">
         <text>technical_accounting.account.filters.period</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBbRkNQLTE5MV0gOmhlYXZ5X21pbnVzX3NpZ246IFJlbW92ZSB1bnVzZWQgbGlicmFyaWVzCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgIGEgewogICAgICAgIHRleHQtZGVjb3JhdGlvbjogbm9uZTsKICAgICAgICBmb250LXNpemU6IDEuMnJlbTsKICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJtb25nb29zZSI6ICJeNC4xMy43IiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAibW9uZ29kYiI6ICJeMi4yLjMzIiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8cD48YSBocmVmPSJ7eyByb3V0ZSgnc2hvdy1wb3N0JywgWydpZCcgPT4gJHBvc3QtPmlkXSkgfX0iPnt7ICRwb3N0LT50aXRsZSB9fTwvYT48L3A+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IFtGQ1AtMTkxXSA6aGVhdnlfbWludXNfc2lnbjogUmVtb3ZlIHVudXNlZCBsaWJyYXJpZXMK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">YSB7CiAgICB0ZXh0LWRlY29yYXRpb246IG5vbmU7CiAgICBmb250LXNpemU6IDEuMnJlbTsKfQo=</text>
       </register>
-      <register name="9" type="4">
-        <text>function($id) {
-
-})</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLzEyN1wuMFwuMFwuMS8xNzJcLjE3XC4wXC4xL2c=</text>
