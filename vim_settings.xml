@@ -41,10 +41,10 @@
       <file name="/business_immo_directory.person [Business immo directory]" timestamp="1542906982261">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/fc-commons/repositories/Provider.repository.js" timestamp="1557763021751">
-        <mark key="[" line="11" column="10" />
-        <mark key="]" line="11" column="10" />
-        <mark key="." line="11" column="10" />
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/fc-commons/repositories/Provider.repository.js" timestamp="1557765217588">
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
         <mark key="^" line="55" column="65" />
       </file>
       <file name="$USER_HOME$/Documents/code/sphere/frontend/src/modules/Contract/Form/AttributeWidgetFactory/AttributeWidgetFactory.spec.js" timestamp="1538409328868">
@@ -98,6 +98,7 @@
       <file name="$USER_HOME$/Documents/code/blog-dojo-cqrs/src/repository/Repository.ts" timestamp="1546093069663">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/admin/routes/providerRouter.js" timestamp="1557764580533" />
       <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/resources/views/home.blade.php" timestamp="1557748795736">
         <mark key="[" line="24" column="25" />
         <mark key="]" line="24" column="25" />
@@ -256,6 +257,9 @@
       </file>
       <file name="/business_immo_legacy.sessions [Business immo legacy]" timestamp="1542123983757">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/admin/app.js" timestamp="1557764218672">
+        <mark key="'" line="28" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/composer.json" timestamp="1557599999302">
         <mark key="[" line="64" column="20" />
@@ -450,6 +454,13 @@
       <file name="$USER_HOME$/Documents/code/blog-dojo-cqrs/.gitignore" timestamp="1545231227960">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/admin/test/unit/controllers/providerControllerSpec.js" timestamp="1557767126220">
+        <mark key="'" line="29" column="34" />
+        <mark key="[" line="341" column="27" />
+        <mark key="]" line="341" column="27" />
+        <mark key="." line="341" column="27" />
+        <mark key="^" line="341" column="54" />
+      </file>
       <file name="/daju.public.templates [Daju Postgres local]" timestamp="1544358308197">
         <mark key="[" line="0" column="0" />
       </file>
@@ -585,7 +596,7 @@
       <file name="/daju.public.api_key_admin_events [Daju Postgres local]" timestamp="1543084318445">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/fc-commons/test/unit/repositories/Provider.repository.test.js" timestamp="1557763816033">
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/fc-commons/test/unit/repositories/Provider.repository.test.js" timestamp="1557765261219">
         <mark key="'" line="92" column="59" />
         <mark key="[" line="6" column="9" />
         <mark key="l" line="87" column="40" />
@@ -683,11 +694,11 @@
       <file name="$USER_HOME$/Documents/code/sphere/api/src/Domain/Contract/Query/SignedContractNames.php" timestamp="1539079193430">
         <mark key="[" line="6" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/admin/controllers/providerController.js" timestamp="1557754697045">
-        <mark key="[" line="42" column="66" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-        <mark key="^" line="42" column="65" />
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/admin/controllers/providerController.js" timestamp="1557767195374">
+        <mark key="'" line="24" column="47" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/alto-espace-emprunteur/api/src/logs/.gitignore" timestamp="1539365791558">
         <mark key="[" line="0" column="0" />
@@ -733,18 +744,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="8" filename="$USER_HOME$/Documents/code/daju/app/Http/Controllers/Api/PrintController.php" />
-      <jump line="5" column="24" filename="$USER_HOME$/Documents/code/daju/resources/js/preview.js" />
-      <jump line="38" column="4" filename="$USER_HOME$/Documents/code/france-connect/Infra/docker/docker-stack" />
-      <jump line="65" column="6" filename="$USER_HOME$/Documents/code/france-connect/Infra/docker/docker-stack" />
-      <jump line="81" column="6" filename="$USER_HOME$/Documents/code/france-connect/Infra/docker/docker-stack" />
-      <jump line="98" column="6" filename="$USER_HOME$/Documents/code/france-connect/Infra/docker/docker-stack" />
-      <jump line="115" column="6" filename="$USER_HOME$/Documents/code/france-connect/Infra/docker/docker-stack" />
-      <jump line="137" column="2" filename="$USER_HOME$/Documents/code/france-connect/Infra/docker/docker-stack" />
-      <jump line="145" column="4" filename="$USER_HOME$/Documents/code/france-connect/Infra/docker/docker-stack" />
-      <jump line="148" column="4" filename="$USER_HOME$/Documents/code/france-connect/Infra/docker/docker-stack" />
-      <jump line="158" column="6" filename="$USER_HOME$/Documents/code/france-connect/Infra/docker/docker-stack" />
-      <jump line="177" column="2" filename="$USER_HOME$/Documents/code/france-connect/Infra/docker/docker-stack" />
       <jump line="190" column="6" filename="$USER_HOME$/Documents/code/france-connect/Infra/docker/docker-stack" />
       <jump line="238" column="24" filename="$USER_HOME$/Documents/code/france-connect/Infra/docker/docker-stack" />
       <jump line="239" column="30" filename="$USER_HOME$/Documents/code/france-connect/Infra/docker/docker-stack" />
@@ -833,6 +832,18 @@
       <jump line="92" column="8" filename="$USER_HOME$/Documents/code/plastic/tests/DSL/SearchBuilderTest.php" />
       <jump line="0" column="23" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/fc-commons/test/unit/repositories/Provider.repository.test.js" />
       <jump line="92" column="59" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/fc-commons/test/unit/repositories/Provider.repository.test.js" />
+      <jump line="3" column="26" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/admin/test/unit/controllers/providerControllerSpec.js" />
+      <jump line="28" column="34" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/admin/test/unit/controllers/providerControllerSpec.js" />
+      <jump line="191" column="4" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/admin/app.js" />
+      <jump line="28" column="47" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/admin/app.js" />
+      <jump line="4" column="4" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/admin/controllers/providerController.js" />
+      <jump line="40" column="26" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/admin/controllers/providerController.js" />
+      <jump line="69" column="26" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/admin/controllers/providerController.js" />
+      <jump line="3" column="38" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/admin/controllers/providerController.js" />
+      <jump line="61" column="12" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/admin/controllers/providerController.js" />
+      <jump line="72" column="8" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/admin/controllers/providerController.js" />
+      <jump line="94" column="12" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/admin/controllers/providerController.js" />
+      <jump line="24" column="47" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/admin/controllers/providerController.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -884,55 +895,53 @@
           <key char="95" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>only</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2Vycm9yJywgZXJyb3IpOwo=</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>only</text>
+        <text>isTrue</text>
       </register>
       <register name="/" type="4">
-        <text>apps</text>
+        <text encoding="base64">XDxsb2dnZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CiAgICBpdCgndGVsbHMgYSBwcm92aWRlciBleGlzdHMgaWYgdGhlcmUgaXMgYWxyZWFkeSBvbmUgd2l0aCB0aGUgc2FtZSBuYW1lIGluIHRoZSBkYXRhYmFzZScsIChkb25lKSA9PiB7CiAgICAgICAgLy8gR2l2ZW4KICAgICAgICBjb25zdCBmYWtlTW9kZWwgPSB7CiAgICAgICAgICAgIGZpbmQ6IHNpbm9uLnN0dWIoKS53aXRoQXJncyh7bmFtZTogZHVtbXlQcm92aWRlci5uYW1lfSkucmVzb2x2ZXMoW2R1bW15UHJvdmlkZXJdKQogICAgICAgIH07CiAgICAgICAgY29uc3QgcHJvdmlkZXJSZXBvc2l0b3J5ID0gbmV3IFByb3ZpZGVyUmVwb3NpdG9yeShmYWtlTW9kZWwpOwoKICAgICAgICAvLyBXaGVuCiAgICAgICAgcHJvdmlkZXJSZXBvc2l0b3J5LmV4aXN0cyhkdW1teVByb3ZpZGVyLm5hbWUpLnRoZW4oKHByb3ZpZGVyRXhpc3RzKSA9PiB7CiAgICAgICAgICAgIC8vIFRoZW4KICAgICAgICAgICAgYXNzZXJ0LmlzVHJ1ZShwcm92aWRlckV4aXN0cyk7CiAgICAgICAgICAgIGRvbmUoKTsKICAgICAgICB9KTsKICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJvdmlkZXJDb250cm9sbGVyLnNob3dQcm92aWRlcnMoZmFrZVJlcSwgZmFrZVJlcykKICAgICAgICAgICAgICAgIC50aGVuKCgpID0+IHsKICAgICAgICAgICAgICAgICAgICAvLyBUaGVuCiAgICAgICAgICAgICAgICAgICAgYXNzZXJ0LmlzVHJ1ZShmYWtlUmVzLnJlbmRlci53aXRoQXJncygncHJvdmlkZXJzJywge3Byb3ZpZGVycywgY3NyZlRva2VufSkuY2FsbGVkT25jZSk7CiAgICAgICAgICAgICAgICAgICAgZG9uZSgpOwogICAgICAgICAgICAgICAgfSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2Vycm9yJywgZXJyb3IpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncHJvdmlkZXJFeGlzdHMnLCBwcm92aWRlckV4aXN0cyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2Vycm9yJywgZXJyb3IpOwo=</text>
       </register>
       <register name="r" type="4">
         <text>technical_accounting.account.filters.period</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3Jlc3VsdCcsIHJlc3VsdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmFrZVJlcS5jc3JmVG9rZW4gPSBzaW5vbi5zdHViLnJldHVybnMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUaGVuCiAgICAgICAgYXNzZXJ0LmlzVHJ1ZShwcm92aWRlckV4aXN0cyk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGNyc2ZUb2tlbiA9ICdHZW9yZ2VzIE1vdXN0YWtpJzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBpdCgndGVsbHMgYSBwcm92aWRlciBleGlzdHMgaWYgdGhlcmUgaXMgYWxyZWFkeSBvbmUgd2l0aCB0aGUgc2FtZSBuYW1lIGluIHRoZSBkYXRhYmFzZScsICgpID0+IHsKICAgICAgICAvLyBHaXZlbgogICAgICAgIGNvbnN0IGZha2VNb2RlbCA9IHsKICAgICAgICAgICAgZmluZDogc2lub24uc3R1YigpLndpdGhBcmdzKHtuYW1lOiBkdW1teVByb3ZpZGVyLm5hbWV9KS5yZXR1cm5zKFtkdW1teVByb3ZpZGVyXSkKICAgICAgICB9OwogICAgICAgIGNvbnN0IHByb3ZpZGVyUmVwb3NpdG9yeSA9IG5ldyBQcm92aWRlclJlcG9zaXRvcnkoZmFrZU1vZGVsKTsKCiAgICAgICAgLy8gV2hlbgogICAgICAgIGNvbnN0IHByb3ZpZGVyRXhpc3RzID0gcHJvdmlkZXJSZXBvc2l0b3J5LmV4aXN0cyhkdW1teVByb3ZpZGVyLm5hbWUpOwoKICAgICAgICAvLyBUaGVuCiAgICAgICAgYXNzZXJ0LmlzVHJ1ZShwcm92aWRlckV4aXN0cyk7CiAgICB9KTsK</text>
+        <text encoding="base64">ICAgIHUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzLnN0YXR1cyhJTlRFUk5BTF9FUlJPUikuc2VuZChlcnIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUaGVuCiAgICAgICAgYXNzZXJ0LmlzVHJ1ZShwcm92aWRlckV4aXN0cyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>stub().returns({
-                exec: sinon.spy
-            })</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmVzLnJlbmRlcigncHJvdmlkZXJzJywgewogICAgICAgICAgICAgICAgcHJvdmlkZXJzOiBwcm92aWRlcnMsCiAgICAgICAgICAgICAgICBjc3JmVG9rZW46IHJlcS5jc3JmVG9rZW4oKQogICAgICAgICAgICB9KTsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLzEyN1wuMFwuMFwuMS8xNzJcLjE3XC4wXC4xL2c=</text>
@@ -942,9 +951,9 @@
       </register>
     </registers>
     <search>
-      <last-search>apps</last-search>
+      <last-search encoding="base64">XDxsb2dnZXJcPg==</last-search>
       <last-offset />
-      <last-pattern>apps</last-pattern>
+      <last-pattern encoding="base64">XDxsb2dnZXJcPg==</last-pattern>
       <last-replace>172\.17\.0\.1</last-replace>
       <last-substitute>apps</last-substitute>
       <last-dir>1</last-dir>
@@ -952,10 +961,6 @@
     </search>
     <history>
       <history-search>
-        <entry>centos-base</entry>
-        <entry>push</entry>
-        <entry>franceconnect\/</entry>
-        <entry encoding="base64">IFxc</entry>
         <entry encoding="base64">XDxob3N0XD4=</entry>
         <entry encoding="base64">XDx1bml0X3Rlc3RzXD4=</entry>
         <entry encoding="base64">XDxmY19jb21tb25zX3Rlc3RzXD4=</entry>
@@ -972,6 +977,10 @@
         <entry encoding="base64">XDxoZWFwZHVtcFw+</entry>
         <entry encoding="base64">XDxwaW5vXD4=</entry>
         <entry>apps</entry>
+        <entry encoding="base64">XDxwcm94eXF1aXJlXD4=</entry>
+        <entry encoding="base64">XDxwcm92aWRlclJvdXRlclw+</entry>
+        <entry encoding="base64">XDxlbWFpbENvbW1vbkhlbHBlclw+</entry>
+        <entry encoding="base64">XDxsb2dnZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>x</entry>
