@@ -71,12 +71,6 @@
       <file name="$USER_HOME$/Documents/code/daju-landing/src/components/Homepage/TryItOut/index.tsx" timestamp="1549645881980">
         <mark key="[" line="3" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/app/Answer.php" timestamp="1557530676103">
-        <mark key="[" line="10" column="17" />
-        <mark key="]" line="10" column="17" />
-        <mark key="." line="10" column="17" />
-        <mark key="^" line="13" column="28" />
-      </file>
       <file name="$USER_HOME$/Documents/code/france-connect/Infra/docker/volumes/FranceConnect/projects/fc/core/config/redis.json" timestamp="1556184222531">
         <mark key="[" line="0" column="0" />
       </file>
@@ -104,17 +98,17 @@
         <mark key="^" line="2" column="5" />
         <mark key="." line="10" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/resources/views/home.blade.php" timestamp="1557748795736">
-        <mark key="[" line="24" column="25" />
-        <mark key="]" line="24" column="25" />
-        <mark key="." line="24" column="25" />
-        <mark key="^" line="24" column="54" />
+      <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/resources/views/home.blade.php" timestamp="1557861151408">
+        <mark key="'" line="2" column="22" />
+        <mark key="[" line="24" column="45" />
+        <mark key="]" line="24" column="16" />
+        <mark key="." line="24" column="16" />
+        <mark key="^" line="29" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/resources/views/post.blade.php" timestamp="1557667021842">
-        <mark key="[" line="11" column="27" />
-        <mark key="]" line="11" column="27" />
-        <mark key="." line="11" column="27" />
-        <mark key="^" line="10" column="5" />
+      <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/resources/views/post.blade.php" timestamp="1557862798404">
+        <mark key="[" line="26" column="20" />
+        <mark key="]" line="23" column="17" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/simplesamlphp/templates/login.php" timestamp="1541693235848">
         <mark key="[" line="15" column="2" />
@@ -130,12 +124,6 @@
       </file>
       <file name="$USER_HOME$/Documents/code/france-connect/Infra/ansible/ssh-keys/admins/sbernard.pub" timestamp="1556272716873">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/tests/Feature/PostSearchTest.php" timestamp="1557612627310">
-        <mark key="[" line="16" column="32" />
-        <mark key="]" line="22" column="4" />
-        <mark key="." line="22" column="4" />
-        <mark key="^" line="22" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/code/daju/package.json" timestamp="1544365275388">
         <mark key="[" line="9" column="176" />
@@ -154,7 +142,7 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1557752233929">
+      <file name="/GraphQL.result.json" timestamp="1557859990157">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/blog-dojo-cqrs/src/events/namespace.ts" timestamp="1545580874953">
@@ -222,12 +210,6 @@
         <mark key="]" line="97" column="27" />
         <mark key="." line="97" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/Infra/.gitlab-ci.yml" timestamp="1557746499172">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="7" />
-        <mark key="." line="7" column="7" />
-        <mark key="^" line="7" column="7" />
-      </file>
       <file name="/business_immo_legacy.user_roles [Business immo legacy]" timestamp="1543854934084">
         <mark key="[" line="0" column="0" />
       </file>
@@ -257,12 +239,6 @@
       <file name="$USER_HOME$/Documents/code/oreqo/server/app/Http/BaseRequest.php" timestamp="1555955983153">
         <mark key="[" line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/code/test-gitlab-ci/.gitlab-ci.yml" timestamp="1557497318908">
-        <mark key="[" line="7" column="9" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="9" column="19" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="/alto.question [alto@localhost]" timestamp="1540371054416">
         <mark key="[" line="0" column="0" />
       </file>
@@ -271,15 +247,6 @@
       </file>
       <file name="/business_immo_legacy.sessions [Business immo legacy]" timestamp="1542123983757">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/admin/app.js" timestamp="1557841846612">
-        <mark key="'" line="96" column="4" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/composer.json" timestamp="1557599999302">
-        <mark key="[" line="64" column="20" />
-        <mark key="]" line="64" column="20" />
-        <mark key="^" line="67" column="4" />
-        <mark key="." line="64" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/code/oreqo/.buildpacks" timestamp="1555870856574">
         <mark key="[" line="0" column="0" />
@@ -331,7 +298,7 @@
       <file name="$USER_HOME$/Documents/code/alto-espace-emprunteur/api/templates/base.html.twig" timestamp="1540894714113">
         <mark key="[" line="240" column="188" />
       </file>
-      <file name="/dummy.sql" timestamp="1557601691851">
+      <file name="/dummy.sql" timestamp="1557862850096">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/sphere.public.users [Sphere]" timestamp="1538658271254">
@@ -344,11 +311,11 @@
         <mark key="[" line="102" column="0" />
         <mark key="]" line="106" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/webpack.mix.js" timestamp="1557747214798">
-        <mark key="[" line="2" column="17" />
-        <mark key="]" line="2" column="17" />
+      <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/webpack.mix.js" timestamp="1557864016397">
+        <mark key="[" line="15" column="3" />
+        <mark key="]" line="15" column="3" />
         <mark key="^" line="2" column="16" />
-        <mark key="." line="2" column="17" />
+        <mark key="." line="15" column="3" />
       </file>
       <file name="/business_immo_legacy.connections [Business immo legacy]" timestamp="1542731402346">
         <mark key="[" line="0" column="0" />
@@ -484,31 +451,18 @@
       <file name="$USER_HOME$/Documents/code/blog-dojo-cqrs/.gitignore" timestamp="1545231227960">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/admin/test/unit/controllers/providerControllerSpec.js" timestamp="1557839284273">
-        <mark key="'" line="2" column="23" />
-        <mark key="[" line="4" column="9" />
-        <mark key="m" line="160" column="54" />
-        <mark key="]" line="4" column="9" />
-        <mark key="^" line="2" column="27" />
-        <mark key="." line="4" column="9" />
-      </file>
       <file name="/daju.public.templates [Daju Postgres local]" timestamp="1544358308197">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/app_users [francis@localhost]" timestamp="1547200899685">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/database/migrations/2019_05_09_114406_create_posts_table.php" timestamp="1557528689423">
-        <mark key="[" line="22" column="42" />
-        <mark key="]" line="22" column="46" />
-        <mark key="^" line="18" column="17" />
-        <mark key="." line="23" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/resources/sass/app.scss" timestamp="1557749074372">
-        <mark key="a" line="14" column="3" />
-        <mark key="[" line="57" column="29" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
+      <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/public/css/app.css" timestamp="1557861801286" />
+      <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/resources/sass/app.scss" timestamp="1557863977446">
+        <mark key="a" line="18" column="3" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/.gitlab-ci.yml" timestamp="1557751179155">
         <mark key="[" line="60" column="35" />
@@ -526,13 +480,7 @@
       <file name="$USER_HOME$/Documents/code/daju-landing/src/components/Homepage/Pricing/index.tsx" timestamp="1549735913675">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/awx/installer/inventory" timestamp="1557667379645">
-        <mark key="[" line="57" column="25" />
-        <mark key="]" line="102" column="0" />
-        <mark key="." line="102" column="0" />
-        <mark key="^" line="102" column="0" />
-      </file>
-      <file name="/stackoverflow-on-the-go.public.answers [stackoverflow-on-the-go@localhost]" timestamp="1557531154771">
+      <file name="/stackoverflow-on-the-go.public.answers [stackoverflow-on-the-go@localhost]" timestamp="1557862846222">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/app/Http/Controllers/PostController.php" timestamp="1557666571065">
@@ -546,11 +494,11 @@
       <file name="/fragment.php" timestamp="1553281601037">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/app/Http/Controllers/SearchController.php" timestamp="1557665719324">
-        <mark key="[" line="16" column="20" />
-        <mark key="]" line="16" column="20" />
-        <mark key="." line="16" column="20" />
-        <mark key="^" line="25" column="27" />
+      <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/app/Http/Controllers/SearchController.php" timestamp="1557860855824">
+        <mark key="[" line="21" column="23" />
+        <mark key="]" line="21" column="27" />
+        <mark key="." line="21" column="27" />
+        <mark key="^" line="21" column="27" />
       </file>
       <file name="/daju.public.password_resets [Daju Postgres local]" timestamp="1541630712430">
         <mark key="[" line="0" column="0" />
@@ -574,6 +522,11 @@
       </file>
       <file name="/person [Business immo directory]" timestamp="1543222815601">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/resources/views/layouts/app.blade.php" timestamp="1557860641348">
+        <mark key="[" line="14" column="42" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="/fragment.js" timestamp="1546092896444">
         <mark key="[" line="0" column="0" />
@@ -632,14 +585,6 @@
       <file name="/daju.public.api_key_admin_events [Daju Postgres local]" timestamp="1543084318445">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/fc-commons/test/unit/repositories/Provider.repository.test.js" timestamp="1557841414162">
-        <mark key="'" line="93" column="59" />
-        <mark key="[" line="6" column="9" />
-        <mark key="l" line="88" column="40" />
-        <mark key="m" line="88" column="40" />
-        <mark key="]" line="6" column="9" />
-        <mark key="." line="6" column="9" />
-      </file>
       <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/fc-commons/test/integration/services/historyServiceIntegSpec.js" timestamp="1556813894990">
         <mark key="[" line="407" column="0" />
         <mark key="]" line="407" column="0" />
@@ -696,12 +641,6 @@
         <mark key="]" line="502" column="52" />
         <mark key="." line="502" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/app/Repository/ElasticSearchPostSearchRepository.php" timestamp="1557666241027">
-        <mark key="[" line="13" column="33" />
-        <mark key="]" line="13" column="33" />
-        <mark key="^" line="10" column="40" />
-        <mark key="." line="13" column="33" />
-      </file>
       <file name="/business_immo_legacy.jobs [Business immo legacy]" timestamp="1541682002486">
         <mark key="[" line="0" column="0" />
       </file>
@@ -735,12 +674,6 @@
       <file name="$USER_HOME$/Documents/code/sphere/api/src/Domain/Contract/Query/SignedContractNames.php" timestamp="1539079193430">
         <mark key="[" line="6" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/admin/controllers/providerController.js" timestamp="1557839722993">
-        <mark key="'" line="21" column="47" />
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/code/alto-espace-emprunteur/api/src/logs/.gitignore" timestamp="1539365791558">
         <mark key="[" line="0" column="0" />
       </file>
@@ -749,12 +682,6 @@
       </file>
       <file name="$USER_HOME$/Documents/code/sf-auth0/.gitignore" timestamp="1538777892419">
         <mark key="[" line="8" column="5" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/Infra/docker/volumes/mongod/scripts/mongo-init.js" timestamp="1557751972323">
-        <mark key="[" line="100" column="3" />
-        <mark key="]" line="100" column="3" />
-        <mark key="." line="100" column="3" />
-        <mark key="^" line="99" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/code/daju/assets/js/app.js" timestamp="1540756883918">
         <mark key="[" line="0" column="0" />
@@ -785,8 +712,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="6" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/fc-commons/models/partner.js" />
-      <jump line="45" column="30" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/fc-commons/models/partner.js" />
       <jump line="50" column="17" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/fc-commons/models/partner.js" />
       <jump line="51" column="33" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/fc-commons/models/partner.js" />
       <jump line="10" column="6" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/partenaires/controllers/sharingFSController.js" />
@@ -885,6 +810,8 @@
       <jump line="109" column="4" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/admin/app.js" />
       <jump line="7" column="6" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/admin/app.js" />
       <jump line="96" column="4" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/admin/app.js" />
+      <jump line="2" column="22" filename="$USER_HOME$/Documents/code/stackoverflow-on-the-go/resources/views/home.blade.php" />
+      <jump line="9" column="0" filename="$USER_HOME$/Documents/code/stackoverflow-on-the-go/resources/views/post.blade.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -937,52 +864,52 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text encoding="base64">LmpzKCdyZXNvdXJjZXMvanMvYXBwLmpzJywgJ3B1YmxpYy9qcycpCiAgICA=</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>dee</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2dnZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjeS51cmwoKS5zaG91bGQoJ2VxdWFsJywgYCR7RkNfUk9PVF9VUkx9YCk7Cg==</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9InF1ZXN0aW9uIj4KICAgICAgICA8ZGl2IGNsYXNzPSJzdGF0cyI+CiAgICAgICAgICAgIDxiPnt7ICRwb3N0LT5zY29yZSB9fTwvYj4KICAgICAgICA8L2Rpdj4KICAgICAgICA8ZGl2IGNsYXNzPSJib2R5Ij4KICAgICAgICAgICAgeyEhICRwb3N0LT5ib2R5ICEhfQogICAgICAgIDwvZGl2PgogICAgPC9kaXY+Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC50aGVuKCgpID0+IHsKICAgICAgICAgICAgICAgICAgICBkb25lKCk7CiAgICAgICAgICAgICAgICB9KQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">LmpzKCdyZXNvdXJjZXMvanMvYXBwLmpzJywgJ3B1YmxpYy9qcycpCiAgICA=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBUaGVuCiAgICAgICAgICAgICAgICAgICAgYXNzZXJ0LmlzVHJ1ZShmYWtlUmVzLnN0YXR1cy53aXRoQXJncyg1MDApLmNhbGxlZE9uY2UpOwogICAgICAgICAgICAgICAgICAgIGFzc2VydC5pc1RydWUoZmFrZVJlcy5zZW5kLmNhbGxlZE9uY2UpOwogICAgICAgICAgICAgICAgICAgIGFzc2VydC5lcXVhbChmYWtlUmVzLnNlbmQuZ2V0Q2FsbCgwKS5hcmdzWzBdLm1lc3NhZ2UsIGZha2VFcnJvcik7Cg==</text>
+        <text encoding="base64">Ly8gVmFyaWFibGVzCkBpbXBvcnQgJ3ZhcmlhYmxlcyc7Cgo=</text>
       </register>
       <register name="r" type="4">
         <text>technical_accounting.account.filters.period</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC50aGVuKCgpID0+IHsKICAgICAgICAgICAgICAgICAgICBkb25lKCk7CiAgICAgICAgICAgICAgICB9KQo=</text>
+        <text encoding="base64">Ly8gRm9udHMKQGltcG9ydCB1cmwoJ2h0dHBzOi8vZm9udHMuZ29vZ2xlYXBpcy5jb20vY3NzP2ZhbWlseT1OdW5pdG8nKTsKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBUaGVuCiAgICAgICAgICAgICAgICAgICAgYXNzZXJ0LmlzVHJ1ZShmYWtlUmVzLnN0YXR1cy5jYWxsZWRPbmNlKTsKICAgICAgICAgICAgICAgICAgICBhc3NlcnQuaXNUcnVlKGZha2VSZXMuanNvbi53aXRoQXJncyh7b2s6ICdvayd9KS5jYWxsZWRPbmNlKTsK</text>
+        <text encoding="base64">JGJvcmRlckNvbG9yOiBsaWdodGVuKCRjb2xvciwgMjAlKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC50aGVuKCgpID0+IHsKICAgICAgICAgICAgICAgICAgICBkb25lKCk7CiAgICAgICAgICAgICAgICB9KQo=</text>
+        <text encoding="base64">JGJvcmRlcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Ci5zZWFyY2gtcmVzdWx0cyB7Cgp9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBUaGVuCiAgICAgICAgICAgICAgICAgICAgYXNzZXJ0LmlzVHJ1ZShmYWtlRW1haWxIZWxwZXIuZm9ybWF0RW1haWxzLndpdGhBcmdzKGZha2VSZXEuYm9keS5tYWlsdG8pLmNhbGxlZE9uY2UpOwogICAgICAgICAgICAgICAgICAgIC8vIENoZWNrIHRoYXQgdGhlIGJvZHkgaGFzIG5vdCBiZWVuIG11dGF0ZWQgOikKICAgICAgICAgICAgICAgICAgICBhc3NlcnQuZXF1YWwoZmFrZVJlcS5ib2R5Lm1haWx0bywgcGF5bG9hZC5tYWlsdG8pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFkZGluZy10b3A6IDJyZW07Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC50aGVuKCgpID0+IHsKICAgICAgICAgICAgICAgICAgICBkb25lKCk7CiAgICAgICAgICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgICA8aHIvPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBUaGVuCiAgICAgICAgICAgICAgICAgICAgYXNzZXJ0LmlzVHJ1ZShmYWtlUmVzLnN0YXR1cy53aXRoQXJncyg1MDApLmNhbGxlZE9uY2UpOwogICAgICAgICAgICAgICAgICAgIGFzc2VydC5pc1RydWUoZmFrZVJlcy5zZW5kLmNhbGxlZE9uY2UpOwogICAgICAgICAgICAgICAgICAgIGFzc2VydC5lcXVhbChmYWtlUmVzLnNlbmQuZ2V0Q2FsbCgwKS5hcmdzWzBdLm1lc3NhZ2UsIGZha2VFcnJvcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdj57ISEgJGFuc3dlci0+Ym9keSAhIX08L2Rpdj4K</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLzEyN1wuMFwuMFwuMS8xNzJcLjE3XC4wXC4xL2c=</text>
