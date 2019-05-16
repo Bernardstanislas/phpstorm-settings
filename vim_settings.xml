@@ -133,6 +133,9 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/routes/api/authorize.js" timestamp="1557935249287">
+        <mark key="'" line="55" column="42" />
+      </file>
       <file name="/GraphQL.result.json" timestamp="1557908379313">
         <mark key="[" line="0" column="0" />
       </file>
@@ -203,6 +206,9 @@
       <file name="$USER_HOME$/Documents/code/francis/api/phpstan.neon" timestamp="1539757812763">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/helpers/idTokenHelper.js" timestamp="1557936069226">
+        <mark key="'" line="96" column="41" />
+      </file>
       <file name="$USER_HOME$/Documents/code/daju-landing/src/components/Homepage/Features/index.tsx" timestamp="1549736123239">
         <mark key="[" line="0" column="0" />
       </file>
@@ -234,6 +240,11 @@
       </file>
       <file name="/business_immo_legacy.sessions [Business immo legacy]" timestamp="1542123983757">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/controllerUtils.js" timestamp="1558020635219">
+        <mark key="]" line="0" column="48" />
+        <mark key="^" line="0" column="48" />
+        <mark key="." line="0" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/code/oreqo/.buildpacks" timestamp="1555870856574">
         <mark key="[" line="0" column="0" />
@@ -291,7 +302,7 @@
       <file name="/sphere.public.users [Sphere]" timestamp="1538658271254">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557926756086">
+      <file name="/Dummy.txt" timestamp="1558018047061">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/webpack.mix.js" timestamp="1557864016397">
@@ -308,6 +319,9 @@
       </file>
       <file name="/connections [Business immo legacy]" timestamp="1542726121828">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/services/openid-connect-client.js" timestamp="1557935930920">
+        <mark key="'" line="103" column="72" />
       </file>
       <file name="$USER_HOME$/Documents/code/francis/client/package.json" timestamp="1547128878146">
         <mark key="[" line="66" column="5" />
@@ -705,16 +719,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="11" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/bash/mocha.sh" />
-      <jump line="15" column="0" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/bash/mocha.sh" />
-      <jump line="24" column="0" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/bash/mocha.sh" />
-      <jump line="28" column="0" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/bash/mocha.sh" />
-      <jump line="4" column="45" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/fc-commons/test/integration/elasticSearchTest.js" />
-      <jump line="6" column="40" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/fc-commons/test/integration/elasticSearchTest.js" />
-      <jump line="8" column="12" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/fc-commons/test/integration/elasticSearchTest.js" />
-      <jump line="74" column="0" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/cypress/integration/mire.spec.js" />
-      <jump line="8" column="0" filename="$USER_HOME$/Documents/code/france-connect/test-gitlab-ci/.gitlab-ci.yml" />
-      <jump line="10" column="4" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/.gitlab-ci.yml" />
       <jump line="16" column="0" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/.gitlab-ci.yml" />
       <jump line="15" column="0" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/.gitlab-ci.yml" />
       <jump line="33" column="21" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/fc-commons/models/consent.js" />
@@ -805,6 +809,16 @@
       <jump line="17" column="57" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/node_modules/jsonwebtoken/verify.js" />
       <jump line="212" column="16" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/node_modules/jsonwebtoken/verify.js" />
       <jump line="68" column="19" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/node_modules/jsonwebtoken/verify.js" />
+      <jump line="16" column="6" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/routes/api/authorize.js" />
+      <jump line="54" column="44" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/routes/api/authorize.js" />
+      <jump line="55" column="42" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/routes/api/authorize.js" />
+      <jump line="87" column="24" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/services/openid-connect-client.js" />
+      <jump line="103" column="72" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/services/openid-connect-client.js" />
+      <jump line="48" column="48" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/helpers/idTokenHelper.js" />
+      <jump line="65" column="69" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/helpers/idTokenHelper.js" />
+      <jump line="66" column="123" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/helpers/idTokenHelper.js" />
+      <jump line="72" column="75" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/helpers/idTokenHelper.js" />
+      <jump line="96" column="41" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/helpers/idTokenHelper.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -866,7 +880,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkZWNvZGVcPg==</text>
+        <text encoding="base64">XDxub25jZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBpdCgnZG9lcyBub3QgbGV0IGNyZWF0ZSBhbiBpZGVudGl0eSBwcm92aWRlciB3aXRoIHRoZSBzYW1lIG5hbWUgYXMgYW4gZXhpc3Rpbmcgb25lJywgKCkgPT4gewogICAgY3kudmlzaXQoRkNfQURNSU5fUk9PVF9VUkwpOwogICAgY3kuZ2V0KCdpbnB1dFtuYW1lPXVzZXJuYW1lXScpLnR5cGUoJ2FkbWluJyk7CiAgICBjeS5nZXQoJ2lucHV0W25hbWU9cGFzc3dvcmRdJykudHlwZSgnb2N0by1hZG1pbicpOwogICAgY3kuZ2V0KCdidXR0b25bdHlwZT1zdWJtaXRdJykuY2xpY2soKTsKICAgIGN5LnVybCgpLnNob3VsZCgnZXF1YWwnLCBgJHtGQ19BRE1JTl9ST09UX1VSTH0vYCk7CgogICAgY3kudmlzaXQoYCR7RkNfQURNSU5fUk9PVF9VUkx9L3Byb3ZpZGVycy9hZGRgKTsKICAgIGN5LmdldCgnaW5wdXRbbmFtZT1uYW1lXScpLnR5cGUoJ2ZpcDEnKTsgLy8gVWggb2ggdGhpcyBuYW1lIGlzIGFscmVhZHkgdGFrZW4sIGxldCdzIHNlZSB3aGF0IHdlIGdldAogICAgY3kuZ2V0KCdpbnB1dFtuYW1lPXRpdGxlXScpLnR5cGUoJ0xhIGJhcmJlIGRlIGxhIGZlbW1lIMOgIEdlb3JnZXMgTW91c3Rha2knKTsKICAgIGN5LmdldCgnaW5wdXRbbmFtZT11cmxdJykudHlwZSgnaHR0cHM6Ly9tb3VzdGFraS5mcicpOwogICAgY3kuZ2V0KCdpbnB1dFtuYW1lPWF1dGh6VVJMXScpLnR5cGUoJ2h0dHBzOi8vbW91c3Rha2kuZnInKTsKICAgIGN5LmdldCgnaW5wdXRbbmFtZT10b2tlblVSTF0nKS50eXBlKCdodHRwczovL21vdXN0YWtpLmZyJyk7CiAgICBjeS5nZXQoJ2lucHV0W25hbWU9dXNlckluZm9VUkxdJykudHlwZSgnaHR0cHM6Ly9tb3VzdGFraS5mcicpOwogICAgY3kuZ2V0KCdpbnB1dFtuYW1lPXN0YXR1c1VSTF0nKS50eXBlKCdodHRwczovL21vdXN0YWtpLmZyJyk7CiAgICBjeS5nZXQoJ2lucHV0W25hbWU9c3BlY2lmaWNUZXh0XScpLnR5cGUoJ1lvbG8nKTsKICAgIGN5LmdldCgnYnV0dG9uW3R5cGU9c3VibWl0XScpLmNsaWNrKCk7CiAgICBjeS51cmwoKS5zaG91bGQoJ2NvbnRhaW4nLCBgJHtGQ19BRE1JTl9ST09UX1VSTH0vcHJvdmlkZXJzL2FkZGApOwogICAgY3kuZ2V0KCcuYWxlcnQgPiB1bCA+IGxpJykuc2hvdWxkKAogICAgICAnY29udGFpbicsCiAgICAgICJNZXJjaSBkZSBzYWlzaXIgdW4gbm9tIGRpZmbDqXJlbnQgZCd1biBGSSBleGlzdGFudCIKICAgICk7CiAgfSk7Cg==</text>
@@ -912,9 +926,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkZWNvZGVcPg==</last-search>
+      <last-search encoding="base64">XDxub25jZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkZWNvZGVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxub25jZVw+</last-pattern>
       <last-replace>172\.17\.0\.1</last-replace>
       <last-substitute encoding="base64">XDxsb2dnZXJcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -922,8 +936,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb25maWdNYW5hZ2VyXD4=</entry>
-        <entry encoding="base64">XDxzdXBlcmdvb3NlXD4=</entry>
         <entry>127\.0\.0\.1</entry>
         <entry encoding="base64">XDxfY29uZmlndXJhdGlvblw+</entry>
         <entry>all</entry>
@@ -942,6 +954,8 @@
         <entry encoding="base64">XDxvcHRpb25zXD4=</entry>
         <entry encoding="base64">XDxjb21wbGV0ZVw+</entry>
         <entry encoding="base64">XDxkZWNvZGVcPg==</entry>
+        <entry encoding="base64">XDxhdXRob3JpemVkX2VuZHBvaW50X3BhcmFtc1w+</entry>
+        <entry encoding="base64">XDxub25jZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>x</entry>
