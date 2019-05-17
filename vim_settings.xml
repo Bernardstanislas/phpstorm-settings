@@ -449,8 +449,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/public/css/app.css" timestamp="1557861801286" />
-      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/.gitlab-ci.yml" timestamp="1558104570834">
-        <mark key="[" line="81" column="56" />
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/.gitlab-ci.yml" timestamp="1558105255116">
+        <mark key="[" line="91" column="57" />
+        <mark key="]" line="91" column="58" />
+        <mark key="^" line="91" column="58" />
+        <mark key="." line="91" column="58" />
       </file>
       <file name="$USER_HOME$/Documents/code/portail.io/README.md" timestamp="1548948601475">
         <mark key="[" line="0" column="0" />
