@@ -139,7 +139,7 @@
       <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/routes/api/authorize.js" timestamp="1557935249287">
         <mark key="'" line="55" column="42" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1557908379313">
+      <file name="/GraphQL.result.json" timestamp="1558107476276">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/blog-dojo-cqrs/src/events/namespace.ts" timestamp="1545580874953">
@@ -449,11 +449,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/public/css/app.css" timestamp="1557861801286" />
-      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/.gitlab-ci.yml" timestamp="1558105255116">
-        <mark key="[" line="91" column="57" />
-        <mark key="]" line="91" column="58" />
-        <mark key="^" line="91" column="58" />
-        <mark key="." line="91" column="58" />
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/.gitlab-ci.yml" timestamp="1558107882997">
+        <mark key="[" line="70" column="32" />
+        <mark key="]" line="71" column="51" />
+        <mark key="^" line="71" column="51" />
+        <mark key="." line="71" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/code/portail.io/README.md" timestamp="1548948601475">
         <mark key="[" line="0" column="0" />
@@ -497,9 +497,6 @@
       </file>
       <file name="/main.user [data.db]" timestamp="1540758356007">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/node_modules/jsonwebtoken/verify.js" timestamp="1557912436636">
-        <mark key="'" line="68" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/fc-commons/test/unit/repositories/Provider.repository.spec.js" timestamp="1557930862420">
         <mark key="[" line="11" column="25" />
