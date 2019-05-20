@@ -451,10 +451,11 @@
       <file name="/app_users [francis@localhost]" timestamp="1547200899685">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/.gitlab-ci.yml" timestamp="1558358430339">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/.gitlab-ci.yml" timestamp="1558359688707">
+        <mark key="[" line="47" column="67" />
+        <mark key="]" line="56" column="16" />
+        <mark key="." line="49" column="0" />
+        <mark key="^" line="37" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/code/portail.io/README.md" timestamp="1548948601475">
         <mark key="[" line="0" column="0" />
@@ -596,7 +597,7 @@
       <file name="/business_immo_directory.press_dossier [Business immo directory]" timestamp="1543830277977">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/package.json" timestamp="1556553557869">
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/package.json" timestamp="1558359444166">
         <mark key="[" line="12" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/code/france-connect/foobar/experimental/docker/hosts" timestamp="1556292888699">
@@ -866,19 +867,19 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhdGhzOgogICAgICAtIG5vZGVfbW9kdWxlcwogICAgICAtIHByb2plY3RzL2ZjL2ZjLWNvbW1vbnMvbm9kZV9tb2R1bGVzCiAgICAgIC0gcHJvamVjdHMvZmMvY29yZS9ub2RlX21vZHVsZXMKICAgICAgLSBwcm9qZWN0cy9hZG1pbi9ub2RlX21vZHVsZXMKICAgICAgLSBwcm9qZWN0cy9wYXJ0ZW5haXJlcy9ub2RlX21vZHVsZXMKICAgICAgLSBwcm9qZWN0cy91c2Vycy9ub2RlX21vZHVsZXMKICAgIHBvbGljeTogcHVsbAo=</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>exit &quot;$(cat e2e.out)&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcmFuY2VDb25uZWN0U3RyYXRlZ3lcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC0gZG9ja2VyIGNwIGZjX2ZzcDFfMTovaG9tZS9ub2RlanMvLnBtMi9sb2dzL2ZzcDEtb3V0LTAubG9nIGFwcC1sb2dzCiAgICAtIGRvY2tlciBjcCBmY19mc3AxXzE6L2hvbWUvbm9kZWpzLy5wbTIvbG9ncy9mc3AxLWVyci0wLmxvZyBhcHAtbG9ncwo=</text>
+        <text encoding="base64">ICAgIHBhdGhzOgogICAgICAtIG5vZGVfbW9kdWxlcwogICAgICAtIHByb2plY3RzL2ZjL2ZjLWNvbW1vbnMvbm9kZV9tb2R1bGVzCiAgICAgIC0gcHJvamVjdHMvZmMvY29yZS9ub2RlX21vZHVsZXMKICAgICAgLSBwcm9qZWN0cy9hZG1pbi9ub2RlX21vZHVsZXMKICAgICAgLSBwcm9qZWN0cy9wYXJ0ZW5haXJlcy9ub2RlX21vZHVsZXMKICAgICAgLSBwcm9qZWN0cy91c2Vycy9ub2RlX21vZHVsZXMKICAgIHBvbGljeTogcHVsbAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
