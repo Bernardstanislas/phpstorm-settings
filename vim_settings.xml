@@ -451,12 +451,10 @@
       <file name="/app_users [francis@localhost]" timestamp="1547200899685">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/.gitlab-ci.yml" timestamp="1558367209943">
-        <mark key="[" line="80" column="13" />
-        <mark key="l" line="23" column="28" />
-        <mark key="]" line="80" column="13" />
-        <mark key="." line="80" column="13" />
-        <mark key="^" line="80" column="20" />
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/.gitlab-ci.yml" timestamp="1558382649538">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/portail.io/README.md" timestamp="1548948601475">
         <mark key="[" line="0" column="0" />
@@ -867,31 +865,49 @@
           <key char="95" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>docker run
-        --add-host=fcp.docker.dev-franceconnect.fr:$DOCKER_HOST_IP
-        --add-host=fcadmin.docker.dev-franceconnect.fr:$DOCKER_HOST_IP
-        --add-host=partenaires.docker.dev-franceconnect.fr:$DOCKER_HOST_IP
-        --add-host=users.docker.dev-franceconnect.fr:$DOCKER_HOST_IP
-        --add-host=fsp1.docker.dev-franceconnect.fr:$DOCKER_HOST_IP
-        --add-host=fip1.docker.dev-franceconnect.fr:$DOCKER_HOST_IP
-        --add-host=fdp1.docker.dev-franceconnect.fr:$DOCKER_HOST_IP
-        --add-host=rnipp.docker.dev-franceconnect.fr:$DOCKER_HOST_IP
-        -t -v $PWD:/e2e -w /e2e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC0gc2ggLWMgInRlc3QgLWYgY2VudG9zLWJhc2UuZG9ja2VyLWltYWdlLnRhciAmJiBkb2NrZXIgbG9hZCA8IGNlbnRvcy1iYXNlLmRvY2tlci1pbWFnZS50YXIgfHwgOiIK</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>$(getent hosts docker | awk '{ print $1 }')</text>
+        <text>nodejs</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcmFuY2VDb25uZWN0U3RyYXRlZ3lcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBhdGhzOgogICAgICAtIG5vZGVfbW9kdWxlcwogICAgICAtIHByb2plY3RzL2ZjL2ZjLWNvbW1vbnMvbm9kZV9tb2R1bGVzCiAgICAgIC0gcHJvamVjdHMvZmMvY29yZS9ub2RlX21vZHVsZXMKICAgICAgLSBwcm9qZWN0cy9hZG1pbi9ub2RlX21vZHVsZXMKICAgICAgLSBwcm9qZWN0cy9wYXJ0ZW5haXJlcy9ub2RlX21vZHVsZXMKICAgICAgLSBwcm9qZWN0cy91c2Vycy9ub2RlX21vZHVsZXMKICAgIHBvbGljeTogcHVsbAo=</text>
+        <text encoding="base64">ICAgIC0gY2QgJENJX1BST0pFQ1RfRElSCg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIC0gc2ggLWMgInRlc3QgLWYgY2VudG9zLWJhc2UuZG9ja2VyLWltYWdlLnRhciAmJiBkb2NrZXIgbG9hZCA8IGNlbnRvcy1iYXNlLmRvY2tlci1pbWFnZS50YXIgfHwgOiIK</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICMgTG9hZCBkb2NrZXIgaW1hZ2VzIGFyY2hpdmVzIGZyb20gY2FjaGUKICAgIC0gY2QgJENJX1BST0pFQ1RfRElSCg==</text>
+      </register>
+      <register name="r" type="4">
+        <text>technical_accounting.account.filters.period</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBjYWNoZToKICAgIGtleTogImRvY2tlciIKICAgIHBhdGhzOgogICAgICAtIGNlbnRvcy1iYXNlLmRvY2tlci1pbWFnZS50YXIKICAgICAgLSBlbGFzdGljLXNlYXJjaC5kb2NrZXItaW1hZ2UudGFyCiAgICAgIC0gbG9nY29sbGVjdC5kb2NrZXItaW1hZ2UudGFyCiAgICAgIC0gbW9uZ29kLmRvY2tlci1pbWFnZS50YXIKICAgICAgLSBub2RlanMuZG9ja2VyLWltYWdlLnRhcgogICAgICAtIHJwLmRvY2tlci1pbWFnZS50YXIK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC0gbHMgLgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBjYWNoZToKICAgIHBhdGhzOgogICAgICAtIG5vZGVfbW9kdWxlcwogICAgICAtIHByb2plY3RzL2ZjL2ZjLWNvbW1vbnMvbm9kZV9tb2R1bGVzCiAgICAgIC0gcHJvamVjdHMvZmMvY29yZS9ub2RlX21vZHVsZXMKICAgICAgLSBwcm9qZWN0cy9hZG1pbi9ub2RlX21vZHVsZXMKICAgICAgLSBwcm9qZWN0cy9wYXJ0ZW5haXJlcy9ub2RlX21vZHVsZXMKICAgICAgLSBwcm9qZWN0cy91c2Vycy9ub2RlX21vZHVsZXMKICAgIHBvbGljeTogcHVsbAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBjYWNoZToKICAgIGtleTogbm9kZV9tb2R1bGVzCiAgICBwYXRoczoKICAgICAgLSBub2RlX21vZHVsZXMKICAgICAgLSBwcm9qZWN0cy9mYy9mYy1jb21tb25zL25vZGVfbW9kdWxlcwogICAgICAtIHByb2plY3RzL2ZjL2NvcmUvbm9kZV9tb2R1bGVzCiAgICAgIC0gcHJvamVjdHMvYWRtaW4vbm9kZV9tb2R1bGVzCiAgICAgIC0gcHJvamVjdHMvcGFydGVuYWlyZXMvbm9kZV9tb2R1bGVzCiAgICAgIC0gcHJvamVjdHMvdXNlcnMvbm9kZV9tb2R1bGVzCiAgICBwb2xpY3k6IHB1bGwK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBjYWNoZToKICAgIGtleTogbm9kZV9tb2R1bGVzCiAgICBwYXRoczoKICAgICAgLSBub2RlX21vZHVsZXMKICAgICAgLSBwcm9qZWN0cy9mYy9mYy1jb21tb25zL25vZGVfbW9kdWxlcwogICAgICAtIHByb2plY3RzL2ZjL2NvcmUvbm9kZV9tb2R1bGVzCiAgICAgIC0gcHJvamVjdHMvYWRtaW4vbm9kZV9tb2R1bGVzCiAgICAgIC0gcHJvamVjdHMvcGFydGVuYWlyZXMvbm9kZV9tb2R1bGVzCiAgICAgIC0gcHJvamVjdHMvdXNlcnMvbm9kZV9tb2R1bGVzCg==</text>
+      </register>
+      <register name="8" type="4">
         <text>docker run
         --add-host=fcp.docker.dev-franceconnect.fr:$DOCKER_HOST_IP
         --add-host=fcadmin.docker.dev-franceconnect.fr:$DOCKER_HOST_IP
@@ -903,35 +919,8 @@
         --add-host=rnipp.docker.dev-franceconnect.fr:$DOCKER_HOST_IP
         -t -v $PWD:/e2e -w /e2e</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBiZWZvcmVfc2NyaXB0OgogICAgLSBkb2NrZXIgbG9naW4gLXUgZ2l0bGFiLWNpLXRva2VuIC1wICRDSV9KT0JfVE9LRU4gJENJX1JFR0lTVFJZCg==</text>
-      </register>
-      <register name="r" type="4">
-        <text>technical_accounting.account.filters.period</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBjYWNoZToKICAgIHBhdGhzOgogICAgICAtIG5vZGVfbW9kdWxlcwogICAgICAtIHByb2plY3RzL2ZjL2ZjLWNvbW1vbnMvbm9kZV9tb2R1bGVzCiAgICAgIC0gcHJvamVjdHMvZmMvY29yZS9ub2RlX21vZHVsZXMKICAgICAgLSBwcm9qZWN0cy9hZG1pbi9ub2RlX21vZHVsZXMKICAgICAgLSBwcm9qZWN0cy9wYXJ0ZW5haXJlcy9ub2RlX21vZHVsZXMKICAgICAgLSBwcm9qZWN0cy91c2Vycy9ub2RlX21vZHVsZXMKICAgIHBvbGljeTogcHVsbAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBjYWNoZToKICAgIGtleTogbm9kZV9tb2R1bGVzCiAgICBwYXRoczoKICAgICAgLSBub2RlX21vZHVsZXMKICAgICAgLSBwcm9qZWN0cy9mYy9mYy1jb21tb25zL25vZGVfbW9kdWxlcwogICAgICAtIHByb2plY3RzL2ZjL2NvcmUvbm9kZV9tb2R1bGVzCiAgICAgIC0gcHJvamVjdHMvYWRtaW4vbm9kZV9tb2R1bGVzCiAgICAgIC0gcHJvamVjdHMvcGFydGVuYWlyZXMvbm9kZV9tb2R1bGVzCiAgICAgIC0gcHJvamVjdHMvdXNlcnMvbm9kZV9tb2R1bGVzCiAgICBwb2xpY3k6IHB1bGwK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBjYWNoZToKICAgIGtleTogbm9kZV9tb2R1bGVzCiAgICBwYXRoczoKICAgICAgLSBub2RlX21vZHVsZXMKICAgICAgLSBwcm9qZWN0cy9mYy9mYy1jb21tb25zL25vZGVfbW9kdWxlcwogICAgICAtIHByb2plY3RzL2ZjL2NvcmUvbm9kZV9tb2R1bGVzCiAgICAgIC0gcHJvamVjdHMvYWRtaW4vbm9kZV9tb2R1bGVzCiAgICAgIC0gcHJvamVjdHMvcGFydGVuYWlyZXMvbm9kZV9tb2R1bGVzCiAgICAgIC0gcHJvamVjdHMvdXNlcnMvbm9kZV9tb2R1bGVzCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBpbWFnZTogbm9kZTo4Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBpbWFnZTogbm9kZTo4Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBpbWFnZTogJENJX1JFR0lTVFJZL2ZyYW5jZS1jb25uZWN0L2ZyYW5jZWNvbm5lY3Q6bGF0ZXN0CiAgc2VydmljZXM6CiAgICAtIGRvY2tlcjpkaW5kCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBiZWZvcmVfc2NyaXB0OgogICAgLSBkb2NrZXIgbG9naW4gLXUgZ2l0bGFiLWNpLXRva2VuIC1wICRDSV9KT0JfVE9LRU4gJENJX1JFR0lTVFJZCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
