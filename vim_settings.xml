@@ -451,10 +451,11 @@
       <file name="/app_users [francis@localhost]" timestamp="1547200899685">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/.gitlab-ci.yml" timestamp="1558382649538">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/.gitlab-ci.yml" timestamp="1558385249153">
+        <mark key="[" line="31" column="9" />
+        <mark key="]" line="135" column="34" />
+        <mark key="." line="135" column="34" />
+        <mark key="^" line="135" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/code/portail.io/README.md" timestamp="1548948601475">
         <mark key="[" line="0" column="0" />
@@ -865,14 +866,14 @@
           <key char="95" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC0gc2ggLWMgInRlc3QgLWYgY2VudG9zLWJhc2UuZG9ja2VyLWltYWdlLnRhciAmJiBkb2NrZXIgbG9hZCA8IGNlbnRvcy1iYXNlLmRvY2tlci1pbWFnZS50YXIgfHwgOiIK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICMgTWFrZSB0aGUgQ0kgYnJlYWsgaWYgZW5kLXRvLWVuZCB0ZXN0cyBmYWlsZWQsIGllIGUyZS5mYWlsZWQgZmlsZSBleGlzdHM=</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>nodejs</text>
+        <text encoding="base64">ICMgTWFrZSB0aGUgQ0kgYnJlYWsgaWYgZW5kLXRvLWVuZCB0ZXN0cyBmYWlsZWQsIGllIGUyZS5mYWlsZWQgZmlsZSBleGlzdHM=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcmFuY2VDb25uZWN0U3RyYXRlZ3lcPg==</text>
