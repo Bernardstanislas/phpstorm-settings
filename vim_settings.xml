@@ -460,6 +460,11 @@
       <file name="$USER_HOME$/Documents/code/portail.io/README.md" timestamp="1548948601475">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/dangerfile.js" timestamp="1558387308582">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/routes/console.php" timestamp="1557612746177">
         <mark key="[" line="22" column="11" />
         <mark key="]" line="22" column="11" />
@@ -597,8 +602,10 @@
       <file name="/business_immo_directory.press_dossier [Business immo directory]" timestamp="1543830277977">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/package.json" timestamp="1558359444166">
-        <mark key="[" line="12" column="28" />
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/package.json" timestamp="1558386651596">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="23" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/france-connect/foobar/experimental/docker/hosts" timestamp="1556292888699">
         <mark key="[" line="0" column="0" />
@@ -866,14 +873,14 @@
           <key char="95" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICMgTWFrZSB0aGUgQ0kgYnJlYWsgaWYgZW5kLXRvLWVuZCB0ZXN0cyBmYWlsZWQsIGllIGUyZS5mYWlsZWQgZmlsZSBleGlzdHM=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y29uc3QgY29tbWl0cyA9IGRhbmdlci5naXQuY29tbWl0czsKCmZvciAobGV0IGNvbW1pdCBvZiBjb21taXRzKSB7CiAgbWVzc2FnZSgnQ29tbWl0JyArIGNvbW1pdCkKfSAK</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICMgTWFrZSB0aGUgQ0kgYnJlYWsgaWYgZW5kLXRvLWVuZCB0ZXN0cyBmYWlsZWQsIGllIGUyZS5mYWlsZWQgZmlsZSBleGlzdHM=</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcmFuY2VDb25uZWN0U3RyYXRlZ3lcPg==</text>
@@ -882,46 +889,37 @@
         <text encoding="base64">ICAgIC0gY2QgJENJX1BST0pFQ1RfRElSCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC0gc2ggLWMgInRlc3QgLWYgY2VudG9zLWJhc2UuZG9ja2VyLWltYWdlLnRhciAmJiBkb2NrZXIgbG9hZCA8IGNlbnRvcy1iYXNlLmRvY2tlci1pbWFnZS50YXIgfHwgOiIK</text>
+        <text encoding="base64">Y29uc3QgY29tbWl0cyA9IGRhbmdlci5naXQuY29tbWl0czsKCmZvciAobGV0IGNvbW1pdCBvZiBjb21taXRzKSB7CiAgbWVzc2FnZSgnQ29tbWl0JyArIGNvbW1pdCkKfSAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgTG9hZCBkb2NrZXIgaW1hZ2VzIGFyY2hpdmVzIGZyb20gY2FjaGUKICAgIC0gY2QgJENJX1BST0pFQ1RfRElSCg==</text>
+        <text encoding="base64">bWVzc2FnZShgRm91bmQgJHtkYW5nZXIuZ2l0LmNvbW1pdHMubGVuZ3RofSBjb21taXRzYCk7Cg==</text>
       </register>
       <register name="r" type="4">
         <text>technical_accounting.account.filters.period</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjYWNoZToKICAgIGtleTogImRvY2tlciIKICAgIHBhdGhzOgogICAgICAtIGNlbnRvcy1iYXNlLmRvY2tlci1pbWFnZS50YXIKICAgICAgLSBlbGFzdGljLXNlYXJjaC5kb2NrZXItaW1hZ2UudGFyCiAgICAgIC0gbG9nY29sbGVjdC5kb2NrZXItaW1hZ2UudGFyCiAgICAgIC0gbW9uZ29kLmRvY2tlci1pbWFnZS50YXIKICAgICAgLSBub2RlanMuZG9ja2VyLWltYWdlLnRhcgogICAgICAtIHJwLmRvY2tlci1pbWFnZS50YXIK</text>
+        <text encoding="base64">Y29uc3QgeyBjb21taXRzIH0gPSBkYW5nZXIuZ2l0Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC0gbHMgLgo=</text>
+        <text encoding="base64">Zm9yIChsZXQgY29tbWl0IG9mIGNvbW1pdHMpIHsKICBtZXNzYWdlKCdDb21taXQnICsgY29tbWl0LikKfSAKY29uc3QgbW9kaWZpZWRNRCA9IGRhbmdlci5naXQubW9kaWZpZWRfZmlsZXMuam9pbignLSAnKTsKbWVzc2FnZShgQ2hhbmdlZCBGaWxlcyBpbiB0aGlzIFBSOiBcbiAtICR7bW9kaWZpZWRNRH1gKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjYWNoZToKICAgIHBhdGhzOgogICAgICAtIG5vZGVfbW9kdWxlcwogICAgICAtIHByb2plY3RzL2ZjL2ZjLWNvbW1vbnMvbm9kZV9tb2R1bGVzCiAgICAgIC0gcHJvamVjdHMvZmMvY29yZS9ub2RlX21vZHVsZXMKICAgICAgLSBwcm9qZWN0cy9hZG1pbi9ub2RlX21vZHVsZXMKICAgICAgLSBwcm9qZWN0cy9wYXJ0ZW5haXJlcy9ub2RlX21vZHVsZXMKICAgICAgLSBwcm9qZWN0cy91c2Vycy9ub2RlX21vZHVsZXMKICAgIHBvbGljeTogcHVsbAo=</text>
+        <text encoding="base64">ICAgICJkYW5nZXIiOiAiXjcuMS40IiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjYWNoZToKICAgIGtleTogbm9kZV9tb2R1bGVzCiAgICBwYXRoczoKICAgICAgLSBub2RlX21vZHVsZXMKICAgICAgLSBwcm9qZWN0cy9mYy9mYy1jb21tb25zL25vZGVfbW9kdWxlcwogICAgICAtIHByb2plY3RzL2ZjL2NvcmUvbm9kZV9tb2R1bGVzCiAgICAgIC0gcHJvamVjdHMvYWRtaW4vbm9kZV9tb2R1bGVzCiAgICAgIC0gcHJvamVjdHMvcGFydGVuYWlyZXMvbm9kZV9tb2R1bGVzCiAgICAgIC0gcHJvamVjdHMvdXNlcnMvbm9kZV9tb2R1bGVzCiAgICBwb2xpY3k6IHB1bGwK</text>
+        <text encoding="base64">ICAgIC0gc2ggLWMgInRlc3QgLWYgY2VudG9zLWJhc2UuZG9ja2VyLWltYWdlLnRhciAmJiBkb2NrZXIgbG9hZCA8IGNlbnRvcy1iYXNlLmRvY2tlci1pbWFnZS50YXIgfHwgOiIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjYWNoZToKICAgIGtleTogbm9kZV9tb2R1bGVzCiAgICBwYXRoczoKICAgICAgLSBub2RlX21vZHVsZXMKICAgICAgLSBwcm9qZWN0cy9mYy9mYy1jb21tb25zL25vZGVfbW9kdWxlcwogICAgICAtIHByb2plY3RzL2ZjL2NvcmUvbm9kZV9tb2R1bGVzCiAgICAgIC0gcHJvamVjdHMvYWRtaW4vbm9kZV9tb2R1bGVzCiAgICAgIC0gcHJvamVjdHMvcGFydGVuYWlyZXMvbm9kZV9tb2R1bGVzCiAgICAgIC0gcHJvamVjdHMvdXNlcnMvbm9kZV9tb2R1bGVzCg==</text>
+        <text encoding="base64">ICAgICMgTG9hZCBkb2NrZXIgaW1hZ2VzIGFyY2hpdmVzIGZyb20gY2FjaGUKICAgIC0gY2QgJENJX1BST0pFQ1RfRElSCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>docker run
-        --add-host=fcp.docker.dev-franceconnect.fr:$DOCKER_HOST_IP
-        --add-host=fcadmin.docker.dev-franceconnect.fr:$DOCKER_HOST_IP
-        --add-host=partenaires.docker.dev-franceconnect.fr:$DOCKER_HOST_IP
-        --add-host=users.docker.dev-franceconnect.fr:$DOCKER_HOST_IP
-        --add-host=fsp1.docker.dev-franceconnect.fr:$DOCKER_HOST_IP
-        --add-host=fip1.docker.dev-franceconnect.fr:$DOCKER_HOST_IP
-        --add-host=fdp1.docker.dev-franceconnect.fr:$DOCKER_HOST_IP
-        --add-host=rnipp.docker.dev-franceconnect.fr:$DOCKER_HOST_IP
-        -t -v $PWD:/e2e -w /e2e</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBjYWNoZToKICAgIGtleTogImRvY2tlciIKICAgIHBhdGhzOgogICAgICAtIGNlbnRvcy1iYXNlLmRvY2tlci1pbWFnZS50YXIKICAgICAgLSBlbGFzdGljLXNlYXJjaC5kb2NrZXItaW1hZ2UudGFyCiAgICAgIC0gbG9nY29sbGVjdC5kb2NrZXItaW1hZ2UudGFyCiAgICAgIC0gbW9uZ29kLmRvY2tlci1pbWFnZS50YXIKICAgICAgLSBub2RlanMuZG9ja2VyLWltYWdlLnRhcgogICAgICAtIHJwLmRvY2tlci1pbWFnZS50YXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBiZWZvcmVfc2NyaXB0OgogICAgLSBkb2NrZXIgbG9naW4gLXUgZ2l0bGFiLWNpLXRva2VuIC1wICRDSV9KT0JfVE9LRU4gJENJX1JFR0lTVFJZCg==</text>
+        <text encoding="base64">ICAgIC0gbHMgLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
