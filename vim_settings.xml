@@ -646,7 +646,6 @@
       <file name="$USER_HOME$/Documents/code/test-gitlab-ci/Dangerfile" timestamp="1557497164871">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/routes/apiRouter.js" timestamp="1558345901959" />
       <file name="/alto-test.app_users [alto-test]" timestamp="1539672566207">
         <mark key="[" line="0" column="0" />
       </file>
@@ -728,7 +727,12 @@
       <file name="/daju.public.users [Daju Postgres local]" timestamp="1553791434444">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" timestamp="1558346042990" />
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" timestamp="1558442764237">
+        <mark key="'" line="144" column="25" />
+        <mark key="[" line="311" column="0" />
+        <mark key="]" line="311" column="0" />
+        <mark key="." line="311" column="0" />
+      </file>
       <file name="/alto-espace-emprunteur.app_users [Alto staging]" timestamp="1540894265954">
         <mark key="[" line="0" column="0" />
       </file>
@@ -752,8 +756,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="59" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/fc-commons/test/unit/repositories/Provider.repository.test.js" />
-      <jump line="3" column="26" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/admin/test/unit/controllers/providerControllerSpec.js" />
       <jump line="28" column="34" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/admin/test/unit/controllers/providerControllerSpec.js" />
       <jump line="191" column="4" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/admin/app.js" />
       <jump line="28" column="47" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/admin/app.js" />
@@ -852,6 +854,8 @@
       <jump line="138" column="59" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/services/openid-connect-client.js" />
       <jump line="4" column="39" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/services/openid-connect-client.js" />
       <jump line="73" column="56" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/services/openid-connect-client.js" />
+      <jump line="64" column="26" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" />
+      <jump line="144" column="25" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -904,7 +908,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBkZXBlbmRlbmNpZXM6CiAgICAtIG5wbQo=</text>
+        <text encoding="base64">ICBjb25zdCBlbnJpY2hlZEVycm9yID0gewogICAgLi4uZXJyb3IsCiAgICBtZXNzYWdlOiAKICB9Cg==</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
@@ -913,43 +917,43 @@
         <text>cache</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmcmFuY2VDb25uZWN0U3RyYXRlZ3lcPg==</text>
+        <text encoding="base64">XDxwb3B1bGF0ZUVycm9yV2l0aENvbnRleHRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBkZXBlbmRlbmNpZXM6CiAgICAtIG5wbQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCBlbnJpY2hlZEVycm9yID0gewogICAgLi4uZXJyb3IsCiAgICBtZXNzYWdlOiAKICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YXJ0aWZhY3RzOgogIHBhdGhzOgogICAgLSBub2RlX21vZHVsZXMvCiAgICAtIHByb2plY3RzL2ZjL2ZjLWNvbW1vbnMvbm9kZV9tb2R1bGVzLwogICAgLSBwcm9qZWN0cy9mYy9jb3JlL25vZGVfbW9kdWxlcy8KICAgIC0gcHJvamVjdHMvYWRtaW4vbm9kZV9tb2R1bGVzLwogICAgLSBwcm9qZWN0cy9wYXJ0ZW5haXJlcy9ub2RlX21vZHVsZXMvCiAgICAtIHByb2plY3RzL3VzZXJzL25vZGVfbW9kdWxlcy8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>technical_accounting.account.filters.period</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBuYW1lOiAnbG9sJwo=</text>
+        <text encoding="base64">YXJ0aWZhY3RzOgogIHBhdGhzOgogICAgLSBub2RlX21vZHVsZXMvCiAgICAtIHByb2plY3RzL2ZjL2ZjLWNvbW1vbnMvbm9kZV9tb2R1bGVzLwogICAgLSBwcm9qZWN0cy9mYy9jb3JlL25vZGVfbW9kdWxlcy8KICAgIC0gcHJvamVjdHMvYWRtaW4vbm9kZV9tb2R1bGVzLwogICAgLSBwcm9qZWN0cy9wYXJ0ZW5haXJlcy9ub2RlX21vZHVsZXMvCiAgICAtIHByb2plY3RzL3VzZXJzL25vZGVfbW9kdWxlcy8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB1bnRyYWNrZWQ6IHRydWUKICBrZXk6ICIkQ0lfQ09NTUlUX1NIQSIgIyBDbGVhciB0aGUgY2FjaGUgYXQgZWFjaCBydW4K</text>
+        <text encoding="base64">ICBuYW1lOiAnbG9sJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB1bnRyYWNrZWQ6IHRydWUKICBrZXk6ICIkQ0lfQ09NTUlUX1NIQSIgIyBDbGVhciB0aGUgY2FjaGUgYXQgZWFjaCBydW4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgZm9vID0geyB0ZXRzdDogJ2xvbCcgfTsKCmNvbnN0IGtleXMgPSBPYmplY3Qua2V5cyhmb28pOwpmb3IgKGNvbnN0IGtleSBvZiBrZXlzKSB7CiAgaWYgKE9iamVjdC5wcm90b3R5cGUuaGFzT3duUHJvcGVydHkuY2FsbChmb28sIGtleSkpIHsKICB9Cn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIHN0cmluZyAkcXVlcnkKICAgICAqIEByZXR1cm4gXEVsYXN0aWNxdWVudFxFbGFzdGljcXVlbnRSZXN1bHRDb2xsZWN0aW9uCiAgICAgKi8K</text>
+        <text encoding="base64">Y29uc3QgZm9vID0geyB0ZXRzdDogJ2xvbCcgfTsKCmNvbnN0IGtleXMgPSBPYmplY3Qua2V5cyhmb28pOwpmb3IgKGNvbnN0IGtleSBvZiBrZXlzKSB7CiAgaWYgKE9iamVjdC5wcm90b3R5cGUuaGFzT3duUHJvcGVydHkuY2FsbChmb28sIGtleSkpIHsKICB9Cn0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB7eyAkcG9zdHMtPmFwcGVuZHMoWydxdWVyeScgPT4gJHF1ZXJ5XSktPmxpbmtzKCkgfX0K</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIHN0cmluZyAkcXVlcnkKICAgICAqIEByZXR1cm4gXEVsYXN0aWNxdWVudFxFbGFzdGljcXVlbnRSZXN1bHRDb2xsZWN0aW9uCiAgICAgKi8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnbWF0Y2gnID0+IFsKICAgICAgICAgICAgICAgICAgICAgICAgJ2JvZHknID0+IFsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICdxdWVyeScgPT4gJHF1ZXJ5LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2Jvb3N0JyA9PiAxLjAKICAgICAgICAgICAgICAgICAgICAgICAgXQogICAgICAgICAgICAgICAgICAgIF0K</text>
+        <text encoding="base64">ICAgICAgICB7eyAkcG9zdHMtPmFwcGVuZHMoWydxdWVyeScgPT4gJHF1ZXJ5XSktPmxpbmtzKCkgfX0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -959,9 +963,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmcmFuY2VDb25uZWN0U3RyYXRlZ3lcPg==</last-search>
+      <last-search encoding="base64">XDxwb3B1bGF0ZUVycm9yV2l0aENvbnRleHRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmcmFuY2VDb25uZWN0U3RyYXRlZ3lcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxwb3B1bGF0ZUVycm9yV2l0aENvbnRleHRcPg==</last-pattern>
       <last-replace>172\.17\.0\.1</last-replace>
       <last-substitute encoding="base64">XDxsb2dnZXJcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -969,7 +973,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwcm92aWRlclJvdXRlclw+</entry>
         <entry encoding="base64">XDxlbWFpbENvbW1vbkhlbHBlclw+</entry>
         <entry encoding="base64">XDx3aXRoQXJnc1w+</entry>
         <entry encoding="base64">XDxsb2dnZXJcPg==</entry>
@@ -989,6 +992,7 @@
         <entry encoding="base64">XDxsb2FkVXNlckluZm9Gcm9tUHJvdmlkZXJcPg==</entry>
         <entry encoding="base64">XDxyZWRpcmVjdFw+</entry>
         <entry encoding="base64">XDxmcmFuY2VDb25uZWN0U3RyYXRlZ3lcPg==</entry>
+        <entry encoding="base64">XDxwb3B1bGF0ZUVycm9yV2l0aENvbnRleHRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2NlbnRvcy1iYXNlL2VsYXN0aWMvZw==</entry>
