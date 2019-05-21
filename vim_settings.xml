@@ -451,10 +451,10 @@
       <file name="/app_users [francis@localhost]" timestamp="1547200899685">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/.gitlab-ci.yml" timestamp="1558385249153">
-        <mark key="[" line="31" column="9" />
-        <mark key="]" line="135" column="34" />
-        <mark key="." line="135" column="34" />
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/.gitlab-ci.yml" timestamp="1558426766417">
+        <mark key="[" line="7" column="8" />
+        <mark key="]" line="7" column="8" />
+        <mark key="." line="7" column="8" />
         <mark key="^" line="135" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/code/portail.io/README.md" timestamp="1548948601475">
@@ -603,9 +603,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/package.json" timestamp="1558386651596">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="23" />
-        <mark key="." line="53" column="0" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="23" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/france-connect/foobar/experimental/docker/hosts" timestamp="1556292888699">
         <mark key="[" line="0" column="0" />
@@ -873,14 +873,14 @@
           <key char="95" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgY29tbWl0cyA9IGRhbmdlci5naXQuY29tbWl0czsKCmZvciAobGV0IGNvbW1pdCBvZiBjb21taXRzKSB7CiAgbWVzc2FnZSgnQ29tbWl0JyArIGNvbW1pdCkKfSAK</text>
+      <register name="&quot;" type="4">
+        <text>$CI_BUILD_REF_NAME</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>$CI_BUILD_REF_NAME</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcmFuY2VDb25uZWN0U3RyYXRlZ3lcPg==</text>
