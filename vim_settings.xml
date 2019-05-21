@@ -109,6 +109,11 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/resources/views/home.blade.php" timestamp="1558440522284">
+        <mark key="[" line="9" column="63" />
+        <mark key="]" line="9" column="63" />
+        <mark key="." line="9" column="63" />
+      </file>
       <file name="$USER_HOME$/Documents/code/simplesamlphp/templates/login.php" timestamp="1541693235848">
         <mark key="[" line="15" column="2" />
       </file>
@@ -123,6 +128,11 @@
       </file>
       <file name="$USER_HOME$/Documents/code/france-connect/Infra/ansible/ssh-keys/admins/sbernard.pub" timestamp="1556272716873">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/tests/Feature/PostSearchTest.php" timestamp="1558440669144">
+        <mark key="[" line="20" column="28" />
+        <mark key="]" line="20" column="28" />
+        <mark key="." line="20" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/code/daju/package.json" timestamp="1544365275388">
         <mark key="[" line="9" column="176" />
@@ -665,11 +675,11 @@
         <mark key="]" line="502" column="52" />
         <mark key="." line="502" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/app/Repository/ElasticSearchPostSearchRepository.php" timestamp="1558439015826">
-        <mark key="[" line="16" column="35" />
-        <mark key="]" line="14" column="27" />
-        <mark key="." line="14" column="27" />
-        <mark key="^" line="14" column="27" />
+      <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/app/Repository/ElasticSearchPostSearchRepository.php" timestamp="1558440650410">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="13" column="12" />
       </file>
       <file name="/business_immo_legacy.jobs [Business immo legacy]" timestamp="1541682002486">
         <mark key="[" line="0" column="0" />
@@ -895,52 +905,52 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>complexSearch</text>
+        <text>10594</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>complexSearch</text>
+        <text>10594</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcmFuY2VDb25uZWN0U3RyYXRlZ3lcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC0gY2QgJENJX1BST0pFQ1RfRElSCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnZnV6enknID0+IFsKICAgICAgICAgICAgICAgICAgICAgICAgJ2JvZHknID0+IFsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICd2YWx1ZScgPT4gJHF1ZXJ5LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2Jvb3N0JyA9PiAyLjAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAnZnV6emluZXNzJyA9PiAxCiAgICAgICAgICAgICAgICAgICAgICAgIF0KICAgICAgICAgICAgICAgICAgICBdLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5tdWx0aU1hdGNoKFsndGl0bGUnXSwgJHF1ZXJ5LCBbJ2Z1enppbmVzcycgPT4gJ0FVVE8nXSkKICAgICAgICAgICAgLT5zb3J0QnkoJ3Njb3JlJykKICAgICAgICAgICAgLT5wYWdpbmF0ZSgpOwo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIHN0cmluZyAkcXVlcnkKICAgICAqIEByZXR1cm4gXEVsYXN0aWNxdWVudFxFbGFzdGljcXVlbnRSZXN1bHRDb2xsZWN0aW9uCiAgICAgKi8K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFBsYXN0aWM6OnBlcnNpc3QoKS0+YnVsa1NhdmUoUG9zdDo6YWxsKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICB7eyAkcG9zdHMtPmFwcGVuZHMoWydxdWVyeScgPT4gJHF1ZXJ5XSktPmxpbmtzKCkgfX0K</text>
       </register>
       <register name="r" type="4">
         <text>technical_accounting.account.filters.period</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnbWF0Y2gnID0+IFsKICAgICAgICAgICAgICAgICAgICAgICAgJ2JvZHknID0+IFsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICdxdWVyeScgPT4gJHF1ZXJ5LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2Jvb3N0JyA9PiAxLjAKICAgICAgICAgICAgICAgICAgICAgICAgXQogICAgICAgICAgICAgICAgICAgIF0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIFNsZWltYW54MlxQbGFzdGljXFNlYXJjaGFibGU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ2JvZHknID0+IFsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICd2YWx1ZScgPT4gJHF1ZXJ5LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2Jvb3N0JyA9PiAxLjAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAnZnV6emluZXNzJyA9PiAzCiAgICAgICAgICAgICAgICAgICAgICAgIF0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHVzZSBTZWFyY2hhYmxlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICdib29zdCcgPT4gMgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRvU29tZXRoaW5nKGtleSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgY29tbWl0cyA9IGRhbmdlci5naXQuY29tbWl0czsKCmZvciAobGV0IGNvbW1pdCBvZiBjb21taXRzKSB7CiAgbWVzc2FnZSgnQ29tbWl0JyArIGNvbW1pdCkKfSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5tdWx0aU1hdGNoKFsndGl0bGUnXSwgJHF1ZXJ5LCBbJ2Z1enppbmVzcycgPT4gJ0FVVE8nXSkKICAgICAgICAgICAgLT5zb3J0QnkoJ3Njb3JlJykKICAgICAgICAgICAgLT5wYWdpbmF0ZSgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bWVzc2FnZShgRm91bmQgJHtkYW5nZXIuZ2l0LmNvbW1pdHMubGVuZ3RofSBjb21taXRzYCk7Cg==</text>
+        <text encoding="base64">ICAgIFBsYXN0aWM6OnBlcnNpc3QoKS0+YnVsa1NhdmUoUG9zdDo6YWxsKCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
