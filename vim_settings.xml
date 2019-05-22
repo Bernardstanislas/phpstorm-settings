@@ -66,8 +66,8 @@
       <file name="$USER_HOME$/Documents/code/alto-espace-emprunteur/client/src/components/Messages/MessagesHeader/index.js" timestamp="1539718998184">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/services/openid-connect-provider.js" timestamp="1558345802158">
-        <mark key="'" line="964" column="31" />
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/services/openid-connect-provider.js" timestamp="1558455305381">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b4896aa8-3fb2-415d-a7fe-608e94f30975/console_3.sql" timestamp="1538645089390">
         <mark key="[" line="0" column="0" />
@@ -198,9 +198,6 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/cypress/integration/fc/mire.spec.js" timestamp="1558453770562">
-        <mark key="[" line="63" column="8" />
       </file>
       <file name="/bi_directory_user [Business immo directory]" timestamp="1541062470407">
         <mark key="[" line="0" column="0" />
@@ -346,6 +343,12 @@
       </file>
       <file name="/Dummy.txt" timestamp="1558018047061">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/.gitlab-ci.ymlAAA" timestamp="1558517855351">
+        <mark key="[" line="33" column="29" />
+        <mark key="]" line="36" column="12" />
+        <mark key="." line="36" column="12" />
+        <mark key="^" line="36" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/webpack.mix.js" timestamp="1557864016397">
         <mark key="[" line="15" column="3" />
@@ -498,10 +501,10 @@
       <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/partenaires/controllers/clientController.js" timestamp="1558444151466">
         <mark key="'" line="46" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/.gitlab-ci.yml" timestamp="1558441958682">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="40" column="9" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/.gitlab-ci.yml" timestamp="1558517527139">
+        <mark key="[" line="32" column="29" />
+        <mark key="]" line="32" column="29" />
+        <mark key="." line="32" column="29" />
         <mark key="^" line="29" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/code/portail.io/README.md" timestamp="1548948601475">
@@ -790,8 +793,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="524" column="63" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/admin/test/unit/controllers/providerControllerSpec.js" />
-      <jump line="323" column="49" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/admin/test/unit/controllers/providerControllerSpec.js" />
       <jump line="339" column="49" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/admin/test/unit/controllers/providerControllerSpec.js" />
       <jump line="361" column="49" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/admin/test/unit/controllers/providerControllerSpec.js" />
       <jump line="347" column="0" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/admin/test/unit/controllers/providerControllerSpec.js" />
@@ -890,6 +891,8 @@
       <jump line="25" column="42" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/.gitignore" />
       <jump line="26" column="42" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/.gitignore" />
       <jump line="27" column="42" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/.gitignore" />
+      <jump line="66" column="42" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/cypress/integration/fc/mire.spec.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/services/openid-connect-provider.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -941,20 +944,20 @@
           <key char="95" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ISoqL2NvbmZpZy8uZ2l0a2VlcAo=</text>
+      <register name="&quot;" type="4">
+        <text>AM</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>/*.json</text>
+        <text>AM</text>
       </register>
       <register name="/" type="4">
-        <text>config</text>
+        <text>buildUserInfo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBkZXBlbmRlbmNpZXM6CiAgICAtIG5wbQo=</text>
+        <text encoding="base64">ICAgIC0gZ2l0IGRpZmYgLS1kaWZmLWZpbHRlcj1BTSAtLW5hbWUtc3RhdHVzIG9yaWdpbi9zdGFnaW5nIHwgYXdrICd7cHJpbnQgJDJ9JyB8IHhhcmdzIC4vbm9kZV9tb2R1bGVzLy5iaW4vZXNsaW50IC0tZXh0IC5qcwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ISoqL2NvbmZpZy8uZ2l0a2VlcAo=</text>
@@ -997,9 +1000,9 @@
       </register>
     </registers>
     <search>
-      <last-search>config</last-search>
+      <last-search>buildUserInfo</last-search>
       <last-offset />
-      <last-pattern>config</last-pattern>
+      <last-pattern>buildUserInfo</last-pattern>
       <last-replace>172\.17\.0\.1</last-replace>
       <last-substitute encoding="base64">XDxsb2dnZXJcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1007,7 +1010,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvcHRpb25zXD4=</entry>
         <entry encoding="base64">XDxjb21wbGV0ZVw+</entry>
         <entry encoding="base64">XDxkZWNvZGVcPg==</entry>
         <entry encoding="base64">XDxhdXRob3JpemVkX2VuZHBvaW50X3BhcmFtc1w+</entry>
@@ -1027,6 +1029,7 @@
         <entry encoding="base64">XDxnZXRDbGllbnRGb3JtRXJyb3JzXD4=</entry>
         <entry encoding="base64">XDxnZXRSZWRpcmVjdFVybEFycmF5RnJvbVRleHRWYWx1ZXNcPg==</entry>
         <entry>config</entry>
+        <entry>buildUserInfo</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2NlbnRvcy1iYXNlL2VsYXN0aWMvZw==</entry>
