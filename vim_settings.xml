@@ -99,6 +99,12 @@
       <file name="$USER_HOME$/Documents/code/blog-dojo-cqrs/src/repository/Repository.ts" timestamp="1546093069663">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/cypress/integration/partenaires/partenaires.spec.js" timestamp="1558533372345">
+        <mark key="[" line="55" column="4" />
+        <mark key="]" line="55" column="4" />
+        <mark key="." line="55" column="4" />
+        <mark key="^" line="36" column="12" />
+      </file>
       <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/resources/views/post.blade.php" timestamp="1557862798404">
         <mark key="[" line="26" column="20" />
         <mark key="]" line="23" column="17" />
@@ -198,6 +204,12 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/cypress/integration/fc/mire.spec.js" timestamp="1558532896398">
+        <mark key="[" line="89" column="9" />
+        <mark key="]" line="89" column="9" />
+        <mark key="." line="89" column="9" />
+        <mark key="^" line="79" column="12" />
       </file>
       <file name="/bi_directory_user [Business immo directory]" timestamp="1541062470407">
         <mark key="[" line="0" column="0" />
@@ -945,13 +957,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>AM</text>
+        <text>.skip</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>AM</text>
+        <text>.skip</text>
       </register>
       <register name="/" type="4">
         <text>buildUserInfo</text>
