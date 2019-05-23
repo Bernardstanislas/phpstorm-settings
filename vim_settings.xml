@@ -461,11 +461,11 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/.gitlab-ci.yml" timestamp="1558620526218">
-        <mark key="[" line="123" column="29" />
-        <mark key="]" line="124" column="122" />
-        <mark key="^" line="124" column="122" />
-        <mark key="." line="124" column="122" />
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/.gitlab-ci.yml" timestamp="1558626833179">
+        <mark key="[" line="32" column="78" />
+        <mark key="]" line="32" column="77" />
+        <mark key="^" line="32" column="77" />
+        <mark key="." line="32" column="77" />
       </file>
       <file name="$USER_HOME$/Documents/code/portail.io/README.md" timestamp="1548948601475">
         <mark key="[" line="0" column="0" />
@@ -538,11 +538,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fbf7ae17-6879-44d2-a8b4-848aedaa252f/console_1.sql" timestamp="1539522648106">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/src/authentication/authentication.service.spec.ts" timestamp="1558624749710">
-        <mark key="[" line="28" column="38" />
-        <mark key="]" line="28" column="38" />
-        <mark key="." line="28" column="38" />
-        <mark key="^" line="28" column="39" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/src/authentication/authentication.service.spec.ts" timestamp="1558626862422">
+        <mark key="[" line="38" column="79" />
+        <mark key="]" line="38" column="79" />
+        <mark key="." line="38" column="12" />
+        <mark key="^" line="34" column="19" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b4896aa8-3fb2-415d-a7fe-608e94f30975/console_4.sql" timestamp="1538646928470">
         <mark key="[" line="0" column="0" />
@@ -878,52 +878,52 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>'c</text>
+        <text>await authenticationService.validateCredentials(username, password)</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>'c</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGVja0lucHV0VmFsaWRhdGlvblw+</text>
       </register>
       <register name="0" type="4">
-        <text>28e9ed103d6b075d371303a8bc5a66446f0cd4c0ce7ec237773276c247d28a95</text>
+        <text>await authenticationService.validateCredentials(username, password)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFByb21pc2UucmVzb2x2ZSh1c2VyKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CmNsYXNzIE1vY2tlZFVzZXJTZXJ2aWNlIGltcGxlbWVudHMgSVVzZXJTZXJ2aWNlIHsKICAgIGZpbmRCeVVzZXJuYW1lKHVzZXJuYW1lOiBzdHJpbmcpOiBQcm9taXNlPGFueT4gewogICAgICAgIHJldHVybiB1bmRlZmluZWQ7CiAgICB9Cn0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhwZWN0KHVzZXJTZXJ2aWNlLmZpbmRCeVVzZXJuYW1lKS50b0hhdmVCZWVuQ2FsbGVkVGltZXMoMSk7CiAgICAgICAgICAgIGV4cGVjdCh1c2VyU2VydmljZS5maW5kQnlVc2VybmFtZSkudG9IYXZlQmVlbkNhbGxlZFdpdGgodXNlcm5hbWUpOwo=</text>
       </register>
       <register name="r" type="4">
         <text>technical_accounting.account.filters.period</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHtJVXNlclNlcnZpY2V9IGZyb20gIi4vdXNlci5zZXJ2aWNlIjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CmV4cG9ydCBpbnRlcmZhY2UgSVVzZXJTZXJ2aWNlIHsKICAgIGZpbmRCeVVzZXJuYW1lKHVzZXJuYW1lOiBzdHJpbmcpOiBQcm9taXNlPGFueT47Cn0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXV0aFNlcnZpY2UudmFsaWRhdGVVc2VyKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgdXNlciA9IHsKICAgICAgICAgICAgICAgIHZlcmlmeVBhc3N3b3JkOiBqZXN0LmZuKCkubW9ja1Jlc29sdmVkVmFsdWUodHJ1ZSkKICAgICAgICAgICAgfTsKICAgICAgICAgICAgY29uc3QgdXNlcm5hbWUgPSBTeW1ib2woKS50b1N0cmluZygpOwogICAgICAgICAgICBjb25zdCBwYXNzd29yZCA9IFN5bWJvbCgpLnRvU3RyaW5nKCk7CiAgICAgICAgICAgIGplc3Quc3B5T24odXNlclNlcnZpY2UsICdmaW5kQnlVc2VybmFtZScpLm1vY2tJbXBsZW1lbnRhdGlvbigoY2FuZGlkYXRlKSA9PiB7CiAgICAgICAgICAgICAgICBpZiAoY2FuZGlkYXRlID09PSB1c2VybmFtZSkgewogICAgICAgICAgICAgICAgICAgIHJldHVybiBQcm9taXNlLnJlc29sdmUodXNlcik7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICByZXR1cm4gUHJvbWlzZS5yZWplY3QoJ1VzZXIgbm90IGZvdW5kJyk7CiAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhwZWN0KCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9IGNhdGNoIHsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgYXV0aGVudGljYXRpb25TZXJ2aWNlOiBBdXRoZW50aWNhdGlvblNlcnZpY2U7CiAgICAgICAgbGV0IHVzZXJTZXJ2aWNlOiBJVXNlclNlcnZpY2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFByb21pc2UucmVzb2x2ZSh1c2VyKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBiZWZvcmUK</text>
+        <text encoding="base64">CmNsYXNzIE1vY2tlZFVzZXJTZXJ2aWNlIGltcGxlbWVudHMgSVVzZXJTZXJ2aWNlIHsKICAgIGZpbmRCeVVzZXJuYW1lKHVzZXJuYW1lOiBzdHJpbmcpOiBQcm9taXNlPGFueT4gewogICAgICAgIHJldHVybiB1bmRlZmluZWQ7CiAgICB9Cn0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
