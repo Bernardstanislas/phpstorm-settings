@@ -527,10 +527,12 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/.gitlab-ci.yml" timestamp="1558607024287">
-        <mark key="[" line="124" column="33" />
-        <mark key="]" line="124" column="33" />
-        <mark key="." line="124" column="33" />
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/.gitlab-ci.yml" timestamp="1558610444082">
+        <mark key="[" line="123" column="18" />
+        <mark key="l" line="123" column="25" />
+        <mark key="]" line="123" column="29" />
+        <mark key="." line="123" column="18" />
+        <mark key="^" line="123" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/code/portail.io/README.md" timestamp="1548948601475">
         <mark key="[" line="0" column="0" />
@@ -976,13 +978,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>$(npm bin)/</text>
+        <text encoding="base64">LWUgQ0k9dHJ1ZSA=</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>$(npm bin)/</text>
+        <text encoding="base64">LWUgQ0k9dHJ1ZSA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQYXJ0bmVyTW9kZWxcPg==</text>
