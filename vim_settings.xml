@@ -280,10 +280,10 @@
       <file name="/business_immo_legacy.sessions [Business immo legacy]" timestamp="1542123983757">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/cypress/integration/partenaires/mettreMonFsEnProduction.spec.js" timestamp="1558614632076">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/cypress/integration/partenaires/mettreMonFsEnProduction.spec.js" timestamp="1558615755474">
+        <mark key="[" line="93" column="9" />
+        <mark key="]" line="93" column="9" />
+        <mark key="." line="93" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/composer.json" timestamp="1558438180461">
         <mark key="[" line="64" column="20" />
@@ -522,6 +522,7 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/.gitlab-ci.yml" timestamp="1558615018257" />
       <file name="$USER_HOME$/Documents/code/portail.io/README.md" timestamp="1548948601475">
         <mark key="[" line="0" column="0" />
       </file>
@@ -693,6 +694,7 @@
       <file name="$USER_HOME$/Documents/code/test-gitlab-ci/Dangerfile" timestamp="1557497164871">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/routes/apiRouter.js" timestamp="1558345901959" />
       <file name="/alto-test.app_users [alto-test]" timestamp="1539672566207">
         <mark key="[" line="0" column="0" />
       </file>
@@ -960,14 +962,14 @@
           <key char="95" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiA3ZjlkOTllOTMuLi4gW0ZDUC0yXSA6Z3JlZW5faGVhcnQ6IEZpeCBlMmUgdGVzdHMK</text>
+      <register name="&quot;" type="4">
+        <text>skip</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>skip</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQYXJ0bmVyTW9kZWxcPg==</text>
