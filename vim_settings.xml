@@ -60,6 +60,11 @@
       <file name="$USER_HOME$/Documents/code/daju-landing/src/components/Homepage/TryItOut/index.tsx" timestamp="1549645881980">
         <mark key="[" line="3" column="13" />
       </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/src/user/user.module.ts" timestamp="1558711814884">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/code/france-connect/Infra/docker/volumes/FranceConnect/projects/fc/core/config/redis.json" timestamp="1556184222531">
         <mark key="[" line="0" column="0" />
       </file>
@@ -97,7 +102,7 @@
       <file name="$USER_HOME$/Documents/code/simplesamlphp/templates/login.php" timestamp="1541693235848">
         <mark key="[" line="15" column="2" />
       </file>
-      <file name="/a.sql" timestamp="1557505356292">
+      <file name="/a.sql" timestamp="1558711271021">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/blog/src/content/img/logo.svg" timestamp="1550419424817">
@@ -126,8 +131,8 @@
       <file name="$USER_HOME$/Documents/code/daju/app/Http/Controllers/Auth/LoginController.php" timestamp="1550834573778">
         <mark key="[" line="27" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/.gitignore" timestamp="1558618495664">
-        <mark key="[" line="33" column="24" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/.gitignore" timestamp="1558711028328">
+        <mark key="[" line="37" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/Dockerfile" timestamp="1558022824058">
         <mark key="[" line="0" column="0" />
@@ -135,7 +140,7 @@
       <file name="$USER_HOME$/Documents/code/oreqo/server/app/Http/Middleware/JsonMiddleware.php" timestamp="1555956499580">
         <mark key="[" line="16" column="5" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1558437002983">
+      <file name="/GraphQL.result.json" timestamp="1558709794380">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/blog-dojo-cqrs/src/events/namespace.ts" timestamp="1545580874953">
@@ -146,6 +151,12 @@
       </file>
       <file name="$USER_HOME$/Documents/code/oreqo/server/heroku/nginx.staging.conf" timestamp="1555869916127">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/src/app.module.ts" timestamp="1558710996178">
+        <mark key="[" line="12" column="36" />
+        <mark key="]" line="11" column="10" />
+        <mark key="." line="11" column="10" />
+        <mark key="^" line="13" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/code/daju/app/Http/Middleware/RedirectIfAuthenticated.php" timestamp="1550834495870">
         <mark key="[" line="20" column="30" />
@@ -188,10 +199,10 @@
       <file name="$USER_HOME$/Documents/code/francis/api/phpstan.neon" timestamp="1539757812763">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/views/login.hbs" timestamp="1558709726889">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/views/login.hbs" timestamp="1558710030848">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/daju-landing/src/components/Homepage/Features/index.tsx" timestamp="1549736123239">
         <mark key="[" line="0" column="0" />
@@ -206,9 +217,9 @@
         <mark key="[" line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/package.json" timestamp="1558621415282">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/alto-espace-emprunteur/client/src/components/Messages/MessageForm/index.js" timestamp="1539792632670">
         <mark key="[" line="0" column="0" />
@@ -268,8 +279,11 @@
       <file name="$USER_HOME$/Documents/code/daju-landing/.gitignore" timestamp="1548695318758">
         <mark key="[" line="69" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/src/authentication/authentication.module.ts" timestamp="1558619844502">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/src/authentication/authentication.module.ts" timestamp="1558711839188">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="7" column="17" />
       </file>
       <file name="/main.daju_user [data.db]" timestamp="1540750682062">
         <mark key="[" line="0" column="0" />
@@ -304,7 +318,7 @@
       <file name="/sphere.public.users [Sphere]" timestamp="1538658271254">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558018047061">
+      <file name="/Dummy.txt" timestamp="1558711271035">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/.gitlab-ci.ymlAAA" timestamp="1558517855351">
@@ -879,52 +893,54 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8JSBpZiAobWVzc2FnZS5sZW5ndGggPiAwKSB7JT4KICAgICAgICA8ZGl2IGNsYXNzPSJhbGVydCBhbGVydC1kYW5nZXIiPgogICAgICAgICAgICA8JT0gbWVzc2FnZVswXSAlPgogICAgICAgIDwvZGl2PgogICAgICAgIDwlIH0gJT4K</text>
+        <text encoding="base64">aW1wb3J0IHtVc2VyU2VydmljZX0gZnJvbSAiLi4vdXNlci91c2VyLnNlcnZpY2UiOwppbXBvcnQge1R5cGVPcm1Nb2R1bGV9IGZyb20gIkBuZXN0anMvdHlwZW9ybSI7CmltcG9ydCB7VXNlcn0gZnJvbSAiLi4vdXNlci91c2VyLmVudGl0eSI7Cg==</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text encoding="base64">IFVzZXJTZXJ2aWNl</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGVja0lucHV0VmFsaWRhdGlvblw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0czogW1R5cGVPcm1Nb2R1bGUuZm9yRmVhdHVyZShbVXNlcl0pXSwK</text>
+        <text encoding="base64">ICAgIGltcG9ydHM6IFsKICAgICAgICBUeXBlT3JtTW9kdWxlLmZvckZlYXR1cmUoW1VzZXJdKQogICAgXSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8JSBpZiAobWVzc2FnZS5sZW5ndGggPiAwKSB7JT4KICAgICAgICA8ZGl2IGNsYXNzPSJhbGVydCBhbGVydC1kYW5nZXIiPgogICAgICAgICAgICA8JT0gbWVzc2FnZVswXSAlPgogICAgICAgIDwvZGl2PgogICAgICAgIDwlIH0gJT4K</text>
+        <text encoding="base64">aW1wb3J0IHtVc2VyU2VydmljZX0gZnJvbSAiLi4vdXNlci91c2VyLnNlcnZpY2UiOwppbXBvcnQge1R5cGVPcm1Nb2R1bGV9IGZyb20gIkBuZXN0anMvdHlwZW9ybSI7CmltcG9ydCB7VXNlcn0gZnJvbSAiLi4vdXNlci91c2VyLmVudGl0eSI7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDwlIGluY2x1ZGUgaW5jbHVkZXMvZGVmYXVsdEhlYWRUYWdzLmVqcyAlPgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="r" type="4">
         <text>technical_accounting.account.filters.period</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIEBjKCdsb2dpbicpCiAgICBsb2dpbigpIHsKCiAgICB9Cn0K</text>
+      <register name="3" type="4">
+        <text>{
+            type: &quot;sqlite&quot;
+        }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgdXNlciwgdXNlcm5hbWUsIHBhc3N3b3JkOwogICAgICAgIGJlZm9yZUVhY2goKCkgPT4gewogICAgICAgICAgICB1c2VyID0gewogICAgICAgICAgICAgICAgcGFzc3dvcmRIYXNoOiBTeW1ib2woJ3Bhc3N3b3JkIGhhc2gnKS50b1N0cmluZygpCiAgICAgICAgICAgIH07CiAgICAgICAgICAgIHVzZXJuYW1lID0gU3ltYm9sKCkudG9TdHJpbmcoKTsKICAgICAgICAgICAgcGFzc3dvcmQgPSBTeW1ib2woKS50b1N0cmluZygpOwogICAgICAgICAgICBqZXN0LnNweU9uKG1vY2tlZFVzZXJTZXJ2aWNlLCAnZmluZEJ5VXNlcm5hbWUnKS5tb2NrSW1wbGVtZW50YXRpb24oKGNhbmRpZGF0ZSkgPT4gewogICAgICAgICAgICAgICAgaWYgKGNhbmRpZGF0ZSA9PT0gdXNlcm5hbWUpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gUHJvbWlzZS5yZXNvbHZlKHVzZXIpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgcmV0dXJuIFByb21pc2UucmVqZWN0KCdVc2VyIG5vdCBmb3VuZCcpOwogICAgICAgICAgICB9KTsKICAgICAgICAgICAgamVzdC5zcHlPbihtb2NrZWRVc2VyU2VydmljZSwgJ2NvbXBhcmVIYXNoJykubW9ja1JldHVyblZhbHVlKFByb21pc2UucmVzb2x2ZSh0cnVlKSk7CiAgICAgICAgfSk7CgogICAgICAgIGl0KCdjYWxscyB0aGUgVXNlclNlcnZpY2UgZmluZEJ5VXNlcm5hbWUnLCBhc3luYyAoKSA9PiB7CiAgICAgICAgICAgIGF3YWl0IGF1dGhlbnRpY2F0aW9uU2VydmljZS52YWxpZGF0ZUNyZWRlbnRpYWxzKHVzZXJuYW1lLCBwYXNzd29yZCk7CiAgICAgICAgICAgIGV4cGVjdChtb2NrZWRVc2VyU2VydmljZS5maW5kQnlVc2VybmFtZSkudG9IYXZlQmVlbkNhbGxlZFRpbWVzKDEpOwogICAgICAgICAgICBleHBlY3QobW9ja2VkVXNlclNlcnZpY2UuZmluZEJ5VXNlcm5hbWUpLnRvSGF2ZUJlZW5DYWxsZWRXaXRoKHVzZXJuYW1lKTsKICAgICAgICB9KTsKCiAgICAgICAgaXQoJ2ZhaWxzIHRvIHZhbGlkYXRlIHRoZSBjcmVkZW50aWFscyBpZiBubyB1c2VyIGlzIGZvdW5kJywgYXN5bmMgKCkgPT4gewogICAgICAgICAgICByZXR1cm4gZXhwZWN0KGF1dGhlbnRpY2F0aW9uU2VydmljZS52YWxpZGF0ZUNyZWRlbnRpYWxzKCdqZWFubW91c3QnLCBwYXNzd29yZCkpLnJlamVjdHMudG9CZURlZmluZWQoKTsKICAgICAgICB9KTsKCiAgICAgICAgaXQoJ2NhbGxzIHRoZSBVc2VyU2VydmljZSBjb21wYXJlSGFzaCcsIGFzeW5jICgpID0+IHsKICAgICAgICAgICAgYXdhaXQgYXV0aGVudGljYXRpb25TZXJ2aWNlLnZhbGlkYXRlQ3JlZGVudGlhbHModXNlcm5hbWUsIHBhc3N3b3JkKTsKICAgICAgICAgICAgZXhwZWN0KG1vY2tlZFVzZXJTZXJ2aWNlLmNvbXBhcmVIYXNoKS50b0hhdmVCZWVuQ2FsbGVkVGltZXMoMSk7CiAgICAgICAgICAgIGV4cGVjdChtb2NrZWRVc2VyU2VydmljZS5jb21wYXJlSGFzaCkudG9IYXZlQmVlbkNhbGxlZFdpdGgocGFzc3dvcmQsIHVzZXIucGFzc3dvcmRIYXNoKTsKICAgICAgICB9KTsKCiAgICAgICAgaXQoJ3JldHVybnMgYW4gYXJyb3IgaWYgdGhlIGNyZWRlbnRpYWxzIGFyZSBpbnZhbGlkJywgYXN5bmMgKCkgPT4gewogICAgICAgICAgICBqZXN0LnNweU9uKG1vY2tlZFVzZXJTZXJ2aWNlLCAnY29tcGFyZUhhc2gnKS5tb2NrUmV0dXJuVmFsdWUoUHJvbWlzZS5yZXNvbHZlKGZhbHNlKSk7CiAgICAgICAgICAgIHJldHVybiBleHBlY3QoYXV0aGVudGljYXRpb25TZXJ2aWNlLnZhbGlkYXRlQ3JlZGVudGlhbHModXNlcm5hbWUsIHBhc3N3b3JkKSkucmVzb2x2ZXMudG9CZShudWxsKTsKICAgICAgICB9KTsKCiAgICAgICAgaXQoJ3JldHVybnMgdGhlIHVzZXIgaWYgdGhlIGNyZWRlbnRpYWxzIGFyZSB2YWxpZCcsIGFzeW5jICgpID0+IHsKICAgICAgICAgICAgY29uc3QgYWN0dWFsVXNlciA9IGF3YWl0IGF1dGhlbnRpY2F0aW9uU2VydmljZS52YWxpZGF0ZUNyZWRlbnRpYWxzKHVzZXJuYW1lLCBwYXNzd29yZCk7CiAgICAgICAgICAgIGV4cGVjdChhY3R1YWxVc2VyKS50b0JlKHVzZXIpOwogICAgICAgIH0pCg==</text>
+        <text encoding="base64">ICBtb2R1bGVzOiBbQXV0aGVudGljYXRpb25Nb2R1bGVdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxldCBtb2NrZWRVc2VyU2VydmljZSA9IHsKICAgICAgICBmaW5kQnlVc2VybmFtZTogamVzdC5mbigpLAogICAgICAgIGNvbXBhcmVIYXNoOiBqZXN0LmZuKCkKICAgIH07Cg==</text>
+        <text encoding="base64">ICAgICAgICA8aW5wdXQgdHlwZT0iaGlkZGVuIiBuYW1lPSJfY3NyZiIgdmFsdWU9Int7IGNzcmZUb2tlbiAiPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHtVc2VyU2VydmljZX0gZnJvbSAiLi91c2VyLnNlcnZpY2UiOwppbXBvcnQge0F1dGhlbnRpY2F0aW9uU2VydmljZX0gZnJvbSAiLi9hdXRoZW50aWNhdGlvbi5zZXJ2aWNlIjsK</text>
+        <text encoding="base64">ICAgICAgICA8JSBpZiAobWVzc2FnZS5sZW5ndGggPiAwKSB7JT4KICAgICAgICA8ZGl2IGNsYXNzPSJhbGVydCBhbGVydC1kYW5nZXIiPgogICAgICAgICAgICA8JT0gbWVzc2FnZVswXSAlPgogICAgICAgIDwvZGl2PgogICAgICAgIDwlIH0gJT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgdXNlclNlcnZpY2UuZmluZEJ5VXNlcm5hbWUoJ21pY2hhZWwgamFja3NvbicpOwo=</text>
+        <text encoding="base64">ICAgIDwlIGluY2x1ZGUgaW5jbHVkZXMvZGVmYXVsdEhlYWRUYWdzLmVqcyAlPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBiZWZvcmVFYWNoKCgpID0+IHsKICAgICAgICAgICAgamVzdC5zcHlPbih1c2VyUmVwb3NpdG9yeSwgJ2ZpbmRPbmUnKTsKICAgICAgICB9KTsKCg==</text>
+        <text encoding="base64">ICAgIEBjKCdsb2dpbicpCiAgICBsb2dpbigpIHsKCiAgICB9Cn0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdqZWFuX21vdXN0Jyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgdXNlciwgdXNlcm5hbWUsIHBhc3N3b3JkOwogICAgICAgIGJlZm9yZUVhY2goKCkgPT4gewogICAgICAgICAgICB1c2VyID0gewogICAgICAgICAgICAgICAgcGFzc3dvcmRIYXNoOiBTeW1ib2woJ3Bhc3N3b3JkIGhhc2gnKS50b1N0cmluZygpCiAgICAgICAgICAgIH07CiAgICAgICAgICAgIHVzZXJuYW1lID0gU3ltYm9sKCkudG9TdHJpbmcoKTsKICAgICAgICAgICAgcGFzc3dvcmQgPSBTeW1ib2woKS50b1N0cmluZygpOwogICAgICAgICAgICBqZXN0LnNweU9uKG1vY2tlZFVzZXJTZXJ2aWNlLCAnZmluZEJ5VXNlcm5hbWUnKS5tb2NrSW1wbGVtZW50YXRpb24oKGNhbmRpZGF0ZSkgPT4gewogICAgICAgICAgICAgICAgaWYgKGNhbmRpZGF0ZSA9PT0gdXNlcm5hbWUpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gUHJvbWlzZS5yZXNvbHZlKHVzZXIpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgcmV0dXJuIFByb21pc2UucmVqZWN0KCdVc2VyIG5vdCBmb3VuZCcpOwogICAgICAgICAgICB9KTsKICAgICAgICAgICAgamVzdC5zcHlPbihtb2NrZWRVc2VyU2VydmljZSwgJ2NvbXBhcmVIYXNoJykubW9ja1JldHVyblZhbHVlKFByb21pc2UucmVzb2x2ZSh0cnVlKSk7CiAgICAgICAgfSk7CgogICAgICAgIGl0KCdjYWxscyB0aGUgVXNlclNlcnZpY2UgZmluZEJ5VXNlcm5hbWUnLCBhc3luYyAoKSA9PiB7CiAgICAgICAgICAgIGF3YWl0IGF1dGhlbnRpY2F0aW9uU2VydmljZS52YWxpZGF0ZUNyZWRlbnRpYWxzKHVzZXJuYW1lLCBwYXNzd29yZCk7CiAgICAgICAgICAgIGV4cGVjdChtb2NrZWRVc2VyU2VydmljZS5maW5kQnlVc2VybmFtZSkudG9IYXZlQmVlbkNhbGxlZFRpbWVzKDEpOwogICAgICAgICAgICBleHBlY3QobW9ja2VkVXNlclNlcnZpY2UuZmluZEJ5VXNlcm5hbWUpLnRvSGF2ZUJlZW5DYWxsZWRXaXRoKHVzZXJuYW1lKTsKICAgICAgICB9KTsKCiAgICAgICAgaXQoJ2ZhaWxzIHRvIHZhbGlkYXRlIHRoZSBjcmVkZW50aWFscyBpZiBubyB1c2VyIGlzIGZvdW5kJywgYXN5bmMgKCkgPT4gewogICAgICAgICAgICByZXR1cm4gZXhwZWN0KGF1dGhlbnRpY2F0aW9uU2VydmljZS52YWxpZGF0ZUNyZWRlbnRpYWxzKCdqZWFubW91c3QnLCBwYXNzd29yZCkpLnJlamVjdHMudG9CZURlZmluZWQoKTsKICAgICAgICB9KTsKCiAgICAgICAgaXQoJ2NhbGxzIHRoZSBVc2VyU2VydmljZSBjb21wYXJlSGFzaCcsIGFzeW5jICgpID0+IHsKICAgICAgICAgICAgYXdhaXQgYXV0aGVudGljYXRpb25TZXJ2aWNlLnZhbGlkYXRlQ3JlZGVudGlhbHModXNlcm5hbWUsIHBhc3N3b3JkKTsKICAgICAgICAgICAgZXhwZWN0KG1vY2tlZFVzZXJTZXJ2aWNlLmNvbXBhcmVIYXNoKS50b0hhdmVCZWVuQ2FsbGVkVGltZXMoMSk7CiAgICAgICAgICAgIGV4cGVjdChtb2NrZWRVc2VyU2VydmljZS5jb21wYXJlSGFzaCkudG9IYXZlQmVlbkNhbGxlZFdpdGgocGFzc3dvcmQsIHVzZXIucGFzc3dvcmRIYXNoKTsKICAgICAgICB9KTsKCiAgICAgICAgaXQoJ3JldHVybnMgYW4gYXJyb3IgaWYgdGhlIGNyZWRlbnRpYWxzIGFyZSBpbnZhbGlkJywgYXN5bmMgKCkgPT4gewogICAgICAgICAgICBqZXN0LnNweU9uKG1vY2tlZFVzZXJTZXJ2aWNlLCAnY29tcGFyZUhhc2gnKS5tb2NrUmV0dXJuVmFsdWUoUHJvbWlzZS5yZXNvbHZlKGZhbHNlKSk7CiAgICAgICAgICAgIHJldHVybiBleHBlY3QoYXV0aGVudGljYXRpb25TZXJ2aWNlLnZhbGlkYXRlQ3JlZGVudGlhbHModXNlcm5hbWUsIHBhc3N3b3JkKSkucmVzb2x2ZXMudG9CZShudWxsKTsKICAgICAgICB9KTsKCiAgICAgICAgaXQoJ3JldHVybnMgdGhlIHVzZXIgaWYgdGhlIGNyZWRlbnRpYWxzIGFyZSB2YWxpZCcsIGFzeW5jICgpID0+IHsKICAgICAgICAgICAgY29uc3QgYWN0dWFsVXNlciA9IGF3YWl0IGF1dGhlbnRpY2F0aW9uU2VydmljZS52YWxpZGF0ZUNyZWRlbnRpYWxzKHVzZXJuYW1lLCBwYXNzd29yZCk7CiAgICAgICAgICAgIGV4cGVjdChhY3R1YWxVc2VyKS50b0JlKHVzZXIpOwogICAgICAgIH0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
