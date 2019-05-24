@@ -539,11 +539,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fbf7ae17-6879-44d2-a8b4-848aedaa252f/console_1.sql" timestamp="1539522648106">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/src/authentication/authentication.service.spec.ts" timestamp="1558702690228">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="56" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="47" column="44" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/src/authentication/authentication.service.spec.ts" timestamp="1558703955349">
+        <mark key="[" line="20" column="29" />
+        <mark key="]" line="20" column="29" />
+        <mark key="." line="20" column="29" />
+        <mark key="^" line="20" column="25" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b4896aa8-3fb2-415d-a7fe-608e94f30975/console_4.sql" timestamp="1538646928470">
         <mark key="[" line="0" column="0" />
@@ -641,7 +641,7 @@
       <file name="/business_immo_legacy.jobs [Business immo legacy]" timestamp="1541682002486">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/src/authentication/user.service.ts" timestamp="1558693413002">
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/src/authentication/user.service.ts" timestamp="1558703824081">
         <mark key="[" line="7" column="75" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
@@ -877,14 +877,14 @@
           <key char="95" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0czogW1R5cGVPcm1Nb2R1bGUuZm9yRmVhdHVyZShbVXNlcl0pXSwK</text>
+      <register name="&quot;" type="4">
+        <text>.mockReset();</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.mockReset();</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGVja0lucHV0VmFsaWRhdGlvblw+</text>
@@ -892,38 +892,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0czogW1R5cGVPcm1Nb2R1bGUuZm9yRmVhdHVyZShbVXNlcl0pXSwK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIGRkCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">cGFzc3dvcmQ6IHN0cmluZywgaGFzaDogc3RyaW5nKTogUHJvbWlzZTxib29sZWFuPiB7CiAgICAgICAgfQ==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtb2NrZWRVc2VyU2VydmljZSA9IG1vZHVsZS5nZXQ8VXNlclNlcnZpY2U+KFVzZXJTZXJ2aWNlKTsK</text>
       </register>
       <register name="r" type="4">
         <text>technical_accounting.account.filters.period</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc2FsdFJvdW5kcyA9IDEwOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29tcG9uZW50czogWwogICAgICAgICAgICAgICAgeyBwcm92aWRlOiBVc2VyU2VydmljZSwgdXNlVmFsdWU6IG1vY2tlZFVzZXJTZXJ2aWNlIH0KICAgICAgICAgICAgXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhhd2FpdCBiY3J5cHQuaGFzaChwYXNzd29yZCwgdGhpcy5zYWx0Um91bmRzKSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtUeXBlT3JtTW9kdWxlfSBmcm9tICJAbmVzdGpzL3R5cGVvcm0iOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gUHJvbWlzZS5yZXNvbHZlKHRydWUpOwo=</text>
+        <text encoding="base64">aW1wb3J0IHtVc2VyfSBmcm9tICIuL3VzZXIuZW50aXR5IjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgcGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0czogW1R5cGVPcm1Nb2R1bGUuZm9yRmVhdHVyZShbVXNlcl0pXSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy51c2VyU2VydmljZS5maW5kQnlVc2VybmFtZSh1c2VybmFtZSk7Cg==</text>
+        <text encoding="base64">ICAgIGxldCB1c2VyU2VydmljZTogVXNlclNlcnZpY2U7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZlcmlmeVBhc3N3b3JkOiBqZXN0LmZuKCkubW9jCg==</text>
+        <text encoding="base64">ICAgICAgIGRkCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBbRkNQLTJdIDp3cmVuY2g6IFVzZSBjaHJvbWUgaW4gY3lwcmVzcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
