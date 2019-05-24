@@ -521,11 +521,11 @@
       <file name="/person [Business immo directory]" timestamp="1543222815601">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/src/authentication/user.service.spec.ts" timestamp="1558693513725">
-        <mark key="[" line="12" column="55" />
-        <mark key="]" line="12" column="33" />
-        <mark key="." line="12" column="33" />
-        <mark key="^" line="12" column="33" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/src/authentication/user.service.spec.ts" timestamp="1558702684767">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="56" />
+        <mark key="." line="12" column="15" />
+        <mark key="^" line="12" column="15" />
       </file>
       <file name="/fragment.js" timestamp="1546092896444">
         <mark key="[" line="0" column="0" />
@@ -539,11 +539,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fbf7ae17-6879-44d2-a8b4-848aedaa252f/console_1.sql" timestamp="1539522648106">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/src/authentication/authentication.service.spec.ts" timestamp="1558691539113">
-        <mark key="[" line="44" column="47" />
-        <mark key="]" line="44" column="47" />
-        <mark key="." line="44" column="47" />
-        <mark key="^" line="44" column="44" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/src/authentication/authentication.service.spec.ts" timestamp="1558702690228">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="56" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="47" column="44" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b4896aa8-3fb2-415d-a7fe-608e94f30975/console_4.sql" timestamp="1538646928470">
         <mark key="[" line="0" column="0" />
@@ -878,7 +878,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgIGRkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0czogW1R5cGVPcm1Nb2R1bGUuZm9yRmVhdHVyZShbVXNlcl0pXSwK</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
@@ -890,7 +890,7 @@
         <text encoding="base64">XDxjaGVja0lucHV0VmFsaWRhdGlvblw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgcGFzc3dvcmQgPSAnZ2Vvcmdlc21vdXN0YWtpJzsKICAgICAgICAgICAgY29uc3QgaGFzaCA9ICckMnkkMTAkdWVLeDZNTWduQ3pBTXJQVkhBemZCZUhSMzQ2cXR5d2RBaFlIbHlTeUtWSS54SmFGaDh2NkMnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0czogW1R5cGVPcm1Nb2R1bGUuZm9yRmVhdHVyZShbVXNlcl0pXSwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgIGRkCg==</text>
