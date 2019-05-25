@@ -236,6 +236,9 @@
       <file name="/business_immo_legacy.sessions [Business immo legacy]" timestamp="1542123983757">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/src/config/config.provider.ts" timestamp="1558715521863">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/cypress/integration/partenaires/mettreMonFsEnProduction.spec.js" timestamp="1558690858553">
         <mark key="'" line="119" column="4" />
         <mark key="[" line="96" column="9" />
@@ -390,8 +393,8 @@
       <file name="/daju.public.api_keys [Daju Postgres local]" timestamp="1553590973763">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/src/main.ts" timestamp="1558709606565">
-        <mark key="[" line="7" column="54" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/src/main.ts" timestamp="1558714983988">
+        <mark key="[" line="3" column="26" />
         <mark key="]" line="2" column="33" />
         <mark key="^" line="2" column="33" />
         <mark key="." line="2" column="33" />
@@ -444,6 +447,9 @@
       <file name="$USER_HOME$/Documents/code/alto-espace-emprunteur/api/src/Controller/UserController.php" timestamp="1540287749609">
         <mark key="[" line="12" column="33" />
       </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/.env.example" timestamp="1558715081529">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/code/daju/app/Http/Controllers/Auth/RegisterController.php" timestamp="1552577626279">
         <mark key="[" line="30" column="30" />
       </file>
@@ -488,6 +494,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/src/config/config.module.ts" timestamp="1558715361170">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="26" />
+        <mark key="^" line="0" column="26" />
+        <mark key="." line="0" column="26" />
+      </file>
       <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/routes/console.php" timestamp="1558438808171">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -506,6 +518,12 @@
         <mark key="]" line="2" column="8" />
         <mark key="^" line="2" column="8" />
         <mark key="." line="2" column="8" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/src/config/config.service.ts" timestamp="1558715673277">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="2" column="11" />
+        <mark key="^" line="2" column="11" />
+        <mark key="." line="2" column="11" />
       </file>
       <file name="/stackoverflow-on-the-go.public.answers [stackoverflow-on-the-go@localhost]" timestamp="1558437001263">
         <mark key="[" line="0" column="0" />
