@@ -15,6 +15,9 @@
       <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/fc-commons/package.json" timestamp="1557481409797">
         <mark key="[" line="1" column="22" />
       </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/src/authentication/guards/local.guard.ts" timestamp="1558957761845">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/dojocqrs.public.event [dojocqrs@localhost]" timestamp="1546096010638">
         <mark key="[" line="0" column="0" />
       </file>
@@ -683,11 +686,11 @@
       <file name="$USER_HOME$/Documents/code/alto-espace-emprunteur/client/src/components/Header/LogoutButton.style.js" timestamp="1539679599817">
         <mark key="[" line="5" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/src/authentication/authentication.controller.ts" timestamp="1558950720983">
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/src/authentication/authentication.controller.ts" timestamp="1558957784691">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1557477630458">
         <mark key="[" line="0" column="0" />
@@ -934,14 +937,14 @@
           <key char="95" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>any</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHtBdXRoR3VhcmR9IGZyb20gIkBuZXN0anMvcGFzc3BvcnQiOwo=</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>any</text>
+        <text>AuthGuard</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGVja0lucHV0VmFsaWRhdGlvblw+</text>
@@ -950,37 +953,37 @@
         <text>$2b$10$ZDOB7VgNYb.L3mTyf2yQduc9X6AItJmYhEFD0ea30kVXEURcJi31e</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhhcmd1bWVudHMpOwo=</text>
+        <text encoding="base64">aW1wb3J0IHtBdXRoR3VhcmR9IGZyb20gIkBuZXN0anMvcGFzc3BvcnQiOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhwYXNzd29yZE1hdGNoZXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhhcmd1bWVudHMpOwo=</text>
       </register>
       <register name="r" type="4">
         <text>technical_accounting.account.filters.period</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh1c2VyKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhwYXNzd29yZE1hdGNoZXMpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh1c2VyKTsK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBDb2x1bW4oeyBsZW5ndGg6IDEwMCwgbnVsbGFibGU6IHRydWUgfSkK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh1c2VyKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHtjYWxsYmFja30gZnJvbSAiLi9wYWRkc3Nwb3J0L2xvY2FsLnN0cmF0ZWd5IjsK</text>
+        <text encoding="base64">ICAgIEBDb2x1bW4oeyBsZW5ndGg6IDEwMCwgbnVsbGFibGU6IHRydWUgfSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtjYWxsYmFja30gZnJvbSAiLi9wYWRkc3Nwb3J0L2xvY2FsLnN0cmF0ZWd5IjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CmV4cG9ydCBjb25zdCBjYWxsYmFjayA9IChlcnIsIHVzZXIsIGluZm8pID0+IHsKICAgIGlmICh0eXBlb2YgaW5mbyAhPSAndW5kZWZpbmVkJykgewogICAgICAgIHRocm93IG5ldyBVbmF1dGhvcml6ZWRFeGNlcHRpb24oaW5mby5tZXNzYWdlKQogICAgfSBlbHNlIGlmIChlcnIgfHwgIXVzZXIpIHsKICAgICAgICB0aHJvdyBlcnIgfHwgbmV3IFVuYXV0aG9yaXplZEV4Y2VwdGlvbigpOwogICAgfQogICAgcmV0dXJuIHVzZXI7Cn07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
