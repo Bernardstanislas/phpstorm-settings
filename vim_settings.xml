@@ -424,8 +424,8 @@
       <file name="$USER_HOME$/Documents/code/blog/.gitignore" timestamp="1549105786496">
         <mark key="[" line="115" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/test/unit/controllers/indexControllerSpec.js" timestamp="1558972965416">
-        <mark key="[" line="542" column="14" />
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/test/unit/controllers/indexControllerSpec.js" timestamp="1558973726591">
+        <mark key="[" line="800" column="6" />
         <mark key="]" line="313" column="43" />
         <mark key="." line="313" column="43" />
         <mark key="^" line="313" column="43" />
@@ -784,12 +784,12 @@
       <file name="/daju.public.users [Daju Postgres local]" timestamp="1553791434444">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" timestamp="1558973038639">
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" timestamp="1558973715883">
         <mark key="'" line="394" column="26" />
-        <mark key="[" line="418" column="2" />
-        <mark key="]" line="405" column="0" />
-        <mark key="." line="405" column="0" />
-        <mark key="^" line="397" column="3" />
+        <mark key="[" line="452" column="65" />
+        <mark key="]" line="454" column="16" />
+        <mark key="." line="454" column="16" />
+        <mark key="^" line="454" column="16" />
       </file>
       <file name="/alto-espace-emprunteur.app_users [Alto staging]" timestamp="1540894265954">
         <mark key="[" line="0" column="0" />
