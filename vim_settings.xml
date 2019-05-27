@@ -83,11 +83,10 @@
       <file name="$USER_HOME$/Documents/code/business-immo-directory/src/DataFixtures/ORM/press_dossier.yml" timestamp="1543911375242">
         <mark key="[" line="1" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/src/authentication/passport/local.strategy.ts" timestamp="1558951344488">
-        <mark key="[" line="15" column="21" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="17" column="17" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/src/authentication/passport/local.strategy.ts" timestamp="1558961651873">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="/daju.public.api_key_access_events [Daju Postgres local]" timestamp="1543084172628">
         <mark key="[" line="0" column="0" />
@@ -288,10 +287,10 @@
         <mark key="[" line="69" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/src/authentication/authentication.module.ts" timestamp="1558952222988">
-        <mark key="[" line="14" column="52" />
+        <mark key="[" line="15" column="52" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
-        <mark key="^" line="11" column="17" />
+        <mark key="^" line="12" column="17" />
       </file>
       <file name="/main.daju_user [data.db]" timestamp="1540750682062">
         <mark key="[" line="0" column="0" />
@@ -317,7 +316,7 @@
       <file name="$USER_HOME$/Documents/code/alto-espace-emprunteur/api/templates/base.html.twig" timestamp="1540894714113">
         <mark key="[" line="240" column="188" />
       </file>
-      <file name="/dummy.sql" timestamp="1558951417991">
+      <file name="/dummy.sql" timestamp="1558957785590">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/test/authentication/authentication.service.spec.ts" timestamp="1558621175129">
@@ -401,11 +400,11 @@
       <file name="/daju.public.api_keys [Daju Postgres local]" timestamp="1553590973763">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/src/main.ts" timestamp="1558951926904">
-        <mark key="[" line="5" column="41" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/src/main.ts" timestamp="1558961536287">
+        <mark key="[" line="6" column="15" />
+        <mark key="]" line="20" column="20" />
+        <mark key="." line="20" column="20" />
+        <mark key="^" line="20" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/code/business-immo-directory/src/AppBundle/Resources/views/Front/Career/documentation.html.twig" timestamp="1542809132124">
         <mark key="[" line="0" column="0" />
@@ -463,10 +462,10 @@
       <file name="$USER_HOME$/Documents/code/daju/app/Http/Controllers/Auth/RegisterController.php" timestamp="1552577626279">
         <mark key="[" line="30" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/src/app.controller.ts" timestamp="1558949043641">
-        <mark key="[" line="8" column="12" />
-        <mark key="]" line="8" column="12" />
-        <mark key="." line="8" column="12" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/src/app.controller.ts" timestamp="1558961763453">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/francis/client/src/pages/Login/Login.js" timestamp="1547030606444">
         <mark key="[" line="9" column="14" />
@@ -669,11 +668,11 @@
       <file name="/alto-test.app_users [alto-test]" timestamp="1539672566207">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/src/authentication/passport/local.serializer.ts" timestamp="1558952211878">
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/src/authentication/passport/local.serializer.ts" timestamp="1558961570791">
         <mark key="[" line="12" column="47" />
-        <mark key="]" line="12" column="47" />
-        <mark key="." line="12" column="47" />
-        <mark key="^" line="16" column="33" />
+        <mark key="]" line="14" column="20" />
+        <mark key="." line="14" column="20" />
+        <mark key="^" line="14" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/cypress.json" timestamp="1558603609516">
         <mark key="[" line="1" column="27" />
@@ -938,7 +937,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHtBdXRoR3VhcmR9IGZyb20gIkBuZXN0anMvcGFzc3BvcnQiOwo=</text>
+        <text encoding="base64">ICBAVXNlR3VhcmRzKG5ldyBMb2NhbEF1dGhHdWFyZCgpKQo=</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
@@ -953,37 +952,37 @@
         <text>$2b$10$ZDOB7VgNYb.L3mTyf2yQduc9X6AItJmYhEFD0ea30kVXEURcJi31e</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHtBdXRoR3VhcmR9IGZyb20gIkBuZXN0anMvcGFzc3BvcnQiOwo=</text>
+        <text encoding="base64">ICBAVXNlR3VhcmRzKG5ldyBMb2NhbEF1dGhHdWFyZCgpKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhhcmd1bWVudHMpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh1c2VyKTsK</text>
       </register>
       <register name="r" type="4">
         <text>technical_accounting.account.filters.period</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhwYXNzd29yZE1hdGNoZXMpOwo=</text>
+        <text encoding="base64">ICAgIGtleXM6IFsndXNlcklkJ10sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh1c2VyKTsK</text>
+        <text encoding="base64">aW1wb3J0IHtBdXRoR3VhcmR9IGZyb20gIkBuZXN0anMvcGFzc3BvcnQiOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhhcmd1bWVudHMpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh1c2VyKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhwYXNzd29yZE1hdGNoZXMpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBDb2x1bW4oeyBsZW5ndGg6IDEwMCwgbnVsbGFibGU6IHRydWUgfSkK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh1c2VyKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHtjYWxsYmFja30gZnJvbSAiLi9wYWRkc3Nwb3J0L2xvY2FsLnN0cmF0ZWd5IjsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh1c2VyKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
