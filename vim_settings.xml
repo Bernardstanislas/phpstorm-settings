@@ -387,6 +387,12 @@
       <file name="$USER_HOME$/Documents/code/blog/.gitignore" timestamp="1549105786496">
         <mark key="[" line="115" column="7" />
       </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/test/unit/controllers/indexControllerSpec.js" timestamp="1559297017048">
+        <mark key="[" line="257" column="8" />
+        <mark key="]" line="282" column="0" />
+        <mark key="^" line="282" column="0" />
+        <mark key="." line="282" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/src/authentication/guards/auth.guard.ts" timestamp="1558963555248">
         <mark key="[" line="5" column="15" />
         <mark key="]" line="5" column="15" />
@@ -687,11 +693,11 @@
       <file name="/daju.public.users [Daju Postgres local]" timestamp="1553791434444">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" timestamp="1559296168166">
-        <mark key="'" line="339" column="11" />
-        <mark key="[" line="355" column="0" />
-        <mark key="]" line="355" column="0" />
-        <mark key="." line="355" column="0" />
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" timestamp="1559297122637">
+        <mark key="'" line="39" column="13" />
+        <mark key="[" line="31" column="38" />
+        <mark key="]" line="356" column="0" />
+        <mark key="." line="356" column="0" />
       </file>
       <file name="/alto-espace-emprunteur.app_users [Alto staging]" timestamp="1540894265954">
         <mark key="[" line="0" column="0" />
@@ -724,9 +730,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="165" column="32" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/services/franceConnectStrategy.js" />
-      <jump line="467" column="25" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/services/franceConnectStrategy.js" />
-      <jump line="17" column="53" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/services/franceConnectStrategy.js" />
       <jump line="18" column="61" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/services/franceConnectStrategy.js" />
       <jump line="7" column="6" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/services/openid-connect-provider.js" />
       <jump line="1128" column="46" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/services/openid-connect-provider.js" />
@@ -824,6 +827,9 @@
       <jump line="63" column="2" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" />
       <jump line="250" column="8" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" />
       <jump line="339" column="11" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" />
+      <jump line="308" column="20" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" />
+      <jump line="35" column="14" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" />
+      <jump line="38" column="13" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -885,7 +891,7 @@
         <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmaUFjdGl2ZUFuZFVzZXJBdXRoZW50aWNhdGVkXD4=</text>
+        <text encoding="base64">XDxlSURBU0xWTFRhYmxlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgcmV0dXJuIHNlbGYucmVuZGVyU3VwcGxpZXJDaG9pY2VQYWdlKHJlcSwgcmVzLCBuZXh0KTsK</text>
@@ -931,9 +937,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmaUFjdGl2ZUFuZFVzZXJBdXRoZW50aWNhdGVkXD4=</last-search>
+      <last-search encoding="base64">XDxlSURBU0xWTFRhYmxlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmaUFjdGl2ZUFuZFVzZXJBdXRoZW50aWNhdGVkXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxlSURBU0xWTFRhYmxlXD4=</last-pattern>
       <last-replace>172\.17\.0\.1</last-replace>
       <last-substitute encoding="base64">XDxsb2dnZXJcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -941,7 +947,6 @@
     </search>
     <history>
       <history-search>
-        <entry>config</entry>
         <entry>buildUserInfo</entry>
         <entry encoding="base64">XDxQYXJ0bmVyTW9kZWxcPg==</entry>
         <entry encoding="base64">XDxjaGVja0lucHV0VmFsaWRhdGlvblw+</entry>
@@ -951,7 +956,6 @@
         <entry encoding="base64">XDxjbGVhblNlc3Npb25Gcm9tUHJldmlvdXNBdXRoZW50aWNhdGlvbkF0dGVtcHRcPg==</entry>
         <entry encoding="base64">XDx0cmFuc2Zvcm1cPg==</entry>
         <entry encoding="base64">XDxvaWRjQ2xpZW50XD4=</entry>
-        <entry encoding="base64">XDxjaGVja0VpZGFzTGV2ZWxcPg==</entry>
         <entry encoding="base64">XDxwb3B1bGF0ZUVycm9yV2l0aENvbnRleHRcPg==</entry>
         <entry encoding="base64">XDxlcnJvclw+</entry>
         <entry encoding="base64">XDxzYXZlUXVlcnlJblNlc3Npb25cPg==</entry>
@@ -961,6 +965,8 @@
         <entry encoding="base64">XDxkaXNwbGF5RklzRm9yVXNlclw+</entry>
         <entry encoding="base64">XDxyZXNcPg==</entry>
         <entry encoding="base64">XDxmaUFjdGl2ZUFuZFVzZXJBdXRoZW50aWNhdGVkXD4=</entry>
+        <entry encoding="base64">XDxjaGVja0VpZGFzTGV2ZWxcPg==</entry>
+        <entry encoding="base64">XDxlSURBU0xWTFRhYmxlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2NlbnRvcy1iYXNlL2VsYXN0aWMvZw==</entry>
