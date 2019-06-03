@@ -131,6 +131,9 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/nodemon-debug.json" timestamp="1559574998629">
+        <mark key="[" line="2" column="12" />
+      </file>
       <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/resources/views/home.blade.php" timestamp="1558440522284">
         <mark key="[" line="9" column="63" />
         <mark key="]" line="9" column="63" />
@@ -270,10 +273,10 @@
       <file name="$USER_HOME$/Documents/code/simplesamlphp/modules/businessimmolegacy/Language.php" timestamp="1542099904341">
         <mark key="[" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/package.json" timestamp="1559563329936">
-        <mark key="[" line="21" column="24" />
-        <mark key="]" line="21" column="24" />
-        <mark key="." line="21" column="24" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/package.json" timestamp="1559575030187">
+        <mark key="[" line="11" column="18" />
+        <mark key="]" line="11" column="18" />
+        <mark key="." line="11" column="18" />
         <mark key="^" line="20" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/src/authentication/filter/UnauthorizedException.filter.ts" timestamp="1559572260713">
@@ -286,10 +289,6 @@
       </file>
       <file name="$USER_HOME$/Documents/code/alto-espace-emprunteur/client/src/components/Messages/MessageForm/index.js" timestamp="1539792632670">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/migrations/1559562910441-User.ts" timestamp="1559563205090">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="53" />
       </file>
       <file name="$USER_HOME$/Documents/code/oreqo/server/app/Http/BaseRequest.php" timestamp="1555955983153">
         <mark key="[" line="6" column="17" />
@@ -311,6 +310,12 @@
         <mark key="]" line="6" column="32" />
         <mark key="." line="6" column="32" />
         <mark key="^" line="6" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/nodemon.json" timestamp="1559574994423">
+        <mark key="[" line="3" column="18" />
+        <mark key="]" line="4" column="2" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="4" column="2" />
       </file>
       <file name="$USER_HOME$/Documents/code/oreqo/.buildpacks" timestamp="1555870856574">
         <mark key="[" line="0" column="0" />
@@ -442,11 +447,11 @@
       <file name="/daju.public.api_keys [Daju Postgres local]" timestamp="1553590973763">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/src/main.ts" timestamp="1559571293783">
-        <mark key="[" line="39" column="27" />
-        <mark key="]" line="39" column="38" />
-        <mark key="." line="39" column="38" />
-        <mark key="^" line="39" column="38" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/src/main.ts" timestamp="1559575308676">
+        <mark key="[" line="30" column="21" />
+        <mark key="]" line="41" column="38" />
+        <mark key="." line="41" column="38" />
+        <mark key="^" line="41" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/admin/public/stylesheets/style.css" timestamp="1559564483055">
         <mark key="'" line="57" column="0" />
@@ -967,13 +972,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">QFJlcSgpIHJlcSwg</text>
+        <text encoding="base64">Y29uY3VycmVudGx5IC0taGFuZGxlLWlucHV0IFwid2FpdC1vbiBkaXN0L21haW4uanMgJiYgbm9kZW1vblwiIFwidHNjIC13IC1wIHRzY29uZmlnLmJ1aWxkLmpzb25cIiA=</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">QFJlcSgpIHJlcSwg</text>
+        <text encoding="base64">Y29uY3VycmVudGx5IC0taGFuZGxlLWlucHV0IFwid2FpdC1vbiBkaXN0L21haW4uanMgJiYgbm9kZW1vblwiIFwidHNjIC13IC1wIHRzY29uZmlnLmJ1aWxkLmpzb25cIiA=</text>
       </register>
       <register name="/" type="4">
         <text>form-signin</text>
