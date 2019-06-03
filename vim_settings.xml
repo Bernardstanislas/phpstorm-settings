@@ -161,10 +161,11 @@
       <file name="$USER_HOME$/Documents/code/blog-dojo-cqrs/src/events/namespace.ts" timestamp="1545580874953">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/test/app.e2e-spec.ts" timestamp="1559552949122">
-        <mark key="[" line="19" column="18" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/test/app.e2e-spec.ts" timestamp="1559553744227">
+        <mark key="[" line="19" column="39" />
+        <mark key="]" line="19" column="39" />
+        <mark key="." line="19" column="39" />
+        <mark key="^" line="9" column="24" />
       </file>
       <file name="/business_immo_legacy.user_peoples [Business immo legacy]" timestamp="1542280507623">
         <mark key="[" line="0" column="0" />
@@ -889,14 +890,14 @@
           <key char="95" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAuCiAgICAgIC5leHBlY3QoJ0hlbGxvIFdvcmxkIScpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>userService</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>200</text>
+        <text>userService</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmb3JtYXRNZXNzYWdlXD4=</text>
