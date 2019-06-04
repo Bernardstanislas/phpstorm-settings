@@ -102,11 +102,11 @@
       <file name="$USER_HOME$/Documents/code/business-immo-directory/src/DataFixtures/ORM/press_dossier.yml" timestamp="1543911375242">
         <mark key="[" line="1" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/src/authentication/passport/local.strategy.ts" timestamp="1559652567206">
-        <mark key="[" line="0" column="14" />
-        <mark key="]" line="0" column="88" />
-        <mark key="." line="0" column="88" />
-        <mark key="^" line="0" column="88" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/src/authentication/passport/local.strategy.ts" timestamp="1559660316960">
+        <mark key="[" line="34" column="7" />
+        <mark key="]" line="34" column="7" />
+        <mark key="." line="34" column="7" />
+        <mark key="^" line="18" column="23" />
       </file>
       <file name="/daju.public.api_key_access_events [Daju Postgres local]" timestamp="1543084172628">
         <mark key="[" line="0" column="0" />
@@ -205,9 +205,6 @@
       </file>
       <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/config/app.php" timestamp="1558438562394">
         <mark key="[" line="175" column="50" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/Infra/docker/README.md" timestamp="1559314462019">
-        <mark key="[" line="50" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/code/alto-espace-emprunteur/client/src/components/Header/tests/Header.test.js" timestamp="1540201904512">
         <mark key="[" line="16" column="15" />
@@ -366,8 +363,9 @@
         <mark key="." line="10" column="24" />
         <mark key="^" line="8" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/node_modules/passport-local/lib/strategy.js" timestamp="1559570446930">
-        <mark key="[" line="91" column="16" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/node_modules/passport-local/lib/strategy.js" timestamp="1559660391711">
+        <mark key="'" line="75" column="16" />
+        <mark key="[" line="73" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/code/francis/client/package.json" timestamp="1547128878146">
         <mark key="[" line="66" column="5" />
@@ -697,9 +695,6 @@
       <file name="$USER_HOME$/Documents/code/daju-landing/src/components/Homepage/Footer/index.tsx" timestamp="1549646166199">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/.env" timestamp="1559560686495">
-        <mark key="[" line="0" column="20" />
-      </file>
       <file name="$USER_HOME$/Documents/code/sf-auth0/index.html" timestamp="1538777664095">
         <mark key="[" line="27" column="15" />
       </file>
@@ -717,8 +712,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="144" column="25" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" />
-      <jump line="77" column="17" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/partenaires/controllers/clientController.js" />
       <jump line="170" column="40" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/partenaires/controllers/clientController.js" />
       <jump line="171" column="52" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/partenaires/controllers/clientController.js" />
       <jump line="658" column="50" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/partenaires/controllers/clientController.js" />
@@ -817,6 +810,8 @@
       <jump line="59" column="9" filename="$USER_HOME$/Documents/code/france-connect/fc-workers/src/jobs/WeeklyIdpRepport.js" />
       <jump line="57" column="0" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/admin/public/stylesheets/style.css" />
       <jump line="17" column="1" filename="$USER_HOME$/Documents/code/france-connect/fc-exploitation/public/css/style.css" />
+      <jump line="81" column="29" filename="$USER_HOME$/Documents/code/france-connect/fc-exploitation/node_modules/passport-local/lib/strategy.js" />
+      <jump line="74" column="16" filename="$USER_HOME$/Documents/code/france-connect/fc-exploitation/node_modules/passport-local/lib/strategy.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -869,16 +864,16 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>.toString()</text>
+        <text>message</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>.toString()</text>
+        <text>message</text>
       </register>
       <register name="/" type="4">
-        <text>form-signin</text>
+        <text encoding="base64">XDxmYWlsXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8JSBpZiAobWVzc2FnZS5sZW5ndGggPiAwKSB7JT4KICAgICAgICA8ZGl2IGNsYXNzPSJhbGVydCBhbGVydC1kYW5nZXIiPgogICAgICAgICAgICA8JT0gbWVzc2FnZVswXSAlPgogICAgICAgIDwvZGl2PgogICAgICAgIDwlIH0gJT4K</text>
@@ -924,9 +919,9 @@
       </register>
     </registers>
     <search>
-      <last-search>form-signin</last-search>
+      <last-search encoding="base64">XDxmYWlsXD4=</last-search>
       <last-offset />
-      <last-pattern>form-signin</last-pattern>
+      <last-pattern encoding="base64">XDxmYWlsXD4=</last-pattern>
       <last-replace>login-form</last-replace>
       <last-substitute>form-signin</last-substitute>
       <last-dir>1</last-dir>
@@ -934,7 +929,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhdXRoZW50aWNhdGVEdXJpbmdTc29cPg==</entry>
         <entry encoding="base64">XDxPSURDQ2xpZW50XD4=</entry>
         <entry encoding="base64">XDxjbGVhblNlc3Npb25Gcm9tUHJldmlvdXNBdXRoZW50aWNhdGlvbkF0dGVtcHRcPg==</entry>
         <entry encoding="base64">XDx0cmFuc2Zvcm1cPg==</entry>
@@ -954,6 +948,7 @@
         <entry encoding="base64">XDxmb3JtYXRSb3dzXD4=</entry>
         <entry encoding="base64">XDxmb3JtYXRNZXNzYWdlXD4=</entry>
         <entry>form-signin</entry>
+        <entry encoding="base64">XDxmYWlsXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2c0dnJvY2hlXC9mb29iYXIvZnJhbmNlLWNvbm5lY3RcL2luZnJhL2c=</entry>
