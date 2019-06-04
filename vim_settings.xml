@@ -280,6 +280,12 @@
       <file name="$USER_HOME$/Documents/code/oreqo/.buildpacks" timestamp="1555870856574">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/src/authentication/passport/cookie.strategy.ts" timestamp="1559126090794">
+        <mark key="[" line="6" column="25" />
+        <mark key="]" line="6" column="25" />
+        <mark key="^" line="12" column="2" />
+        <mark key="." line="6" column="25" />
+      </file>
       <file name="$USER_HOME$/Documents/code/daju-landing/tsconfig.json" timestamp="1549385911699">
         <mark key="[" line="0" column="0" />
       </file>
@@ -463,6 +469,12 @@
       <file name="$USER_HOME$/Documents/code/daju/app/Http/Controllers/Auth/RegisterController.php" timestamp="1552577626279">
         <mark key="[" line="30" column="30" />
       </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/src/app.controller.ts" timestamp="1559134098779">
+        <mark key="[" line="0" column="28" />
+        <mark key="]" line="0" column="28" />
+        <mark key="." line="0" column="28" />
+        <mark key="^" line="4" column="7" />
+      </file>
       <file name="/main.lolilol [Local fc-exploitation]" timestamp="1559562147082">
         <mark key="[" line="0" column="0" />
       </file>
@@ -531,6 +543,12 @@
       <file name="/main.user [data.db]" timestamp="1540758356007">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/src/authentication/guards/authenticated.guard.ts" timestamp="1559133496339">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="50" />
+        <mark key="." line="6" column="48" />
+        <mark key="^" line="6" column="48" />
+      </file>
       <file name="$USER_HOME$/Documents/code/blog/routes/web.php" timestamp="1541360882749">
         <mark key="[" line="14" column="27" />
       </file>
@@ -560,6 +578,12 @@
       </file>
       <file name="$USER_HOME$/Documents/code/daju/tests/Feature/ExampleTest.php" timestamp="1542454312130">
         <mark key="[" line="16" column="33" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/src/config/http.ts" timestamp="1559654656973">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="2" />
+        <mark key="^" line="2" column="2" />
+        <mark key="." line="2" column="2" />
       </file>
       <file name="/business_immo_directory.subscriber_logins [Business immo directory]" timestamp="1543855037340">
         <mark key="[" line="0" column="0" />
