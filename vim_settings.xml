@@ -580,6 +580,12 @@
       <file name="$USER_HOME$/Documents/code/daju/src/Application/Controller/PrintingController.php" timestamp="1540751693507">
         <mark key="[" line="14" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/views/v2/choose_fi.ejs" timestamp="1559728923185">
+        <mark key="[" line="26" column="18" />
+        <mark key="]" line="26" column="18" />
+        <mark key="." line="26" column="18" />
+        <mark key="^" line="26" column="32" />
+      </file>
       <file name="$USER_HOME$/Documents/code/daju/tests/Feature/ExampleTest.php" timestamp="1542454312130">
         <mark key="[" line="16" column="33" />
       </file>
@@ -867,14 +873,14 @@
           <key char="95" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAibG9nbyIgOiAiQWxpY2VNLnN2ZyIsCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>logo_Mairie de Paris_1280px-Mairie_De_Paris.svg.png</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmYWlsXD4=</text>
@@ -883,37 +889,37 @@
         <text encoding="base64">ICAgICAgICA8JSBpZiAobWVzc2FnZS5sZW5ndGggPiAwKSB7JT4KICAgICAgICA8ZGl2IGNsYXNzPSJhbGVydCBhbGVydC1kYW5nZXIiPgogICAgICAgICAgICA8JT0gbWVzc2FnZVswXSAlPgogICAgICAgIDwvZGl2PgogICAgICAgIDwlIH0gJT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAibG9nbyIgOiAiQWxpY2VNLnN2ZyIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">KHBhc3N3b3JkOiBzdHJpbmcsIGhhc2g6IHN0cmluZyk6IFByb21pc2U8Ym9vbGVhbj4gewogICAgICByZXR1cm4gdW5kZWZpbmVkOwogICAgfQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLWxnLTMiPgogICAgICAgICAgICAgIFlvbG8KICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="r" type="4">
         <text>technical_accounting.account.filters.period</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">ICAibG9nbyIgOiAiQWxpY2VNLnN2ZyIsCg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">KHBhc3N3b3JkOiBzdHJpbmcsIGhhc2g6IHN0cmluZyk6IFByb21pc2U8Ym9vbGVhbj4gewogICAgICByZXR1cm4gdW5kZWZpbmVkOwogICAgfQ==</text>
+      </register>
+      <register name="5" type="4">
         <text encoding="base64">KHVzZXJuYW1lOiBzdHJpbmcpOiBQcm9taXNlPGFueT4gewogICAgICByZXR1cm4gdW5kZWZpbmVkOwogICAgfQ==</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgLm92ZXJyaWRlUHJvdmlkZXIoJ0lVc2VyU2VydmljZScpCiAgICAgIC51c2VWYWx1ZShtb2NrZWRVc2VyU2VydmljZSkK</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAuCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZXhjZXB0aW9uIGluc3RhbmNlb2YgVW5hdXRob3JpemVkRXhjZXB0aW9uKSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/form-signin/login-form/g</text>
