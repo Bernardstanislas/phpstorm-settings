@@ -159,7 +159,7 @@
       <file name="$USER_HOME$/Documents/code/oreqo/server/app/Http/Middleware/JsonMiddleware.php" timestamp="1555956499580">
         <mark key="[" line="16" column="5" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1559293212183">
+      <file name="/GraphQL.result.json" timestamp="1559722437254">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/blog-dojo-cqrs/src/events/namespace.ts" timestamp="1545580874953">
@@ -655,7 +655,6 @@
       <file name="/business_immo_directory.bi_directory_user [Business immo directory]" timestamp="1543855054026">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/src/config/database.ts" timestamp="1559653639311" />
       <file name="/sphere.public.stored_event [Sphere]" timestamp="1538648676281">
         <mark key="[" line="0" column="0" />
       </file>
@@ -682,6 +681,11 @@
       </file>
       <file name="$USER_HOME$/Documents/code/sf-auth0/.gitignore" timestamp="1538777892419">
         <mark key="[" line="8" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/Infra/docker/volumes/mongod/scripts/mongo-init.js" timestamp="1559724929582">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/daju/assets/js/app.js" timestamp="1540756883918">
         <mark key="[" line="0" column="0" />
@@ -863,14 +867,14 @@
           <key char="95" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>message</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAibG9nbyIgOiAiQWxpY2VNLnN2ZyIsCg==</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>message</text>
+        <text>logo_Mairie de Paris_1280px-Mairie_De_Paris.svg.png</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmYWlsXD4=</text>
@@ -878,38 +882,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8JSBpZiAobWVzc2FnZS5sZW5ndGggPiAwKSB7JT4KICAgICAgICA8ZGl2IGNsYXNzPSJhbGVydCBhbGVydC1kYW5nZXIiPgogICAgICAgICAgICA8JT0gbWVzc2FnZVswXSAlPgogICAgICAgIDwvZGl2PgogICAgICAgIDwlIH0gJT4K</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">KHBhc3N3b3JkOiBzdHJpbmcsIGhhc2g6IHN0cmluZyk6IFByb21pc2U8Ym9vbGVhbj4gewogICAgICByZXR1cm4gdW5kZWZpbmVkOwogICAgfQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAibG9nbyIgOiAiQWxpY2VNLnN2ZyIsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">KHVzZXJuYW1lOiBzdHJpbmcpOiBQcm9taXNlPGFueT4gewogICAgICByZXR1cm4gdW5kZWZpbmVkOwogICAgfQ==</text>
+        <text encoding="base64">KHBhc3N3b3JkOiBzdHJpbmcsIGhhc2g6IHN0cmluZyk6IFByb21pc2U8Ym9vbGVhbj4gewogICAgICByZXR1cm4gdW5kZWZpbmVkOwogICAgfQ==</text>
       </register>
       <register name="r" type="4">
         <text>technical_accounting.account.filters.period</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLm92ZXJyaWRlUHJvdmlkZXIoJ0lVc2VyU2VydmljZScpCiAgICAgIC51c2VWYWx1ZShtb2NrZWRVc2VyU2VydmljZSkK</text>
+      <register name="3" type="4">
+        <text encoding="base64">KHVzZXJuYW1lOiBzdHJpbmcpOiBQcm9taXNlPGFueT4gewogICAgICByZXR1cm4gdW5kZWZpbmVkOwogICAgfQ==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAuCg==</text>
+        <text encoding="base64">ICAgICAgLm92ZXJyaWRlUHJvdmlkZXIoJ0lVc2VyU2VydmljZScpCiAgICAgIC51c2VWYWx1ZShtb2NrZWRVc2VyU2VydmljZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZXhjZXB0aW9uIGluc3RhbmNlb2YgVW5hdXRob3JpemVkRXhjZXB0aW9uKSB7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoZXhjZXB0aW9uIGluc3RhbmNlb2YgVW5hdXRob3JpemVkRXhjZXB0aW9uKSB7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBjb250ZXh0ID0gaG9zdC5zd2l0Y2hUb0h0dHAoKTsKICAgICAgICBjb25zdCByZXNwb25zZSA9IGNvbnRleHQuZ2V0UmVzcG9uc2U8UmVzcG9uc2U+KCk7CiAgICAgICAgcmVzcG9uc2UucmVkaXJlY3QoJ2xvZ2luJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/form-signin/login-form/g</text>
