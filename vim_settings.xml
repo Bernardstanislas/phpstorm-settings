@@ -123,6 +123,9 @@
       <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/nodemon-debug.json" timestamp="1559574998629">
         <mark key="[" line="2" column="12" />
       </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/Infra/docker/docker-compose.yml" timestamp="1559836165141">
+        <mark key="[" line="88" column="10" />
+      </file>
       <file name="$USER_HOME$/Documents/code/simplesamlphp/templates/login.php" timestamp="1541693235848">
         <mark key="[" line="15" column="2" />
       </file>
@@ -654,9 +657,6 @@
       </file>
       <file name="$USER_HOME$/Documents/code/alto-espace-emprunteur/client/src/components/Header/LogoutButton.style.js" timestamp="1539679599817">
         <mark key="[" line="5" column="16" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/src/authentication/authentication.controller.ts" timestamp="1559572740727">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1557477630458">
         <mark key="[" line="0" column="0" />
