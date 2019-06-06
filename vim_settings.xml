@@ -420,10 +420,11 @@
       <file name="$USER_HOME$/Documents/code/blog/.gitignore" timestamp="1549105786496">
         <mark key="[" line="115" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/test/unit/controllers/indexControllerSpec.js" timestamp="1559309145477">
-        <mark key="[" line="4" column="8" />
-        <mark key="]" line="4" column="8" />
-        <mark key="." line="4" column="8" />
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/test/unit/controllers/indexControllerSpec.js" timestamp="1559827749579">
+        <mark key="[" line="920" column="37" />
+        <mark key="]" line="911" column="15" />
+        <mark key="^" line="911" column="15" />
+        <mark key="." line="911" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/code/alto-espace-emprunteur/client/src/components/Messages/MessageList/index.js" timestamp="1539763616649">
         <mark key="[" line="0" column="0" />
@@ -580,10 +581,10 @@
       <file name="$USER_HOME$/Documents/code/daju/src/Application/Controller/PrintingController.php" timestamp="1540751693507">
         <mark key="[" line="14" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/views/v2/choose_fi.ejs" timestamp="1559812685792">
-        <mark key="[" line="29" column="18" />
-        <mark key="]" line="29" column="18" />
-        <mark key="." line="29" column="18" />
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/views/v2/choose_fi.ejs" timestamp="1559826937762">
+        <mark key="[" line="26" column="25" />
+        <mark key="]" line="26" column="25" />
+        <mark key="." line="26" column="25" />
         <mark key="^" line="29" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/code/daju/tests/Feature/ExampleTest.php" timestamp="1542454312130">
@@ -699,6 +700,11 @@
       <file name="/daju.public.users [Daju Postgres local]" timestamp="1553791434444">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" timestamp="1559827085067">
+        <mark key="[" line="204" column="39" />
+        <mark key="]" line="204" column="39" />
+        <mark key="." line="204" column="39" />
+      </file>
       <file name="/alto-espace-emprunteur.app_users [Alto staging]" timestamp="1540894265954">
         <mark key="[" line="0" column="0" />
       </file>
@@ -722,13 +728,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="170" column="40" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/partenaires/controllers/clientController.js" />
-      <jump line="171" column="52" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/partenaires/controllers/clientController.js" />
-      <jump line="658" column="50" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/partenaires/controllers/clientController.js" />
-      <jump line="659" column="62" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/partenaires/controllers/clientController.js" />
-      <jump line="46" column="40" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/partenaires/controllers/clientController.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/.gitignore" />
-      <jump line="19" column="60" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/.gitignore" />
       <jump line="20" column="60" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/.gitignore" />
       <jump line="21" column="43" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/.gitignore" />
       <jump line="22" column="43" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/.gitignore" />
@@ -785,7 +784,6 @@
       <jump line="387" column="2" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" />
       <jump line="255" column="11" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" />
       <jump line="239" column="18" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" />
-      <jump line="300" column="15" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" />
       <jump line="109" column="26" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" />
       <jump line="206" column="26" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" />
       <jump line="234" column="11" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" />
@@ -806,7 +804,6 @@
       <jump line="15" column="6" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" />
       <jump line="259" column="6" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" />
       <jump line="270" column="6" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" />
-      <jump line="282" column="28" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" />
       <jump line="283" column="6" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" />
       <jump line="343" column="4" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" />
       <jump line="351" column="4" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" />
@@ -822,6 +819,15 @@
       <jump line="17" column="1" filename="$USER_HOME$/Documents/code/france-connect/fc-exploitation/public/css/style.css" />
       <jump line="81" column="29" filename="$USER_HOME$/Documents/code/france-connect/fc-exploitation/node_modules/passport-local/lib/strategy.js" />
       <jump line="74" column="16" filename="$USER_HOME$/Documents/code/france-connect/fc-exploitation/node_modules/passport-local/lib/strategy.js" />
+      <jump line="100" column="18" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" />
+      <jump line="106" column="25" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" />
+      <jump line="121" column="70" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" />
+      <jump line="12" column="21" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" />
+      <jump line="134" column="26" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" />
+      <jump line="264" column="18" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" />
+      <jump line="275" column="18" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" />
+      <jump line="282" column="18" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" />
+      <jump line="300" column="16" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -874,52 +880,52 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>nest</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>nest</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmYWlsXD4=</text>
+        <text encoding="base64">XDxyZW5kZXJTdXBwbGllckNob2ljZVBhZ2VcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8JSBpZiAobWVzc2FnZS5sZW5ndGggPiAwKSB7JT4KICAgICAgICA8ZGl2IGNsYXNzPSJhbGVydCBhbGVydC1kYW5nZXIiPgogICAgICAgICAgICA8JT0gbWVzc2FnZVswXSAlPgogICAgICAgIDwvZGl2PgogICAgICAgIDwlIH0gJT4K</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCByZXEgPSB7CiAgICAgICAgICBpc0F1dGhlbnRpY2F0ZWQ6IHNpbm9uLnN0dWIoKS5yZXR1cm5zKHRydWUpLAogICAgICAgICAgc2Vzc2lvbjogewogICAgICAgICAgICBkZW1hbmRlRW5Db3Vyc1VybDogJ1VSTCcsCiAgICAgICAgICAgIGRlbWFuZGVFbkNvdXJzUXVlcnk6ICdxdWVyeScsCiAgICAgICAgICAgIGxhc3RBY3JWYWx1ZXNGcm9tRkk6ICdlaWRhczEnLAogICAgICAgICAgICBzZWxlY3RlZElkcDogJ0ZJLVRFU1QnLAogICAgICAgICAgfSwKICAgICAgICAgIHVzZXI6IHsgaWRlbnRpdHlIYXNoOiAnMTIzNCcsIGFjdGl2ZTogdHJ1ZSB9LAogICAgICAgICAgdXJsOiAncmVxdWVzdCBVUkwnLAogICAgICAgICAgcXVlcnk6IHsKICAgICAgICAgICAgcmVzcG9uc2VfdHlwZTogJ2NvZGUnLAogICAgICAgICAgICBhY3JfdmFsdWVzOiAnZWlkYXMzJywKICAgICAgICAgIH0sCiAgICAgICAgfTsKICAgICAgICBjb25zdCByZXMgPSB7CiAgICAgICAgICByZW5kZXI6IHNpbm9uLnNweSgpLAogICAgICAgIH07CgogICAgICAgIGF3YWl0IGNvbnRyb2xsZXIuY2hlY2tVc2VyU2Vzc2lvbk9yRGlzcGxheVByb3ZpZGVycyhyZXEsIHJlcywgbmV4dFNweSk7CgogICAgICAgIGFzc2VydC5pc1RydWUoCiAgICAgICAgICBjb250cm9sbGVyLnJlbmRlclN1cHBsaWVyQ2hvaWNlUGFnZS5jYWxsZWQsCiAgICAgICAgICAnUmVuZGVyIG1ldGhvZCBjYWxsZWQnCiAgICAgICAgKTsKICAgICAgICBhc3NlcnQuaXNGYWxzZShuZXh0U3B5LmNhbGxlZE9uY2UsICdOZXh0IF9ub3RfIGNhbGxlZCcpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB1cmw6ICdyZXF1ZXN0IFVSTCcsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLWxnLTMiPgogICAgICAgICAgICAgIFlvbG8KICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICBpc0F1dGhlbnRpY2F0ZWQ6IHNpbm9uLnN0dWIoKS5yZXR1cm5zKHRydWUpLAo=</text>
       </register>
       <register name="r" type="4">
         <text>technical_accounting.account.filters.period</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAibG9nbyIgOiAiQWxpY2VNLnN2ZyIsCg==</text>
+        <text encoding="base64">ICAgICAgICBzZXNzaW9uOiB7CiAgICAgICAgICBkZW1hbmRlRW5Db3Vyc1VybDogJ1VSTCcsCiAgICAgICAgICBkZW1hbmRlRW5Db3Vyc1F1ZXJ5OiAncXVlcnknLAogICAgICAgICAgbGFzdEFjclZhbHVlc0Zyb21GSTogJ2VpZGFzMScsCiAgICAgICAgICBzZWxlY3RlZElkcDogJ0ZJLVRFU1QnLAogICAgICAgIH0sCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">KHBhc3N3b3JkOiBzdHJpbmcsIGhhc2g6IHN0cmluZyk6IFByb21pc2U8Ym9vbGVhbj4gewogICAgICByZXR1cm4gdW5kZWZpbmVkOwogICAgfQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB1c2VyOiB7IGlkZW50aXR5SGFzaDogJzEyMzQnLCBhY3RpdmU6IHRydWUgfSwK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">KHVzZXJuYW1lOiBzdHJpbmcpOiBQcm9taXNlPGFueT4gewogICAgICByZXR1cm4gdW5kZWZpbmVkOwogICAgfQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIHJlc3BvbnNlX3R5cGU6ICdjb2RlJywKICAgICAgICAgIGFjcl92YWx1ZXM6ICdlaWRhczMnLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLm92ZXJyaWRlUHJvdmlkZXIoJ0lVc2VyU2VydmljZScpCiAgICAgIC51c2VWYWx1ZShtb2NrZWRVc2VyU2VydmljZSkK</text>
+        <text encoding="base64">ICAgICAgICB1cmw6ICdyZXF1ZXN0IFVSTCcsCiAgICAgICAgcXVlcnk6IHsKICAgICAgICAgIHJlc3BvbnNlX3R5cGU6ICdjb2RlJywKICAgICAgICAgIGFjcl92YWx1ZXM6ICdlaWRhczMnLAogICAgICAgIH0sCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAuCg==</text>
+        <text encoding="base64">CiAgICBjb25zb2xlLmxvZygnUHJldmlvdXMgbG9jYXRpb24nLCBwcmV2aW91c0xvY2F0aW9uKTsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgfSBjYXRjaCAoZSkgewogICAgICAgIGNvbnNvbGUubG9nKCdFcnJvciBpbiB0ZXN0JywgZSk7CiAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>%s/form-signin/login-form/g</text>
@@ -929,9 +935,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmYWlsXD4=</last-search>
+      <last-search encoding="base64">XDxyZW5kZXJTdXBwbGllckNob2ljZVBhZ2VcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmYWlsXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxyZW5kZXJTdXBwbGllckNob2ljZVBhZ2VcPg==</last-pattern>
       <last-replace>login-form</last-replace>
       <last-substitute>form-signin</last-substitute>
       <last-dir>1</last-dir>
@@ -939,7 +945,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxPSURDQ2xpZW50XD4=</entry>
         <entry encoding="base64">XDxjbGVhblNlc3Npb25Gcm9tUHJldmlvdXNBdXRoZW50aWNhdGlvbkF0dGVtcHRcPg==</entry>
         <entry encoding="base64">XDx0cmFuc2Zvcm1cPg==</entry>
         <entry encoding="base64">XDxvaWRjQ2xpZW50XD4=</entry>
@@ -947,7 +952,6 @@
         <entry encoding="base64">XDxlcnJvclw+</entry>
         <entry encoding="base64">XDxzYXZlUXVlcnlJblNlc3Npb25cPg==</entry>
         <entry encoding="base64">XDxkZXN0cm95U2Vzc2lvbkRhdGFBbmRSZW5kZXJTdXBwbGllckNob2ljZVBhZ2VcPg==</entry>
-        <entry encoding="base64">XDxyZW5kZXJTdXBwbGllckNob2ljZVBhZ2VcPg==</entry>
         <entry encoding="base64">XDxyZXNcPg==</entry>
         <entry encoding="base64">XDxlSURBU0xWTFRhYmxlXD4=</entry>
         <entry encoding="base64">XDxjaGVja0VpZGFzTGV2ZWxcPg==</entry>
@@ -959,6 +963,8 @@
         <entry encoding="base64">XDxmb3JtYXRNZXNzYWdlXD4=</entry>
         <entry>form-signin</entry>
         <entry encoding="base64">XDxmYWlsXD4=</entry>
+        <entry encoding="base64">XDxlanNcPg==</entry>
+        <entry encoding="base64">XDxyZW5kZXJTdXBwbGllckNob2ljZVBhZ2VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2c0dnJvY2hlXC9mb29iYXIvZnJhbmNlLWNvbm5lY3RcL2luZnJhL2c=</entry>
