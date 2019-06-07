@@ -117,6 +117,11 @@
       <file name="/main.sqlite_master [Local fc-exploitation]" timestamp="1559555438694">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/Infra/docker/volumes/app/fc/config-fc-commons/mongo-test.json" timestamp="1559903591446">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/docker-compose.yml" timestamp="1558618265617">
         <mark key="[" line="2" column="9" />
       </file>
@@ -887,8 +892,8 @@
           <key char="95" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>only</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">YGBgbWVybWFpZApncmFwaCBURDsKQS0tPkI7CkEtLT5DOwpCLS0+RDsKQy0tPkQ7CmBgYAo=</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
@@ -903,37 +908,37 @@
         <text encoding="base64">ICAvLyBGUzogQ2xpY2sgb24gRkMgYnV0dG9uCiAgY3kudmlzaXQoYCR7RlNfUk9PVF9VUkx9L2xvZ2luYCk7CiAgY3kuY29udGFpbnMoJ0Nvbm5leGlvbicpOwogIGN5LmdldCgnaW5wdXRbc3JjPSJpbWcvRkNib3V0b25zLTEwLnBuZyJdJykuY2xpY2soKTsKCiAgLy8gRkM6IGNob29zZSBGSQogIGN5LnVybCgpLnNob3VsZCgnaW5jbHVkZScsIGAke0ZDX1JPT1RfVVJMfS9hcGkvdjEvYXV0aG9yaXplYCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">YGBgbWVybWFpZApncmFwaCBURDsKQS0tPkI7CkEtLT5DOwpCLS0+RDsKQy0tPkQ7CmBgYAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB1cmw6ICdyZXF1ZXN0IFVSTCcsCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="r" type="4">
         <text>technical_accounting.account.filters.period</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpc0F1dGhlbnRpY2F0ZWQ6IHNpbm9uLnN0dWIoKS5yZXR1cm5zKHRydWUpLAo=</text>
+        <text encoding="base64">ICAgICAgICB1cmw6ICdyZXF1ZXN0IFVSTCcsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZXNzaW9uOiB7CiAgICAgICAgICBkZW1hbmRlRW5Db3Vyc1VybDogJ1VSTCcsCiAgICAgICAgICBkZW1hbmRlRW5Db3Vyc1F1ZXJ5OiAncXVlcnknLAogICAgICAgICAgbGFzdEFjclZhbHVlc0Zyb21GSTogJ2VpZGFzMScsCiAgICAgICAgICBzZWxlY3RlZElkcDogJ0ZJLVRFU1QnLAogICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICBpc0F1dGhlbnRpY2F0ZWQ6IHNpbm9uLnN0dWIoKS5yZXR1cm5zKHRydWUpLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyOiB7IGlkZW50aXR5SGFzaDogJzEyMzQnLCBhY3RpdmU6IHRydWUgfSwK</text>
+        <text encoding="base64">ICAgICAgICBzZXNzaW9uOiB7CiAgICAgICAgICBkZW1hbmRlRW5Db3Vyc1VybDogJ1VSTCcsCiAgICAgICAgICBkZW1hbmRlRW5Db3Vyc1F1ZXJ5OiAncXVlcnknLAogICAgICAgICAgbGFzdEFjclZhbHVlc0Zyb21GSTogJ2VpZGFzMScsCiAgICAgICAgICBzZWxlY3RlZElkcDogJ0ZJLVRFU1QnLAogICAgICAgIH0sCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlc3BvbnNlX3R5cGU6ICdjb2RlJywKICAgICAgICAgIGFjcl92YWx1ZXM6ICdlaWRhczMnLAo=</text>
+        <text encoding="base64">ICAgICAgICB1c2VyOiB7IGlkZW50aXR5SGFzaDogJzEyMzQnLCBhY3RpdmU6IHRydWUgfSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB1cmw6ICdyZXF1ZXN0IFVSTCcsCiAgICAgICAgcXVlcnk6IHsKICAgICAgICAgIHJlc3BvbnNlX3R5cGU6ICdjb2RlJywKICAgICAgICAgIGFjcl92YWx1ZXM6ICdlaWRhczMnLAogICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHJlc3BvbnNlX3R5cGU6ICdjb2RlJywKICAgICAgICAgIGFjcl92YWx1ZXM6ICdlaWRhczMnLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBjb25zb2xlLmxvZygnUHJldmlvdXMgbG9jYXRpb24nLCBwcmV2aW91c0xvY2F0aW9uKTsK</text>
+        <text encoding="base64">ICAgICAgICB1cmw6ICdyZXF1ZXN0IFVSTCcsCiAgICAgICAgcXVlcnk6IHsKICAgICAgICAgIHJlc3BvbnNlX3R5cGU6ICdjb2RlJywKICAgICAgICAgIGFjcl92YWx1ZXM6ICdlaWRhczMnLAogICAgICAgIH0sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBjb25zb2xlLmxvZygnUHJldmlvdXMgbG9jYXRpb24nLCBwcmV2aW91c0xvY2F0aW9uKTsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/form-signin/login-form/g</text>
