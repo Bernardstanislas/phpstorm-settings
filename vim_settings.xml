@@ -385,6 +385,11 @@
         <mark key="." line="10" column="24" />
         <mark key="^" line="8" column="18" />
       </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/shared/src/config/mongo-database.ts" timestamp="1559923526334">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/node_modules/passport-local/lib/strategy.js" timestamp="1559660391711">
         <mark key="'" line="75" column="16" />
         <mark key="[" line="73" column="31" />
@@ -745,6 +750,12 @@
       <file name="$USER_HOME$/Documents/code/daju/config/services_test.yml" timestamp="1539172430896">
         <mark key="[" line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/app.module.ts" timestamp="1559924843904">
+        <mark key="[" line="9" column="18" />
+        <mark key="]" line="9" column="18" />
+        <mark key="." line="9" column="18" />
+        <mark key="^" line="13" column="31" />
+      </file>
       <file name="$USER_HOME$/Documents/code/sphere/frontend/.dockerignore" timestamp="1539099850767">
         <mark key="[" line="1" column="4" />
       </file>
@@ -904,53 +915,54 @@
           <key char="95" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">d29ya2luZ19kaXI6IGYK</text>
+      <register name="&quot;" type="4">
+        <text>join</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>c-exploitation</text>
+        <text>join</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZW5kZXJTdXBwbGllckNob2ljZVBhZ2VcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgYWdlZEJyaWUgPSBuZXcgSXRlbSgnQWdlZCBCcmllJywgMSwgMCk7CiAgICAgIGNvbnN0IGdpbGRlZFJvc2UgPSBuZXcgU2hvcChbYWdlZEJyaWVdKTsKCiAgICAgIGNvbnN0IFt1cGRhdGVkQWdlZEJyaWVdID0gZ2lsZGVkUm9zZS51cGRhdGVRdWFsaXR5KCk7CgogICAgICBleHBlY3QodXBkYXRlZEFnZWRCcmllLnF1YWxpdHkpLnRvLmVxdWFsKDEpOwo=</text>
+        <text encoding="base64">ICAgIFR5cGVPcm1Nb2R1bGUuZm9yUm9vdEFzeW5jKHsKICAgICAgdXNlRmFjdG9yeTogKGNvbmZpZzogQ29uZmlnU2VydmljZSkgPT4gY29uZmlnLmdldCgnZGF0YWJhc2UnKSwKICAgICAgaW5qZWN0OiBbQ29uZmlnU2VydmljZV0sCiAgICB9KSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">d29ya2luZ19kaXI6IGYK</text>
+        <text encoding="base64">ICAgIENvbmZpZ01vZHVsZS5sb2FkKAogICAgICByZXNvbHZlKF9fZGlybmFtZSwgJy4uLy4uL3NoYXJlZC9zcmMvY29uZmlnJywgJyoqLyEoKi5kKS57dHMsanN9JyksCiAgICApLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICAtIA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>technical_accounting.account.filters.period</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgam9pbiwgcmVzb2x2ZSB9IGZyb21wYXRoIjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVudGl0aWVzOiBbcmVzb2x2ZShfX2Rpcm5hbWUsICcuLi8qKi8qLmVudGl0eXsudHMsLmpzfScpXSwKICAgIG1pZ3JhdGlvbnM6IFtqb2luKF9fZGlybmFtZSwgJy4uLy4uL21pZ3JhdGlvbnMvKi50cycpXSwKICAgIGNsaTogewogICAgICAgIG1pZ3JhdGlvbnNEaXI6ICdtaWdyYXRpb25zJywKICAgIH0sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBpdCgnc2hvdWxkIG5vdCBzZXQgdGhlIHNlbGxJbiB2YWx1ZSBiZWxvdyAwJywgKCkgPT4gewogICAgY29uc3QgaXRlbSA9IG5ldyBJdGVtKCdmb28nLCAwLCAwKTsKICAgIGNvbnN0IGdpbGRlZFJvc2UgPSBuZXcgU2hvcChbaXRlbV0pOwoKICAgIGNvbnN0IGl0ZW1zID0gZ2lsZGVkUm9zZS51cGRhdGVRdWFsaXR5KCk7CgogICAgZXhwZWN0KGl0ZW1zWzBdLnNlbGxJbikudG8uZXF1YWwoMCk7CiAgfSkK</text>
+        <text encoding="base64">ICAgIHN5bmNocm9uaXplOiAocHJvY2Vzcy5lbnYuREJfU1lOQ0hST05JWkUgfHwgJ2ZhbHNlJykgPT09ICd0cnVlJywK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>process.env.DB_DATABASE ||
+        resolve(__dirname, '../../fc-exploitation.sqlite')</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">d29ya2luZ19kaXI6IGYK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAKICBpdCgic2hvdWxkIGZvbyIsIGZ1bmN0aW9uKCkgewogICAgY29uc3QgZ2lsZGVkUm9zZSA9IG5ldyBTaG9wKFsgbmV3IEl0ZW0oImZvbyIsIDAsIDApIF0pOwogICAgY29uc3QgaXRlbXMgPSBnaWxkZWRSb3NlLnVwZGF0ZVF1YWxpdHkoKTsKICAgIGV4cGVjdChpdGVtc1swXS5uYW1lKS50by5lcXVhbCgiZml4bWUiKTsKICB9KTsK</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICAtIA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YGBgbWVybWFpZApncmFwaCBURDsKQS0tPkI7CkEtLT5DOwpCLS0+RDsKQy0tPkQ7CmBgYAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/form-signin/login-form/g</text>
