@@ -6,12 +6,6 @@
       <file name="$USER_HOME$/Documents/code/blog-dojo-cqrs/src/event-sourced-article.repository.ts" timestamp="1546095334296">
         <mark key="[" line="8" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/fixtures/User.yml" timestamp="1559562432836">
-        <mark key="[" line="6" column="22" />
-        <mark key="]" line="6" column="22" />
-        <mark key="." line="6" column="22" />
-        <mark key="^" line="5" column="14" />
-      </file>
       <file name="/sphere.public.contract [Sphere]" timestamp="1538641346930">
         <mark key="[" line="0" column="0" />
       </file>
@@ -20,12 +14,6 @@
       </file>
       <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/fc-commons/package.json" timestamp="1557481409797">
         <mark key="[" line="1" column="22" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/src/authentication/guards/local.guard.ts" timestamp="1559568923733">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="5" column="37" />
-        <mark key="." line="5" column="0" />
       </file>
       <file name="/dojocqrs.public.event [dojocqrs@localhost]" timestamp="1546096010638">
         <mark key="[" line="0" column="0" />
@@ -41,12 +29,6 @@
       </file>
       <file name="$USER_HOME$/Documents/code/blog-dojo-cqrs/src/index.ts" timestamp="1546093050136">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/src/user/croute.entity.ts" timestamp="1559562081960">
-        <mark key="[" line="3" column="13" />
-        <mark key="]" line="7" column="12" />
-        <mark key="." line="7" column="12" />
-        <mark key="^" line="7" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/code/simplesamlphp/modules/businessimmotheme/themes/businessimmo/default/_header.twig" timestamp="1541693012925">
         <mark key="[" line="5" column="55" />
@@ -81,12 +63,6 @@
       <file name="$USER_HOME$/Documents/code/daju-landing/src/components/Homepage/TryItOut/index.tsx" timestamp="1549645881980">
         <mark key="[" line="3" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/src/user/user.module.ts" timestamp="1559651627555">
-        <mark key="[" line="5" column="6" />
-        <mark key="]" line="5" column="7" />
-        <mark key="." line="5" column="7" />
-        <mark key="^" line="13" column="30" />
-      </file>
       <file name="$USER_HOME$/Documents/code/france-connect/Infra/docker/volumes/FranceConnect/projects/fc/core/config/redis.json" timestamp="1556184222531">
         <mark key="[" line="0" column="0" />
       </file>
@@ -101,12 +77,6 @@
       </file>
       <file name="$USER_HOME$/Documents/code/business-immo-directory/src/DataFixtures/ORM/press_dossier.yml" timestamp="1543911375242">
         <mark key="[" line="1" column="13" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/src/authentication/passport/local.strategy.ts" timestamp="1559660316960">
-        <mark key="[" line="34" column="7" />
-        <mark key="]" line="34" column="7" />
-        <mark key="." line="34" column="7" />
-        <mark key="^" line="18" column="23" />
       </file>
       <file name="/daju.public.api_key_access_events [Daju Postgres local]" timestamp="1543084172628">
         <mark key="[" line="0" column="0" />
@@ -173,12 +143,6 @@
       <file name="$USER_HOME$/Documents/code/blog-dojo-cqrs/src/events/namespace.ts" timestamp="1545580874953">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/test/app.e2e-spec.ts" timestamp="1559553744227">
-        <mark key="[" line="19" column="39" />
-        <mark key="]" line="19" column="39" />
-        <mark key="." line="19" column="39" />
-        <mark key="^" line="9" column="24" />
-      </file>
       <file name="/business_immo_legacy.user_peoples [Business immo legacy]" timestamp="1542280507623">
         <mark key="[" line="0" column="0" />
       </file>
@@ -194,11 +158,11 @@
       <file name="$USER_HOME$/Documents/code/blog-dojo-cqrs/tslint.json" timestamp="1545580922904">
         <mark key="[" line="14" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/code/GildedRose-Refactoring-Kata/js-mocha/test/test_gilded_rose.js" timestamp="1559912078540">
-        <mark key="[" line="41" column="34" />
-        <mark key="]" line="47" column="48" />
-        <mark key="." line="47" column="48" />
-        <mark key="^" line="47" column="48" />
+      <file name="$USER_HOME$/Documents/code/GildedRose-Refactoring-Kata/js-mocha/test/test_gilded_rose.js" timestamp="1559934231460">
+        <mark key="[" line="134" column="30" />
+        <mark key="]" line="137" column="12" />
+        <mark key="." line="137" column="12" />
+        <mark key="^" line="137" column="12" />
       </file>
       <file name="/daju.public.cards [Daju Postgres local]" timestamp="1553590061019">
         <mark key="[" line="0" column="0" />
@@ -250,12 +214,6 @@
       <file name="$USER_HOME$/Documents/code/simplesamlphp/modules/businessimmolegacy/Language.php" timestamp="1542099904341">
         <mark key="[" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/package.json" timestamp="1559575030187">
-        <mark key="[" line="11" column="18" />
-        <mark key="]" line="11" column="18" />
-        <mark key="." line="11" column="18" />
-        <mark key="^" line="20" column="8" />
-      </file>
       <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/src/authentication/filter/Unauthorized.filter.ts" timestamp="1559570709924">
         <mark key="[" line="0" column="0" />
       </file>
@@ -277,26 +235,8 @@
       <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/src/config/config.provider.ts" timestamp="1558715521863">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/views/partials/head.ejs" timestamp="1559567055624">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="6" column="32" />
-        <mark key="." line="6" column="32" />
-        <mark key="^" line="6" column="32" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/nodemon.json" timestamp="1559574994423">
-        <mark key="[" line="3" column="18" />
-        <mark key="]" line="4" column="2" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="4" column="2" />
-      </file>
       <file name="$USER_HOME$/Documents/code/oreqo/.buildpacks" timestamp="1555870856574">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/src/authentication/passport/cookie.strategy.ts" timestamp="1559126090794">
-        <mark key="[" line="6" column="25" />
-        <mark key="]" line="6" column="25" />
-        <mark key="^" line="12" column="2" />
-        <mark key="." line="6" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/code/daju-landing/tsconfig.json" timestamp="1549385911699">
         <mark key="[" line="0" column="0" />
@@ -310,14 +250,14 @@
       <file name="$USER_HOME$/Documents/code/sphere/frontend/src/components/Query/index.jsx" timestamp="1539090352597">
         <mark key="[" line="42" column="79" />
       </file>
+      <file name="$USER_HOME$/Documents/code/GildedRose-Refactoring-Kata/js-mocha/src/gilded_rose.js" timestamp="1559934582288">
+        <mark key="[" line="59" column="7" />
+        <mark key="]" line="63" column="0" />
+        <mark key="^" line="62" column="6" />
+        <mark key="." line="63" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/code/daju-landing/.gitignore" timestamp="1548695318758">
         <mark key="[" line="69" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/src/authentication/authentication.module.ts" timestamp="1559657131599">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="16" column="73" />
-        <mark key="." line="16" column="73" />
-        <mark key="^" line="16" column="73" />
       </file>
       <file name="/main.daju_user [data.db]" timestamp="1540750682062">
         <mark key="[" line="0" column="0" />
@@ -338,12 +278,6 @@
       </file>
       <file name="$USER_HOME$/Documents/code/daju-landing/src/components/Homepage/Header/Splash/index.tsx" timestamp="1549738110353">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/shared/src/shared.module.ts" timestamp="1559932377749">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="5" column="16" />
-        <mark key="^" line="5" column="16" />
-        <mark key="." line="5" column="16" />
       </file>
       <file name="/sphere.public.company [Sphere]" timestamp="1538490576302">
         <mark key="[" line="0" column="0" />
@@ -377,12 +311,6 @@
       </file>
       <file name="/connections [Business immo legacy]" timestamp="1542726121828">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/views/login.ejs" timestamp="1559569063667">
-        <mark key="[" line="10" column="24" />
-        <mark key="]" line="10" column="24" />
-        <mark key="." line="10" column="24" />
-        <mark key="^" line="8" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/shared/src/config/mongo-database.ts" timestamp="1559923526334">
         <mark key="[" line="0" column="0" />
@@ -490,12 +418,6 @@
       <file name="$USER_HOME$/Documents/code/daju/app/Http/Controllers/Auth/RegisterController.php" timestamp="1552577626279">
         <mark key="[" line="30" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/src/app.controller.ts" timestamp="1559134098779">
-        <mark key="[" line="0" column="28" />
-        <mark key="]" line="0" column="28" />
-        <mark key="." line="0" column="28" />
-        <mark key="^" line="4" column="7" />
-      </file>
       <file name="/main.lolilol [Local fc-exploitation]" timestamp="1559562147082">
         <mark key="[" line="0" column="0" />
       </file>
@@ -523,12 +445,6 @@
       <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/.gitlab-ci.yml" timestamp="1559920170426" />
       <file name="$USER_HOME$/Documents/code/portail.io/README.md" timestamp="1548948601475">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/src/user/user.entity.ts" timestamp="1559562212217">
-        <mark key="[" line="8" column="4" />
-        <mark key="]" line="8" column="4" />
-        <mark key="." line="8" column="4" />
-        <mark key="^" line="8" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/code/daju-landing/src/components/Homepage/Pricing/index.tsx" timestamp="1549735913675">
         <mark key="[" line="0" column="0" />
@@ -565,12 +481,6 @@
       <file name="/main.user [data.db]" timestamp="1540758356007">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/src/authentication/guards/authenticated.guard.ts" timestamp="1559133496339">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="50" />
-        <mark key="." line="6" column="48" />
-        <mark key="^" line="6" column="48" />
-      </file>
       <file name="$USER_HOME$/Documents/code/blog/routes/web.php" timestamp="1541360882749">
         <mark key="[" line="14" column="27" />
       </file>
@@ -589,12 +499,6 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fbf7ae17-6879-44d2-a8b4-848aedaa252f/console_1.sql" timestamp="1539522648106">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/src/authentication/authentication.service.spec.ts" timestamp="1559659248779">
-        <mark key="[" line="32" column="24" />
-        <mark key="]" line="33" column="22" />
-        <mark key="." line="33" column="22" />
-        <mark key="^" line="33" column="22" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b4896aa8-3fb2-415d-a7fe-608e94f30975/console_4.sql" timestamp="1538646928470">
         <mark key="[" line="0" column="0" />
       </file>
@@ -612,12 +516,6 @@
       </file>
       <file name="$USER_HOME$/Documents/code/daju/tests/Feature/ExampleTest.php" timestamp="1542454312130">
         <mark key="[" line="16" column="33" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/src/config/http.ts" timestamp="1559654656973">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="2" column="2" />
-        <mark key="^" line="2" column="2" />
-        <mark key="." line="2" column="2" />
       </file>
       <file name="/business_immo_directory.subscriber_logins [Business immo directory]" timestamp="1543855037340">
         <mark key="[" line="0" column="0" />
@@ -654,12 +552,6 @@
       </file>
       <file name="$USER_HOME$/Documents/code/test-gitlab-ci/Dangerfile" timestamp="1557497164871">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/src/authentication/authentication.service.ts" timestamp="1559657136897">
-        <mark key="[" line="8" column="34" />
-        <mark key="]" line="4" column="71" />
-        <mark key="." line="4" column="71" />
-        <mark key="^" line="4" column="71" />
       </file>
       <file name="/alto-test.app_users [alto-test]" timestamp="1539672566207">
         <mark key="[" line="0" column="0" />
@@ -740,11 +632,11 @@
       <file name="$USER_HOME$/Documents/code/daju/config/services_test.yml" timestamp="1539172430896">
         <mark key="[" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/app.module.ts" timestamp="1559924843904">
-        <mark key="[" line="9" column="18" />
-        <mark key="]" line="9" column="18" />
-        <mark key="." line="9" column="18" />
-        <mark key="^" line="13" column="31" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/app.module.ts" timestamp="1559932481330">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="60" />
+        <mark key="." line="15" column="23" />
+        <mark key="^" line="15" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/code/sphere/frontend/.dockerignore" timestamp="1539099850767">
         <mark key="[" line="1" column="4" />
@@ -905,54 +797,53 @@
           <key char="95" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGZvciAodmFyIGkgPSAwOyBpIDwgdGhpcy5pdGVtcy5sZW5ndGg7IGkrKykgewogICAgfQo=</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>quality</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZW5kZXJTdXBwbGllckNob2ljZVBhZ2VcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFR5cGVPcm1Nb2R1bGUuZm9yUm9vdEFzeW5jKHsKICAgICAgdXNlRmFjdG9yeTogKGNvbmZpZzogQ29uZmlnU2VydmljZSkgPT4gY29uZmlnLmdldCgnZGF0YWJhc2UnKSwKICAgICAgaW5qZWN0OiBbQ29uZmlnU2VydmljZV0sCiAgICB9KSwK</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0KHVwZGF0ZWRCYWNrc3RhZ2VQYXNzZXMucXVhbGl0eSkudG8uZXF1YWwoMCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAiZGVzY3JpcHRpb24iOiAiIiwKICAibWFpbiI6ICJpbmRleC5qcyIsCiAgInNjcmlwdHMiOiB7CiAgICAidGVzdCI6ICJlY2hvIFwiRXJyb3I6IG5vIHRlc3Qgc3BlY2lmaWVkXCIgJiYgZXhpdCAxIgogIH0sCiAgImF1dGhvciI6ICIiLAogICJsaWNlbnNlIjogIklTQyIK</text>
+        <text encoding="base64">ICAgIGZvciAodmFyIGkgPSAwOyBpIDwgdGhpcy5pdGVtcy5sZW5ndGg7IGkrKykgewogICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIENvbmZpZ01vZHVsZS5sb2FkKAogICAgICByZXNvbHZlKF9fZGlybmFtZSwgJy4uLy4uL3NoYXJlZC9zcmMvY29uZmlnJywgJyoqLyEoKi5kKS57dHMsanN9JyksCiAgICApLAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="r" type="4">
         <text>technical_accounting.account.filters.period</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgKHRoaXMuaXRlbXNbaV0ubmFtZSAhPSAnQWdlZCBCcmllJyAmJiB0aGlzLml0ZW1zW2ldLm5hbWUgIT0gJ0JhY2tzdGFnZSBwYXNzZXMgdG8gYSBUQUZLQUw4MEVUQyBjb25jZXJ0JykgewogICAgICAgIGlmICh0aGlzLml0ZW1zW2ldLnF1YWxpdHkgPiAwKSB7CiAgICAgICAgICBpZiAodGhpcy5pdGVtc1tpXS5uYW1lICE9ICdTdWxmdXJhcywgSGFuZCBvZiBSYWduYXJvcycpIHsKICAgICAgICAgICAgdGhpcy5pdGVtc1tpXS5xdWFsaXR5ID0gdGhpcy5pdGVtc1tpXS5xdWFsaXR5IC0gMTsKICAgICAgICAgIH0KICAgICAgICAgIGlmICh0aGlzLml0ZW1zW2ldLm5hbWUgPT0gJ0Nvbmp1cmVkJykgewogICAgICAgICAgICB0aGlzLml0ZW1zW2ldLnF1YWxpdHkgPSB0aGlzLml0ZW1zW2ldLnF1YWxpdHkgLSAxOwogICAgICAgICAgfQogICAgICAgIH0KICAgICAgfSBlbHNlIHsKICAgICAgICBpZiAodGhpcy5pdGVtc1tpXS5xdWFsaXR5IDwgNTApIHsKICAgICAgICAgIHRoaXMuaXRlbXNbaV0ucXVhbGl0eSA9IHRoaXMuaXRlbXNbaV0ucXVhbGl0eSArIDE7CiAgICAgICAgICBpZiAodGhpcy5pdGVtc1tpXS5uYW1lID09ICdCYWNrc3RhZ2UgcGFzc2VzIHRvIGEgVEFGS0FMODBFVEMgY29uY2VydCcpIHsKICAgICAgICAgICAgaWYgKHRoaXMuaXRlbXNbaV0uc2VsbEluIDwgMTEpIHsKICAgICAgICAgICAgICBpZiAodGhpcy5pdGVtc1tpXS5xdWFsaXR5IDwgNTApIHsKICAgICAgICAgICAgICAgIHRoaXMuaXRlbXNbaV0ucXVhbGl0eSA9IHRoaXMuaXRlbXNbaV0ucXVhbGl0eSArIDE7CiAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgICAgIGlmICh0aGlzLml0ZW1zW2ldLnNlbGxJbiA8IDYpIHsKICAgICAgICAgICAgICBpZiAodGhpcy5pdGVtc1tpXS5xdWFsaXR5IDwgNTApIHsKICAgICAgICAgICAgICAgIHRoaXMuaXRlbXNbaV0ucXVhbGl0eSA9IHRoaXMuaXRlbXNbaV0ucXVhbGl0eSArIDE7CiAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgICB9CiAgICAgICAgfQogICAgICB9CiAgICAgIGlmICh0aGlzLml0ZW1zW2ldLm5hbWUgIT0gJ1N1bGZ1cmFzLCBIYW5kIG9mIFJhZ25hcm9zJykgewogICAgICAgIHRoaXMuaXRlbXNbaV0uc2VsbEluID0gdGhpcy5pdGVtc1tpXS5zZWxsSW4gLSAxOwogICAgICB9CiAgICAgIGlmICh0aGlzLml0ZW1zW2ldLnNlbGxJbiA8IDApIHsKICAgICAgICBpZiAodGhpcy5pdGVtc1tpXS5uYW1lICE9ICdBZ2VkIEJyaWUnKSB7CiAgICAgICAgICBpZiAodGhpcy5pdGVtc1tpXS5uYW1lICE9ICdCYWNrc3RhZ2UgcGFzc2VzIHRvIGEgVEFGS0FMODBFVEMgY29uY2VydCcpIHsKICAgICAgICAgICAgaWYgKHRoaXMuaXRlbXNbaV0ucXVhbGl0eSA+IDApIHsKICAgICAgICAgICAgICBpZiAodGhpcy5pdGVtc1tpXS5uYW1lICE9ICdTdWxmdXJhcywgSGFuZCBvZiBSYWduYXJvcycpIHsKICAgICAgICAgICAgICAgIHRoaXMuaXRlbXNbaV0ucXVhbGl0eSA9IHRoaXMuaXRlbXNbaV0ucXVhbGl0eSAtIDE7CiAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICB0aGlzLml0ZW1zW2ldLnF1YWxpdHkgPSB0aGlzLml0ZW1zW2ldLnF1YWxpdHkgLSB0aGlzLml0ZW1zW2ldLnF1YWxpdHk7CiAgICAgICAgICB9CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgIGlmICh0aGlzLml0ZW1zW2ldLnF1YWxpdHkgPCA1MCkgewogICAgICAgICAgICB0aGlzLml0ZW1zW2ldLnF1YWxpdHkgPSB0aGlzLml0ZW1zW2ldLnF1YWxpdHkgKyAxOwogICAgICAgICAgfQogICAgICAgIH0KICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgam9pbiwgcmVzb2x2ZSB9IGZyb21wYXRoIjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGVudGl0aWVzOiBbcmVzb2x2ZShfX2Rpcm5hbWUsICcuLi8qKi8qLmVudGl0eXsudHMsLmpzfScpXSwKICAgIG1pZ3JhdGlvbnM6IFtqb2luKF9fZGlybmFtZSwgJy4uLy4uL21pZ3JhdGlvbnMvKi50cycpXSwKICAgIGNsaTogewogICAgICAgIG1pZ3JhdGlvbnNEaXI6ICdtaWdyYXRpb25zJywKICAgIH0sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHN5bmNocm9uaXplOiAocHJvY2Vzcy5lbnYuREJfU1lOQ0hST05JWkUgfHwgJ2ZhbHNlJykgPT09ICd0cnVlJywK</text>
+        <text encoding="base64">ICAgICAgY29uc3QgYmEK</text>
       </register>
-      <register name="7" type="4">
-        <text>process.env.DB_DATABASE ||
-        resolve(__dirname, '../../fc-exploitation.sqlite')</text>
+      <register name="7" type="2">
+        <text encoding="base64">Y29uc3Qgc3VsZnVyYU5hbWUgPSAnU3VsZnVyYXMsIEhhbmQgb2YgUmFnbmFyb3MnOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">d29ya2luZ19kaXI6IGYK</text>
+        <text encoding="base64">ICAgICAgICBDb25maWdNb2R1bGUuCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAtIA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAiZGVzY3JpcHRpb24iOiAiIiwKICAibWFpbiI6ICJpbmRleC5qcyIsCiAgInNjcmlwdHMiOiB7CiAgICAidGVzdCI6ICJlY2hvIFwiRXJyb3I6IG5vIHRlc3Qgc3BlY2lmaWVkXCIgJiYgZXhpdCAxIgogIH0sCiAgImF1dGhvciI6ICIiLAogICJsaWNlbnNlIjogIklTQyIK</text>
       </register>
       <register name=":" type="4">
         <text>%s/form-signin/login-form/g</text>
