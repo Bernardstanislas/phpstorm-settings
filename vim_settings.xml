@@ -173,14 +173,6 @@
       <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/partenaires/views/v3/fs_edition.ejs" timestamp="1558943135217">
         <mark key="[" line="129" column="70" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/cypress/integration/fc/mire.spec.js" timestamp="1559830220071">
-        <mark key="[" line="155" column="5" />
-        <mark key="l" line="168" column="66" />
-        <mark key="m" line="168" column="67" />
-        <mark key="]" line="155" column="5" />
-        <mark key="^" line="164" column="52" />
-        <mark key="." line="155" column="5" />
-      </file>
       <file name="/bi_directory_user [Business immo directory]" timestamp="1541062470407">
         <mark key="[" line="0" column="0" />
       </file>
@@ -453,6 +445,7 @@
       <file name="$USER_HOME$/Documents/code/daju-landing/src/components/Homepage/Pricing/index.tsx" timestamp="1549735913675">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/.gitignore" timestamp="1560242047937" />
       <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/src/services/auth.service.ts" timestamp="1558619698154">
         <mark key="[" line="0" column="0" />
       </file>
@@ -520,6 +513,9 @@
       </file>
       <file name="$USER_HOME$/Documents/code/daju/tests/Feature/ExampleTest.php" timestamp="1542454312130">
         <mark key="[" line="16" column="33" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/README.md" timestamp="1560243339560">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/business_immo_directory.subscriber_logins [Business immo directory]" timestamp="1543855037340">
         <mark key="[" line="0" column="0" />
@@ -622,6 +618,9 @@
       </file>
       <file name="/alto-espace-emprunteur.app_users [Alto staging]" timestamp="1540894265954">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/package.json" timestamp="1560243412711">
+        <mark key="[" line="2" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/code/daju-landing/src/components/Homepage/Footer/index.tsx" timestamp="1549646166199">
         <mark key="[" line="0" column="0" />
