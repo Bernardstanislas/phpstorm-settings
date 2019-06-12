@@ -425,9 +425,10 @@
       <file name="/daju-test.public.user [daju-test]" timestamp="1540332795150">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/.gitlab-ci.yml" timestamp="1559920810233">
-        <mark key="[" line="4" column="15" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/.gitlab-ci.yml" timestamp="1560352412308">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
+        <mark key="^" line="4" column="23" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="/daju.public.print_jobs [Daju Postgres local]" timestamp="1553554244088">
@@ -524,10 +525,10 @@
       <file name="$USER_HOME$/Documents/code/test-gitlab-ci/.gitignore" timestamp="1557497200592">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/shared/package.json" timestamp="1560351407871">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/shared/package.json" timestamp="1560352195711">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="/main.user [data.db]" timestamp="1540758356007">
         <mark key="[" line="0" column="0" />
@@ -652,6 +653,12 @@
       </file>
       <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/cypress/integration/partenaires.spec.js" timestamp="1557241102823">
         <mark key="[" line="38" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/.gitlab-ci.yml" timestamp="1560352392330">
+        <mark key="[" line="13" column="8" />
+        <mark key="]" line="13" column="8" />
+        <mark key="." line="13" column="8" />
+        <mark key="^" line="13" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/code/forge/startproject/api-platform/plopIgnore/.gitkeep" timestamp="1548240678433">
         <mark key="[" line="0" column="0" />
@@ -883,52 +890,52 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJzdGFydCI6ICJ0cy1ub2RlIC1yIHRzY29uZmlnLXBhdGhzL3JlZ2lzdGVyIHNyYy9tYWluLnRzIiwKICAgICJzdGFydDpkZXYiOiAiY29uY3VycmVudGx5IC0taGFuZGxlLWlucHV0IFwid2FpdC1vbiBkaXN0L21haW4uanMgJiYgbm9kZW1vblwiIFwidHNjIC13IC1wIHRzY29uZmlnLmJ1aWxkLmpzb25cIiAiLAogICAgInN0YXJ0OmRlYnVnIjogIm5vZGVtb24gLS1jb25maWcgbm9kZW1vbi1kZWJ1Zy5qc29uIiwKICAgICJwcmVzdGFydDpwcm9kIjogInJpbXJhZiBkaXN0ICYmIG5wbSBydW4gYnVpbGQiLAogICAgInN0YXJ0OnByb2QiOiAibm9kZSBkaXN0L21haW4uanMiLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>only</text>
+        <text>npm-install</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaUFjdGl2ZUFuZFVzZXJBdXRoZW50aWNhdGVkXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGhlYWRlcjogc2lub24uc3R1YigpCg==</text>
+        <text encoding="base64">ICBhcnRpZmFjdHM6CiAgICBwYXRoczoKICAgICAgLSBmYy1leHBsb2l0YXRpb24vbm9kZV9tb2R1bGVzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJzdGFydCI6ICJ0cy1ub2RlIC1yIHRzY29uZmlnLXBhdGhzL3JlZ2lzdGVyIHNyYy9tYWluLnRzIiwKICAgICJzdGFydDpkZXYiOiAiY29uY3VycmVudGx5IC0taGFuZGxlLWlucHV0IFwid2FpdC1vbiBkaXN0L21haW4uanMgJiYgbm9kZW1vblwiIFwidHNjIC13IC1wIHRzY29uZmlnLmJ1aWxkLmpzb25cIiAiLAogICAgInN0YXJ0OmRlYnVnIjogIm5vZGVtb24gLS1jb25maWcgbm9kZW1vbi1kZWJ1Zy5qc29uIiwKICAgICJwcmVzdGFydDpwcm9kIjogInJpbXJhZiBkaXN0ICYmIG5wbSBydW4gYnVpbGQiLAogICAgInN0YXJ0OnByb2QiOiAibm9kZSBkaXN0L21haW4uanMiLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdkaXNwbGF5RklzRm9yVXNlcicpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>technical_accounting.account.filters.period</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJjb2wtNiBjb2wtc20tNSBjb2wtbWQtNAljb2wtbGctMyI+CiAgICA8ZGl2IGNsYXNzPSJmYy1sb2dvIGQtZmxleCBhbGlnbi1pdGVtcy1jZW50ZXIganVzdGlmeS1jb250ZW50LWNlbnRlciI+CiAgICAgIDxpbWcgc3JjPSIvaW1hZ2VzL2ZjLWF2YXRhci5zdmciIGNsYXNzPSJkLWlubGluZS1ibG9jayBkLXNtLW5vbmUgaDkwIiBhbHQ9IjwlPSBzZXJ2aWNlUHJvdmlkZXIubmFtZSAlPiI+CiAgICAgIDxpbWcgc3JjPSIvaW1hZ2VzL2ZjX2xvZ29fYWx0Ml92Mi5wbmciIGNsYXNzPSJkLW5vbmUgZC1zbS1pbmxpbmUtYmxvY2sgaDkwIiBhbHQ9IjwlPSBzZXJ2aWNlUHJvdmlkZXIubmFtZSAlPiI+CiAgICA8L2Rpdj4KICA8L2Rpdj4KPC9kaXY+Cg==</text>
+        <text encoding="base64">bnBtLWluc3RhbGw6CiAgc3RhZ2U6IGJ1aWxkCiAgaW1hZ2U6IG5vZGU6OAogIHNjcmlwdDoKICAgIC0gY2QgZmMtZXhwbG9pdGF0aW9uCiAgICAtIG5wbSBpCiAgYXJ0aWZhY3RzOgogICAgcGF0aHM6CiAgICAgIC0gZmMtZXhwbG9pdGF0aW9uL25vZGVfbW9kdWxlcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICA8L2Rpdj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Pj4+Pj4+PiA6c3BhcmtsZXM6IEFkZCByZXR1cm4gbGluayBvbiB0aGUgcHJvdmlkZXIgbGlzdCBwYWdlCg==</text>
+        <text encoding="base64">ICBpbWFnZToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgPCEtLSAtLS0tLS0tLS0tLS0tLS0tLS0tLSBkZXNrdG9wIEhlYWRlciAtLS0tLS0tLS0tLS0tLS0tLS0tLSAtLT4KICA8ZGl2IGNsYXNzPSJoZWFkZXIiPgogICAgPGRpdiBjbGFzcz0icm93IGp1c3RpZnktY29udGVudC1iZXR3ZWVuIj4KICAgICAgPGRpdiBjbGFzcz0iY29sLTYgY29sLXNtLTUgY29sLW1kLTQJY29sLWxnLTMiPgogICAgICAgIDxkaXYgY2xhc3M9InRleHQtY2VudGVyIGZzLWxvZ28gZC1mbGV4IGFsaWduLWl0ZW1zLWNlbnRlciBqdXN0aWZ5LWNvbnRlbnQtY2VudGVyIj4KICAgICAgICAgIDwlIGlmIChzZXJ2aWNlUHJvdmlkZXIubG9nbykgeyAlPgogICAgICAgICAgICA8aW1nIHNyYz0iL2xvZ28vPCU9IHNlcnZpY2VQcm92aWRlci5sb2dvICU+IiBhbHQ9IjwlPSBzZXJ2aWNlUHJvdmlkZXIubmFtZSAlPiIgY2xhc3M9Img5MCI+CiAgICAgICAgICA8JSB9IGVsc2UgeyAlPgogICAgICAgICAgICA8aW1nIHNyYz0iL2ltYWdlcy9oZWFkZXJfZW1wdHkuc3ZnIiBhbHQ9IjwlPSBzZXJ2aWNlUHJvdmlkZXIubmFtZSAlPiIgY2xhc3M9Img5MCI+CiAgICAgICAgICAgIDxwPjwlPSBzZXJ2aWNlUHJvdmlkZXIubmFtZSAlPjwvcD4KICAgICAgICAgIDwlIH0gJT4KPT09PT09PQo=</text>
+        <text encoding="base64">ICAiZGVzY3JpcHRpb24iOiAiIiwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Pj4+Pj4+PiA6c3BhcmtsZXM6IEFkZCByZXR1cm4gbGluayBvbiB0aGUgcHJvdmlkZXIgbGlzdCBwYWdlCg==</text>
+        <text encoding="base64">ICAiYXV0aG9yIjogIiIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYXZhaWxhYmxlX2ZpczogYXZhaWxhYmxlRklzLAo=</text>
+        <text encoding="base64">ICAibGljZW5zZSI6ICJNSVQiLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAibWFpbiI6ICJzcmMvbWFpbi50cyIsCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/form-signin/login-form/g</text>
