@@ -663,11 +663,11 @@
       <file name="/daju.public.api_key_admin_events [Daju Postgres local]" timestamp="1543084318445">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/main.ts" timestamp="1560528852430">
-        <mark key="[" line="4" column="45" />
-        <mark key="]" line="41" column="29" />
-        <mark key="." line="41" column="29" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/main.ts" timestamp="1560544343844">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
         <mark key="^" line="41" column="29" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="/daju.public.migrations [Daju Postgres local]" timestamp="1553531666834">
         <mark key="[" line="0" column="0" />
@@ -812,10 +812,10 @@
       <file name="$USER_HOME$/Documents/code/daju/config/services_test.yml" timestamp="1539172430896">
         <mark key="[" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/app.module.ts" timestamp="1560527514634">
-        <mark key="[" line="10" column="98" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/app.module.ts" timestamp="1560544677400">
+        <mark key="[" line="12" column="31" />
+        <mark key="]" line="12" column="31" />
+        <mark key="." line="12" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/code/sphere/frontend/.dockerignore" timestamp="1539099850767">
         <mark key="[" line="1" column="4" />
@@ -976,14 +976,14 @@
           <key char="95" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh0aGlzLl9zZXJpYWxpemVycykK</text>
+      <register name="&quot;" type="4">
+        <text>shared</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>shared</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXJpYWxpemVVc2VyXD4=</text>
@@ -992,37 +992,37 @@
         <text encoding="base64">ICAgIGpvaW4oX19kaXJuYW1lLCAnLi4vLi4vbWlncmF0aW9ucy8qLnRzJyksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh0aGlzLl9zZXJpYWxpemVycykK</text>
+        <text encoding="base64">aW1wb3J0IHtBdXRoZW50aWNhdGlvbk1vZHVsZX0gZnJvbSAiLi9hdXRoZW50aWNhdGlvbi9hdXRoZW50aWNhdGlvbi5tb2R1bGUiOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhmbikK</text>
+        <text encoding="base64">aW1wb3J0IHtBdXRoZW50aWNhdGVkTWlkZGxld2FyZX0gZnJvbSAiLi9hdXRoZW50aWNhdGlvbi9taWRkbGV3YXJlL2F1dGhlbnRpY2F0ZWQubWlkZGxld2FyZSI7Cg==</text>
       </register>
       <register name="r" type="4">
         <text>technical_accounting.account.filters.period</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdsb2wnKQo=</text>
+        <text encoding="base64">aW1wb3J0IHsgIH0gZnJvbSAnc2hhcmVkL2F1dGhlbnRpY2F0aW9uL2ZpbHRlci9VbmF1dGhvcml6ZWRFeGNlcHRpb24uZmlsdGVyJzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ29sbycpOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgQXV0aGVudGljYXRlZE1pZGRsZXdhcmUgfSBmcm9tICdzaGFyZWQvYXV0aGVudGljYXRpb24vbWlkZGxld2FyZS9hdXRoZW50aWNhdGVkLm1pZGRsZXdhcmUnOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd5b2xvJykK</text>
+        <text encoding="base64">aW1wb3J0IHsgU2hhcmVkTW9kdWxlIH0gZnJvbSAnc2hhcmVkJzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgc2Vzc2lvbjogdHJ1ZQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh0aGlzLl9zZXJpYWxpemVycykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVzZXJuYW1lLCBwYXNzd29yZCk7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhmbikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVzZXIpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdsb2wnKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVzZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ29sbycpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/form-signin/login-form/g</text>
