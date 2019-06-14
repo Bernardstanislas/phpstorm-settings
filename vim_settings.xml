@@ -139,12 +139,6 @@
       <file name="$USER_HOME$/Documents/code/blog-dojo-cqrs/src/events/namespace.ts" timestamp="1545580874953">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/database/seeds/PostSeeder.php" timestamp="1560282265571">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="36" />
-        <mark key="^" line="21" column="24" />
-        <mark key="." line="49" column="0" />
-      </file>
       <file name="/business_immo_legacy.user_peoples [Business immo legacy]" timestamp="1542280507623">
         <mark key="[" line="0" column="0" />
       </file>
@@ -160,12 +154,6 @@
       <file name="$USER_HOME$/Documents/code/blog-dojo-cqrs/tslint.json" timestamp="1545580922904">
         <mark key="[" line="14" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/code/GildedRose-Refactoring-Kata/js-mocha/test/test_gilded_rose.js" timestamp="1560189196022">
-        <mark key="[" line="119" column="30" />
-        <mark key="]" line="83" column="63" />
-        <mark key="." line="119" column="63" />
-        <mark key="^" line="83" column="63" />
-      </file>
       <file name="/daju.public.cards [Daju Postgres local]" timestamp="1553590061019">
         <mark key="[" line="0" column="0" />
       </file>
@@ -174,12 +162,6 @@
       </file>
       <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/partenaires/views/v3/fs_edition.ejs" timestamp="1558943135217">
         <mark key="[" line="129" column="70" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/cypress/integration/fc/mire.spec.js" timestamp="1560330860011">
-        <mark key="[" line="194" column="0" />
-        <mark key="]" line="194" column="0" />
-        <mark key="." line="194" column="0" />
-        <mark key="^" line="174" column="0" />
       </file>
       <file name="/bi_directory_user [Business immo directory]" timestamp="1541062470407">
         <mark key="[" line="0" column="0" />
@@ -258,12 +240,6 @@
       <file name="$USER_HOME$/Documents/code/sphere/frontend/src/components/Query/index.jsx" timestamp="1539090352597">
         <mark key="[" line="42" column="79" />
       </file>
-      <file name="$USER_HOME$/Documents/code/GildedRose-Refactoring-Kata/js-mocha/src/gilded_rose.js" timestamp="1560189283277">
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
-        <mark key="^" line="63" column="23" />
-      </file>
       <file name="$USER_HOME$/Documents/code/daju-landing/.gitignore" timestamp="1548695318758">
         <mark key="[" line="69" column="0" />
       </file>
@@ -276,8 +252,8 @@
       <file name="/main.croute [Local fc-exploitation]" timestamp="1559562144914">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/lerna.json" timestamp="1560502143085">
-        <mark key="[" line="2" column="5" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/lerna.json" timestamp="1560520668822">
+        <mark key="[" line="2" column="10" />
         <mark key="]" line="2" column="5" />
         <mark key="." line="2" column="5" />
       </file>
@@ -449,7 +425,7 @@
       <file name="/app_users [francis@localhost]" timestamp="1547200899685">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/.gitlab-ci.yml" timestamp="1560518697526">
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/.gitlab-ci.yml" timestamp="1560518861585">
         <mark key="[" line="120" column="81" />
         <mark key="]" line="120" column="82" />
         <mark key="." line="120" column="82" />
@@ -488,10 +464,10 @@
       <file name="$USER_HOME$/Documents/code/test-gitlab-ci/.gitignore" timestamp="1557497200592">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/shared/package.json" timestamp="1560352195711">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/shared/package.json" timestamp="1560520599378">
+        <mark key="[" line="2" column="21" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="/main.user [data.db]" timestamp="1540758356007">
         <mark key="[" line="0" column="0" />
@@ -525,12 +501,6 @@
       </file>
       <file name="$USER_HOME$/Documents/code/daju/src/Application/Controller/PrintingController.php" timestamp="1540751693507">
         <mark key="[" line="14" column="16" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/views/v2/choose_fi.ejs" timestamp="1560331472105">
-        <mark key="[" line="13" column="2" />
-        <mark key="]" line="13" column="2" />
-        <mark key="^" line="16" column="32" />
-        <mark key="." line="13" column="2" />
       </file>
       <file name="$USER_HOME$/Documents/code/daju/tests/Feature/ExampleTest.php" timestamp="1542454312130">
         <mark key="[" line="16" column="33" />
@@ -642,17 +612,11 @@
         <mark key="]" line="306" column="0" />
         <mark key="." line="306" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/lerna.json" timestamp="1560266916712">
-        <mark key="[" line="8" column="14" />
-        <mark key="]" line="8" column="15" />
-        <mark key="^" line="6" column="18" />
-        <mark key="." line="8" column="15" />
-      </file>
       <file name="/alto-espace-emprunteur.app_users [Alto staging]" timestamp="1540894265954">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/package.json" timestamp="1560512954477">
-        <mark key="[" line="7" column="5" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/package.json" timestamp="1560520674906">
+        <mark key="[" line="7" column="35" />
         <mark key="]" line="7" column="5" />
         <mark key="." line="7" column="5" />
         <mark key="^" line="7" column="20" />
@@ -674,11 +638,11 @@
       <file name="$USER_HOME$/Documents/code/daju/config/services_test.yml" timestamp="1539172430896">
         <mark key="[" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/app.module.ts" timestamp="1560245696052">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="31" />
-        <mark key="." line="15" column="23" />
-        <mark key="^" line="15" column="23" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/app.module.ts" timestamp="1560520838557">
+        <mark key="[" line="12" column="7" />
+        <mark key="]" line="12" column="7" />
+        <mark key="." line="12" column="7" />
+        <mark key="^" line="16" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/code/sphere/frontend/.dockerignore" timestamp="1539099850767">
         <mark key="[" line="1" column="4" />
@@ -840,13 +804,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>centos-base</text>
+        <text>SharedModule</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>centos-base</text>
+        <text>SharedModule</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaUFjdGl2ZUFuZFVzZXJBdXRoZW50aWNhdGVkXD4=</text>
