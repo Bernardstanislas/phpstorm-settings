@@ -386,7 +386,8 @@
       <file name="/connections [Business immo legacy]" timestamp="1542726121828">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/node_modules/passport/lib/authenticator.js" timestamp="1560541778966">
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/node_modules/passport/lib/authenticator.js" timestamp="1560542026178">
+        <mark key="'" line="248" column="16" />
         <mark key="[" line="255" column="0" />
         <mark key="]" line="255" column="0" />
         <mark key="." line="255" column="0" />
@@ -535,10 +536,10 @@
       <file name="$USER_HOME$/Documents/code/blog-dojo-cqrs/.gitignore" timestamp="1545231227960">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/shared/authentication/passport/local.serializer.ts" timestamp="1560529185829">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/shared/authentication/passport/local.serializer.ts" timestamp="1560543675227">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="/daju.public.templates [Daju Postgres local]" timestamp="1544358308197">
         <mark key="[" line="0" column="0" />
@@ -824,9 +825,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="221" column="28" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" />
-      <jump line="224" column="2" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" />
-      <jump line="295" column="11" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" />
       <jump line="228" column="8" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" />
       <jump line="263" column="8" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" />
       <jump line="301" column="6" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" />
@@ -924,6 +922,9 @@
       <jump line="61" column="34" filename="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/node_modules/@nestjs/typeorm/dist/typeorm-core.module.js" />
       <jump line="8" column="7" filename="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/node_modules/passport/lib/sessionmanager.js" />
       <jump line="13" column="7" filename="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/node_modules/passport/lib/sessionmanager.js" />
+      <jump line="254" column="24" filename="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/node_modules/passport/lib/authenticator.js" />
+      <jump line="32" column="57" filename="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/node_modules/passport/lib/authenticator.js" />
+      <jump line="248" column="16" filename="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/node_modules/passport/lib/authenticator.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -985,7 +986,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfc2VyaWFsaXplVXNlclw+</text>
+        <text encoding="base64">XDxzZXJpYWxpemVVc2VyXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGpvaW4oX19kaXJuYW1lLCAnLi4vLi4vbWlncmF0aW9ucy8qLnRzJyksCg==</text>
@@ -1031,9 +1032,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfc2VyaWFsaXplVXNlclw+</last-search>
+      <last-search encoding="base64">XDxzZXJpYWxpemVVc2VyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfc2VyaWFsaXplVXNlclw+</last-pattern>
+      <last-pattern encoding="base64">XDxzZXJpYWxpemVVc2VyXD4=</last-pattern>
       <last-replace>login-form</last-replace>
       <last-substitute>form-signin</last-substitute>
       <last-dir>1</last-dir>
@@ -1041,7 +1042,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjaGVja0VpZGFzTGV2ZWxcPg==</entry>
         <entry encoding="base64">XDxkZXN0cm95U2Vzc2lvbkRhdGFcPg==</entry>
         <entry encoding="base64">XDxsb2dnZXJcPg==</entry>
         <entry encoding="base64">XDxmb3JtYXRSb3dzXD4=</entry>
@@ -1061,6 +1061,7 @@
         <entry encoding="base64">XDxmaUFjdGl2ZUFuZFVzZXJBdXRoZW50aWNhdGVkXD4=</entry>
         <entry encoding="base64">XDxjcmVhdGVDb25uZWN0aW9uRmFjdG9yeVw+</entry>
         <entry encoding="base64">XDxfc2VyaWFsaXplVXNlclw+</entry>
+        <entry encoding="base64">XDxzZXJpYWxpemVVc2VyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2c0dnJvY2hlXC9mb29iYXIvZnJhbmNlLWNvbm5lY3RcL2luZnJhL2c=</entry>
