@@ -386,6 +386,11 @@
       <file name="/connections [Business immo legacy]" timestamp="1542726121828">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/node_modules/passport/lib/authenticator.js" timestamp="1560541778966">
+        <mark key="[" line="255" column="0" />
+        <mark key="]" line="255" column="0" />
+        <mark key="." line="255" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/code/francis/client/package.json" timestamp="1547128878146">
         <mark key="[" line="66" column="5" />
       </file>
@@ -970,14 +975,14 @@
           <key char="95" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>arguments</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh0aGlzLl9zZXJpYWxpemVycykK</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>arguments</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfc2VyaWFsaXplVXNlclw+</text>
@@ -986,37 +991,37 @@
         <text encoding="base64">ICAgIGpvaW4oX19kaXJuYW1lLCAnLi4vLi4vbWlncmF0aW9ucy8qLnRzJyksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdsb2wnKQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh0aGlzLl9zZXJpYWxpemVycykK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ29sbycpOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhmbikK</text>
       </register>
       <register name="r" type="4">
         <text>technical_accounting.account.filters.period</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd5b2xvJykK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdsb2wnKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgc2Vzc2lvbjogdHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ29sbycpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVzZXJuYW1lLCBwYXNzd29yZCk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd5b2xvJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVzZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgc2Vzc2lvbjogdHJ1ZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVzZXIpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVzZXJuYW1lLCBwYXNzd29yZCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQXV0aGVudGljYXRpb25Nb2R1bGUgfSBmcm9tICcuL2F1dGhlbnRpY2F0aW9uL2F1dGhlbnRpY2F0aW9uLm1vZHVsZSc7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVzZXIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVzZXIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/form-signin/login-form/g</text>
