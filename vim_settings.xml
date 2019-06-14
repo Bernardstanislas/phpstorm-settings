@@ -154,7 +154,7 @@
       <file name="$USER_HOME$/Documents/code/daju/app/Http/Middleware/RedirectIfAuthenticated.php" timestamp="1550834495870">
         <mark key="[" line="20" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/.gitignore" timestamp="1559931813341">
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/.gitignore" timestamp="1560507278599">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/blog-dojo-cqrs/tslint.json" timestamp="1545580922904">
@@ -396,10 +396,10 @@
       <file name="/daju-test.public.user [daju-test]" timestamp="1540332795150">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/.gitlab-ci.yml" timestamp="1560440164894">
-        <mark key="[" line="9" column="8" />
-        <mark key="]" line="9" column="20" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/.gitlab-ci.yml" timestamp="1560513392848">
+        <mark key="[" line="14" column="7" />
+        <mark key="]" line="14" column="7" />
+        <mark key="." line="14" column="7" />
       </file>
       <file name="/daju.public.print_jobs [Daju Postgres local]" timestamp="1553554244088">
         <mark key="[" line="0" column="0" />
@@ -598,6 +598,11 @@
       <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/cypress/integration/partenaires.spec.js" timestamp="1557241102823">
         <mark key="[" line="38" column="6" />
       </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/.gitlab-ci.yml" timestamp="1560513339087">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/code/forge/startproject/api-platform/plopIgnore/.gitkeep" timestamp="1548240678433">
         <mark key="[" line="0" column="0" />
       </file>
@@ -640,16 +645,22 @@
       <file name="/alto-espace-emprunteur.app_users [Alto staging]" timestamp="1540894265954">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/package.json" timestamp="1560500484033">
-        <mark key="[" line="15" column="3" />
-        <mark key="]" line="15" column="3" />
-        <mark key="." line="15" column="3" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/package.json" timestamp="1560512954477">
+        <mark key="[" line="7" column="5" />
+        <mark key="]" line="7" column="5" />
+        <mark key="." line="7" column="5" />
+        <mark key="^" line="7" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/code/daju-landing/src/components/Homepage/Footer/index.tsx" timestamp="1549646166199">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/sf-auth0/index.html" timestamp="1538777664095">
         <mark key="[" line="27" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-support/package.json" timestamp="1560512973792">
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="1" column="11" />
+        <mark key="." line="1" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/code/sf-auth0/config/services.yaml" timestamp="1538776934292">
         <mark key="[" line="35" column="0" />
@@ -823,13 +834,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>packages/*</text>
+        <text>erna-bootstrap</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>packages/*</text>
+        <text>erna-bootstrap</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaUFjdGl2ZUFuZFVzZXJBdXRoZW50aWNhdGVkXD4=</text>
@@ -838,37 +849,37 @@
         <text encoding="base64">ICBhcnRpZmFjdHM6CiAgICBwYXRoczoKICAgICAgLSBub2RlX21vZHVsZXMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAiYXV0aG9yIjogIiIsCiAgImxpY2Vuc2UiOiAiSVNDIiwKICAiYnVncyI6IHsKICAgICJ1cmwiOiAiaHR0cHM6Ly9naXRsYWIuY29tL2ZyYW5jZS1jb25uZWN0L2ZjLWFwcHMvaXNzdWVzIgogIH0sCiAgImhvbWVwYWdlIjogImh0dHBzOi8vZ2l0bGFiLmNvbS9mcmFuY2UtY29ubmVjdC9mYy1hcHBzI3JlYWRtZSIK</text>
+        <text encoding="base64">ICAgIC0gbnB4IGxlcm5hIGJvb3RzdHJhcAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAic2NyaXB0cyI6IHsKICAgICJ0ZXN0IjogImVjaG8gXCJFcnJvcjogbm8gdGVzdCBzcGVjaWZpZWRcIiAmJiBleGl0IDEiCiAgfSwK</text>
+        <text encoding="base64">ICAgICAgLSBmYy1leHBsb2l0YXRpb24vbm9kZV9tb2R1bGVzCg==</text>
       </register>
       <register name="r" type="4">
         <text>technical_accounting.account.filters.period</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAiZGVzY3JpcHRpb24iOiAiIyMgSW5zdGFsbGF0aW9uIiwKICAibWFpbiI6ICJpbmRleC5qcyIsCg==</text>
+        <text encoding="base64">Cm5wbS1pbnN0YWxsOgogIHN0YWdlOiBidWlsZAogIGltYWdlOiBub2RlOjgKICBzY3JpcHQ6CiAgICAtIGNkIGZjLWV4cGxvaXRhdGlvbgogICAgLSBucG0gaQogIGFydGlmYWN0czoKICAgIHBhdGhzOgogICAgICAtIGZjLWV4cGxvaXRhdGlvbi9ub2RlX21vZHVsZXMKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLSBmYy1leHBsb2l0YXRpb24vbm9kZV9tb2R1bGVzCg==</text>
+        <text encoding="base64">ICAgICAgLSAtCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC0gbnB4IGxlcm5hIGJvb3RzdHJhcAo=</text>
+        <text encoding="base64">ICAgIC0gZmMtCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC0gY2QgZmMtZXhwbG9pdGF0aW9uCiAgICAtIG5wbSBpCiAgICAtIGxzIC1sYWggbm9kZV9tb2R1bGVzCiAgICAtIGxzIC1sYWggbm9kZV9tb2R1bGVzLy5iaW4K</text>
+        <text encoding="base64">ICAgICJsaW50LXN0YWdlZCI6ICJeOC4xLjYiLAogICAgIm5vZGVtb24iOiAiMS4xOC4xMSIsCiAgICAicHJldHRpZXIiOiAiXjEuMTcuMCIsCiAgICAicHJldHRpZXItZXNsaW50IjogIl44LjguMiIsCiAgICAic3VwZXJ0ZXN0IjogIjQuMC4yIiwKICAgICJ0cy1qZXN0IjogIjI0LjAuMiIsCiAgICAidHMtbm9kZSI6ICI4LjEuMCIsCiAgICAidHNjb25maWctcGF0aHMiOiAiMy44LjAiLAogICAgInRzbGludCI6ICI1LjE2LjAiLAogICAgInR5cGVvcm0tZml4dHVyZXMtY2xpIjogIl4xLjEuNSIsCiAgICAidHlwZXNjcmlwdCI6ICIzLjQuMyIsCiAgICAid2FpdC1vbiI6ICJeMy4yLjAiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ewogICJyb290IjogInB1YmxpYyIsCg==</text>
+        <text encoding="base64">ICAgICJAYmFiZWwvY2xpIjogIl43LjQuNCIsCiAgICAiQGJhYmVsL2NvcmUiOiAiXjcuNC40IiwKICAgICJAYmFiZWwvcGx1Z2luLXRyYW5zZm9ybS1ydW50aW1lIjogIl43LjQuNCIsCiAgICAiQGJhYmVsL3ByZXNldC1lbnYiOiAiXjcuNC40IiwKICAgICJAYmFiZWwvcmVnaXN0ZXIiOiAiXjcuNC40IiwKICAgICJAYmFiZWwvcnVudGltZSI6ICJeNy40LjQiLAogICAgIkBuZXN0anMvdGVzdGluZyI6ICI2LjEuMSIsCiAgICAiQHR5cGVzL2V4cHJlc3MiOiAiNC4xNi4xIiwKICAgICJAdHlwZXMvamVzdCI6ICIyNC4wLjExIiwKICAgICJAdHlwZXMvam9pIjogIl4xNC4zLjMiLAogICAgIkB0eXBlcy9ub2RlIjogIjExLjEzLjQiLAogICAgIkB0eXBlcy9zdXBlcnRlc3QiOiAiMi4wLjciLAogICAgIkB0eXBlc2NyaXB0LWVzbGludC9lc2xpbnQtcGx1Z2luIjogIl4xLjkuMCIsCiAgICAiQHR5cGVzY3JpcHQtZXNsaW50L3BhcnNlciI6ICJeMS45LjAiLAogICAgImJhYmVsLWplc3QiOiAiXjI0LjguMCIsCiAgICAiY29uY3VycmVudGx5IjogIl40LjEuMCIsCiAgICAiZXNsaW50IjogIl41LjE2LjAiLAogICAgImVzbGludC1jb25maWctYWlyYm5iLWJhc2UiOiAiXjEzLjEuMCIsCiAgICAiZXNsaW50LWNvbmZpZy1wcmV0dGllciI6ICJeNC4yLjAiLAogICAgImVzbGludC1wbHVnaW4taW1wb3J0IjogIl4yLjE3LjIiLAogICAgImVzbGludC1wbHVnaW4tamVzdCI6ICJeMjIuNS4xIiwKICAgICJlc2xpbnQtcGx1Z2luLXByZXR0aWVyIjogIl4zLjAuMSIsCiAgICAiaHVza3kiOiAiXjIuMi4wIiwKICAgICJqZXN0IjogIl4yNC44LjAiLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAiYXV0aG9yIjogIiIsCiAgImxpY2Vuc2UiOiAiSVNDIiwKICAiYnVncyI6IHsKICAgICJ1cmwiOiAiaHR0cHM6Ly9naXRsYWIuY29tL2ZyYW5jZS1jb25uZWN0L2ZjLWFwcHMvaXNzdWVzIgogIH0sCiAgImhvbWVwYWdlIjogImh0dHBzOi8vZ2l0bGFiLmNvbS9mcmFuY2UtY29ubmVjdC9mYy1hcHBzI3JlYWRtZSIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">SGVsbG8gV29ybGQK</text>
+        <text encoding="base64">ICAic2NyaXB0cyI6IHsKICAgICJ0ZXN0IjogImVjaG8gXCJFcnJvcjogbm8gdGVzdCBzcGVjaWZpZWRcIiAmJiBleGl0IDEiCiAgfSwK</text>
       </register>
       <register name=":" type="4">
         <text>%s/form-signin/login-form/g</text>
