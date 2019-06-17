@@ -196,12 +196,12 @@
       <file name="/daju.public.cards [Daju Postgres local]" timestamp="1553590061019">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/authentication/local.serializer.ts" timestamp="1560760533604">
-        <mark key="[" line="8" column="13" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/authentication/local.serializer.ts" timestamp="1560762199798">
+        <mark key="[" line="5" column="0" />
         <mark key="l" line="3" column="24" />
-        <mark key="]" line="5" column="81" />
-        <mark key="." line="5" column="81" />
-        <mark key="^" line="5" column="81" />
+        <mark key="]" line="9" column="12" />
+        <mark key="." line="9" column="12" />
+        <mark key="^" line="9" column="12" />
       </file>
       <file name="/alto.app_users [alto@localhost]" timestamp="1540895428308">
         <mark key="[" line="0" column="0" />
@@ -231,6 +231,11 @@
       </file>
       <file name="$USER_HOME$/Documents/code/alto-espace-emprunteur/client/src/components/Header/tests/Header.test.js" timestamp="1540201904512">
         <mark key="[" line="16" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/shared/shared.module.ts" timestamp="1560763778478">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="/business_immo_legacy.activity_sectors [Business immo legacy]" timestamp="1542805803223">
         <mark key="[" line="0" column="0" />
@@ -436,11 +441,11 @@
       <file name="/alto-espace-emprunteur.message [Alto staging]" timestamp="1540544860068">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/shared/authentication/authentication.module.ts" timestamp="1560529843824">
-        <mark key="[" line="16" column="110" />
-        <mark key="]" line="16" column="110" />
-        <mark key="^" line="27" column="19" />
-        <mark key="." line="16" column="110" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/shared/authentication/authentication.module.ts" timestamp="1560763795633">
+        <mark key="[" line="18" column="12" />
+        <mark key="]" line="20" column="1" />
+        <mark key="^" line="20" column="1" />
+        <mark key="." line="20" column="1" />
       </file>
       <file name="/daju.public.api_keys [Daju Postgres local]" timestamp="1553590973763">
         <mark key="[" line="0" column="0" />
@@ -675,11 +680,11 @@
       <file name="/daju.public.api_key_admin_events [Daju Postgres local]" timestamp="1543084318445">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/main.ts" timestamp="1560601552518">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="41" column="29" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/main.ts" timestamp="1560763702439">
+        <mark key="[" line="40" column="27" />
+        <mark key="]" line="40" column="37" />
+        <mark key="." line="40" column="37" />
+        <mark key="^" line="40" column="37" />
       </file>
       <file name="/daju.public.migrations [Daju Postgres local]" timestamp="1553531666834">
         <mark key="[" line="0" column="0" />
@@ -828,10 +833,10 @@
       <file name="$USER_HOME$/Documents/code/daju/config/services_test.yml" timestamp="1539172430896">
         <mark key="[" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/app.module.ts" timestamp="1560601445458">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/app.module.ts" timestamp="1560763584011">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/sphere/frontend/.dockerignore" timestamp="1539099850767">
         <mark key="[" line="1" column="4" />
@@ -993,52 +998,52 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC0gJ1sgLWYgIiRET0NLRVJfSU1BR0VfUEFUSCIgXSB8fCBta2RpciAiJERPQ0tFUl9JTUFHRV9QQVRIIicK</text>
+        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9hdXRoZW50aWNhdGlvbi9hdXRoZW50aWNhdGlvbi5tb2R1bGUnOwo=</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text>'Passport'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXJpYWxpemVVc2VyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcXVlcnktPnNxbCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAuZm9yUm91dGVzKCcqJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC0gJ1sgLWYgIiRET0NLRVJfSU1BR0VfUEFUSCIgXSB8fCBta2RpciAiJERPQ0tFUl9JTUFHRV9QQVRIIicK</text>
+        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9hdXRoZW50aWNhdGlvbi9hdXRoZW50aWNhdGlvbi5tb2R1bGUnOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+aW5mbygnU3RhcnRpbmcgY2h1bmsgJyAuICRjaHVua051bWJlcik7Cg==</text>
+        <text encoding="base64">aW1wb3J0Cg==</text>
       </register>
       <register name="r" type="4">
         <text>technical_accounting.account.filters.period</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIERCOjpsaXN0ZW4oZnVuY3Rpb24oJHF1ZXJ5KSB7CiAgICAgICAgdmFyX2R1bXAoJHF1ZXJ5LT5zcWwpOwogICAgICAgIHZhcl9kdW1wKCRxdWVyeS0+dGltZSk7CiAgICB9KTsK</text>
+        <text encoding="base64">Ly8gaW1wb3J0ICogYXMgcGFzc3BvdCBmcm9tICdwYXNzcG9ydCc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+aW5mbygnQ2h1bmNrIG51bWJlciAnIC4gJGNodW5rTnVtYmVyKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICAgdmFyX2R1bXAoJGJpbmRpbmdzKTsKICAgICAgICB2YXJfZHVtcCgkdGltZSk7</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICBjb25zdHJ1Y3RvcihASW5qZWN0KCdQYXNzcG9ydCcpIHByaXZhdGUgcmVhZG9ubHkgcGFzc3BvcnQpIHt9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnN1bWVyCiAgICAgICAgLmFwcGx5KHRoaXMucGFzc3BvcnQuaW5pdGlhbGl6ZSgpKQogICAgICAgIC5mb3JSb3V0ZXMoJy8nKTsKICAgIGNvbnN1bWVyCiAgICAgICAgLmFwcGx5KHRoaXMucGFzc3BvcnQuc2Vzc2lvbigpKQogICAgICAgIC5mb3JSb3V0ZXMoJy8nKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICR0aGlzLT5pbmZvKFBvc3Q6OmNvdW50KCkgLiAnIHBvc3RzIHRvIGluZGV4Jyk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHdoaWxlKCRwYWdpbmF0ZWRQb3N0cy0+aGFzTW9yZVBhZ2UoKSkgewogICAgICAgIAogICAgfQogICAgCiAgICBQb3N0OjphZGRBbGxUb0luZGV4KCk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFBvc3Q6OmFkZEFsbFRvSW5kZXgoKTsK</text>
+        <text encoding="base64">ICAgIHRoaXMucGFzc3BvcnQgPSBwYXNzcG9ydDsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/form-signin/login-form/g</text>
