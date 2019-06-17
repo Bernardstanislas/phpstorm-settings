@@ -1,11 +1,12 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="hosts" type="PLAIN_TEXT" />
+      <mapping pattern=".watchmanconfig" type="PLAIN_TEXT" />
       <mapping pattern="Dangerfile" type="PLAIN_TEXT" />
       <mapping pattern=".buildpacks" type="PLAIN_TEXT" />
       <mapping pattern="default-disable" type="PLAIN_TEXT" />
       <mapping pattern=".env.prod" type="PLAIN_TEXT" />
-      <mapping pattern="add-e2e-te" type="PLAIN_TEXT" />
       <mapping pattern="release" type="PLAIN_TEXT" />
       <mapping pattern="lol" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
@@ -19,7 +20,7 @@
       <mapping pattern="default-enable" type="PLAIN_TEXT" />
       <mapping pattern="TO_DELETE" type="PLAIN_TEXT" />
       <mapping pattern="oui" type="PLAIN_TEXT" />
-      <mapping pattern="hosts" type="PLAIN_TEXT" />
+      <mapping pattern="add-e2e-te" type="PLAIN_TEXT" />
       <mapping pattern=".gtikeep" type="PLAIN_TEXT" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />

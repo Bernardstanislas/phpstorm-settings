@@ -451,11 +451,11 @@
       <file name="/alto-espace-emprunteur.message [Alto staging]" timestamp="1540544860068">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/shared/authentication/authentication.module.ts" timestamp="1560764008970">
-        <mark key="[" line="18" column="12" />
-        <mark key="]" line="20" column="1" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/shared/authentication/authentication.module.ts" timestamp="1560766279590">
+        <mark key="[" line="24" column="69" />
+        <mark key="]" line="24" column="69" />
         <mark key="^" line="20" column="1" />
-        <mark key="." line="20" column="1" />
+        <mark key="." line="24" column="69" />
       </file>
       <file name="/daju.public.api_keys [Daju Postgres local]" timestamp="1553590973763">
         <mark key="[" line="0" column="0" />
@@ -1008,13 +1008,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>fc-exploitation</text>
+        <text encoding="base64">LCBzZXJpYWxpemVVc2VyOiAoLi4ubG9sKSA9PiBjb25zb2xlLmxvZyhsb2wp</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>fc-exploitation</text>
+        <text encoding="base64">LCBzZXJpYWxpemVVc2VyOiAoLi4ubG9sKSA9PiBjb25zb2xlLmxvZyhsb2wp</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXJpYWxpemVVc2VyXD4=</text>
