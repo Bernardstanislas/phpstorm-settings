@@ -155,7 +155,7 @@
         <mark key="^" line="17" column="44" />
         <mark key="." line="14" column="40" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1560757274233">
+      <file name="/GraphQL.result.json" timestamp="1560774478265">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/blog-dojo-cqrs/src/events/namespace.ts" timestamp="1545580874953">
@@ -621,10 +621,10 @@
       <file name="$USER_HOME$/Documents/code/test-gitlab-ci/.gitignore" timestamp="1557497200592">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/shared/package.json" timestamp="1560522200926">
-        <mark key="[" line="3" column="22" />
-        <mark key="]" line="3" column="22" />
-        <mark key="." line="3" column="22" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/shared/package.json" timestamp="1560774496608">
+        <mark key="[" line="52" column="16" />
+        <mark key="]" line="52" column="16" />
+        <mark key="." line="52" column="16" />
         <mark key="^" line="3" column="19" />
       </file>
       <file name="/main.user [data.db]" timestamp="1540758356007">
@@ -1008,13 +1008,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">LCBzZXJpYWxpemVVc2VyOiAoLi4ubG9sKSA9PiBjb25zb2xlLmxvZyhsb2wp</text>
+        <text>src</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LCBzZXJpYWxpemVVc2VyOiAoLi4ubG9sKSA9PiBjb25zb2xlLmxvZyhsb2wp</text>
+        <text>src</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXJpYWxpemVVc2VyXD4=</text>
