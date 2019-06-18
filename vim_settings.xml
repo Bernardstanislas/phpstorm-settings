@@ -705,11 +705,10 @@
       <file name="/oreqo.public.api_keys [oreqo@localhost]" timestamp="1555949063473">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/views/identity-provider/list.ejs" timestamp="1560874325793">
-        <mark key="'" line="11" column="10" />
-        <mark key="[" line="27" column="23" />
-        <mark key="]" line="27" column="23" />
-        <mark key="." line="27" column="23" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/views/identity-provider/list.ejs" timestamp="1560887456441">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="20" />
+        <mark key="." line="25" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/code/business-immo-directory/src/Resources/views/Front/Layout/partials/top_bar.html.twig" timestamp="1543843158065">
         <mark key="[" line="17" column="40" />
@@ -887,7 +886,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="268" column="11" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" />
       <jump line="418" column="7" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" />
       <jump line="394" column="26" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" />
       <jump line="58" column="2" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/fc-commons/models/provider.js" />
@@ -987,6 +985,7 @@
       <jump line="75" column="12" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/admin/middleware/formValidator.js" />
       <jump line="54" column="8" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/admin/views/providers.ejs" />
       <jump line="10" column="10" filename="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/views/identity-provider/list.ejs" />
+      <jump line="17" column="20" filename="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/views/identity-provider/list.ejs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1038,8 +1037,8 @@
           <key char="95" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0cj4K</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
@@ -1054,37 +1053,37 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpIGNsYXNzPSJmYSBmYS10b2dnbGUtPCU9IHByb3ZpZGVyLmFjdGl2ZSA/ICJvbiIgOiAib2ZmIiAlPiI+PC9pPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PHNjcmlwdCB0eXBlPSJhcHBsaWNhdGlvbi9qYXZhc2NyaXB0Ij4KICAgIHZhciBkZWxldGVQcm92aWRlciA9IGZ1bmN0aW9uKHByb3ZpZGVyTmFtZSwgY3NyZlRva2VuKXsKICAgICAgICB2YXIgY29uZmlybURhdGEgPSBjb25maXJtKCdTb3VoYWl0ZXogdm91cyBzdXBwcmltZXIgbGUgZm91cm5pc3NldXIgIicrcHJvdmlkZXJOYW1lKyciPyBBdHRlbnRpb24sIGNldHRlIG9ww6lyYXRpb24gZXN0IF9pcnLDqXZlcnNpYmxlXy4nKTsKICAgICAgICBpZihjb25maXJtRGF0YSl7CiAgICAgICAgICAgICQuYWpheCh7CiAgICAgICAgICAgICAgICB0eXBlOiAnUE9TVCcsCiAgICAgICAgICAgICAgICB1cmw6ICcvcHJvdmlkZXJzL2RlbGV0ZS8/X2NzcmY9JywKICAgICAgICAgICAgICAgIGRhdGE6IHsgbmFtZTpwcm92aWRlck5hbWV9LAogICAgICAgICAgICAgICAgc3VjY2VzczogIGZ1bmN0aW9uKCl7CiAgICAgICAgICAgICAgICAgICAgd2luZG93LmxvY2F0aW9uLnJlbG9hZCgpOwogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgIGVycm9yOiBmdW5jdGlvbihlcnIpewogICAgICAgICAgICAgICAgICAgIGFsZXJ0KGVycik7CiAgICAgICAgICAgICAgICAgICAgd2luZG93LmxvY2F0aW9uLnJlbG9hZCgpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9KTsKICAgICAgICB9CiAgICB9Cjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0cj4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICQoZG9jdW1lbnQpLnJlYWR5KGZ1bmN0aW9uKCQpIHsKICAgICAgICAkKCJ0ciIpLmNsaWNrKGZ1bmN0aW9uKCkgewogICAgICAgICAgICB3aW5kb3cubG9jYXRpb24gPSAkKHRoaXMpLmRhdGEoImhyZWYiKTsKICAgICAgICB9KTsKICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="r" type="4">
         <text>technical_accounting.account.filters.period</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0iZ2x5cGhpY29uIGdseXBoaWNvbi10cmFzaCIgYXJpYS1oaWRkZW49InRydWUiIHRpdGxlPSJTdXBwcmltZXIiPjwvc3Bhbj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGggc2NvcGU9ImNvbCI+VGl0bGU8L3RoPgogICAgICAgICAgICAgICAgICAgIDx0aCBzY29wZT0iY29sIj5OYW1lPC90aD4KICAgICAgICAgICAgICAgICAgICA8dGggc2NvcGU9ImNvbCI+RW1haWwgZGUgY29udGFjdDwvdGg+CiAgICAgICAgICAgICAgICAgICAgPHRoIHNjb3BlPSJjb2wiPkFjdGl2w6k8L3RoPgogICAgICAgICAgICAgICAgICAgIDx0aCBzY29wZT0iY29sIj5BZmZpY2jDqTwvdGg+CiAgICAgICAgICAgICAgICAgICAgPHRoIHNjb3BlPSJjb2wiPkVpZGFzPC90aD4KICAgICAgICAgICAgICAgICAgICA8dGggc2NvcGU9ImNvbCI+T3JkcmUgZCdhZmZpY2hhZ2U8L3RoPgogICAgICAgICAgICAgICAgICAgIDx0aCBzY29wZT0iY29sIj5BY3Rpb25zPC90aD4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9ImdseXBoaWNvbiA8JT0gcHJvdmlkZXIuZGlzcGxheSA/ICd0ZXh0LXN1Y2Nlc3MgZ2x5cGhpY29uLW9rJyA6ICd0ZXh0LWRhbmdlciBnbHlwaGljb24tYmFuJyAlPi1jaXJjbGUiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFyaWEtaGlkZGVuPSJ0cnVlIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aXRsZT0iZm91cm5pc3NldXIgPCU9IHByb3ZpZGVyLmRpc3BsYXkgPyAnYWZmaWNow6knIDogJ21hc3F1w6knICU+Ij48L3NwYW4+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHRkPjwlPSBwcm92aWRlci50aXRsZSAlPjwvdGQ+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGg+VGl0bGU8L3RoPgo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">Ci5hY3RpdmF0ZWQgPiA=</text>
+      <register name="6" type="2">
+        <text encoding="base64">PHNjcmlwdCB0eXBlPSJhcHBsaWNhdGlvbi9qYXZhc2NyaXB0Ij4KICAgIHZhciBkZWxldGVQcm92aWRlciA9IGZ1bmN0aW9uKHByb3ZpZGVyTmFtZSwgY3NyZlRva2VuKXsKICAgICAgICB2YXIgY29uZmlybURhdGEgPSBjb25maXJtKCdTb3VoYWl0ZXogdm91cyBzdXBwcmltZXIgbGUgZm91cm5pc3NldXIgIicrcHJvdmlkZXJOYW1lKyciPyBBdHRlbnRpb24sIGNldHRlIG9ww6lyYXRpb24gZXN0IF9pcnLDqXZlcnNpYmxlXy4nKTsKICAgICAgICBpZihjb25maXJtRGF0YSl7CiAgICAgICAgICAgICQuYWpheCh7CiAgICAgICAgICAgICAgICB0eXBlOiAnUE9TVCcsCiAgICAgICAgICAgICAgICB1cmw6ICcvcHJvdmlkZXJzL2RlbGV0ZS8/X2NzcmY9JywKICAgICAgICAgICAgICAgIGRhdGE6IHsgbmFtZTpwcm92aWRlck5hbWV9LAogICAgICAgICAgICAgICAgc3VjY2VzczogIGZ1bmN0aW9uKCl7CiAgICAgICAgICAgICAgICAgICAgd2luZG93LmxvY2F0aW9uLnJlbG9hZCgpOwogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgIGVycm9yOiBmdW5jdGlvbihlcnIpewogICAgICAgICAgICAgICAgICAgIGFsZXJ0KGVycik7CiAgICAgICAgICAgICAgICAgICAgd2luZG93LmxvY2F0aW9uLnJlbG9hZCgpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9KTsKICAgICAgICB9CiAgICB9Cjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9ImdseXBoaWNvbiA8JT0gcHJvdmlkZXIuYWN0aXZlID8gJ3RleHQtc3VjY2VzcyBnbHlwaGljb24tb2snIDogJ3RleHQtZGFuZ2VyIGdseXBoaWNvbi1iYW4nICU+LWNpcmNsZSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXJpYS1oaWRkZW49InRydWUiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRpdGxlPSJmb3Vybmlzc2V1ciA8JT0gcHJvdmlkZXIuYWN0aXZlID8gJ2FjdGlmJyA6ICdibG9xdcOpJyAlPiI+PC9zcGFuPgo=</text>
+        <text encoding="base64">ICAgICQoZG9jdW1lbnQpLnJlYWR5KGZ1bmN0aW9uKCQpIHsKICAgICAgICAkKCJ0ciIpLmNsaWNrKGZ1bmN0aW9uKCkgewogICAgICAgICAgICB3aW5kb3cubG9jYXRpb24gPSAkKHRoaXMpLmRhdGEoImhyZWYiKTsKICAgICAgICB9KTsKICAgIH0pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PGxpbmsgcmVsPSJzdHlsZXNoZWV0IiBocmVmPSJodHRwczovL2NkbmpzLmNsb3VkZmxhcmUuY29tL2FqYXgvbGlicy9mb250LWF3ZXNvbWUvNS44LjIvY3NzL2ZvbnRhd2Vzb21lLm1pbi5jc3MiIGludGVncml0eT0ic2hhMjU2LUg5b2NoTW1sM0xoNkZFL0tLVFVGZncyaEQ3bXhjOWM4cFhvcWZJc281Wms9IiBjcm9zc29yaWdpbj0iYW5vbnltb3VzIiAvPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0iZ2x5cGhpY29uIGdseXBoaWNvbi10cmFzaCIgYXJpYS1oaWRkZW49InRydWUiIHRpdGxlPSJTdXBwcmltZXIiPjwvc3Bhbj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9Imh0dHBzOi8vY2RuanMuY2xvdWRmbGFyZS5jb20vYWpheC9saWJzL2ZvbnQtYXdlc29tZS81LjguMi9qcy9hbGwubWluLmpzIj48L3NjcmlwdD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9ImdseXBoaWNvbiA8JT0gcHJvdmlkZXIuZGlzcGxheSA/ICd0ZXh0LXN1Y2Nlc3MgZ2x5cGhpY29uLW9rJyA6ICd0ZXh0LWRhbmdlciBnbHlwaGljb24tYmFuJyAlPi1jaXJjbGUiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFyaWEtaGlkZGVuPSJ0cnVlIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aXRsZT0iZm91cm5pc3NldXIgPCU9IHByb3ZpZGVyLmRpc3BsYXkgPyAnYWZmaWNow6knIDogJ21hc3F1w6knICU+Ij48L3NwYW4+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/form-signin/login-form/g</text>
