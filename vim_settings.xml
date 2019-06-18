@@ -707,11 +707,11 @@
       <file name="/oreqo.public.api_keys [oreqo@localhost]" timestamp="1555949063473">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/views/identity-provider/list.ejs" timestamp="1560866846218">
-        <mark key="[" line="42" column="109" />
-        <mark key="]" line="42" column="109" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/views/identity-provider/list.ejs" timestamp="1560868004178">
+        <mark key="[" line="8" column="21" />
+        <mark key="]" line="8" column="21" />
         <mark key="^" line="4" column="2" />
-        <mark key="." line="42" column="109" />
+        <mark key="." line="8" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/code/business-immo-directory/src/Resources/views/Front/Layout/partials/top_bar.html.twig" timestamp="1543843158065">
         <mark key="[" line="17" column="40" />
@@ -1035,13 +1035,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>-fluid</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>-fluid</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZWxldGVQcm92aWRlclw+</text>
