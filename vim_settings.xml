@@ -254,8 +254,10 @@
       <file name="$USER_HOME$/Documents/code/daju-landing/src/components/Homepage/Features/index.tsx" timestamp="1549736123239">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/package.json" timestamp="1560850394831">
-        <mark key="[" line="8" column="151" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/package.json" timestamp="1560862910912">
+        <mark key="[" line="9" column="23" />
+        <mark key="]" line="9" column="23" />
+        <mark key="." line="9" column="23" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2f06f4c5-3f90-4e16-a04a-d16027afbf01/console.sql" timestamp="1539357442635">
         <mark key="[" line="0" column="0" />
@@ -1003,13 +1005,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>string</text>
+        <text>ts-node ./node_modules/typeorm/cli.js</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>string</text>
+        <text>ts-node ./node_modules/typeorm/cli.js</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXJpYWxpemVVc2VyXD4=</text>
