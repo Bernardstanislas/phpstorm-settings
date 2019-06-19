@@ -166,6 +166,11 @@
         <mark key="." line="19" column="51" />
         <mark key="^" line="19" column="51" />
       </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/.gitlab-ci.yml" timestamp="1560937105494">
+        <mark key="[" line="15" column="9" />
+        <mark key="]" line="15" column="9" />
+        <mark key="." line="15" column="9" />
+      </file>
       <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/tsconfig.json" timestamp="1560522857379">
         <mark key="[" line="11" column="24" />
         <mark key="]" line="13" column="1" />
@@ -350,19 +355,19 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>shared</text>
+        <text>stats</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>shared</text>
+        <text>stats</text>
       </register>
       <register name="/" type="4">
         <text>shared</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBUeXBlT3JtTW9kdWxlLmZvckZlYXR1cmUoW0lkZW50aXR5UHJvdmlkZXJdLCAnZmMtbW9uZ28nKSwK</text>
+        <text encoding="base64">ICAtICcvZmMtc3RhdHMvLmdpdGxhYi1jaS55bWwnCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHByb3ZpZGVyczogWyBSZXBvc2l0b3J5IF0sCg==</text>
