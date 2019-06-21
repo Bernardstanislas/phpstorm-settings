@@ -169,7 +169,7 @@
         <mark key="^" line="16" column="44" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1561036859294">
+      <file name="/GraphQL.result.json" timestamp="1561107121969">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/blog-dojo-cqrs/src/events/namespace.ts" timestamp="1545580874953">
@@ -246,6 +246,7 @@
         <mark key="]" line="9" column="23" />
         <mark key="." line="9" column="23" />
       </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/Infra/ansible/env-fcp/int/inventory" timestamp="1561107177767" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2f06f4c5-3f90-4e16-a04a-d16027afbf01/console.sql" timestamp="1539357442635">
         <mark key="[" line="0" column="0" />
       </file>
@@ -315,6 +316,9 @@
       <file name="$USER_HOME$/Documents/code/daju-landing/.gitignore" timestamp="1548695318758">
         <mark key="[" line="69" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/partenaires/controllers/statsController.js" timestamp="1561108098127">
+        <mark key="'" line="116" column="26" />
+      </file>
       <file name="/main.daju_user [data.db]" timestamp="1540750682062">
         <mark key="[" line="0" column="0" />
       </file>
@@ -333,7 +337,6 @@
       <file name="$USER_HOME$/Documents/code/daju-landing/src/components/Homepage/Header/Splash/index.tsx" timestamp="1549738110353">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/fc-commons/models/provider.js" timestamp="1560865894687" />
       <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/shared/src/shared.module.ts" timestamp="1560525538239">
         <mark key="[" line="7" column="2" />
         <mark key="]" line="7" column="31" />
@@ -471,6 +474,9 @@
       <file name="/daju.public.print_jobs [Daju Postgres local]" timestamp="1553554244088">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/partenaires/routes/indexV3Router.js" timestamp="1561108646283">
+        <mark key="'" line="657" column="0" />
+      </file>
       <file name="/message [Alto staging]" timestamp="1540801614622">
         <mark key="[" line="0" column="0" />
       </file>
@@ -550,6 +556,9 @@
       </file>
       <file name="/stackoverflow-on-the-go.public.answers [stackoverflow-on-the-go@localhost]" timestamp="1560282301548">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/api/middleware/applicationAuthorization.js" timestamp="1561110101201">
+        <mark key="[" line="31" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/code/business-immo-directory/src/AppBundle/Resources/views/Back/Layout/top_bar.html.twig" timestamp="1543329996045">
         <mark key="[" line="12" column="73" />
@@ -788,17 +797,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="26" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" />
-      <jump line="188" column="19" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" />
-      <jump line="418" column="14" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/test/unit/controllers/indexControllerSpec.js" />
-      <jump line="305" column="8" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" />
-      <jump line="327" column="4" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" />
-      <jump line="387" column="2" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" />
-      <jump line="255" column="11" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" />
-      <jump line="239" column="18" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" />
-      <jump line="109" column="26" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" />
-      <jump line="206" column="26" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" />
-      <jump line="234" column="11" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" />
       <jump line="245" column="11" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" />
       <jump line="256" column="11" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" />
       <jump line="334" column="8" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" />
@@ -888,6 +886,17 @@
       <jump line="7" column="50" filename="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/identity-provider/identity-provider.controller.ts" />
       <jump line="21" column="46" filename="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/node_modules/@nestjs/typeorm/dist/typeorm.module.js" />
       <jump line="0" column="20" filename="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/.gitlab-ci.yml" />
+      <jump line="150" column="26" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/partenaires/controllers/statsController.js" />
+      <jump line="116" column="26" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/partenaires/controllers/statsController.js" />
+      <jump line="87" column="2" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/partenaires/routes/indexV3Router.js" />
+      <jump line="120" column="2" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/partenaires/routes/indexV3Router.js" />
+      <jump line="182" column="2" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/partenaires/routes/indexV3Router.js" />
+      <jump line="215" column="2" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/partenaires/routes/indexV3Router.js" />
+      <jump line="240" column="2" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/partenaires/routes/indexV3Router.js" />
+      <jump line="26" column="50" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/partenaires/routes/indexV3Router.js" />
+      <jump line="30" column="6" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/partenaires/routes/indexV3Router.js" />
+      <jump line="42" column="9" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/partenaires/routes/indexV3Router.js" />
+      <jump line="657" column="0" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/partenaires/routes/indexV3Router.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -949,7 +958,7 @@
         <text>stats</text>
       </register>
       <register name="/" type="4">
-        <text>shared</text>
+        <text>cadrage</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAtICcvZmMtc3RhdHMvLmdpdGxhYi1jaS55bWwnCg==</text>
@@ -995,9 +1004,9 @@
       </register>
     </registers>
     <search>
-      <last-search>shared</last-search>
+      <last-search>cadrage</last-search>
       <last-offset />
-      <last-pattern>shared</last-pattern>
+      <last-pattern>cadrage</last-pattern>
       <last-replace>fc-exploitation</last-replace>
       <last-substitute>shared</last-substitute>
       <last-dir>1</last-dir>
@@ -1005,10 +1014,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxqd3RTaW1wbGVcPg==</entry>
-        <entry encoding="base64">XDxzaWduSnd0XD4=</entry>
-        <entry encoding="base64">XDxub2RlbWFpbGVyXD4=</entry>
-        <entry encoding="base64">XDx0cmFuc3BvcnRlclw+</entry>
         <entry encoding="base64">XDxnZXRUcmFuc3BvcnRlclw+</entry>
         <entry encoding="base64">XDxnZW9pcDJkYlw+</entry>
         <entry encoding="base64">XDxhdmFpbGFibGVGSXNcPg==</entry>
@@ -1025,6 +1030,10 @@
         <entry encoding="base64">XDxJZGVudGl0eVByb3ZpZGVyXD4=</entry>
         <entry encoding="base64">XDxjcmVhdGVUeXBlT3JtUHJvdmlkZXJzXD4=</entry>
         <entry>shared</entry>
+        <entry encoding="base64">XDxidWlsZFN0YXRzUmVxdWVzdFw+</entry>
+        <entry encoding="base64">XDxnZXRQcm9kdWN0aW9uU3RhdHNcPg==</entry>
+        <entry encoding="base64">XDxjb250ZW50TWFuYWdlbWVudEFwaVw+</entry>
+        <entry>cadrage</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2ZyYW5jZS1jb25uZWN0XC9pbmZyYS9nNHZyb2NoZVwvZm9vYmFyL2c=</entry>
