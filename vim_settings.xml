@@ -536,10 +536,10 @@
       <file name="/oreqo.public.api_keys [oreqo@localhost]" timestamp="1555949063473">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/views/identity-provider/list.ejs" timestamp="1561378928357">
-        <mark key="[" line="17" column="43" />
-        <mark key="]" line="7" column="37" />
-        <mark key="." line="7" column="37" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/views/identity-provider/list.ejs" timestamp="1561395074989">
+        <mark key="[" line="17" column="66" />
+        <mark key="]" line="17" column="66" />
+        <mark key="." line="17" column="66" />
         <mark key="^" line="7" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/code/business-immo-directory/src/Resources/views/Front/Layout/partials/top_bar.html.twig" timestamp="1543843158065">
@@ -830,13 +830,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">PCU9IEdJVF9DVVJSRU5UX0JSQU5DSCAlPiAtIA==</text>
+        <text>rounded</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PCU9IEdJVF9DVVJSRU5UX0JSQU5DSCAlPiAtIA==</text>
+        <text>rounded</text>
       </register>
       <register name="/" type="4">
         <text>cadrage</text>
