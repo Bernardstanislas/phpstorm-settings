@@ -44,10 +44,10 @@
       <file name="/business_immo_directory.person [Business immo directory]" timestamp="1542906982261">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/app.controller.ts" timestamp="1561455117061">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/app.controller.ts" timestamp="1561473866365">
+        <mark key="[" line="5" column="8" />
+        <mark key="]" line="5" column="8" />
+        <mark key="." line="5" column="8" />
         <mark key="^" line="6" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/code/sphere/frontend/src/modules/Contract/Form/AttributeWidgetFactory/AttributeWidgetFactory.spec.js" timestamp="1538409328868">
@@ -114,11 +114,10 @@
       <file name="/main.sqlite_master [Local fc-exploitation]" timestamp="1559555438694">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/meta/locals.interceptor.spec.ts" timestamp="1561456291241">
-        <mark key="[" line="67" column="45" />
-        <mark key="]" line="67" column="45" />
-        <mark key="." line="67" column="45" />
-        <mark key="^" line="66" column="69" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/meta/locals.interceptor.spec.ts" timestamp="1561474425522">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/docker-compose.yml" timestamp="1558618265617">
         <mark key="[" line="2" column="9" />
@@ -216,11 +215,11 @@
       <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/config/app.php" timestamp="1558438562394">
         <mark key="[" line="175" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/meta/locals.interceptor.ts" timestamp="1561453053742">
-        <mark key="[" line="25" column="42" />
-        <mark key="]" line="26" column="0" />
-        <mark key="^" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/meta/locals.interceptor.ts" timestamp="1561474467514">
+        <mark key="[" line="21" column="49" />
+        <mark key="]" line="21" column="49" />
+        <mark key="^" line="21" column="48" />
+        <mark key="." line="21" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/code/alto-espace-emprunteur/client/src/components/Header/tests/Header.test.js" timestamp="1540201904512">
         <mark key="[" line="16" column="15" />
@@ -345,11 +344,11 @@
       <file name="$USER_HOME$/Documents/code/daju-landing/src/components/Homepage/Header/Splash/index.tsx" timestamp="1549738110353">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/config/app.ts" timestamp="1561387224852">
-        <mark key="[" line="1" column="50" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="3" column="0" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/config/app.ts" timestamp="1561474520283">
+        <mark key="[" line="3" column="19" />
+        <mark key="]" line="5" column="26" />
+        <mark key="." line="5" column="26" />
+        <mark key="^" line="5" column="26" />
       </file>
       <file name="/sphere.public.company [Sphere]" timestamp="1538490576302">
         <mark key="[" line="0" column="0" />
@@ -455,11 +454,11 @@
       <file name="/daju-test.public.user [daju-test]" timestamp="1540332795150">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/.gitlab-ci.yml" timestamp="1561467499405">
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/.gitlab-ci.yml" timestamp="1561467503603">
         <mark key="[" line="11" column="8" />
-        <mark key="]" line="11" column="8" />
-        <mark key="." line="11" column="8" />
-        <mark key="^" line="11" column="7" />
+        <mark key="]" line="11" column="13" />
+        <mark key="." line="11" column="13" />
+        <mark key="^" line="11" column="13" />
       </file>
       <file name="/daju.public.print_jobs [Daju Postgres local]" timestamp="1553554244088">
         <mark key="[" line="0" column="0" />
@@ -763,11 +762,10 @@
       <file name="$USER_HOME$/Documents/code/daju/config/services_test.yml" timestamp="1539172430896">
         <mark key="[" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/app.module.ts" timestamp="1561455236729">
-        <mark key="[" line="16" column="27" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-        <mark key="^" line="38" column="59" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/app.module.ts" timestamp="1561474584130">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/shared/views/partials/head.ejs" timestamp="1561452652233">
         <mark key="[" line="5" column="0" />
@@ -934,14 +932,14 @@
           <key char="95" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>-exploitation</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHtNZXRhTW9kdWxlfSBmcm9tICJzaGFyZWQvbWV0YS9tZXRhLm1vZHVsZSI7Cg==</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>-exploitation</text>
+        <text>await this.gitService.getLatestCommitLongHash();</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXRob2RcPg==</text>
@@ -950,37 +948,37 @@
         <text encoding="base64">ICAgICAgLSBmYy1leHBsb2l0YXRpb24vbm9kZV9tb2R1bGVzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC0gbnBtIGkgLWcgbnBtCg==</text>
+        <text encoding="base64">aW1wb3J0IHtNZXRhTW9kdWxlfSBmcm9tICJzaGFyZWQvbWV0YS9tZXRhLm1vZHVsZSI7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkZXBlbmRlbmNpZXM6CiAgICAtIGJ1aWxkKHNoYXJlZCkK</text>
+        <text encoding="base64">ICAgIE1ldGFNb2R1bGUsZGQK</text>
       </register>
       <register name="r" type="4">
         <text>technical_accounting.account.filters.period</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHA+PGk+PCU9IHByb3ZpZGVycy5sZW5ndGggJT4gZm91cm5pc3NldXJzIGRpc3BvbmlibGVzPC9pPjwvcD4KCiAgICAgICAgICAgIDx0YWJsZSBjbGFzcz0idGFibGUgdGFibGUtaG92ZXIgdGFibGUtbGlnaHQgc2hhZG93LXNtIj4KICAgICAgICAgICAgICAgIDx0aGVhZCBjbGFzcz0idGhlYWQtbGlnaHQiPgogICAgICAgICAgICAgICAgICAgIDx0cj4KICAgICAgICAgICAgICAgICAgICAgICAgPHRoIHNjb3BlPSJjb2wiPlRpdGxlPC90aD4KICAgICAgICAgICAgICAgICAgICAgICAgPHRoIHNjb3BlPSJjb2wiPk5hbWU8L3RoPgogICAgICAgICAgICAgICAgICAgICAgICA8dGggc2NvcGU9ImNvbCI+RW1haWwgZGUgY29udGFjdDwvdGg+CiAgICAgICAgICAgICAgICAgICAgICAgIDx0aCBzY29wZT0iY29sIj5BY3RpdsOpPC90aD4KICAgICAgICAgICAgICAgICAgICAgICAgPHRoIHNjb3BlPSJjb2wiPkFmZmljaMOpPC90aD4KICAgICAgICAgICAgICAgICAgICAgICAgPHRoIHNjb3BlPSJjb2wiPkVpZGFzPC90aD4KICAgICAgICAgICAgICAgICAgICAgICAgPHRoIHNjb3BlPSJjb2wiPk9yZHJlIGQnYWZmaWNoYWdlPC90aD4KICAgICAgICAgICAgICAgICAgICAgICAgPHRoIHNjb3BlPSJjb2wiPkFjdGlvbnM8L3RoPgogICAgICAgICAgICAgICAgICAgIDwvdHI+CiAgICAgICAgICAgICAgICA8L3RoZWFkPgogICAgICAgICAgICAgICAgPHRib2R5PgogICAgICAgICAgICAgICAgPCUgcHJvdmlkZXJzLmZvckVhY2goZnVuY3Rpb24ocHJvdmlkZXIpeyAlPgogICAgICAgICAgICAgICAgICAgIDx0cj4KICAgICAgICAgICAgICAgICAgICAgICAgPHRoIHNjb3BlPSJyb3ciPjwlPSBwcm92aWRlci50aXRsZSAlPjwvdGg+CiAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD48JT0gcHJvdmlkZXIubmFtZSAlPjwvdGQ+CiAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD48JT0gcHJvdmlkZXIubWFpbHRvICU+PC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgPHRkIGNsYXNzPSJ0ZXh0LWNlbnRlciI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aSBjbGFzcz0iZmEgZmEtdG9nZ2xlLTwlPSBwcm92aWRlci5hY3RpdmUgPyAib24iIDogIm9mZiIgJT4iPjwvaT4KICAgICAgICAgICAgICAgICAgICAgICAgPC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgPHRkIGNsYXNzPSJ0ZXh0LWNlbnRlciI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aSBjbGFzcz0iZmEgZmEtdG9nZ2xlLTwlPSBwcm92aWRlci5kaXNwbGF5ID8gIm9uIiA6ICJvZmYiICU+Ij48L2k+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvdGQ+CiAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD48JT0gcHJvdmlkZXIuZWlkYXMgJT48L3RkPgogICAgICAgICAgICAgICAgICAgICAgICA8dGQ+PCU9IHByb3ZpZGVyLm9yZGVyICU+PC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgPHRkIGNsYXNzPSJ0ZXh0LXJpZ2h0Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhIGhyZWY9IiMiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpIGNsYXNzPSJmYSBmYS10cmFzaCIgYXJpYS1oaWRkZW49InRydWUiIHRpdGxlPSJTdXBwcmltZXIiPjwvaT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvYT4KICAgICAgICAgICAgICAgICAgICAgICAgPC90ZD4KICAgICAgICAgICAgICAgICAgICA8L3RyPgogICAgICAgICAgICAgICAgPCUgfSkgJT4KICAgICAgICAgICAgICAgIDwvdGJvZHk+CiAgICAgICAgICAgIDwvdGFibGU+Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtHaXRTZXJ2aWNlfSBmcm9tICJzaGFyZWQvbWV0YS9naXQuc2VydmljZSI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJvdmlkZXJzLAo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IGdpdFNlcnZpY2U6IEdpdFNlcnZpY2UsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBwcm92aWRlcnMgPSBhd2FpdCB0aGlzLmlkZW50aXR5UHJvdmlkZXJSZXBvc2l0b3J5LmZpbmQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEdpdFNlcnZpY2UsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtHaXRTZXJ2aWNlfSBmcm9tICJzaGFyZWQvbWV0YS9naXQuc2VydmljZSI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0cnVjdG9yKEBJbmplY3RSZXBvc2l0b3J5KElkZW50aXR5UHJvdmlkZXIsICdmYy1tb25nbycpIHByaXZhdGUgcmVhZG9ubHkgaWRlbnRpdHlQcm92aWRlclJlcG9zaXRvcnk6IFJlcG9zaXRvcnk8SWRlbnRpdHlQcm92aWRlcj4pIHt9Cg==</text>
+        <text encoding="base64">ICAgICAgICBnaXRTZXJ2aWNlLmdldEN1cnJlbnRCcmFuY2gubW9ja1Jlc29sdmVkVmFsdWVPbmNlKGN1cnJlbnRCcmFuY2gpOwogICAgICAgIGdpdFNlcnZpY2UuZ2V0TGF0ZXN0Q29tbWl0TG9uZ0hhc2gubW9ja1Jlc29sdmVkVmFsdWVPbmNlKGxvbmdIYXNoKTsKICAgICAgICBnaXRTZXJ2aWNlLmdldExhdGVzdENvbW1pdFNob3J0SGFzaC5tb2NrUmVzb2x2ZWRWYWx1ZU9uY2Uoc2hvcnRIYXNoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGltcG9ydHM6IFsKICAgICAgICBUeXBlT3JtTW9kdWxlLmZvckZlYXR1cmUoW0lkZW50aXR5UHJvdmlkZXJdLCAnZmMtbW9uZ28nKSwKICAgIF0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLm92ZXJyaWRlUHJvdmlkZXIoR2l0U2VydmljZSkKICAgICAgICAgICAgLnVzZVZhbHVlKGdpdFNlcnZpY2UpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXMucmVkaXJlY3QoJy9zZXJ2aWNlLXByb3ZpZGVyJyk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGdpdFNlcnZpY2UgPSB7CiAgICAgICAgZ2V0Q3VycmVudEJyYW5jaDogamVzdC5mbigpLAogICAgICAgIGdldExhdGVzdENvbW1pdExvbmdIYXNoOiBqZXN0LmZuKCksCiAgICAgICAgZ2V0TGF0ZXN0Q29tbWl0U2hvcnRIYXNoOiBqZXN0LmZuKCksCiAgICB9Owo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/shared/fc-exploitation/g</text>
