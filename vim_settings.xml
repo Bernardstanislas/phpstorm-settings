@@ -641,18 +641,23 @@
       <file name="/oreqo.public.api_keys [oreqo@localhost]" timestamp="1555949063473">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/views/identity-provider/list.ejs" timestamp="1561641546547">
-        <mark key="[" line="1" column="15" />
-        <mark key="]" line="1" column="15" />
-        <mark key="." line="1" column="15" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/views/identity-provider/list.ejs" timestamp="1561645190294">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/views/login.ejs" timestamp="1561645178373">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/business-immo-directory/src/Resources/views/Front/Layout/partials/top_bar.html.twig" timestamp="1543843158065">
         <mark key="[" line="17" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/views/service-provider/list.ejs" timestamp="1561641598785">
-        <mark key="[" line="1" column="15" />
-        <mark key="]" line="1" column="15" />
-        <mark key="." line="1" column="15" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/views/service-provider/list.ejs" timestamp="1561645199373">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="/daju.public.api_key_admin_events [Daju Postgres local]" timestamp="1543084318445">
         <mark key="[" line="0" column="0" />
@@ -713,11 +718,11 @@
       <file name="/sphere.public.stored_event [Sphere]" timestamp="1538648676281">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/views/partials/head.ejs" timestamp="1561642551484">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/views/partials/head.ejs" timestamp="1561645167043">
+        <mark key="[" line="6" column="41" />
+        <mark key="]" line="8" column="30" />
         <mark key="^" line="6" column="40" />
-        <mark key="." line="7" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="/business_immo_legacy.users [Business immo legacy]" timestamp="1544441105456">
         <mark key="[" line="0" column="0" />
@@ -968,14 +973,14 @@
           <key char="95" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>css/font-awesome.css</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDx0aXRsZT5GQyBFeHBsb2l0YXRpb248L3RpdGxlPgo=</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>css/font-awesome.css</text>
+        <text encoding="base64">IHN0eWxlPSJoZWlnaHQ6IDEwMCU7Ig==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXRob2RcPg==</text>
@@ -984,41 +989,37 @@
         <text encoding="base64">aW1wb3J0ICdmb250LWF3ZXNvbWUvY3NzL2ZvbnQtYXdlc29tZS5jc3MnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PHNjcmlwdCBkZWZlciBzcmM9Imh0dHBzOi8vY2RuanMuY2xvdWRmbGFyZS5jb20vYWpheC9saWJzL2ZvbnQtYXdlc29tZS81LjguMi9qcy9hbGwubWluLmpzIiBpbnRlZ3JpdHk9InNoYTI1Ni1KZ0d0a2pNRURoNGRaajdVdFdxU2JVY2Z0ZHdURkxOUjNpaDdGSDgwUkhzPSIgY3Jvc3NvcmlnaW49ImFub255bW91cyI+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">ICAgIDx0aXRsZT5GQyBFeHBsb2l0YXRpb248L3RpdGxlPgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PGxpbmsgcmVsPSJzdHlsZXNoZWV0IiBocmVmPSJodHRwczovL3N0YWNrcGF0aC5ib290c3RyYXBjZG4uY29tL2Jvb3RzdHJhcC80LjMuMS9jc3MvYm9vdHN0cmFwLm1pbi5jc3MiIGludGVncml0eT0ic2hhMzg0LWdnT3lSMGlYQ2JNUXYzWGlwbWEzNE1EK2RILzFmUTc4NC9qNmNZL2lKVFFVT2hjV3I3eDlKdm9SeFQyTVp3MVQiIGNyb3Nzb3JpZ2luPSJhbm9ueW1vdXMiPgo=</text>
+        <text encoding="base64">ICAgIDx0aXRsZT5GQyBFeHBsb2l0YXRpb248L3RpdGxlPgo=</text>
       </register>
       <register name="r" type="4">
         <text>technical_accounting.account.filters.period</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cAoK</text>
+        <text encoding="base64">PGhlYWQ+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0ICcuLi9zdHlsZS9tYWluLmxlc3MnOwo=</text>
+        <text encoding="base64">ICAgIDx0aXRsZT5GQyBFeHBsb2l0YXRpb248L3RpdGxlPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QGltcG9ydCAnfmJvb3RzdHJhcC9kaXN0L2Nzcy9ib290c3RyYXAuY3NzJzsK</text>
+        <text encoding="base64">PC9oZWFkPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9Imh0dHBzOi8vY29kZS5qcXVlcnkuY29tL2pxdWVyeS0zLjMuMS5zbGltLm1pbi5qcyIgaW50ZWdyaXR5PSJzaGEzODQtcThpL1grOTY1RHpPMHJUN2FiSzQxSlN0UUlBcVZnUlZ6cGJ6bzVzbVhLcDRZZlJ2SCs4YWJ0VEUxUGk2aml6byIgY3Jvc3NvcmlnaW49ImFub255bW91cyI+PC9zY3JpcHQ+CjxzY3JpcHQgc3JjPSJodHRwczovL2NkbmpzLmNsb3VkZmxhcmUuY29tL2FqYXgvbGlicy9wb3BwZXIuanMvMS4xNC43L3VtZC9wb3BwZXIubWluLmpzIiBpbnRlZ3JpdHk9InNoYTM4NC1VTzJlVDBDcEhxZFNKUTZoSnR5NUtWcGh0UGh6V2o5V08xY2xIVE1HYTNKRFp3cm5RcTRzRjg2ZElITkR6MFcxIiBjcm9zc29yaWdpbj0iYW5vbnltb3VzIj48L3NjcmlwdD4KPHNjcmlwdCBzcmM9Imh0dHBzOi8vc3RhY2twYXRoLmJvb3RzdHJhcGNkbi5jb20vYm9vdHN0cmFwLzQuMy4xL2pzL2Jvb3RzdHJhcC5taW4uanMiIGludGVncml0eT0ic2hhMzg0LUpqU21WZ3lkMHAzcFhCMXJSaWJaVUFZb0lJeTZPclE2VnJqSUVhRmYvbkpHekl4RkRzZjR4MHhJTStCMDdqUk0iIGNyb3Nzb3JpZ2luPSJhbm9ueW1vdXMiPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">PHNjcmlwdCBkZWZlciBzcmM9Imh0dHBzOi8vY2RuanMuY2xvdWRmbGFyZS5jb20vYWpheC9saWJzL2ZvbnQtYXdlc29tZS81LjguMi9qcy9hbGwubWluLmpzIiBpbnRlZ3JpdHk9InNoYTI1Ni1KZ0d0a2pNRURoNGRaajdVdFdxU2JVY2Z0ZHdURkxOUjNpaDdGSDgwUkhzPSIgY3Jvc3NvcmlnaW49ImFub255bW91cyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ci5sb2dpbi1mb3JtIAoubG9naW4tZm9ybSAKCi5sb2dpbi1mb3JtIAo=</text>
+        <text encoding="base64">PGxpbmsgcmVsPSJzdHlsZXNoZWV0IiBocmVmPSJodHRwczovL3N0YWNrcGF0aC5ib290c3RyYXBjZG4uY29tL2Jvb3RzdHJhcC80LjMuMS9jc3MvYm9vdHN0cmFwLm1pbi5jc3MiIGludGVncml0eT0ic2hhMzg0LWdnT3lSMGlYQ2JNUXYzWGlwbWEzNE1EK2RILzFmUTc4NC9qNmNZL2lKVFFVT2hjV3I3eDlKdm9SeFQyTVp3MVQiIGNyb3Nzb3JpZ2luPSJhbm9ueW1vdXMiPgo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgaW5wdXQKCiAgaW5wdXQ=</text>
+      <register name="8" type="2">
+        <text encoding="base64">cAoK</text>
       </register>
-      <register name="9" type="4">
-        <text>input[name=&quot;username&quot;] {
-  margin-bottom: -1px;
-  border-bottom-right-radius: 0;
-  border-bottom-left-radius: 0;
-}</text>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0ICcuLi9zdHlsZS9tYWluLmxlc3MnOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/shared/fc-exploitation/g</text>
