@@ -528,12 +528,12 @@
       <file name="/app_users [francis@localhost]" timestamp="1547200899685">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/public/style/login.less" timestamp="1561641788884">
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/public/style/login.less" timestamp="1561646118996">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="^" line="42" column="2" />
-        <mark key="." line="44" column="0" />
+        <mark key="[" line="11" column="19" />
+        <mark key="]" line="48" column="0" />
+        <mark key="^" line="46" column="2" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/aa5abfb6-997e-40b0-9d2c-f29c6c286d48/console_1.sql" timestamp="1560318798834">
         <mark key="[" line="0" column="0" />
@@ -646,10 +646,10 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/views/login.ejs" timestamp="1561645178373">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/views/login.ejs" timestamp="1561646110802">
+        <mark key="[" line="8" column="68" />
+        <mark key="]" line="8" column="68" />
+        <mark key="." line="8" column="68" />
       </file>
       <file name="$USER_HOME$/Documents/code/business-immo-directory/src/Resources/views/Front/Layout/partials/top_bar.html.twig" timestamp="1543843158065">
         <mark key="[" line="17" column="40" />
@@ -973,14 +973,14 @@
           <key char="95" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDx0aXRsZT5GQyBFeHBsb2l0YXRpb248L3RpdGxlPgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IHdpZHRoPSIyNTBweCI=</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHN0eWxlPSJoZWlnaHQ6IDEwMCU7Ig==</text>
+        <text encoding="base64">IHdpZHRoPSIyNTBweCI=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXRob2RcPg==</text>
