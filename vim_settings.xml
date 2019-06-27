@@ -167,7 +167,7 @@
       <file name="$USER_HOME$/Documents/code/oreqo/server/app/Http/Middleware/JsonMiddleware.php" timestamp="1555956499580">
         <mark key="[" line="16" column="5" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1561452181676">
+      <file name="/GraphQL.result.json" timestamp="1561623900990">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/blog-dojo-cqrs/src/events/namespace.ts" timestamp="1545580874953">
@@ -185,10 +185,10 @@
       <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/.gitignore" timestamp="1560507278599">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/views/partials/header.ejs" timestamp="1561455328631">
-        <mark key="[" line="24" column="75" />
-        <mark key="]" line="21" column="90" />
-        <mark key="." line="21" column="90" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/views/partials/header.ejs" timestamp="1561623931202">
+        <mark key="[" line="6" column="22" />
+        <mark key="]" line="6" column="22" />
+        <mark key="." line="6" column="22" />
         <mark key="^" line="21" column="90" />
       </file>
       <file name="$USER_HOME$/Documents/code/blog-dojo-cqrs/tslint.json" timestamp="1545580922904">
@@ -763,7 +763,6 @@
       <file name="$USER_HOME$/Documents/code/daju/config/services_test.yml" timestamp="1539172430896">
         <mark key="[" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/app.module.ts" timestamp="1561474584130" />
       <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/shared/views/partials/head.ejs" timestamp="1561452652233">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="10" column="68" />
@@ -930,13 +929,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>SHORT</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>SHORT</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXRob2RcPg==</text>
