@@ -316,9 +316,6 @@
       <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/src/config/config.provider.ts" timestamp="1558715521863">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/shared/user/user.service.spec.ts" timestamp="1561733786178">
-        <mark key="[" line="34" column="7" />
-      </file>
       <file name="$USER_HOME$/Documents/code/oreqo/server/config/queue.php" timestamp="1561447123219">
         <mark key="[" line="15" column="42" />
         <mark key="]" line="15" column="42" />
@@ -745,10 +742,10 @@
       <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/cypress/integration/partenaires.spec.js" timestamp="1557241102823">
         <mark key="[" line="38" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/.gitlab-ci.yml" timestamp="1561465667431">
-        <mark key="[" line="0" column="7" />
-        <mark key="]" line="15" column="9" />
-        <mark key="." line="15" column="9" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/.gitlab-ci.yml" timestamp="1561734632430">
+        <mark key="[" line="1" column="9" />
+        <mark key="]" line="24" column="9" />
+        <mark key="." line="24" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/code/forge/startproject/api-platform/plopIgnore/.gitkeep" timestamp="1548240678433">
         <mark key="[" line="0" column="0" />
