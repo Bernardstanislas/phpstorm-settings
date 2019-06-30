@@ -6,15 +6,10 @@
       <file name="$USER_HOME$/Documents/code/blog-dojo-cqrs/src/event-sourced-article.repository.ts" timestamp="1546095334296">
         <mark key="[" line="8" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/public/css/identity-provider/list.css" timestamp="1560873176253">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="/sphere.public.contract [Sphere]" timestamp="1538641346930">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1561904253363">
+      <file name="/a.dummy" timestamp="1561908818843">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/fc-commons/package.json" timestamp="1560268454892">
@@ -58,16 +53,6 @@
       </file>
       <file name="$USER_HOME$/Documents/code/sphere/frontend/src/modules/Contract/Form/AttributeWidgetFactory/AttributeWidgetFactory.spec.js" timestamp="1538409328868">
         <mark key="[" line="95" column="32" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/oreqo/server/app/MyDomain/QueuedConsumer.php" timestamp="1561440141077">
-        <mark key="[" line="24" column="95" />
-        <mark key="]" line="24" column="28" />
-        <mark key="." line="24" column="28" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/oreqo/server/.env" timestamp="1561409489561">
-        <mark key="[" line="17" column="17" />
-        <mark key="]" line="17" column="17" />
-        <mark key="." line="17" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/code/alto-espace-emprunteur/client/src/components/Messages/MessageList/Message/index.js" timestamp="1539763740062">
         <mark key="[" line="0" column="0" />
@@ -125,11 +110,6 @@
       <file name="/main.sqlite_master [Local fc-exploitation]" timestamp="1559555438694">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/meta/locals.interceptor.spec.ts" timestamp="1561477576244">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/docker-compose.yml" timestamp="1558618265617">
         <mark key="[" line="2" column="9" />
       </file>
@@ -158,6 +138,12 @@
       <file name="$USER_HOME$/Documents/code/france-connect/foobar/experimental/docker/build/centos-base.json" timestamp="1556303864761">
         <mark key="[" line="56" column="23" />
       </file>
+      <file name="$USER_HOME$/Documents/code/todo-backend-lumen/tests/Screenplay/ScreenplayTestCase.php" timestamp="1561908790709">
+        <mark key="[" line="5" column="6" />
+        <mark key="]" line="5" column="6" />
+        <mark key="^" line="21" column="8" />
+        <mark key="." line="5" column="6" />
+      </file>
       <file name="$USER_HOME$/Documents/code/france-connect/Infra/ansible/ssh-keys/admins/sbernard.pub" timestamp="1556272716873">
         <mark key="[" line="0" column="0" />
       </file>
@@ -181,11 +167,6 @@
       </file>
       <file name="$USER_HOME$/Documents/code/oreqo/server/app/Http/Middleware/JsonMiddleware.php" timestamp="1555956499580">
         <mark key="[" line="16" column="5" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/public/style/main.less" timestamp="1561642409818">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/todo-backend-lumen/app/Screenplay/HaveTodo.php" timestamp="1561907853251">
         <mark key="i" line="24" column="14" />
@@ -269,10 +250,11 @@
         <mark key="^" line="25" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/todo-backend-lumen/tests/Screenplay/TodoCreationTest.php" timestamp="1561906269319">
-        <mark key="[" line="60" column="29" />
-        <mark key="]" line="60" column="29" />
-        <mark key="." line="60" column="29" />
+      <file name="$USER_HOME$/Documents/code/todo-backend-lumen/tests/Screenplay/TodoCreationTest.php" timestamp="1561908903294">
+        <mark key="[" line="75" column="31" />
+        <mark key="]" line="75" column="31" />
+        <mark key="." line="75" column="31" />
+        <mark key="^" line="79" column="13" />
       </file>
       <file name="/business_immo_legacy.activity_sectors [Business immo legacy]" timestamp="1542805803223">
         <mark key="[" line="0" column="0" />
@@ -297,11 +279,6 @@
       </file>
       <file name="$USER_HOME$/Documents/code/daju-landing/src/components/Homepage/Features/index.tsx" timestamp="1549736123239">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/package.json" timestamp="1561456952738">
-        <mark key="[" line="41" column="21" />
-        <mark key="]" line="9" column="23" />
-        <mark key="." line="9" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/code/france-connect/Infra/ansible/env-fcp/int/inventory" timestamp="1561715766868" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2f06f4c5-3f90-4e16-a04a-d16027afbf01/console.sql" timestamp="1539357442635">
@@ -354,11 +331,6 @@
         <mark key="]" line="3" column="26" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/oreqo/server/config/queue.php" timestamp="1561447123219">
-        <mark key="[" line="15" column="42" />
-        <mark key="]" line="15" column="42" />
-        <mark key="." line="15" column="42" />
-      </file>
       <file name="$USER_HOME$/Documents/code/oreqo/.buildpacks" timestamp="1555870856574">
         <mark key="[" line="0" column="0" />
       </file>
@@ -384,10 +356,10 @@
       <file name="$USER_HOME$/Documents/code/sphere/frontend/src/components/Query/index.jsx" timestamp="1539090352597">
         <mark key="[" line="42" column="79" />
       </file>
-      <file name="$USER_HOME$/Documents/code/oreqo/server/app/event-sauce.yml" timestamp="1561407810991">
-        <mark key="[" line="0" column="11" />
-        <mark key="]" line="0" column="11" />
-        <mark key="." line="0" column="11" />
+      <file name="$USER_HOME$/Documents/code/todo-backend-lumen/tests/Yolo.php" timestamp="1561908866747">
+        <mark key="[" line="5" column="19" />
+        <mark key="]" line="5" column="19" />
+        <mark key="." line="5" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/code/daju-landing/.gitignore" timestamp="1548695318758">
         <mark key="[" line="69" column="0" />
@@ -445,7 +417,7 @@
       <file name="/sphere.public.users [Sphere]" timestamp="1538658271254">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561907024163">
+      <file name="/Dummy.txt" timestamp="1561908551198">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/business_immo_legacy.connections [Business immo legacy]" timestamp="1542731402346">
@@ -456,11 +428,6 @@
       </file>
       <file name="/connections [Business immo legacy]" timestamp="1542726121828">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/oreqo/server/config/eventsauce.php" timestamp="1561407713986">
-        <mark key="[" line="13" column="29" />
-        <mark key="]" line="13" column="29" />
-        <mark key="." line="13" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/code/francis/client/package.json" timestamp="1547128878146">
         <mark key="[" line="66" column="5" />
@@ -494,6 +461,11 @@
       </file>
       <file name="/alto.migration_versions [alto@localhost]" timestamp="1539609562574">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/todo-backend-lumen/tests/ScreenplayTestCase.php" timestamp="1561908811734">
+        <mark key="[" line="5" column="6" />
+        <mark key="]" line="5" column="6" />
+        <mark key="." line="5" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/code/todo-backend-lumen/app/Screenplay/Actor.php" timestamp="1561904500725">
         <mark key="[" line="17" column="4" />
@@ -548,11 +520,6 @@
       <file name="$USER_HOME$/Documents/code/kata/.gitignore" timestamp="1549027771807">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/oreqo/server/config/horizon.php" timestamp="1561409727303">
-        <mark key="[" line="67" column="21" />
-        <mark key="]" line="67" column="21" />
-        <mark key="." line="67" column="21" />
-      </file>
       <file name="/oreqo.public.users [oreqo@localhost]" timestamp="1555957440913">
         <mark key="[" line="0" column="0" />
       </file>
@@ -604,17 +571,13 @@
       <file name="$USER_HOME$/Documents/code/portail.io/README.md" timestamp="1548948601475">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/oreqo/server/routes/web.php" timestamp="1561409419483">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/code/daju-landing/src/components/Homepage/Pricing/index.tsx" timestamp="1549735913675">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/src/services/auth.service.ts" timestamp="1558619698154">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/todo-backend-lumen/tests/TestCase.php" timestamp="1561908859034" />
       <file name="$USER_HOME$/Documents/code/todo-backend-lumen/app/Screenplay/Assertion.php" timestamp="1561907759778">
         <mark key="[" line="19" column="8" />
         <mark key="]" line="19" column="8" />
@@ -643,21 +606,6 @@
       </file>
       <file name="/main.user [data.db]" timestamp="1540758356007">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/oreqo/server/app/MyDomain/MyAggregateRootRepository.php" timestamp="1561409442614">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/frontend/frontend.module.ts" timestamp="1561627096255">
-        <mark key="[" line="11" column="40" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/oreqo/server/config/logging.php" timestamp="1561409348853">
-        <mark key="[" line="18" column="37" />
-        <mark key="]" line="18" column="37" />
-        <mark key="." line="18" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/code/blog/routes/web.php" timestamp="1541360882749">
         <mark key="[" line="14" column="27" />
@@ -806,11 +754,6 @@
       <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/cypress/integration/partenaires.spec.js" timestamp="1557241102823">
         <mark key="[" line="38" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/.gitlab-ci.yml" timestamp="1561734632430">
-        <mark key="[" line="1" column="9" />
-        <mark key="]" line="24" column="9" />
-        <mark key="." line="24" column="9" />
-      </file>
       <file name="$USER_HOME$/Documents/code/forge/startproject/api-platform/plopIgnore/.gitkeep" timestamp="1548240678433">
         <mark key="[" line="0" column="0" />
       </file>
@@ -837,11 +780,6 @@
       </file>
       <file name="$USER_HOME$/Documents/code/sf-auth0/.gitignore" timestamp="1538777892419">
         <mark key="[" line="8" column="5" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/oreqo/server/app/Providers/HorizonServiceProvider.php" timestamp="1561447517046">
-        <mark key="[" line="36" column="19" />
-        <mark key="]" line="36" column="19" />
-        <mark key="." line="36" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/code/daju/assets/js/app.js" timestamp="1540756883918">
         <mark key="[" line="0" column="0" />
@@ -1054,14 +992,14 @@
           <key char="95" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIEhhbWNyZXN0XE1hdGNoZXI7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Yolo</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>Hamcrest_MatcherAssert</text>
+        <text>Yolo</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXRob2RcPg==</text>
@@ -1070,13 +1008,13 @@
         <text encoding="base64">dXNlIEFwcFxEb21haW5cVG9kb0VudGl0eTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIEhhbWNyZXN0XE1hdGNoZXI7Cg==</text>
+        <text encoding="base64">ICAgICAqIEBkb2VzTm90UGVyZm9ybUFzc2VydGlvbnMK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBNYXRjaGVyczo6Cg==</text>
+        <text encoding="base64">dXNlIFBIUFVuaXRcRnJhbWV3b3JrXFRlc3RDYXNlOwo=</text>
       </register>
       <register name="r" type="4">
         <text>technical_accounting.account.filters.period</text>
@@ -1085,22 +1023,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIEhhbWNyZXN0XE1hdGNoZXJBc3NlcnQ7Cg==</text>
+        <text encoding="base64">dXNlIEhhbWNyZXN0XE1hdGNoZXI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBNYXRjaGVyczo6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIEhhbWNyZXN0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJlbnQ6OnBlcmZvcm1BcygkYWN0b3IpOyAvLyBUT0RPOiBDaGFuZ2UgdGhlIGF1dG9nZW5lcmF0ZWQgc3R1Ygo=</text>
+        <text encoding="base64">dXNlIEhhbWNyZXN0XE1hdGNoZXJBc3NlcnQ7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgJHRvZG9SZXBvc2l0b3J5OwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJlbnQ6OnBlcmZvcm1BcygkYWN0b3IpOyAvLyBUT0RPOiBDaGFuZ2UgdGhlIGF1dG9nZW5lcmF0ZWQgc3R1Ygo=</text>
+        <text encoding="base64">dXNlIEhhbWNyZXN0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/shared/fc-exploitation/g</text>
