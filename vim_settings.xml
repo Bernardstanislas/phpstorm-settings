@@ -36,12 +36,7 @@
       <file name="$USER_HOME$/Documents/code/blog-dojo-cqrs/src/index.ts" timestamp="1546093050136">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/service-provider/service-provider.entity.ts" timestamp="1561988559591">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="14" />
-        <mark key="^" line="0" column="14" />
-        <mark key="." line="0" column="14" />
-      </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/service-provider/service-provider.entity.ts" timestamp="1561994384375" />
       <file name="$USER_HOME$/Documents/code/simplesamlphp/modules/businessimmotheme/themes/businessimmo/default/_header.twig" timestamp="1541693012925">
         <mark key="[" line="5" column="55" />
       </file>
@@ -69,6 +64,10 @@
       <file name="$USER_HOME$/Documents/code/business-immo-directory/devops/provisioning/roles/simplesamlphp/tasks/main.yaml" timestamp="1541515226420">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/identity-provider/identity-provider.entity.ts" timestamp="1561993914662">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="11" column="18" />
+      </file>
       <file name="$USER_HOME$/Documents/code/alto-espace-emprunteur/client/src/components/Messages/MessagesHeader/index.js" timestamp="1539718998184">
         <mark key="[" line="0" column="0" />
       </file>
@@ -89,9 +88,11 @@
       <file name="$USER_HOME$/Documents/code/daju/src/Application/Controller/SecurityController.php" timestamp="1540753026650">
         <mark key="[" line="12" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/identity-provider/identity-provider.controller.spec.ts" timestamp="1561988240314">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="39" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/identity-provider/identity-provider.controller.spec.ts" timestamp="1561991290389">
+        <mark key="[" line="38" column="12" />
+        <mark key="]" line="40" column="30" />
+        <mark key="." line="40" column="30" />
+        <mark key="^" line="40" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/code/daju-landing/src/components/Homepage/TryItOut/index.tsx" timestamp="1549645881980">
         <mark key="[" line="3" column="13" />
@@ -316,11 +317,11 @@
       <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-stats/.gitlab-ci.yml" timestamp="1561465709066">
         <mark key="[" line="1" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/service-provider/service-provider.controller.ts" timestamp="1561455216364">
-        <mark key="[" line="3" column="13" />
-        <mark key="]" line="3" column="13" />
-        <mark key="." line="3" column="13" />
-        <mark key="^" line="5" column="19" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/service-provider/service-provider.controller.ts" timestamp="1561991069011">
+        <mark key="[" line="1" column="48" />
+        <mark key="]" line="1" column="93" />
+        <mark key="." line="1" column="93" />
+        <mark key="^" line="1" column="93" />
       </file>
       <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/src/authentication/filter/Unauthorized.filter.ts" timestamp="1559570709924">
         <mark key="[" line="0" column="0" />
@@ -393,11 +394,11 @@
       <file name="/main.croute [Local fc-exploitation]" timestamp="1559562144914">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/service-provider/service-provider.controller.spec.ts" timestamp="1561988640426">
-        <mark key="[" line="15" column="60" />
-        <mark key="]" line="15" column="59" />
-        <mark key="^" line="15" column="59" />
-        <mark key="." line="15" column="59" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/service-provider/service-provider.controller.spec.ts" timestamp="1561990980947">
+        <mark key="[" line="16" column="58" />
+        <mark key="]" line="13" column="56" />
+        <mark key="^" line="13" column="56" />
+        <mark key="." line="13" column="56" />
       </file>
       <file name="vm:508" timestamp="1545574396439">
         <mark key="[" line="0" column="0" />
@@ -445,6 +446,11 @@
       </file>
       <file name="/Dummy.txt" timestamp="1561981292009">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/service-provider/service-provider.module.spec.ts" timestamp="1561992628464">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="/business_immo_legacy.connections [Business immo legacy]" timestamp="1542731402346">
         <mark key="[" line="0" column="0" />
@@ -570,14 +576,12 @@
       <file name="/oreqo.public.users [oreqo@localhost]" timestamp="1555957440913">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/identity-provider/identity-provider.module.ts" timestamp="1561992494438">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="70" />
+      </file>
       <file name="/alto.document [alto@localhost]" timestamp="1539358673958">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/service-provider/service-provider.module.ts" timestamp="1561455163786">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="6" column="33" />
       </file>
       <file name="/sphere.public.lob [Sphere]" timestamp="1538553946559">
         <mark key="[" line="0" column="0" />
@@ -612,6 +616,7 @@
       <file name="/app_users [francis@localhost]" timestamp="1547200899685">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/identity-provider/identity-provider.controller.ts" timestamp="1561991305799" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/aa5abfb6-997e-40b0-9d2c-f29c6c286d48/console_1.sql" timestamp="1560318798834">
         <mark key="[" line="0" column="0" />
       </file>
@@ -709,10 +714,10 @@
       <file name="/oreqo.public.api_keys [oreqo@localhost]" timestamp="1555949063473">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/views/identity-provider/list.ejs" timestamp="1561645190294">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/views/identity-provider/list.ejs" timestamp="1561991340266">
+        <mark key="[" line="27" column="54" />
+        <mark key="]" line="27" column="54" />
+        <mark key="." line="27" column="54" />
       </file>
       <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/views/login.ejs" timestamp="1561646110802">
         <mark key="[" line="8" column="68" />
@@ -770,6 +775,12 @@
       </file>
       <file name="/alto-test.app_users [alto-test]" timestamp="1539672566207">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/service-provider/service-provider.entity.spec.ts" timestamp="1561993517600">
+        <mark key="[" line="8" column="36" />
+        <mark key="]" line="10" column="15" />
+        <mark key="." line="10" column="15" />
+        <mark key="^" line="10" column="15" />
       </file>
       <file name="/PHP Console" timestamp="1555961131407">
         <mark key="[" line="0" column="0" />
@@ -1054,53 +1065,55 @@
           <key char="95" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>const</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>const</text>
+        <text>redirectUris</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXRob2RcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVGVzdCB9IGZyb20gJ0BuZXN0anMvdGVzdGluZyc7Cg==</text>
+        <text encoding="base64">CiAgQENvbHVtbigpCiAgYWN0aXZlOiBib29sZWFuOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHtUZXN0fSBmcm9tICJ0c2xpbnQiOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgdG9TZWUoKSBtZXRob2QuCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coU2VydmljZVByb3ZpZGVyLnByb3RvdHlwZSk7Cg==</text>
       </register>
       <register name="r" type="4">
         <text>technical_accounting.account.filters.period</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4gbWl4ZWQK</text>
+        <text encoding="base64">ICAgIFNlcnZpY2VQcm92aWRlci5wcm90b3R5cGUuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiBAdmFyIEFjdGl2aXR5ICR0YXNrCiAgICAgICAgICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvKioK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNlcnZpY2VQcm92aWRlclJlcG9zaXRvcnkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgCiAgICAgICAgICovCg==</text>
+        <text encoding="base64">ICAgICAgY2RkZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgYWJpbGl0eVRvKCkgbWV0aG9kLgo=</text>
+        <text encoding="base64">ICAgICAgYywK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgICAKICAgIH0K</text>
+      <register name="9" type="4">
+        <text>ontrollers: [{
+        
+      }]</text>
       </register>
       <register name=":" type="4">
         <text>%s/shared/fc-exploitation/g</text>
