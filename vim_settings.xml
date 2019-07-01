@@ -9,9 +9,6 @@
       <file name="/sphere.public.contract [Sphere]" timestamp="1538641346930">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1561930892204">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/fc-commons/package.json" timestamp="1560268454892">
         <mark key="[" line="1" column="22" />
       </file>
@@ -125,6 +122,12 @@
       <file name="$USER_HOME$/Documents/code/france-connect/Infra/docker/docker-compose.yml" timestamp="1559836165141">
         <mark key="[" line="88" column="10" />
       </file>
+      <file name="$USER_HOME$/Documents/code/todo-backend-lumen/app/Screenplay/PerformsTasks.php" timestamp="1561980900817">
+        <mark key="[" line="7" column="1" />
+        <mark key="]" line="12" column="34" />
+        <mark key="." line="12" column="34" />
+        <mark key="^" line="12" column="34" />
+      </file>
       <file name="$USER_HOME$/Documents/code/oreqo/server/app/MyDomain/MyAggregateRoot.php" timestamp="1561408353529">
         <mark key="[" line="17" column="77" />
         <mark key="]" line="17" column="13" />
@@ -173,17 +176,13 @@
       <file name="$USER_HOME$/Documents/code/oreqo/server/app/Http/Middleware/JsonMiddleware.php" timestamp="1555956499580">
         <mark key="[" line="16" column="5" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1561968850299">
+      <file name="/GraphQL.result.json" timestamp="1561979977749">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/blog-dojo-cqrs/src/events/namespace.ts" timestamp="1545580874953">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/todo-backend-lumen/app/Screenplay/Action.php" timestamp="1561931509073">
-        <mark key="[" line="10" column="52" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
+      <file name="$USER_HOME$/Documents/code/todo-backend-lumen/app/Screenplay/Action.php" timestamp="1561931509073" />
       <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/tslint.json" timestamp="1561733328687">
         <mark key="[" line="19" column="22" />
         <mark key="]" line="19" column="22" />
@@ -253,10 +252,7 @@
         <mark key="[" line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/todo-backend-lumen/tests/Screenplay/TodoCreationTest.php" timestamp="1561931107459">
-        <mark key="[" line="100" column="38" />
-        <mark key="]" line="89" column="50" />
-        <mark key="." line="89" column="50" />
-        <mark key="^" line="89" column="50" />
+        <mark key="[" line="8" column="38" />
       </file>
       <file name="/business_immo_legacy.activity_sectors [Business immo legacy]" timestamp="1542805803223">
         <mark key="[" line="0" column="0" />
@@ -428,7 +424,7 @@
       <file name="/sphere.public.users [Sphere]" timestamp="1538658271254">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561930579206">
+      <file name="/Dummy.txt" timestamp="1561981292009">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/business_immo_legacy.connections [Business immo legacy]" timestamp="1542731402346">
@@ -439,6 +435,12 @@
       </file>
       <file name="/connections [Business immo legacy]" timestamp="1542726121828">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/todo-backend-lumen/app/Screenplay/UsesAbilities.php" timestamp="1561981125664">
+        <mark key="[" line="14" column="30" />
+        <mark key="]" line="14" column="31" />
+        <mark key="." line="14" column="31" />
+        <mark key="^" line="14" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/code/francis/client/package.json" timestamp="1547128878146">
         <mark key="[" line="66" column="5" />
@@ -478,20 +480,28 @@
         <mark key="]" line="5" column="6" />
         <mark key="." line="5" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/code/todo-backend-lumen/app/Screenplay/Actor.php" timestamp="1561930482234">
-        <mark key="[" line="30" column="4" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="29" column="0" />
+      <file name="$USER_HOME$/Documents/code/todo-backend-lumen/app/Screenplay/Actor.php" timestamp="1561982122364">
+        <mark key="[" line="25" column="8" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="24" column="5" />
       </file>
       <file name="/alto-espace-emprunteur.message [Alto staging]" timestamp="1540544860068">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/todo-backend-lumen/app/Screenplay/Ability.php" timestamp="1561931608888">
-        <mark key="[" line="7" column="0" />
+      <file name="$USER_HOME$/Documents/code/todo-backend-lumen/app/Screenplay/Ability.php" timestamp="1561980658136">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="8" />
+        <mark key="^" line="6" column="8" />
+        <mark key="." line="6" column="8" />
       </file>
       <file name="/daju.public.api_keys [Daju Postgres local]" timestamp="1553590973763">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/todo-backend-lumen/app/Screenplay/Question.php" timestamp="1561981266314">
+        <mark key="[" line="8" column="44" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="8" column="42" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/business-immo-directory/src/AppBundle/Resources/views/Front/Career/documentation.html.twig" timestamp="1542809132124">
         <mark key="[" line="0" column="0" />
@@ -525,6 +535,9 @@
         <mark key="]" line="11" column="13" />
         <mark key="." line="11" column="13" />
         <mark key="^" line="11" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/todo-backend-lumen/app/Screenplay/AnswersQuestions.php" timestamp="1561981308617">
+        <mark key="[" line="8" column="0" />
       </file>
       <file name="/daju.public.print_jobs [Daju Postgres local]" timestamp="1553554244088">
         <mark key="[" line="0" column="0" />
@@ -690,8 +703,11 @@
       <file name="$USER_HOME$/Documents/code/business-immo-directory/src/Resources/views/Front/Layout/partials/top_bar.html.twig" timestamp="1543843158065">
         <mark key="[" line="17" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/code/todo-backend-lumen/app/Screenplay/TheTodos.php" timestamp="1561907459408">
-        <mark key="[" line="10" column="0" />
+      <file name="$USER_HOME$/Documents/code/todo-backend-lumen/app/Screenplay/AbilityConstructor.php" timestamp="1561981740440">
+        <mark key="[" line="10" column="22" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="10" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/views/service-provider/list.ejs" timestamp="1561645199373">
         <mark key="[" line="4" column="0" />
@@ -780,6 +796,12 @@
       </file>
       <file name="$USER_HOME$/Documents/code/business-immo-directory/vendor/xsolve-pl/xsolve-cookie-acknowledgement-bundle/Xsolve/CookieAcknowledgementBundle/Resources/config/services.yml" timestamp="1543458330098">
         <mark key="[" line="6" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/todo-backend-lumen/app/Screenplay/Activity.php" timestamp="1561980828429">
+        <mark key="[" line="8" column="4" />
+        <mark key="]" line="8" column="41" />
+        <mark key="^" line="8" column="41" />
+        <mark key="." line="8" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/code/sphere/api/src/Domain/Contract/Query/SignedContractNames.php" timestamp="1539079193430">
         <mark key="[" line="6" column="25" />
@@ -1013,14 +1035,14 @@
           <key char="95" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>lerna-bootstrap</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgdG9TZWUoKSBtZXRob2QuCg==</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>lerna-bootstrap</text>
+        <text>Implement attemptsTo() method.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXRob2RcPg==</text>
@@ -1029,37 +1051,37 @@
         <text encoding="base64">dXNlIEFwcFxEb21haW5cVG9kb0VudGl0eTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bGludDoKICBpbWFnZTogbm9kZTo4CiAgc3RhZ2U6IGNvZGVfcXVhbGl0eQogIHNjcmlwdDoKICAgIC0gbnBtIHJ1biBsaW50CiAgZGVwZW5kZW5jaWVzOgogICAgLSBsZXJuYS1ib290c3RyYXAKCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgdG9TZWUoKSBtZXRob2QuCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAtIGNvZGVfcXVhbGl0eQo=</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4gbWl4ZWQK</text>
       </register>
       <register name="r" type="4">
         <text>technical_accounting.account.filters.period</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAtIGNvZGVfcXVhbGl0eQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHsKCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiBAdmFyIEFjdGl2aXR5ICR0YXNrCiAgICAgICAgICovCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAogICAgcHJvdGVjdGVkIGZ1bmN0aW9uIHVzZUFjdG9yQWJpbGl0aWVzKCkKICAgIHsKICAgICAgICAKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAvKioK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIEBkb2VzTm90UGVyZm9ybUFzc2VydGlvbnMK</text>
+        <text encoding="base64">ICAgICAgICAgCiAgICAgICAgICovCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIEBkb2VzTm90UGVyZm9ybUFzc2VydGlvbnMK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgYWJpbGl0eVRvKCkgbWV0aG9kLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIFBIUFVuaXRcRnJhbWV3b3JrXFRlc3RDYXNlOwo=</text>
+        <text encoding="base64">ICAgIHsKICAgICAgICAKICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgd2hvQ2FuKCkgbWV0aG9kLgo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/shared/fc-exploitation/g</text>
