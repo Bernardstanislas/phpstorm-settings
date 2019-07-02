@@ -573,6 +573,11 @@
       <file name="/daju.public.print_jobs [Daju Postgres local]" timestamp="1553554244088">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Client.php" timestamp="1562102588800">
+        <mark key="[" line="742" column="0" />
+        <mark key="]" line="742" column="0" />
+        <mark key="." line="742" column="0" />
+      </file>
       <file name="/message [Alto staging]" timestamp="1540801614622">
         <mark key="[" line="0" column="0" />
       </file>
@@ -581,10 +586,6 @@
       </file>
       <file name="/oreqo.public.users [oreqo@localhost]" timestamp="1555957440913">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/identity-provider/identity-provider.module.ts" timestamp="1561992494438">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="70" />
       </file>
       <file name="/alto.document [alto@localhost]" timestamp="1539358673958">
         <mark key="[" line="0" column="0" />
@@ -629,11 +630,11 @@
       <file name="$USER_HOME$/Documents/code/portail.io/README.md" timestamp="1548948601475">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/routes/console.php" timestamp="1562068779539">
-        <mark key="[" line="32" column="5" />
-        <mark key="]" line="32" column="5" />
-        <mark key="." line="32" column="5" />
-        <mark key="^" line="24" column="17" />
+      <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/routes/console.php" timestamp="1562102669218">
+        <mark key="[" line="41" column="102" />
+        <mark key="]" line="30" column="14" />
+        <mark key="^" line="30" column="14" />
+        <mark key="." line="30" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/code/daju-landing/src/components/Homepage/Pricing/index.tsx" timestamp="1549735913675">
         <mark key="[" line="0" column="0" />
@@ -1087,53 +1088,52 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>serviceProvider.clientSecretCreatedAt</text>
+        <text>Post:</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>AAA</text>
+        <text>Post:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXRob2RcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>serviceProvider.clientSecretCreatedAt</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgiQmVmb3JlICIgLiBtZW1vcnlfZ2V0X3VzYWdlKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZm9udC1zaXplOiAyMHB4Owo=</text>
+        <text encoding="base64">ICAgIFxEQjo6Y29ubmVjdGlvbigpLT5kaXNhYmxlUXVlcnlMb2coKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxpIGNsYXNzPSJmYSBmYS10cmFzaCIgYXJpYS1oaWRkZW49InRydWUiIHRpdGxlPSJTdXBwcmltZXIiPjwvaT4K</text>
+        <text encoding="base64">ICAgIFxEQjo6Y29ubmVjdGlvbigpLT5kaXNhYmxlUXVlcnlMb2coKTsKICAgIFBvc3Q6Om9yZGVyQnkoJ2lkJywgJ0FTQycpCiAgICAgICAgLT53aGVyZShbCiAgICAgICAgICAgIFsnaWQnLCAnPj0nLCAkdXNlckRlZmluZWRNaW5Qb3N0SWRdLAogICAgICAgICAgICBbJ2lkJywgJzwnLCAkdXNlckRlZmluZWRNYXhQb3N0SWRdCiAgICAgICAgXSkK</text>
       </register>
       <register name="r" type="4">
         <text>technical_accounting.account.filters.period</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHRkIGNsYXNzPSJ0ZXh0LWNlbnRlciI+CiAgICAgICAgICAgICAgPGkgY2xhc3M9ImZhIGZhLXRvZ2dsZS08JT0gc2VydmljZVByb3ZpZGVyLmRpc3BsYXkgPyAib24iIDogIm9mZiIgJT4iPjwvaT4KICAgICAgICAgICAgPC90ZD4KICAgICAgICAgICAgPHRkPjwlPSBzZXJ2aWNlUHJvdmlkZXIuZWlkYXMgJT48L3RkPgogICAgICAgICAgICA8dGQ+PCU9IHNlcnZpY2VQcm92aWRlci5vcmRlciAlPjwvdGQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgiQmVmb3JlICIgLiBtZW1vcnlfZ2V0X3VzYWdlKCkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIDx0aCBzY29wZT0iY29sIj5BZmZpY2jDqTwvdGg+CiAgICAgICAgICA8dGggc2NvcGU9ImNvbCI+RWlkYXM8L3RoPgogICAgICAgICAgPHRoIHNjb3BlPSJjb2wiPk9yZHJlIGQnYWZmaWNoYWdlPC90aD4K</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgiTWlkZGxlICIgLiBtZW1vcnlfZ2V0X3VzYWdlKCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmluZm8obWVtb3J5X2dldF91c2FnZSgpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRpZTsK</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgnUm8nKTsK</text>
       </register>
-      <register name="7" type="4">
-        <text>;
-    $postCount</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdW5zZXQoJHBvc3RzKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2VydmljZVByb3ZpZGVyUmVwb3NpdG9yeS5xdWVyCg==</text>
+        <text encoding="base64">ICAgICAgZm9udC1zaXplOiAyMHB4Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxpIGNsYXNzPSJmYSBmYS10cmFzaCIgYXJpYS1oaWRkZW49InRydWUiIHRpdGxlPSJTdXBwcmltZXIiPjwvaT4K</text>
       </register>
       <register name=":" type="4">
         <text>%s/shared/fc-exploitation/g</text>
