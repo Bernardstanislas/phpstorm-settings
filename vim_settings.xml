@@ -216,11 +216,6 @@
       <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/config/app.php" timestamp="1558438562394">
         <mark key="[" line="175" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/meta/locals.interceptor.ts" timestamp="1562076474918">
-        <mark key="]" line="22" column="49" />
-        <mark key="^" line="22" column="48" />
-        <mark key="." line="22" column="49" />
-      </file>
       <file name="$USER_HOME$/Documents/code/alto-espace-emprunteur/client/src/components/Header/tests/Header.test.js" timestamp="1540201904512">
         <mark key="[" line="16" column="15" />
       </file>
@@ -614,6 +609,12 @@
         <mark key="]" line="9" column="4" />
         <mark key="." line="9" column="4" />
       </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/shared/authentication/guard/roles.guard.spec.ts" timestamp="1562168813745">
+        <mark key="[" line="25" column="34" />
+        <mark key="]" line="25" column="34" />
+        <mark key="." line="25" column="34" />
+        <mark key="^" line="25" column="37" />
+      </file>
       <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/.gitignore" timestamp="1557504895790">
         <mark key="[" line="11" column="5" />
       </file>
@@ -939,53 +940,53 @@
           <key char="95" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>null</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">REJfVFlQRT1zcWxpdGUKREJfREFUQUJBU0U9ZmMtZXhwbG9pdGF0aW9uLnNxbGl0ZQpEQl9TWU5DSFJPTklaRT10cnVlCkRCX0hPU1Q9CkRCX1BPUlQ9CkRCX1VTRVI9Cg==</text>
+        <text encoding="base64">ICBjb25zdCByZWZsZWN0b3I6IFJlZmxlY3RvciA9IHsKICAgIGdldDogamVzdC5mbigpLm1vY2tSZXR1cm5WYWx1ZShyb2xlcyksCiAgICBnZXRBbGw6IGplc3QuZm4oKQogIH07CiAgY29uc3QgY29udGV4dDogRXhlY3V0aW9uQ29udGV4dCA9IHsKICAgIGdldEhhbmRsZXI6IGplc3QuZm4oKSwKICAgIHN3aXRjaFRvSHR0cDogamVzdC5mbigpLm1vY2tSZXR1cm5WYWx1ZSh7CiAgICAgIGdldFJlcXVlc3Q6IGplc3QuZm4oKS5tb2NrUmV0dXJuVmFsdWUoewogICAgICAgIHVzZXIKICAgICAgfSkKICAgIH0pLAogICAgc3dpdGNoVG9ScGM6IGplc3QuZm4oKSwKICAgIHN3aXRjaFRvV3M6IGplc3QuZm4oKSwKICAgIGdldENsYXNzOiBqZXN0LmZuKCksCiAgICBnZXRBcmdzOiBqZXN0LmZuKCksCiAgICBnZXRBcmdCeUluZGV4OiBqZXN0LmZuKCkKICB9Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsZXQgdXNlcjsKICBsZXQgcm9sZXM7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsZXQgY29udGV4dCA6IEV4ZWN1dGlvbkNvbnRleHQ7CgogIGJlZm9yZUVhY2goKCkgPT4gewogICAgcmVmbGVjdG9yID0gewogICAgfTsKICAgIGNvbnRleHQgPSB7CiAgICB9OwogICAgamVzdC5yZXNldEFsbE1vY2tzKCk7CiAgfSk7Cg==</text>
       </register>
       <register name="r" type="4">
         <text>technical_accounting.account.filters.period</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZ2V0SGFuZGxlcjogamVzdC5mbigpLAogICAgICBzd2l0Y2hUb0h0dHA6IGplc3QuZm4oKS5tb2NrUmV0dXJuVmFsdWUoewogICAgICAgIGdldFJlcXVlc3Q6IGplc3QuZm4oKS5tb2NrUmV0dXJuVmFsdWUoewogICAgICAgICAgdXNlcgogICAgICAgIH0pCiAgICAgIH0pLAogICAgICBzd2l0Y2hUb1JwYzogamVzdC5mbigpLAogICAgICBzd2l0Y2hUb1dzOiBqZXN0LmZuKCksCiAgICAgIGdldENsYXNzOiBqZXN0LmZuKCksCiAgICAgIGdldEFyZ3M6IGplc3QuZm4oKSwKICAgICAgZ2V0QXJnQnlJbmRleDogamVzdC5mbigpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZmF1bHQ6IFVzZXJSb2xlLgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFxEQjo6Y29ubmVjdGlvbigpLT5kaXNhYmxlUXVlcnlMb2coKTsK</text>
+        <text encoding="base64">ICAgICAgZ2V0OiBqZXN0LmZuKCkubW9ja1JldHVyblZhbHVlKHJvbGVzKSwKICAgICAgZ2V0QWxsOiBqZXN0LmZuKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFxEQjo6Y29ubmVjdGlvbigpLT5kaXNhYmxlUXVlcnlMb2coKTsKICAgIFBvc3Q6Om9yZGVyQnkoJ2lkJywgJ0FTQycpCiAgICAgICAgLT53aGVyZShbCiAgICAgICAgICAgIFsnaWQnLCAnPj0nLCAkdXNlckRlZmluZWRNaW5Qb3N0SWRdLAogICAgICAgICAgICBbJ2lkJywgJzwnLCAkdXNlckRlZmluZWRNYXhQb3N0SWRdCiAgICAgICAgXSkK</text>
+        <text encoding="base64">ICAgIHJlZmxlY3RvcjogUmVmbGVjdG9yID0gewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgiQmVmb3JlICIgLiBtZW1vcnlfZ2V0X3VzYWdlKCkpOwo=</text>
+        <text encoding="base64">ICBjb25zdCByZWZsZWN0b3I6IFJlZmxlY3RvciA9IHsKICAgIGdldDogamVzdC5mbigpLm1vY2tSZXR1cm5WYWx1ZShyb2xlcyksCiAgICBnZXRBbGw6IGplc3QuZm4oKQogIH07CiAgY29uc3QgY29udGV4dDogRXhlY3V0aW9uQ29udGV4dCA9IHsKICAgIGdldEhhbmRsZXI6IGplc3QuZm4oKSwKICAgIHN3aXRjaFRvSHR0cDogamVzdC5mbigpLm1vY2tSZXR1cm5WYWx1ZSh7CiAgICAgIGdldFJlcXVlc3Q6IGplc3QuZm4oKS5tb2NrUmV0dXJuVmFsdWUoewogICAgICAgIHVzZXIKICAgICAgfSkKICAgIH0pLAogICAgc3dpdGNoVG9ScGM6IGplc3QuZm4oKSwKICAgIHN3aXRjaFRvV3M6IGplc3QuZm4oKSwKICAgIGdldENsYXNzOiBqZXN0LmZuKCksCiAgICBnZXRBcmdzOiBqZXN0LmZuKCksCiAgICBnZXRBcmdCeUluZGV4OiBqZXN0LmZuKCkKICB9Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgiTWlkZGxlICIgLiBtZW1vcnlfZ2V0X3VzYWdlKCkpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/shared/fc-exploitation/g</text>
