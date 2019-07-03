@@ -30,7 +30,6 @@
       <file name="$USER_HOME$/Documents/code/blog-dojo-cqrs/src/index.ts" timestamp="1546093050136">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/service-provider/service-provider.entity.ts" timestamp="1562076396426" />
       <file name="$USER_HOME$/Documents/code/simplesamlphp/modules/businessimmotheme/themes/businessimmo/default/_header.twig" timestamp="1541693012925">
         <mark key="[" line="5" column="55" />
       </file>
@@ -225,7 +224,6 @@
       <file name="$USER_HOME$/Documents/code/todo-backend-lumen/tests/Screenplay/TodoCreationTest.php" timestamp="1561931107459">
         <mark key="[" line="8" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/shared/migrations/1559562910441-User.ts" timestamp="1562072735705" />
       <file name="/business_immo_legacy.activity_sectors [Business immo legacy]" timestamp="1542805803223">
         <mark key="[" line="0" column="0" />
       </file>
@@ -319,6 +317,11 @@
       <file name="$USER_HOME$/Documents/code/daju-landing/.gitignore" timestamp="1548695318758">
         <mark key="[" line="69" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" timestamp="1562181408055">
+        <mark key="[" line="315" column="0" />
+        <mark key="]" line="315" column="0" />
+        <mark key="." line="315" column="0" />
+      </file>
       <file name="/main.daju_user [data.db]" timestamp="1540750682062">
         <mark key="[" line="0" column="0" />
       </file>
@@ -357,7 +360,7 @@
       <file name="$USER_HOME$/Documents/code/alto-espace-emprunteur/api/templates/base.html.twig" timestamp="1540894714113">
         <mark key="[" line="240" column="188" />
       </file>
-      <file name="/dummy.sql" timestamp="1562160793952">
+      <file name="/dummy.sql" timestamp="1562180982978">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/test/authentication/authentication.service.spec.ts" timestamp="1558621175129">
@@ -377,7 +380,7 @@
       <file name="/business_immo_legacy.connections [Business immo legacy]" timestamp="1542731402346">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/stackoverflow-on-the-go.public.posts [stackoverflow-on-the-go@localhost]" timestamp="1562062874822">
+      <file name="/stackoverflow-on-the-go.public.posts [stackoverflow-on-the-go@localhost]" timestamp="1562180980478">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/connections [Business immo legacy]" timestamp="1542726121828">
@@ -429,7 +432,6 @@
       <file name="/alto-espace-emprunteur.message [Alto staging]" timestamp="1540544860068">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1562135546424" />
       <file name="/daju.public.api_keys [Daju Postgres local]" timestamp="1553590973763">
         <mark key="[" line="0" column="0" />
       </file>
@@ -443,6 +445,9 @@
         <mark key="[" line="115" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/code/alto-espace-emprunteur/client/src/components/Messages/MessageList/index.js" timestamp="1539763616649">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/aa5abfb6-997e-40b0-9d2c-f29c6c286d48/console_5.sql" timestamp="1562180990783">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/daju/app/Http/Controllers/Auth/ResetPasswordController.php" timestamp="1552577176782">
@@ -516,7 +521,6 @@
       <file name="/app_users [francis@localhost]" timestamp="1547200899685">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/identity-provider/identity-provider.controller.ts" timestamp="1562072355768" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/aa5abfb6-997e-40b0-9d2c-f29c6c286d48/console_1.sql" timestamp="1560318798834">
         <mark key="[" line="0" column="0" />
       </file>
@@ -546,6 +550,11 @@
       <file name="/stackoverflow-on-the-go.public.answers [stackoverflow-on-the-go@localhost]" timestamp="1560282301548">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/app/Http/Controllers/PostController.php" timestamp="1562181508447">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/code/business-immo-directory/src/AppBundle/Resources/views/Back/Layout/top_bar.html.twig" timestamp="1543329996045">
         <mark key="[" line="12" column="73" />
       </file>
@@ -555,10 +564,10 @@
       <file name="/fragment.php" timestamp="1553281601037">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/app/Http/Controllers/SearchController.php" timestamp="1562180624724">
-        <mark key="[" line="23" column="9" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/app/Http/Controllers/SearchController.php" timestamp="1562182016561">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="/daju.public.password_resets [Daju Postgres local]" timestamp="1541630712430">
         <mark key="[" line="0" column="0" />
@@ -945,13 +954,13 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgneW9sbycpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkdW1wKCdIYXMgZmV0Y2hlZCB0aGUgcG9zdCcpOwo=</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>toBeTruthy</text>
+        <text>findOrFail</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZFw+</text>
@@ -960,37 +969,37 @@
         <text encoding="base64">ICBjb25zdCByZWZsZWN0b3I6IFJlZmxlY3RvciA9IHsKICAgIGdldDogamVzdC5mbigpLm1vY2tSZXR1cm5WYWx1ZShyb2xlcyksCiAgICBnZXRBbGw6IGplc3QuZm4oKQogIH07CiAgY29uc3QgY29udGV4dDogRXhlY3V0aW9uQ29udGV4dCA9IHsKICAgIGdldEhhbmRsZXI6IGplc3QuZm4oKSwKICAgIHN3aXRjaFRvSHR0cDogamVzdC5mbigpLm1vY2tSZXR1cm5WYWx1ZSh7CiAgICAgIGdldFJlcXVlc3Q6IGplc3QuZm4oKS5tb2NrUmV0dXJuVmFsdWUoewogICAgICAgIHVzZXIKICAgICAgfSkKICAgIH0pLAogICAgc3dpdGNoVG9ScGM6IGplc3QuZm4oKSwKICAgIHN3aXRjaFRvV3M6IGplc3QuZm4oKSwKICAgIGdldENsYXNzOiBqZXN0LmZuKCksCiAgICBnZXRBcmdzOiBqZXN0LmZuKCksCiAgICBnZXRBcmdCeUluZGV4OiBqZXN0LmZuKCkKICB9Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgneW9sbycpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkdW1wKCdIYXMgZmV0Y2hlZCB0aGUgcG9zdCcpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBsZXQgdXNlcjsKICBsZXQgcm9sZXM7Cg==</text>
+        <text encoding="base64">ICAgICAgICBcREI6Omxpc3RlbihmdW5jdGlvbigkc3FsKSB7CiAgICAgICAgICAgZHVtcCgkc3FsLT5zcWwpOwogICAgICAgIH0pOwogICAgICAgIGR1bXAoJ1dpbGwgZG8gdGhlIHF1ZXJ5Jyk7Cg==</text>
       </register>
       <register name="r" type="4">
         <text>technical_accounting.account.filters.period</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBsZXQgY29udGV4dCA6IEV4ZWN1dGlvbkNvbnRleHQ7CgogIGJlZm9yZUVhY2goKCkgPT4gewogICAgcmVmbGVjdG9yID0gewogICAgfTsKICAgIGNvbnRleHQgPSB7CiAgICB9OwogICAgamVzdC5yZXNldEFsbE1vY2tzKCk7CiAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkdW1wKCdmaWxsaW5nJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBkdW1wKCJTZWFyY2hpbmcgZm9yIHBvc3QiLCAkaWQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZ2V0SGFuZGxlcjogamVzdC5mbigpLAogICAgICBzd2l0Y2hUb0h0dHA6IGplc3QuZm4oKS5tb2NrUmV0dXJuVmFsdWUoewogICAgICAgIGdldFJlcXVlc3Q6IGplc3QuZm4oKS5tb2NrUmV0dXJuVmFsdWUoewogICAgICAgICAgdXNlcgogICAgICAgIH0pCiAgICAgIH0pLAogICAgICBzd2l0Y2hUb1JwYzogamVzdC5mbigpLAogICAgICBzd2l0Y2hUb1dzOiBqZXN0LmZuKCksCiAgICAgIGdldENsYXNzOiBqZXN0LmZuKCksCiAgICAgIGdldEFyZ3M6IGplc3QuZm4oKSwKICAgICAgZ2V0QXJnQnlJbmRleDogamVzdC5mbigpCg==</text>
+        <text encoding="base64">ICAgICAgICBkdW1wKCd5b2xvJyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgneW9sbycpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZ2V0OiBqZXN0LmZuKCkubW9ja1JldHVyblZhbHVlKHJvbGVzKSwKICAgICAgZ2V0QWxsOiBqZXN0LmZuKCkK</text>
+        <text encoding="base64">ICBsZXQgdXNlcjsKICBsZXQgcm9sZXM7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlZmxlY3RvcjogUmVmbGVjdG9yID0gewo=</text>
+        <text encoding="base64">ICBsZXQgY29udGV4dCA6IEV4ZWN1dGlvbkNvbnRleHQ7CgogIGJlZm9yZUVhY2goKCkgPT4gewogICAgcmVmbGVjdG9yID0gewogICAgfTsKICAgIGNvbnRleHQgPSB7CiAgICB9OwogICAgamVzdC5yZXNldEFsbE1vY2tzKCk7CiAgfSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCByZWZsZWN0b3I6IFJlZmxlY3RvciA9IHsKICAgIGdldDogamVzdC5mbigpLm1vY2tSZXR1cm5WYWx1ZShyb2xlcyksCiAgICBnZXRBbGw6IGplc3QuZm4oKQogIH07CiAgY29uc3QgY29udGV4dDogRXhlY3V0aW9uQ29udGV4dCA9IHsKICAgIGdldEhhbmRsZXI6IGplc3QuZm4oKSwKICAgIHN3aXRjaFRvSHR0cDogamVzdC5mbigpLm1vY2tSZXR1cm5WYWx1ZSh7CiAgICAgIGdldFJlcXVlc3Q6IGplc3QuZm4oKS5tb2NrUmV0dXJuVmFsdWUoewogICAgICAgIHVzZXIKICAgICAgfSkKICAgIH0pLAogICAgc3dpdGNoVG9ScGM6IGplc3QuZm4oKSwKICAgIHN3aXRjaFRvV3M6IGplc3QuZm4oKSwKICAgIGdldENsYXNzOiBqZXN0LmZuKCksCiAgICBnZXRBcmdzOiBqZXN0LmZuKCksCiAgICBnZXRBcmdCeUluZGV4OiBqZXN0LmZuKCkKICB9Owo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/shared/fc-exploitation/g</text>
