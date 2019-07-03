@@ -555,6 +555,11 @@
       <file name="/fragment.php" timestamp="1553281601037">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/app/Http/Controllers/SearchController.php" timestamp="1562180624724">
+        <mark key="[" line="23" column="9" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="/daju.public.password_resets [Daju Postgres local]" timestamp="1541630712430">
         <mark key="[" line="0" column="0" />
       </file>
@@ -939,8 +944,8 @@
           <key char="95" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>toBeTruthy</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgneW9sbycpOwo=</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
@@ -955,37 +960,37 @@
         <text encoding="base64">ICBjb25zdCByZWZsZWN0b3I6IFJlZmxlY3RvciA9IHsKICAgIGdldDogamVzdC5mbigpLm1vY2tSZXR1cm5WYWx1ZShyb2xlcyksCiAgICBnZXRBbGw6IGplc3QuZm4oKQogIH07CiAgY29uc3QgY29udGV4dDogRXhlY3V0aW9uQ29udGV4dCA9IHsKICAgIGdldEhhbmRsZXI6IGplc3QuZm4oKSwKICAgIHN3aXRjaFRvSHR0cDogamVzdC5mbigpLm1vY2tSZXR1cm5WYWx1ZSh7CiAgICAgIGdldFJlcXVlc3Q6IGplc3QuZm4oKS5tb2NrUmV0dXJuVmFsdWUoewogICAgICAgIHVzZXIKICAgICAgfSkKICAgIH0pLAogICAgc3dpdGNoVG9ScGM6IGplc3QuZm4oKSwKICAgIHN3aXRjaFRvV3M6IGplc3QuZm4oKSwKICAgIGdldENsYXNzOiBqZXN0LmZuKCksCiAgICBnZXRBcmdzOiBqZXN0LmZuKCksCiAgICBnZXRBcmdCeUluZGV4OiBqZXN0LmZuKCkKICB9Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBsZXQgdXNlcjsKICBsZXQgcm9sZXM7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgneW9sbycpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBsZXQgY29udGV4dCA6IEV4ZWN1dGlvbkNvbnRleHQ7CgogIGJlZm9yZUVhY2goKCkgPT4gewogICAgcmVmbGVjdG9yID0gewogICAgfTsKICAgIGNvbnRleHQgPSB7CiAgICB9OwogICAgamVzdC5yZXNldEFsbE1vY2tzKCk7CiAgfSk7Cg==</text>
+        <text encoding="base64">ICBsZXQgdXNlcjsKICBsZXQgcm9sZXM7Cg==</text>
       </register>
       <register name="r" type="4">
         <text>technical_accounting.account.filters.period</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBsZXQgY29udGV4dCA6IEV4ZWN1dGlvbkNvbnRleHQ7CgogIGJlZm9yZUVhY2goKCkgPT4gewogICAgcmVmbGVjdG9yID0gewogICAgfTsKICAgIGNvbnRleHQgPSB7CiAgICB9OwogICAgamVzdC5yZXNldEFsbE1vY2tzKCk7CiAgfSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZ2V0SGFuZGxlcjogamVzdC5mbigpLAogICAgICBzd2l0Y2hUb0h0dHA6IGplc3QuZm4oKS5tb2NrUmV0dXJuVmFsdWUoewogICAgICAgIGdldFJlcXVlc3Q6IGplc3QuZm4oKS5tb2NrUmV0dXJuVmFsdWUoewogICAgICAgICAgdXNlcgogICAgICAgIH0pCiAgICAgIH0pLAogICAgICBzd2l0Y2hUb1JwYzogamVzdC5mbigpLAogICAgICBzd2l0Y2hUb1dzOiBqZXN0LmZuKCksCiAgICAgIGdldENsYXNzOiBqZXN0LmZuKCksCiAgICAgIGdldEFyZ3M6IGplc3QuZm4oKSwKICAgICAgZ2V0QXJnQnlJbmRleDogamVzdC5mbigpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgZ2V0SGFuZGxlcjogamVzdC5mbigpLAogICAgICBzd2l0Y2hUb0h0dHA6IGplc3QuZm4oKS5tb2NrUmV0dXJuVmFsdWUoewogICAgICAgIGdldFJlcXVlc3Q6IGplc3QuZm4oKS5tb2NrUmV0dXJuVmFsdWUoewogICAgICAgICAgdXNlcgogICAgICAgIH0pCiAgICAgIH0pLAogICAgICBzd2l0Y2hUb1JwYzogamVzdC5mbigpLAogICAgICBzd2l0Y2hUb1dzOiBqZXN0LmZuKCksCiAgICAgIGdldENsYXNzOiBqZXN0LmZuKCksCiAgICAgIGdldEFyZ3M6IGplc3QuZm4oKSwKICAgICAgZ2V0QXJnQnlJbmRleDogamVzdC5mbigpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZ2V0OiBqZXN0LmZuKCkubW9ja1JldHVyblZhbHVlKHJvbGVzKSwKICAgICAgZ2V0QWxsOiBqZXN0LmZuKCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlZmxlY3RvcjogUmVmbGVjdG9yID0gewo=</text>
+        <text encoding="base64">ICAgICAgZ2V0OiBqZXN0LmZuKCkubW9ja1JldHVyblZhbHVlKHJvbGVzKSwKICAgICAgZ2V0QWxsOiBqZXN0LmZuKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCByZWZsZWN0b3I6IFJlZmxlY3RvciA9IHsKICAgIGdldDogamVzdC5mbigpLm1vY2tSZXR1cm5WYWx1ZShyb2xlcyksCiAgICBnZXRBbGw6IGplc3QuZm4oKQogIH07CiAgY29uc3QgY29udGV4dDogRXhlY3V0aW9uQ29udGV4dCA9IHsKICAgIGdldEhhbmRsZXI6IGplc3QuZm4oKSwKICAgIHN3aXRjaFRvSHR0cDogamVzdC5mbigpLm1vY2tSZXR1cm5WYWx1ZSh7CiAgICAgIGdldFJlcXVlc3Q6IGplc3QuZm4oKS5tb2NrUmV0dXJuVmFsdWUoewogICAgICAgIHVzZXIKICAgICAgfSkKICAgIH0pLAogICAgc3dpdGNoVG9ScGM6IGplc3QuZm4oKSwKICAgIHN3aXRjaFRvV3M6IGplc3QuZm4oKSwKICAgIGdldENsYXNzOiBqZXN0LmZuKCksCiAgICBnZXRBcmdzOiBqZXN0LmZuKCksCiAgICBnZXRBcmdCeUluZGV4OiBqZXN0LmZuKCkKICB9Owo=</text>
+        <text encoding="base64">ICAgIHJlZmxlY3RvcjogUmVmbGVjdG9yID0gewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBjb25zdCByZWZsZWN0b3I6IFJlZmxlY3RvciA9IHsKICAgIGdldDogamVzdC5mbigpLm1vY2tSZXR1cm5WYWx1ZShyb2xlcyksCiAgICBnZXRBbGw6IGplc3QuZm4oKQogIH07CiAgY29uc3QgY29udGV4dDogRXhlY3V0aW9uQ29udGV4dCA9IHsKICAgIGdldEhhbmRsZXI6IGplc3QuZm4oKSwKICAgIHN3aXRjaFRvSHR0cDogamVzdC5mbigpLm1vY2tSZXR1cm5WYWx1ZSh7CiAgICAgIGdldFJlcXVlc3Q6IGplc3QuZm4oKS5tb2NrUmV0dXJuVmFsdWUoewogICAgICAgIHVzZXIKICAgICAgfSkKICAgIH0pLAogICAgc3dpdGNoVG9ScGM6IGplc3QuZm4oKSwKICAgIHN3aXRjaFRvV3M6IGplc3QuZm4oKSwKICAgIGdldENsYXNzOiBqZXN0LmZuKCksCiAgICBnZXRBcmdzOiBqZXN0LmZuKCksCiAgICBnZXRBcmdCeUluZGV4OiBqZXN0LmZuKCkKICB9Owo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/shared/fc-exploitation/g</text>
