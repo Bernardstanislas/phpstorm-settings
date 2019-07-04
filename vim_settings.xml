@@ -158,6 +158,12 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/shared/authentication/filter/UnauthorizedException.filter.spec.ts" timestamp="1562247649515">
+        <mark key="[" line="23" column="43" />
+        <mark key="]" line="23" column="42" />
+        <mark key="." line="23" column="42" />
+        <mark key="^" line="23" column="42" />
+      </file>
       <file name="$USER_HOME$/Documents/code/daju/app/Http/Controllers/Auth/LoginController.php" timestamp="1550834573778">
         <mark key="[" line="27" column="30" />
       </file>
@@ -264,17 +270,11 @@
       <file name="$USER_HOME$/Documents/code/simplesamlphp/modules/businessimmolegacy/Language.php" timestamp="1542099904341">
         <mark key="[" line="5" column="0" />
       </file>
-      <file name="/fc-exploitation.public.user [Local pg fc-exploitation]" timestamp="1562230280158">
+      <file name="/fc-exploitation.public.user [Local pg fc-exploitation]" timestamp="1562235401461">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-stats/.gitlab-ci.yml" timestamp="1561465709066">
         <mark key="[" line="1" column="14" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/service-provider/service-provider.controller.ts" timestamp="1562230631044">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="14" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/src/authentication/filter/Unauthorized.filter.ts" timestamp="1559570709924">
         <mark key="[" line="0" column="0" />
@@ -392,7 +392,7 @@
       <file name="$USER_HOME$/Documents/code/alto-espace-emprunteur/api/templates/base.html.twig" timestamp="1540894714113">
         <mark key="[" line="240" column="188" />
       </file>
-      <file name="/dummy.sql" timestamp="1562230281507">
+      <file name="/dummy.sql" timestamp="1562235401748">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/france-connect/fc-exploitation/test/authentication/authentication.service.spec.ts" timestamp="1558621175129">
@@ -464,6 +464,9 @@
       <file name="/alto-espace-emprunteur.message [Alto staging]" timestamp="1540544860068">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1562235433753">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/daju.public.api_keys [Daju Postgres local]" timestamp="1553590973763">
         <mark key="[" line="0" column="0" />
       </file>
@@ -518,6 +521,9 @@
       </file>
       <file name="$USER_HOME$/Documents/code/kata/.gitignore" timestamp="1549027771807">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/shared/authentication/filter/UnauthorizedException.filter.ts" timestamp="1562247657921">
+        <mark key="[" line="13" column="23" />
       </file>
       <file name="/oreqo.public.users [oreqo@localhost]" timestamp="1555957440913">
         <mark key="[" line="0" column="0" />
@@ -676,8 +682,9 @@
         <mark key="]" line="9" column="4" />
         <mark key="." line="9" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/shared/authentication/guard/roles.guard.spec.ts" timestamp="1562230149085">
-        <mark key="[" line="0" column="14" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/shared/authentication/guard/roles.guard.spec.ts" timestamp="1562247555541">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="20" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/.gitignore" timestamp="1557504895790">
         <mark key="[" line="11" column="5" />
@@ -713,12 +720,6 @@
       <file name="$USER_HOME$/Documents/code/business-immo-directory/src/Resources/views/Front/Layout/partials/top_bar.html.twig" timestamp="1543843158065">
         <mark key="[" line="17" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/views/service-provider/list.ejs" timestamp="1562077898464">
-        <mark key="[" line="27" column="82" />
-        <mark key="]" line="27" column="82" />
-        <mark key="." line="27" column="45" />
-        <mark key="^" line="27" column="44" />
-      </file>
       <file name="/daju.public.api_key_admin_events [Daju Postgres local]" timestamp="1543084318445">
         <mark key="[" line="0" column="0" />
       </file>
@@ -753,20 +754,8 @@
       <file name="$USER_HOME$/Documents/code/test-gitlab-ci/Dangerfile" timestamp="1557497164871">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/.env" timestamp="1562159716977">
-        <mark key="[" line="5" column="15" />
-        <mark key="]" line="5" column="15" />
-        <mark key="^" line="7" column="11" />
-        <mark key="." line="5" column="15" />
-      </file>
       <file name="/alto-test.app_users [alto-test]" timestamp="1539672566207">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/shared/fixtures/User.yml" timestamp="1562160613492">
-        <mark key="[" line="4" column="8" />
-        <mark key="]" line="15" column="20" />
-        <mark key="^" line="7" column="15" />
-        <mark key="." line="15" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/node_modules/shared/authentication/authentication.module.ts" timestamp="1562230457080">
         <mark key="[" line="33" column="19" />
@@ -1012,56 +1001,53 @@
           <key char="95" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgPHA+PGk+PCU9IGlkZW50aXR5UHJvdmlkZXJzLmxlbmd0aCAlPiBmb3Vybmlzc2V1cnMgZGlzcG9uaWJsZXM8L2k+PC9wPgoKICAgICAgPHRhYmxlIGNsYXNzPSJ0YWJsZSB0YWJsZS1ob3ZlciB0YWJsZS1saWdodCBzaGFkb3ctc20iPgogICAgICAgIDx0aGVhZCBjbGFzcz0idGhlYWQtbGlnaHQiPgogICAgICAgIDx0cj4KICAgICAgICAgIDx0aCBzY29wZT0iY29sIj5UaXRsZTwvdGg+CiAgICAgICAgICA8dGggc2NvcGU9ImNvbCI+TmFtZTwvdGg+CiAgICAgICAgICA8dGggc2NvcGU9ImNvbCI+RW1haWwgZGUgY29udGFjdDwvdGg+CiAgICAgICAgICA8dGggc2NvcGU9ImNvbCI+QWN0aXbDqTwvdGg+CiAgICAgICAgICA8dGggc2NvcGU9ImNvbCI+QWZmaWNow6k8L3RoPgogICAgICAgICAgPHRoIHNjb3BlPSJjb2wiPkVpZGFzPC90aD4KICAgICAgICAgIDx0aCBzY29wZT0iY29sIj5PcmRyZSBkJ2FmZmljaGFnZTwvdGg+CiAgICAgICAgICA8dGggc2NvcGU9ImNvbCI+QWN0aW9uczwvdGg+CiAgICAgICAgPC90cj4KICAgICAgICA8L3RoZWFkPgogICAgICAgIDx0Ym9keT4KICAgICAgICA8JSBpZGVudGl0eVByb3ZpZGVycy5mb3JFYWNoKGZ1bmN0aW9uKGlkZW50aXR5UHJvdmlkZXIpeyAlPgogICAgICAgICAgPHRyPgogICAgICAgICAgICA8dGggc2NvcGU9InJvdyI+PCU9IGlkZW50aXR5UHJvdmlkZXIudGl0bGUgJT48L3RoPgogICAgICAgICAgICA8dGQ+PCU9IGlkZW50aXR5UHJvdmlkZXIubmFtZSAlPjwvdGQ+CiAgICAgICAgICAgIDx0ZD48JT0gaWRlbnRpdHlQcm92aWRlci5tYWlsdG8gJT48L3RkPgogICAgICAgICAgICA8dGQgY2xhc3M9InRleHQtY2VudGVyIj4KICAgICAgICAgICAgICA8aSBjbGFzcz0iZmEgZmEtdG9nZ2xlLTwlPSBpZGVudGl0eVByb3ZpZGVyLmFjdGl2ZSA/ICJvbiIgOiAib2ZmIiAlPiI+PC9pPgogICAgICAgICAgICA8L3RkPgogICAgICAgICAgICA8dGQgY2xhc3M9InRleHQtY2VudGVyIj4KICAgICAgICAgICAgICA8aSBjbGFzcz0iZmEgZmEtdG9nZ2xlLTwlPSBpZGVudGl0eVByb3ZpZGVyLmRpc3BsYXkgPyAib24iIDogIm9mZiIgJT4iPjwvaT4KICAgICAgICAgICAgPC90ZD4KICAgICAgICAgICAgPHRkPjwlPSBpZGVudGl0eVByb3ZpZGVyLmVpZGFzICU+PC90ZD4KICAgICAgICAgICAgPHRkPjwlPSBpZGVudGl0eVByb3ZpZGVyLm9yZGVyICU+PC90ZD4KICAgICAgICAgICAgPHRkIGNsYXNzPSJ0ZXh0LXJpZ2h0Ij4KICAgICAgICAgICAgICA8YSBocmVmPSIjIj4KICAgICAgICAgICAgICAgIDxpIGNsYXNzPSJmYSBmYS10cmFzaCIgYXJpYS1oaWRkZW49InRydWUiIHRpdGxlPSJTdXBwcmltZXIiPjwvaT4KICAgICAgICAgICAgICA8L2E+CiAgICAgICAgICAgIDwvdGQ+CiAgICAgICAgICA8L3RyPgogICAgICAgIDwlIH0pICU+CiAgICAgICAgPC90Ym9keT4KICAgICAgPC90YWJsZT4K</text>
+      <register name="&quot;" type="4">
+        <text>host.switchToHttp.get</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>Gestion des fournisseurs d'identité.</text>
+        <text>host.switchToHttp.get</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>[
-        { label: 'Exploitant', value: UserRole.OPERATOR },
-        { label: 'Administrateur', value: UserRole.ADMIN }
-      ]</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgc3dpdGNoVG9XczogamVzdC5mbigpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPHA+PGk+PCU9IGlkZW50aXR5UHJvdmlkZXJzLmxlbmd0aCAlPiBmb3Vybmlzc2V1cnMgZGlzcG9uaWJsZXM8L2k+PC9wPgoKICAgICAgPHRhYmxlIGNsYXNzPSJ0YWJsZSB0YWJsZS1ob3ZlciB0YWJsZS1saWdodCBzaGFkb3ctc20iPgogICAgICAgIDx0aGVhZCBjbGFzcz0idGhlYWQtbGlnaHQiPgogICAgICAgIDx0cj4KICAgICAgICAgIDx0aCBzY29wZT0iY29sIj5UaXRsZTwvdGg+CiAgICAgICAgICA8dGggc2NvcGU9ImNvbCI+TmFtZTwvdGg+CiAgICAgICAgICA8dGggc2NvcGU9ImNvbCI+RW1haWwgZGUgY29udGFjdDwvdGg+CiAgICAgICAgICA8dGggc2NvcGU9ImNvbCI+QWN0aXbDqTwvdGg+CiAgICAgICAgICA8dGggc2NvcGU9ImNvbCI+QWZmaWNow6k8L3RoPgogICAgICAgICAgPHRoIHNjb3BlPSJjb2wiPkVpZGFzPC90aD4KICAgICAgICAgIDx0aCBzY29wZT0iY29sIj5PcmRyZSBkJ2FmZmljaGFnZTwvdGg+CiAgICAgICAgICA8dGggc2NvcGU9ImNvbCI+QWN0aW9uczwvdGg+CiAgICAgICAgPC90cj4KICAgICAgICA8L3RoZWFkPgogICAgICAgIDx0Ym9keT4KICAgICAgICA8JSBpZGVudGl0eVByb3ZpZGVycy5mb3JFYWNoKGZ1bmN0aW9uKGlkZW50aXR5UHJvdmlkZXIpeyAlPgogICAgICAgICAgPHRyPgogICAgICAgICAgICA8dGggc2NvcGU9InJvdyI+PCU9IGlkZW50aXR5UHJvdmlkZXIudGl0bGUgJT48L3RoPgogICAgICAgICAgICA8dGQ+PCU9IGlkZW50aXR5UHJvdmlkZXIubmFtZSAlPjwvdGQ+CiAgICAgICAgICAgIDx0ZD48JT0gaWRlbnRpdHlQcm92aWRlci5tYWlsdG8gJT48L3RkPgogICAgICAgICAgICA8dGQgY2xhc3M9InRleHQtY2VudGVyIj4KICAgICAgICAgICAgICA8aSBjbGFzcz0iZmEgZmEtdG9nZ2xlLTwlPSBpZGVudGl0eVByb3ZpZGVyLmFjdGl2ZSA/ICJvbiIgOiAib2ZmIiAlPiI+PC9pPgogICAgICAgICAgICA8L3RkPgogICAgICAgICAgICA8dGQgY2xhc3M9InRleHQtY2VudGVyIj4KICAgICAgICAgICAgICA8aSBjbGFzcz0iZmEgZmEtdG9nZ2xlLTwlPSBpZGVudGl0eVByb3ZpZGVyLmRpc3BsYXkgPyAib24iIDogIm9mZiIgJT4iPjwvaT4KICAgICAgICAgICAgPC90ZD4KICAgICAgICAgICAgPHRkPjwlPSBpZGVudGl0eVByb3ZpZGVyLmVpZGFzICU+PC90ZD4KICAgICAgICAgICAgPHRkPjwlPSBpZGVudGl0eVByb3ZpZGVyLm9yZGVyICU+PC90ZD4KICAgICAgICAgICAgPHRkIGNsYXNzPSJ0ZXh0LXJpZ2h0Ij4KICAgICAgICAgICAgICA8YSBocmVmPSIjIj4KICAgICAgICAgICAgICAgIDxpIGNsYXNzPSJmYSBmYS10cmFzaCIgYXJpYS1oaWRkZW49InRydWUiIHRpdGxlPSJTdXBwcmltZXIiPjwvaT4KICAgICAgICAgICAgICA8L2E+CiAgICAgICAgICAgIDwvdGQ+CiAgICAgICAgICA8L3RyPgogICAgICAgIDwlIH0pICU+CiAgICAgICAgPC90Ym9keT4KICAgICAgPC90YWJsZT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">T3dlbgo=</text>
       </register>
       <register name="r" type="4">
         <text>technical_accounting.account.filters.period</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgPHA+PGk+PCU9IGlkZW50aXR5UHJvdmlkZXJzLmxlbmd0aCAlPiBmb3Vybmlzc2V1cnMgZGlzcG9uaWJsZXM8L2k+PC9wPgoKICAgICAgPHRhYmxlIGNsYXNzPSJ0YWJsZSB0YWJsZS1ob3ZlciB0YWJsZS1saWdodCBzaGFkb3ctc20iPgogICAgICAgIDx0aGVhZCBjbGFzcz0idGhlYWQtbGlnaHQiPgogICAgICAgIDx0cj4KICAgICAgICAgIDx0aCBzY29wZT0iY29sIj5UaXRsZTwvdGg+CiAgICAgICAgICA8dGggc2NvcGU9ImNvbCI+TmFtZTwvdGg+CiAgICAgICAgICA8dGggc2NvcGU9ImNvbCI+RW1haWwgZGUgY29udGFjdDwvdGg+CiAgICAgICAgICA8dGggc2NvcGU9ImNvbCI+QWN0aXbDqTwvdGg+CiAgICAgICAgICA8dGggc2NvcGU9ImNvbCI+QWZmaWNow6k8L3RoPgogICAgICAgICAgPHRoIHNjb3BlPSJjb2wiPkVpZGFzPC90aD4KICAgICAgICAgIDx0aCBzY29wZT0iY29sIj5PcmRyZSBkJ2FmZmljaGFnZTwvdGg+CiAgICAgICAgICA8dGggc2NvcGU9ImNvbCI+QWN0aW9uczwvdGg+CiAgICAgICAgPC90cj4KICAgICAgICA8L3RoZWFkPgogICAgICAgIDx0Ym9keT4KICAgICAgICA8JSBpZGVudGl0eVByb3ZpZGVycy5mb3JFYWNoKGZ1bmN0aW9uKGlkZW50aXR5UHJvdmlkZXIpeyAlPgogICAgICAgICAgPHRyPgogICAgICAgICAgICA8dGggc2NvcGU9InJvdyI+PCU9IGlkZW50aXR5UHJvdmlkZXIudGl0bGUgJT48L3RoPgogICAgICAgICAgICA8dGQ+PCU9IGlkZW50aXR5UHJvdmlkZXIubmFtZSAlPjwvdGQ+CiAgICAgICAgICAgIDx0ZD48JT0gaWRlbnRpdHlQcm92aWRlci5tYWlsdG8gJT48L3RkPgogICAgICAgICAgICA8dGQgY2xhc3M9InRleHQtY2VudGVyIj4KICAgICAgICAgICAgICA8aSBjbGFzcz0iZmEgZmEtdG9nZ2xlLTwlPSBpZGVudGl0eVByb3ZpZGVyLmFjdGl2ZSA/ICJvbiIgOiAib2ZmIiAlPiI+PC9pPgogICAgICAgICAgICA8L3RkPgogICAgICAgICAgICA8dGQgY2xhc3M9InRleHQtY2VudGVyIj4KICAgICAgICAgICAgICA8aSBjbGFzcz0iZmEgZmEtdG9nZ2xlLTwlPSBpZGVudGl0eVByb3ZpZGVyLmRpc3BsYXkgPyAib24iIDogIm9mZiIgJT4iPjwvaT4KICAgICAgICAgICAgPC90ZD4KICAgICAgICAgICAgPHRkPjwlPSBpZGVudGl0eVByb3ZpZGVyLmVpZGFzICU+PC90ZD4KICAgICAgICAgICAgPHRkPjwlPSBpZGVudGl0eVByb3ZpZGVyLm9yZGVyICU+PC90ZD4KICAgICAgICAgICAgPHRkIGNsYXNzPSJ0ZXh0LXJpZ2h0Ij4KICAgICAgICAgICAgICA8YSBocmVmPSIjIj4KICAgICAgICAgICAgICAgIDxpIGNsYXNzPSJmYSBmYS10cmFzaCIgYXJpYS1oaWRkZW49InRydWUiIHRpdGxlPSJTdXBwcmltZXIiPjwvaT4KICAgICAgICAgICAgICA8L2E+CiAgICAgICAgICAgIDwvdGQ+CiAgICAgICAgICA8L3RyPgogICAgICAgIDwlIH0pICU+CiAgICAgICAgPC90Ym9keT4KICAgICAgPC90YWJsZT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CkBNb2R1bGUK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IE1vZHVsZSA9IFdlYkFzc2VtYmx5Lk1vZHVsZTsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IE1vZHVsZSA9IFdlYkFzc2VtYmx5Lk1vZHVsZTsK</text>
+        <text encoding="base64">CkBNb2R1bGUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAidHJhaWxpbmdDb21tYSI6ICJhbGwiCg==</text>
+        <text encoding="base64">aW1wb3J0IE1vZHVsZSA9IFdlYkFzc2VtYmx5Lk1vZHVsZTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IE1vZHVsZSA9IFdlYkFzc2VtYmx5Lk1vZHVsZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJxdW90ZW1hcmsiOiBbdHJ1ZSwgInNpbmdsZSJdLAo=</text>
+        <text encoding="base64">ICAidHJhaWxpbmdDb21tYSI6ICJhbGwiCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/shared/fc-exploitation/g</text>
