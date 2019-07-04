@@ -357,6 +357,13 @@
       <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/shared/src/index.ts" timestamp="1560522183352">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/account/account.controller.ts" timestamp="1562234308784">
+        <mark key="'" line="3" column="12" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="12" />
+        <mark key="^" line="3" column="12" />
+        <mark key="." line="3" column="12" />
+      </file>
       <file name="$USER_HOME$/Documents/code/todo-backend-lumen/app/Screenplay/AddTodo.php" timestamp="1561905856780">
         <mark key="[" line="17" column="27" />
         <mark key="]" line="17" column="27" />
@@ -616,6 +623,12 @@
       <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/shared/user/roles.enum.ts" timestamp="1562148314052">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/account/account.controller.spec.ts" timestamp="1562234330772">
+        <mark key="[" line="18" column="20" />
+        <mark key="]" line="18" column="20" />
+        <mark key="^" line="18" column="24" />
+        <mark key="." line="18" column="20" />
+      </file>
       <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/shared/migrations/1562159993940-UserMigration.ts" timestamp="1562160026820">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -843,9 +856,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="308" column="20" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" />
-      <jump line="35" column="14" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" />
-      <jump line="38" column="13" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" />
       <jump line="31" column="6" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" />
       <jump line="309" column="20" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" />
       <jump line="271" column="11" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" />
@@ -943,6 +953,9 @@
       <jump line="8" column="20" filename="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/service-provider/service-provider.controller.spec.ts" />
       <jump line="0" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa5abfb6-997e-40b0-9d2c-f29c6c286d48/console_4.sql" />
       <jump line="70" column="0" filename="$USER_HOME$/Documents/code/france-connect/fc-apps/shared/authentication/guard/roles.guard.spec.ts" />
+      <jump line="16" column="58" filename="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/account/account.controller.spec.ts" />
+      <jump line="14" column="2" filename="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/account/account.controller.spec.ts" />
+      <jump line="3" column="12" filename="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/account/account.controller.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -994,53 +1007,56 @@
           <key char="95" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTW9kdWxlIH0gZnJvbSAnQG5lc3Rqcy9jb21tb24nOwo=</text>
+      <register name="&quot;" type="4">
+        <text>toBe</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>tslint</text>
+        <text>toBe</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTW9kdWxlIH0gZnJvbSAnQG5lc3Rqcy9jb21tb24nOwo=</text>
+      <register name="0" type="4">
+        <text>[
+        { label: 'Exploitant', value: UserRole.OPERATOR },
+        { label: 'Administrateur', value: UserRole.ADMIN }
+      ]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CkBNb2R1bGUK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IE1vZHVsZSA9IFdlYkFzc2VtYmx5Lk1vZHVsZTsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="r" type="4">
         <text>technical_accounting.account.filters.period</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IE1vZHVsZSA9IFdlYkFzc2VtYmx5Lk1vZHVsZTsK</text>
+        <text encoding="base64">CkBNb2R1bGUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAidHJhaWxpbmdDb21tYSI6ICJhbGwiCg==</text>
+        <text encoding="base64">aW1wb3J0IE1vZHVsZSA9IFdlYkFzc2VtYmx5Lk1vZHVsZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IE1vZHVsZSA9IFdlYkFzc2VtYmx5Lk1vZHVsZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJxdW90ZW1hcmsiOiBbdHJ1ZSwgInNpbmdsZSJdLAo=</text>
+        <text encoding="base64">ICAidHJhaWxpbmdDb21tYSI6ICJhbGwiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICJzaW5nbGVRdW90ZSI6IHRydWUsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBAUm9sZXMoJ2FkbWluJykK</text>
+        <text encoding="base64">ICAgICJxdW90ZW1hcmsiOiBbdHJ1ZSwgInNpbmdsZSJdLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Ly8gICJzaW5nbGVRdW90ZSI6IHRydWUsCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/shared/fc-exploitation/g</text>
