@@ -268,10 +268,10 @@
       <file name="$USER_HOME$/Documents/code/daju-landing/src/components/Homepage/Features/index.tsx" timestamp="1549736123239">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/views/account/creation.ejs" timestamp="1562598462645">
-        <mark key="[" line="36" column="49" />
-        <mark key="]" line="36" column="49" />
-        <mark key="." line="36" column="49" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/views/account/creation.ejs" timestamp="1562601543064">
+        <mark key="[" line="50" column="56" />
+        <mark key="]" line="50" column="56" />
+        <mark key="." line="50" column="56" />
         <mark key="^" line="44" column="74" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2f06f4c5-3f90-4e16-a04a-d16027afbf01/console.sql" timestamp="1539357442635">
@@ -1024,13 +1024,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>pg</text>
+        <text>Primary</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>pg</text>
+        <text>Primary</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZFw+</text>
