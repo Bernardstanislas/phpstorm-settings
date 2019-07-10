@@ -409,11 +409,11 @@
       <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/shared/src/index.ts" timestamp="1560522183352">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/account/account.controller.ts" timestamp="1562749845670">
-        <mark key="[" line="30" column="3" />
-        <mark key="]" line="30" column="12" />
-        <mark key="." line="30" column="12" />
-        <mark key="^" line="30" column="12" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/account/account.controller.ts" timestamp="1562751699728">
+        <mark key="[" line="26" column="13" />
+        <mark key="]" line="19" column="7" />
+        <mark key="." line="19" column="7" />
+        <mark key="^" line="19" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/code/todo-backend-lumen/app/Screenplay/AddTodo.php" timestamp="1561905856780">
         <mark key="[" line="17" column="27" />
@@ -1091,8 +1091,11 @@
           <key char="95" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBjb250ZXh0LmdldFJlc3BvbnNlKCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>[
+        { label: 'Administrateur', value: UserRole.ADMIN },
+        { label: 'Exploitant', value: UserRole.OPERATOR }
+      ]</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
@@ -1106,29 +1109,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICBASXNOb3RFbXB0eSh7IG1lc3NhZ2U6ICJMZSBub20gZCd1dGlsaXNhdGV1ciBkb2l0IMOqdHJlIHJlbnNlaWduw6kiIH0pCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBjb250ZXh0LmdldFJlc3BvbnNlKCk7Cg==</text>
+      <register name="1" type="4">
+        <text>[
+        { label: 'Administrateur', value: UserRole.ADMIN },
+        { label: 'Exploitant', value: UserRole.OPERATOR }
+      ]</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGQK</text>
+        <text encoding="base64">ICAgIHJldHVybiBjb250ZXh0LmdldFJlc3BvbnNlKCk7Cg==</text>
       </register>
       <register name="r" type="4">
         <text>technical_accounting.account.filters.period</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBnZXRSZXF1ZXN0OiBqZXN0LmZuKCkK</text>
+        <text encoding="base64">ICAgIGQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVW5hdXRob3JpemVkRXhjZXB0aW9uRmlsdGVyIH0gZnJvbSAnLi9VbmF1dGhvcml6ZWRFeGNlcHRpb24uZmlsdGVyJzsK</text>
+        <text encoding="base64">ICAgICAgICBnZXRSZXF1ZXN0OiBqZXN0LmZuKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBASXNBcnJheSgpCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgVW5hdXRob3JpemVkRXhjZXB0aW9uRmlsdGVyIH0gZnJvbSAnLi9VbmF1dGhvcml6ZWRFeGNlcHRpb24uZmlsdGVyJzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBASXNOb3RFbXB0eSgpCg==</text>
+        <text encoding="base64">ICBASXNBcnJheSgpCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICBASXNOb3RFbXB0eSgpCg==</text>
