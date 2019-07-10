@@ -409,11 +409,11 @@
       <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/shared/src/index.ts" timestamp="1560522183352">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/account/account.controller.ts" timestamp="1562685174670">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-        <mark key="^" line="28" column="20" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/account/account.controller.ts" timestamp="1562749845670">
+        <mark key="[" line="30" column="3" />
+        <mark key="]" line="30" column="12" />
+        <mark key="." line="30" column="12" />
+        <mark key="^" line="30" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/code/todo-backend-lumen/app/Screenplay/AddTodo.php" timestamp="1561905856780">
         <mark key="[" line="17" column="27" />
@@ -426,7 +426,12 @@
       <file name="$USER_HOME$/Documents/code/daju-landing/src/components/Homepage/Header/Splash/index.tsx" timestamp="1549738110353">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/filter/bad-request-exception.filter.ts" timestamp="1562747282535" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/filter/bad-request-exception.filter.ts" timestamp="1562750774372">
+        <mark key="[" line="14" column="4" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="14" column="26" />
+      </file>
       <file name="/sphere.public.company [Sphere]" timestamp="1538490576302">
         <mark key="[" line="0" column="0" />
       </file>
@@ -922,10 +927,10 @@
       <file name="$USER_HOME$/Documents/code/daju/config/services_test.yml" timestamp="1539172430896">
         <mark key="[" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/app.module.ts" timestamp="1562235203843">
-        <mark key="[" line="19" column="26" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/app.module.ts" timestamp="1562749884822">
+        <mark key="[" line="33" column="31" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/sphere/frontend/.dockerignore" timestamp="1539099850767">
         <mark key="[" line="1" column="4" />
@@ -1086,14 +1091,14 @@
           <key char="95" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>T</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBjb250ZXh0LmdldFJlc3BvbnNlKCk7Cg==</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>T</text>
+        <text>console.log(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZFw+</text>
@@ -1102,25 +1107,25 @@
         <text encoding="base64">ICBASXNOb3RFbXB0eSh7IG1lc3NhZ2U6ICJMZSBub20gZCd1dGlsaXNhdGV1ciBkb2l0IMOqdHJlIHJlbnNlaWduw6kiIH0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBnZXRSZXF1ZXN0OiBqZXN0LmZuKCkK</text>
+        <text encoding="base64">ICAgIHJldHVybiBjb250ZXh0LmdldFJlc3BvbnNlKCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVW5hdXRob3JpemVkRXhjZXB0aW9uRmlsdGVyIH0gZnJvbSAnLi9VbmF1dGhvcml6ZWRFeGNlcHRpb24uZmlsdGVyJzsK</text>
+        <text encoding="base64">ICAgIGQK</text>
       </register>
       <register name="r" type="4">
         <text>technical_accounting.account.filters.period</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBASXNBcnJheSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBnZXRSZXF1ZXN0OiBqZXN0LmZuKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBASXNOb3RFbXB0eSgpCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgVW5hdXRob3JpemVkRXhjZXB0aW9uRmlsdGVyIH0gZnJvbSAnLi9VbmF1dGhvcml6ZWRFeGNlcHRpb24uZmlsdGVyJzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBASXNOb3RFbXB0eSgpCg==</text>
+        <text encoding="base64">ICBASXNBcnJheSgpCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICBASXNOb3RFbXB0eSgpCg==</text>
@@ -1129,10 +1134,10 @@
         <text encoding="base64">ICBASXNOb3RFbXB0eSgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVzZXIpOwo=</text>
+        <text encoding="base64">ICBASXNOb3RFbXB0eSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBAUmVkaXJlY3QoJy8nKQo=</text>
+        <text encoding="base64">ICBASXNOb3RFbXB0eSgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/shared/fc-exploitation/g</text>
