@@ -286,11 +286,11 @@
       <file name="$USER_HOME$/Documents/code/daju-landing/src/components/Homepage/Features/index.tsx" timestamp="1549736123239">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/views/account/creation.ejs" timestamp="1562684911812">
-        <mark key="[" line="44" column="52" />
-        <mark key="]" line="44" column="67" />
-        <mark key="." line="44" column="67" />
-        <mark key="^" line="44" column="67" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/views/account/creation.ejs" timestamp="1562754437576">
+        <mark key="[" line="18" column="132" />
+        <mark key="]" line="18" column="132" />
+        <mark key="." line="18" column="132" />
+        <mark key="^" line="18" column="142" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2f06f4c5-3f90-4e16-a04a-d16027afbf01/console.sql" timestamp="1539357442635">
         <mark key="[" line="0" column="0" />
@@ -409,11 +409,11 @@
       <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/shared/src/index.ts" timestamp="1560522183352">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/account/account.controller.ts" timestamp="1562751699728">
-        <mark key="[" line="26" column="13" />
-        <mark key="]" line="19" column="7" />
-        <mark key="." line="19" column="7" />
-        <mark key="^" line="19" column="7" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/account/account.controller.ts" timestamp="1562754353780">
+        <mark key="[" line="41" column="30" />
+        <mark key="]" line="43" column="29" />
+        <mark key="." line="43" column="29" />
+        <mark key="^" line="43" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/code/todo-backend-lumen/app/Screenplay/AddTodo.php" timestamp="1561905856780">
         <mark key="[" line="17" column="27" />
@@ -701,11 +701,10 @@
       <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/shared/user/roles.enum.ts" timestamp="1562148314052">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/account/account.controller.spec.ts" timestamp="1562684424952">
-        <mark key="[" line="56" column="6" />
-        <mark key="]" line="56" column="54" />
-        <mark key="." line="56" column="54" />
-        <mark key="^" line="56" column="54" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/account/account.controller.spec.ts" timestamp="1562754121439">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/shared/migrations/1562159993940-UserMigration.ts" timestamp="1562160026820">
         <mark key="[" line="13" column="0" />
@@ -790,11 +789,10 @@
       <file name="/daju.public.api_key_admin_events [Daju Postgres local]" timestamp="1543084318445">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/main.ts" timestamp="1562686241079">
-        <mark key="[" line="68" column="34" />
-        <mark key="]" line="71" column="42" />
-        <mark key="^" line="71" column="42" />
-        <mark key="." line="71" column="42" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/main.ts" timestamp="1562753169022">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
       </file>
       <file name="/daju.public.migrations [Daju Postgres local]" timestamp="1553531666834">
         <mark key="[" line="0" column="0" />
@@ -1092,58 +1090,52 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>[
-        { label: 'Administrateur', value: UserRole.ADMIN },
-        { label: 'Exploitant', value: UserRole.OPERATOR }
-      ]</text>
+        <text>uesrname</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>console.log(</text>
+        <text>uesrname</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBASXNOb3RFbXB0eSh7IG1lc3NhZ2U6ICJMZSBub20gZCd1dGlsaXNhdGV1ciBkb2l0IMOqdHJlIHJlbnNlaWduw6kiIH0pCg==</text>
+        <text encoding="base64">ICBAUmVuZGVyKCdhY2NvdW50L2NyZWF0aW9uJykK</text>
       </register>
-      <register name="1" type="4">
-        <text>[
-        { label: 'Administrateur', value: UserRole.ADMIN },
-        { label: 'Exploitant', value: UserRole.OPERATOR }
-      ]</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBjb250ZXh0LmdldFJlc3BvbnNlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZXJyb3JzKTsK</text>
       </register>
       <register name="r" type="4">
         <text>technical_accounting.account.filters.period</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGQK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGVycm9ycyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBnZXRSZXF1ZXN0OiBqZXN0LmZuKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVW5hdXRob3JpemVkRXhjZXB0aW9uRmlsdGVyIH0gZnJvbSAnLi9VbmF1dGhvcml6ZWRFeGNlcHRpb24uZmlsdGVyJzsK</text>
+        <text encoding="base64">ICAgIGl0KCdyZWRpcmVjdHMgdGhlIHVzZXIgd2hlbiBhIHZhbGlkIHVzZXIgaXMgcHJvdmlkZWQnLCBhc3luYyAoKSA9PiB7CiAgICAgIGF3YWl0IGFjY291bnRDb250cm9sbGVyLmNyZWF0ZVVzZXIoY3JlYXRlVXNlckR0bywgcmVzKTsKICAgICAgZXhwZWN0KHJlcy5yZWRpcmVjdCkudG9IYXZlQmVlbkNhbGxlZFRpbWVzKDEpOwogICAgICBleHBlY3QocmVzLnJlZGlyZWN0KS50b0hhdmVCZWVuQ2FsbGVkV2l0aCgnLycpOwogICAgfSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBASXNBcnJheSgpCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHR5cGVvZiBjcmVhdGVVc2VyRHRvKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBASXNOb3RFbXB0eSgpCg==</text>
+        <text encoding="base64">ICBAUmVuZGVyKCdhY2NvdW50L2NyZWF0aW9uJykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBASXNOb3RFbXB0eSgpCg==</text>
+        <text encoding="base64">CiAgLy8gU2V0dXAgdmFsaWRhdGlvbiBwaXBlCiAgYXBwLnVzZUdsb2JhbFBpcGVzKG5ldyBWYWxpZGF0aW9uUGlwZSgpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBASXNOb3RFbXB0eSgpCg==</text>
+        <text encoding="base64">ICBAVXNlRmlsdGVycyhCYWRSZXF1ZXN0RXhjZXB0aW9uRmlsdGVyKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/shared/fc-exploitation/g</text>
