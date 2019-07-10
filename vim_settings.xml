@@ -30,6 +30,12 @@
       <file name="$USER_HOME$/Documents/code/blog-dojo-cqrs/src/index.ts" timestamp="1546093050136">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/filter/bad-request.filter.spec.ts" timestamp="1562746919218">
+        <mark key="[" line="22" column="41" />
+        <mark key="]" line="22" column="41" />
+        <mark key="." line="22" column="41" />
+        <mark key="^" line="8" column="14" />
+      </file>
       <file name="$USER_HOME$/Documents/code/simplesamlphp/modules/businessimmotheme/themes/businessimmo/default/_header.twig" timestamp="1541693012925">
         <mark key="[" line="5" column="55" />
       </file>
@@ -270,6 +276,7 @@
       <file name="/business_immo_legacy.activity_sectors [Business immo legacy]" timestamp="1542805803223">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/Infra/.gitlab-ci.yml" timestamp="1562596009684" />
       <file name="/business_immo_legacy.user_roles [Business immo legacy]" timestamp="1543854934084">
         <mark key="[" line="0" column="0" />
       </file>
@@ -419,6 +426,7 @@
       <file name="$USER_HOME$/Documents/code/daju-landing/src/components/Homepage/Header/Splash/index.tsx" timestamp="1549738110353">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/filter/bad-request-exception.filter.ts" timestamp="1562747282535" />
       <file name="/sphere.public.company [Sphere]" timestamp="1538490576302">
         <mark key="[" line="0" column="0" />
       </file>
@@ -618,6 +626,7 @@
       <file name="$USER_HOME$/Documents/code/blog-dojo-cqrs/.gitignore" timestamp="1545231227960">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/filter/bad-request-exception.filter.spec.ts" timestamp="1562747220602" />
       <file name="/daju.public.templates [Daju Postgres local]" timestamp="1544358308197">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1077,14 +1086,14 @@
           <key char="95" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBASXNBcnJheSgpCg==</text>
+      <register name="&quot;" type="4">
+        <text>T</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>T</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZFw+</text>
@@ -1093,19 +1102,19 @@
         <text encoding="base64">ICBASXNOb3RFbXB0eSh7IG1lc3NhZ2U6ICJMZSBub20gZCd1dGlsaXNhdGV1ciBkb2l0IMOqdHJlIHJlbnNlaWduw6kiIH0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBASXNBcnJheSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBnZXRSZXF1ZXN0OiBqZXN0LmZuKCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBASXNOb3RFbXB0eSgpCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgVW5hdXRob3JpemVkRXhjZXB0aW9uRmlsdGVyIH0gZnJvbSAnLi9VbmF1dGhvcml6ZWRFeGNlcHRpb24uZmlsdGVyJzsK</text>
       </register>
       <register name="r" type="4">
         <text>technical_accounting.account.filters.period</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBASXNOb3RFbXB0eSgpCg==</text>
+        <text encoding="base64">ICBASXNBcnJheSgpCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICBASXNOb3RFbXB0eSgpCg==</text>
@@ -1114,21 +1123,16 @@
         <text encoding="base64">ICBASXNOb3RFbXB0eSgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVzZXIpOwo=</text>
+        <text encoding="base64">ICBASXNOb3RFbXB0eSgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBAUmVkaXJlY3QoJy8nKQo=</text>
+        <text encoding="base64">ICBASXNOb3RFbXB0eSgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgY3JlYXRlVXNlckR0byA9IG5ldyBDcmVhdGVVc2VyRHRvKAogICAgICAgICdqZWFuX21vdXN0JywKICAgICAgICAnamVhbkBtb3VzdC5sb2wnLAogICAgICAgICd5b2xvJywKICAgICAgICAneW9sbycsCiAgICAgICAgW1VzZXJSb2xlLk9QRVJBVE9SXQogICAgICApOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVzZXIpOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text>{
-      username: 'lol',
-      email: 'lol',
-      roles: [],
-      password: 'lol'
-    }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICBAUmVkaXJlY3QoJy8nKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/shared/fc-exploitation/g</text>
