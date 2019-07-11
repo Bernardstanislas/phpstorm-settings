@@ -278,7 +278,6 @@
       <file name="/business_immo_legacy.activity_sectors [Business immo legacy]" timestamp="1542805803223">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/Infra/.gitlab-ci.yml" timestamp="1562596009684" />
       <file name="/business_immo_legacy.user_roles [Business immo legacy]" timestamp="1543854934084">
         <mark key="[" line="0" column="0" />
       </file>
@@ -344,6 +343,11 @@
         <mark key="]" line="13" column="4" />
         <mark key="." line="13" column="4" />
         <mark key="^" line="81" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/account/account.module.ts" timestamp="1562861044838">
+        <mark key="[" line="8" column="24" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/shared/user/user.entity.ts" timestamp="1562766342045">
         <mark key="[" line="10" column="0" />
@@ -414,10 +418,10 @@
       <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/shared/src/index.ts" timestamp="1560522183352">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/account/account.controller.ts" timestamp="1562836553976">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/account/account.controller.ts" timestamp="1562861093356">
+        <mark key="[" line="6" column="54" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/todo-backend-lumen/app/Screenplay/AddTodo.php" timestamp="1561905856780">
         <mark key="[" line="17" column="27" />
@@ -637,7 +641,6 @@
       <file name="$USER_HOME$/Documents/code/blog-dojo-cqrs/.gitignore" timestamp="1545231227960">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/filter/bad-request-exception.filter.spec.ts" timestamp="1562747220602" />
       <file name="/daju.public.templates [Daju Postgres local]" timestamp="1544358308197">
         <mark key="[" line="0" column="0" />
       </file>
@@ -836,7 +839,11 @@
       <file name="$USER_HOME$/Documents/code/test-gitlab-ci/Dangerfile" timestamp="1557497164871">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/account/password/password.service.ts" timestamp="1562859925741" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/account/password/password.service.ts" timestamp="1562861119078">
+        <mark key="[" line="8" column="8" />
+        <mark key="]" line="8" column="8" />
+        <mark key="." line="8" column="8" />
+      </file>
       <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/.env" timestamp="1562599586579">
         <mark key="[" line="4" column="12" />
         <mark key="]" line="4" column="13" />
@@ -1060,14 +1067,14 @@
       <register name="a" type="4">
         <text encoding="base64">IDwlPSBlcnJvcnMuZW1haWwgJiYgJ2lzLWludmFsaWQnJT4=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBpbXBvcnRzOiBbQ29uZmlnU2VydmljZV0sCg==</text>
+      <register name="&quot;" type="4">
+        <text>checkPasswordCompliance</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>passwordService.checkPasswordCompliance(validPassword)</text>
+        <text>checkPasswordCompliance</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZFw+</text>
