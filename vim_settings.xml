@@ -3,11 +3,60 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/code/todo-backend-lumen/tests/ScreenplayTestCase.php" timestamp="1561908811734">
+        <mark key="[" line="5" column="6" />
+        <mark key="]" line="5" column="6" />
+        <mark key="." line="5" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/todo-backend-lumen/app/Screenplay/Actor.php" timestamp="1561982122364">
+        <mark key="[" line="25" column="8" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="24" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/meta/locals.interceptor.ts" timestamp="1562834681961">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/account/password/password.module.spec.ts" timestamp="1562920463514">
+        <mark key="[" line="7" column="30" />
+        <mark key="]" line="7" column="30" />
+        <mark key="^" line="7" column="41" />
+        <mark key="." line="7" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/account/account.module.spec.ts" timestamp="1562920421933">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/todo-backend-lumen/app/Domain/TodoEntity.php" timestamp="1561834415257">
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="9" column="4" />
+        <mark key="." line="9" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/views/account/creation.ejs" timestamp="1562837066542">
+        <mark key="[" line="77" column="146" />
+        <mark key="l" line="23" column="112" />
+        <mark key="]" line="49" column="134" />
+        <mark key="." line="49" column="134" />
+        <mark key="^" line="49" column="148" />
+      </file>
       <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/filter/bad-request.filter.spec.ts" timestamp="1562746919218">
         <mark key="[" line="22" column="41" />
         <mark key="]" line="22" column="41" />
         <mark key="." line="22" column="41" />
         <mark key="^" line="8" column="14" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Client.php" timestamp="1562102588800">
+        <mark key="[" line="742" column="0" />
+        <mark key="]" line="742" column="0" />
+        <mark key="." line="742" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/shared/form/form.module.ts" timestamp="1562943352096">
+        <mark key="[" line="0" column="39" />
+        <mark key="]" line="0" column="37" />
+        <mark key="^" line="0" column="37" />
+        <mark key="." line="0" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/code/todo-backend-lumen/tests/ExampleTest.php" timestamp="1561737114787">
         <mark key="[" line="14" column="21" />
@@ -19,21 +68,121 @@
         <mark key="]" line="14" column="44" />
         <mark key="." line="14" column="44" />
       </file>
+      <file name="$USER_HOME$/Documents/code/todo-backend-lumen/tests/Domain/TodoRepositoryTest.php" timestamp="1561884559537">
+        <mark key="[" line="3" column="25" />
+        <mark key="]" line="3" column="26" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/views/identity-provider/list.ejs" timestamp="1562071191485">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="48" column="20" />
+        <mark key="." line="27" column="54" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/views/login.ejs" timestamp="1562923550351">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="34" />
+        <mark key="." line="8" column="68" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/shared/user/user.service.spec.ts" timestamp="1562685222494">
+        <mark key="[" line="13" column="4" />
+        <mark key="]" line="13" column="4" />
+        <mark key="." line="13" column="4" />
+        <mark key="^" line="81" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/account/account.module.ts" timestamp="1562937391911">
+        <mark key="[" line="10" column="34" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/code/todo-backend-lumen/app/Screenplay/TalkToTheDomain.php" timestamp="1561930600484">
         <mark key="[" line="6" column="12" />
         <mark key="]" line="6" column="12" />
         <mark key="." line="6" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/shared/user/user.entity.ts" timestamp="1562766342045">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/main.ts" timestamp="1562753169022">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/database/migrations/2019_07_03_203801_index_parent_post_id.php" timestamp="1562186292738">
+        <mark key="[" line="16" column="12" />
+        <mark key="]" line="16" column="12" />
+        <mark key="." line="16" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/.prettierrc" timestamp="1562231466073">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/.prettierrc" timestamp="1562231707134">
+        <mark key="[" line="1" column="21" />
+        <mark key="]" line="1" column="21" />
+        <mark key="." line="1" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/todo-backend-lumen/tests/Yolo.php" timestamp="1561908866747">
+        <mark key="[" line="5" column="19" />
+        <mark key="]" line="5" column="19" />
+        <mark key="." line="5" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/account/password/password.service.ts" timestamp="1562861119078">
+        <mark key="[" line="8" column="8" />
+        <mark key="]" line="8" column="8" />
+        <mark key="." line="8" column="8" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" timestamp="1562181408055">
+        <mark key="[" line="315" column="0" />
+        <mark key="]" line="315" column="0" />
+        <mark key="." line="315" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/.env" timestamp="1562599586579">
+        <mark key="[" line="4" column="12" />
+        <mark key="]" line="4" column="13" />
+        <mark key="." line="4" column="13" />
+        <mark key="^" line="4" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/account/password/password.module.ts" timestamp="1562860275036">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/france-connect/Infra/docker/docker-compose.yml" timestamp="1562599491952">
         <mark key="[" line="280" column="24" />
         <mark key="]" line="280" column="24" />
         <mark key="." line="280" column="24" />
       </file>
+      <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/docker-compose.yml" timestamp="1563110375328">
+        <mark key="[" line="12" column="30" />
+        <mark key="]" line="17" column="15" />
+        <mark key="." line="17" column="15" />
+        <mark key="^" line="16" column="11" />
+      </file>
       <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/shared/user/user.module.ts" timestamp="1562678799807">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
         <mark key="^" line="8" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/account/account.controller.ts" timestamp="1562944035411">
+        <mark key="[" line="24" column="2" />
+        <mark key="]" line="45" column="28" />
+        <mark key="^" line="45" column="28" />
+        <mark key="." line="45" column="28" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/routes/console.php" timestamp="1562227180127">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/shared/fixtures/User.yml" timestamp="1562661323190">
+        <mark key="[" line="7" column="19" />
+        <mark key="]" line="7" column="78" />
+        <mark key="^" line="7" column="19" />
+        <mark key="." line="7" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/resources/views/post.blade.php" timestamp="1562185854820">
         <mark key="[" line="18" column="15" />
@@ -45,10 +194,38 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/todo-backend-lumen/app/Screenplay/AddTodo.php" timestamp="1561905856780">
+        <mark key="[" line="17" column="27" />
+        <mark key="]" line="17" column="27" />
+        <mark key="." line="17" column="27" />
+      </file>
       <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/shared/user/decorators/roles.decorator.ts" timestamp="1562161000593">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/filter/bad-request-exception.filter.ts" timestamp="1562750774372">
+        <mark key="[" line="14" column="4" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="14" column="26" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/config/app.ts" timestamp="1562919671129">
+        <mark key="[" line="8" column="78" />
+        <mark key="]" line="8" column="80" />
+        <mark key="^" line="8" column="78" />
+        <mark key="." line="8" column="80" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/shared/form/interceptor/form-errors.interceptor.ts" timestamp="1562946578859">
+        <mark key="[" line="5" column="51" />
+        <mark key="]" line="13" column="13" />
+        <mark key="." line="13" column="13" />
+        <mark key="^" line="13" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/shared/authentication/authentication.service.spec.ts" timestamp="1562679007469">
+        <mark key="[" line="15" column="19" />
+        <mark key="]" line="15" column="19" />
+        <mark key="." line="15" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/public/style/list.less" timestamp="1562077655920">
         <mark key="[" line="15" column="0" />
@@ -67,6 +244,12 @@
         <mark key="^" line="1" column="24" />
         <mark key="." line="7" column="24" />
       </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/account/interceptor/errors.interceptor.ts" timestamp="1562945630461">
+        <mark key="[" line="10" column="0" />
+        <mark key="m" line="9" column="57" />
+        <mark key="]" line="30" column="3" />
+        <mark key="." line="25" column="44" />
+      </file>
       <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/README.md" timestamp="1562331198365">
         <mark key="[" line="19" column="3" />
         <mark key="]" line="19" column="3" />
@@ -78,153 +261,10 @@
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/tslint.json" timestamp="1562231935141">
-        <mark key="[" line="14" column="23" />
-        <mark key="]" line="14" column="23" />
-        <mark key="." line="14" column="23" />
-        <mark key="^" line="14" column="23" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/views/partials/header.ejs" timestamp="1562923612036">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="8" />
-        <mark key="." line="38" column="8" />
-        <mark key="^" line="39" column="7" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/meta/locals.interceptor.ts" timestamp="1562834681961">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/account/password/password.service.spec.ts" timestamp="1562919743568" />
-      <file name="$USER_HOME$/Documents/code/france-connect/Infra/.gitlab-ci.yml" timestamp="1562596009684" />
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/views/account/creation.ejs" timestamp="1562837066542">
-        <mark key="[" line="77" column="146" />
-        <mark key="l" line="23" column="112" />
-        <mark key="]" line="49" column="134" />
-        <mark key="." line="49" column="134" />
-        <mark key="^" line="49" column="148" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/todo-backend-lumen/tests/Domain/TodoRepositoryTest.php" timestamp="1561884559537">
-        <mark key="[" line="3" column="25" />
-        <mark key="]" line="3" column="26" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/shared/user/user.service.spec.ts" timestamp="1562685222494">
-        <mark key="[" line="13" column="4" />
-        <mark key="]" line="13" column="4" />
-        <mark key="." line="13" column="4" />
-        <mark key="^" line="81" column="15" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/account/account.module.ts" timestamp="1562937391911">
-        <mark key="[" line="10" column="34" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/shared/user/user.entity.ts" timestamp="1562766342045">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/.prettierrc" timestamp="1562231707134">
-        <mark key="[" line="1" column="21" />
-        <mark key="]" line="1" column="21" />
-        <mark key="." line="1" column="21" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/todo-backend-lumen/tests/Yolo.php" timestamp="1561908866747">
-        <mark key="[" line="5" column="19" />
-        <mark key="]" line="5" column="19" />
-        <mark key="." line="5" column="19" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" timestamp="1562181408055">
-        <mark key="[" line="315" column="0" />
-        <mark key="]" line="315" column="0" />
-        <mark key="." line="315" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/account/password/password.module.ts" timestamp="1562860275036">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/docker-compose.yml" timestamp="1562256928996">
-        <mark key="[" line="10" column="8" />
-        <mark key="]" line="10" column="8" />
-        <mark key="." line="10" column="8" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/account/account.controller.ts" timestamp="1562944035411">
-        <mark key="[" line="24" column="2" />
-        <mark key="]" line="45" column="28" />
-        <mark key="^" line="45" column="28" />
-        <mark key="." line="45" column="28" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/todo-backend-lumen/app/Screenplay/AddTodo.php" timestamp="1561905856780">
-        <mark key="[" line="17" column="27" />
-        <mark key="]" line="17" column="27" />
-        <mark key="." line="17" column="27" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/filter/bad-request-exception.filter.ts" timestamp="1562750774372">
-        <mark key="[" line="14" column="4" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="14" column="26" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/config/app.ts" timestamp="1562919671129">
-        <mark key="[" line="8" column="78" />
-        <mark key="]" line="8" column="80" />
-        <mark key="^" line="8" column="78" />
-        <mark key="." line="8" column="80" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/shared/authentication/authentication.service.spec.ts" timestamp="1562679007469">
-        <mark key="[" line="15" column="19" />
-        <mark key="]" line="15" column="19" />
-        <mark key="." line="15" column="19" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/account/interceptor/errors.interceptor.ts" timestamp="1562945630461">
-        <mark key="[" line="10" column="0" />
-        <mark key="m" line="9" column="57" />
-        <mark key="]" line="30" column="3" />
-        <mark key="." line="25" column="44" />
-      </file>
       <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/service-provider/service-provider.module.spec.ts" timestamp="1561992628464">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/shared/form/interceptor/form-errors.interceptor.spec.ts" timestamp="1562946073049">
-        <mark key="[" line="53" column="19" />
-        <mark key="]" line="53" column="19" />
-        <mark key="^" line="53" column="14" />
-        <mark key="." line="53" column="19" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/account/validator/is-same-as.validator.ts" timestamp="1562774987800">
-        <mark key="[" line="16" column="15" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/todo-backend-lumen/tests/ScreenplayTestCase.php" timestamp="1561908811734">
-        <mark key="[" line="5" column="6" />
-        <mark key="]" line="5" column="6" />
-        <mark key="." line="5" column="6" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/todo-backend-lumen/app/Screenplay/Actor.php" timestamp="1561982122364">
-        <mark key="[" line="25" column="8" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="24" column="5" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/account/account.module.spec.ts" timestamp="1562920421933">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Client.php" timestamp="1562102588800">
-        <mark key="[" line="742" column="0" />
-        <mark key="]" line="742" column="0" />
-        <mark key="." line="742" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/filter/bad-request-exception.filter.spec.ts" timestamp="1562747220602" />
-      <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/routes/console.php" timestamp="1562227180127">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/todo-backend-lumen/app/Screenplay/Assertion.php" timestamp="1561907759778">
         <mark key="[" line="19" column="8" />
@@ -237,97 +277,52 @@
         <mark key="." line="18" column="37" />
         <mark key="^" line="18" column="37" />
       </file>
+      <file name="/GraphQL.result.json" timestamp="1563109639185">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/app/Http/Controllers/SearchController.php" timestamp="1562182016561">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/tslint.json" timestamp="1562231935141">
+        <mark key="[" line="14" column="23" />
+        <mark key="]" line="14" column="23" />
+        <mark key="." line="14" column="23" />
+        <mark key="^" line="14" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/shared/form/interceptor/form-errors.interceptor.spec.ts" timestamp="1562946073049">
+        <mark key="[" line="53" column="19" />
+        <mark key="]" line="53" column="19" />
+        <mark key="^" line="53" column="14" />
+        <mark key="." line="53" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/account/account.controller.spec.ts" timestamp="1562924051258">
         <mark key="[" line="24" column="4" />
         <mark key="]" line="24" column="4" />
         <mark key="." line="24" column="4" />
       </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/views/partials/header.ejs" timestamp="1562923612036">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="8" />
+        <mark key="." line="38" column="8" />
+        <mark key="^" line="39" column="7" />
+      </file>
       <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/shared/migrations/1562159993940-UserMigration.ts" timestamp="1562160026820">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/public/style/style.less" timestamp="1561641121188">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="28" column="5" />
-        <mark key="." line="25" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/account/password/password.module.spec.ts" timestamp="1562920463514">
-        <mark key="[" line="7" column="30" />
-        <mark key="]" line="7" column="30" />
-        <mark key="^" line="7" column="41" />
-        <mark key="." line="7" column="30" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/todo-backend-lumen/app/Domain/TodoEntity.php" timestamp="1561834415257">
-        <mark key="[" line="9" column="4" />
-        <mark key="]" line="9" column="4" />
-        <mark key="." line="9" column="4" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/shared/form/form.module.ts" timestamp="1562943352096">
-        <mark key="[" line="0" column="39" />
-        <mark key="]" line="0" column="37" />
-        <mark key="^" line="0" column="37" />
-        <mark key="." line="0" column="37" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/views/identity-provider/list.ejs" timestamp="1562071191485">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="48" column="20" />
-        <mark key="." line="27" column="54" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/views/login.ejs" timestamp="1562923550351">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="34" />
-        <mark key="." line="8" column="68" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/main.ts" timestamp="1562753169022">
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/database/migrations/2019_07_03_203801_index_parent_post_id.php" timestamp="1562186292738">
-        <mark key="[" line="16" column="12" />
-        <mark key="]" line="16" column="12" />
-        <mark key="." line="16" column="12" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/.prettierrc" timestamp="1562231466073">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/account/password/password.service.ts" timestamp="1562861119078">
-        <mark key="[" line="8" column="8" />
-        <mark key="]" line="8" column="8" />
-        <mark key="." line="8" column="8" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/.env" timestamp="1562599586579">
-        <mark key="[" line="4" column="12" />
-        <mark key="]" line="4" column="13" />
-        <mark key="." line="4" column="13" />
-        <mark key="^" line="4" column="13" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/shared/fixtures/User.yml" timestamp="1562661323190">
-        <mark key="[" line="7" column="19" />
-        <mark key="]" line="7" column="78" />
-        <mark key="^" line="7" column="19" />
-        <mark key="." line="7" column="19" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/shared/form/interceptor/form-errors.interceptor.ts" timestamp="1562946578859">
-        <mark key="[" line="5" column="51" />
-        <mark key="]" line="13" column="13" />
-        <mark key="." line="13" column="13" />
-        <mark key="^" line="13" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/meta/error-code-translator.ts" timestamp="1562834760443">
         <mark key="[" line="9" column="3" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/node_modules/@nestjs/common/pipes/validation.pipe.js" timestamp="1562943996426" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/account/validator/is-same-as.validator.ts" timestamp="1562774987800">
+        <mark key="[" line="16" column="15" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/account/dto/create-user.dto.ts" timestamp="1562688663018">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -337,6 +332,11 @@
         <mark key="[" line="4" column="48" />
         <mark key="]" line="4" column="48" />
         <mark key="." line="4" column="48" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/public/style/style.less" timestamp="1561641121188">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="28" column="5" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/app.module.ts" timestamp="1562765234820">
         <mark key="[" line="32" column="33" />
@@ -450,8 +450,8 @@
       <register name="a" type="4">
         <text encoding="base64">IDwlPSBlcnJvcnMuZW1haWwgJiYgJ2lzLWludmFsaWQnJT4=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>Length', 'Strength</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgLSA5MjAxOjkyMDAK</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
@@ -463,7 +463,7 @@
         <text encoding="base64">XDxpZFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzc3dvcmQ6IFsnTGVuZ3RoJywgJ1N0cmVuZ3RoJ10sCg==</text>
+        <text encoding="base64">ICAgICAgLSA5MjAxOjkyMDAK</text>
       </register>
       <register name="1" type="4">
         <text>, {
