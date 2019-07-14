@@ -155,10 +155,11 @@
         <mark key="]" line="280" column="24" />
         <mark key="." line="280" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/docker-compose.yml" timestamp="1563118885841">
-        <mark key="[" line="23" column="22" />
-        <mark key="]" line="23" column="22" />
-        <mark key="." line="23" column="22" />
+      <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/docker-compose.yml" timestamp="1563120984447">
+        <mark key="[" line="28" column="9" />
+        <mark key="]" line="28" column="9" />
+        <mark key="." line="28" column="9" />
+        <mark key="^" line="28" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/shared/user/user.module.ts" timestamp="1562678799807">
         <mark key="[" line="4" column="0" />
@@ -450,13 +451,13 @@
         <text encoding="base64">IDwlPSBlcnJvcnMuZW1haWwgJiYgJ2lzLWludmFsaWQnJT4=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>stackoverflow-on-the-go</text>
+        <text>/usr/local/var/postgres:</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>stackoverflow-on-the-go</text>
+        <text>/usr/local/var/postgres:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZFw+</text>
@@ -503,7 +504,7 @@
   ];</text>
       </register>
       <register name=":" type="4">
-        <text>%s/shared/fc-exploitation/g</text>
+        <text>w</text>
       </register>
       <register name="z" type="4">
         <text>vEd$pj_eej</text>
@@ -559,9 +560,9 @@
         <entry encoding="base64">JzwsJz5zLyBcXC8vZw==</entry>
         <entry>%s/127\.0\.0\.1/\$DOCKER_HOST_IP/g</entry>
         <entry encoding="base64">JzwsJz5zLzEyN1wuMFwuMFwuMS8xNzJcLjE3XC4wXC4xL2c=</entry>
-        <entry>w</entry>
         <entry>%s/form-signin/login-form/g</entry>
         <entry>%s/shared/fc-exploitation/g</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
