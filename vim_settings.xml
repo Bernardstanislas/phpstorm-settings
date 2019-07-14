@@ -34,13 +34,6 @@
         <mark key="]" line="9" column="4" />
         <mark key="." line="9" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/views/account/creation.ejs" timestamp="1562837066542">
-        <mark key="[" line="77" column="146" />
-        <mark key="l" line="23" column="112" />
-        <mark key="]" line="49" column="134" />
-        <mark key="." line="49" column="134" />
-        <mark key="^" line="49" column="148" />
-      </file>
       <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/filter/bad-request.filter.spec.ts" timestamp="1562746919218">
         <mark key="[" line="22" column="41" />
         <mark key="]" line="22" column="41" />
@@ -109,6 +102,12 @@
         <mark key="]" line="68" column="0" />
         <mark key="." line="68" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/Dockerfile" timestamp="1563129489693">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="7" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/database/migrations/2019_07_03_203801_index_parent_post_id.php" timestamp="1562186292738">
         <mark key="[" line="16" column="12" />
         <mark key="]" line="16" column="12" />
@@ -155,11 +154,10 @@
         <mark key="]" line="280" column="24" />
         <mark key="." line="280" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/docker-compose.yml" timestamp="1563120984447">
-        <mark key="[" line="28" column="9" />
-        <mark key="]" line="28" column="9" />
-        <mark key="." line="28" column="9" />
-        <mark key="^" line="28" column="37" />
+      <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/docker-compose.yml" timestamp="1563129568639">
+        <mark key="[" line="4" column="4" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="3" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/shared/user/user.module.ts" timestamp="1562678799807">
         <mark key="[" line="4" column="0" />
@@ -450,14 +448,14 @@
       <register name="a" type="4">
         <text encoding="base64">IDwlPSBlcnJvcnMuZW1haWwgJiYgJ2lzLWludmFsaWQnJT4=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>/usr/local/var/postgres:</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGltYWdlOiBjaGlhbGFiL3BocDo3LjMKICAgIGNvbW1hbmQ6IHBocCBhcnRpc2FuIHNlcnZlIC0taG9zdD0wLjAuMC4wIC0tcG9ydD04MDAwCiAgICB3b3JraW5nX2RpcjogL2FwcAo=</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>/usr/local/var/postgres:</text>
+        <text>search</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZFw+</text>
@@ -466,42 +464,39 @@
         <text encoding="base64">ICAgICAgLSA5MjAxOjkyMDAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZvbHVtZXM6CiAgICAgIC0gIi91c3IvbG9jYWwvdmFyL3Bvc3RncmVzOi92YXIvbGliL3Bvc3RncmVzcWwvZGF0YSIK</text>
+        <text encoding="base64">ICAgIGltYWdlOiBjaGlhbGFiL3BocDo3LjMKICAgIGNvbW1hbmQ6IHBocCBhcnRpc2FuIHNlcnZlIC0taG9zdD0wLjAuMC4wIC0tcG9ydD04MDAwCiAgICB3b3JraW5nX2RpcjogL2FwcAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>, {
-              ...this.additionalRenderValues
-            }</text>
+      <register name="2" type="2">
+        <text encoding="base64">Vk9MVU1FIC4K</text>
       </register>
       <register name="r" type="4">
         <text>technical_accounting.account.filters.period</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgcmVhZG9ubHkgYWRkaXRpb25hbFJlbmRlclZhbHVlcwo=</text>
+        <text encoding="base64">ICAgIHBvcnRzOgogICAgICAtIDkyMDE6OTIwMAogICAgICAtIDkzMDE6OTMwMAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpbnRlcmNlcHQoY29udGV4dDogRXhlY3V0aW9uQ29udGV4dCwgbmV4dDogQ2FsbEhhbmRsZXIpOiBPYnNlcnZhYmxlIHsKICAgIHJldHVybiB1bmRlZmluZWQ7CiAgfQo=</text>
+        <text encoding="base64">ICAgICAgLSB0aHJlYWRfcG9vbC53cml0ZS5xdWV1ZV9zaXplPTUwMAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbHVjazogJ2x1Y2snCg==</text>
+        <text encoding="base64">ICAgIHBvcnRzOgogICAgICAtIDU0MzM6NTQzMgogICAgdm9sdW1lczoKICAgICAgLSAiL1ZvbHVtZXMvTGFDaWU6L0xhQ2llIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHtyZXNwb25zZX0gZnJvbSAiZXhwcmVzcyI7Cg==</text>
+        <text encoding="base64">ICAgIHZvbHVtZXM6CiAgICAgIC0gIi91c3IvbG9jYWwvdmFyL3Bvc3RncmVzOi92YXIvbGliL3Bvc3RncmVzcWwvZGF0YSIK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>, {
+              ...this.additionalRenderValues
+            }</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHJlYWRvbmx5IAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgcmVhZG9ubHkgYWRkaXRpb25hbFJlbmRlclZhbHVlcwo=</text>
       </register>
-      <register name="9" type="4">
-        <text>roles = [
-    { label: 'Administrateur', value: UserRole.ADMIN },
-    { label: 'Exploitant', value: UserRole.OPERATOR }
-  ];</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICBpbnRlcmNlcHQoY29udGV4dDogRXhlY3V0aW9uQ29udGV4dCwgbmV4dDogQ2FsbEhhbmRsZXIpOiBPYnNlcnZhYmxlIHsKICAgIHJldHVybiB1bmRlZmluZWQ7CiAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
