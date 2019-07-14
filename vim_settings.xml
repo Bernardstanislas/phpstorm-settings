@@ -155,11 +155,10 @@
         <mark key="]" line="280" column="24" />
         <mark key="." line="280" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/docker-compose.yml" timestamp="1563110375328">
-        <mark key="[" line="12" column="30" />
-        <mark key="]" line="18" column="15" />
-        <mark key="." line="18" column="15" />
-        <mark key="^" line="17" column="11" />
+      <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/docker-compose.yml" timestamp="1563118885841">
+        <mark key="[" line="23" column="22" />
+        <mark key="]" line="23" column="22" />
+        <mark key="." line="23" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/shared/user/user.module.ts" timestamp="1562678799807">
         <mark key="[" line="4" column="0" />
@@ -450,14 +449,14 @@
       <register name="a" type="4">
         <text encoding="base64">IDwlPSBlcnJvcnMuZW1haWwgJiYgJ2lzLWludmFsaWQnJT4=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLSA5MjAxOjkyMDAK</text>
+      <register name="&quot;" type="4">
+        <text>stackoverflow-on-the-go</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>Length', 'Strength</text>
+        <text>stackoverflow-on-the-go</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZFw+</text>
@@ -465,43 +464,43 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgLSA5MjAxOjkyMDAK</text>
       </register>
-      <register name="1" type="4">
-        <text>, {
-              ...this.additionalRenderValues
-            }</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHZvbHVtZXM6CiAgICAgIC0gIi91c3IvbG9jYWwvdmFyL3Bvc3RncmVzOi92YXIvbGliL3Bvc3RncmVzcWwvZGF0YSIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgcmVhZG9ubHkgYWRkaXRpb25hbFJlbmRlclZhbHVlcwo=</text>
+      <register name="2" type="4">
+        <text>, {
+              ...this.additionalRenderValues
+            }</text>
       </register>
       <register name="r" type="4">
         <text>technical_accounting.account.filters.period</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpbnRlcmNlcHQoY29udGV4dDogRXhlY3V0aW9uQ29udGV4dCwgbmV4dDogQ2FsbEhhbmRsZXIpOiBPYnNlcnZhYmxlIHsKICAgIHJldHVybiB1bmRlZmluZWQ7CiAgfQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgcmVhZG9ubHkgYWRkaXRpb25hbFJlbmRlclZhbHVlcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbHVjazogJ2x1Y2snCg==</text>
+        <text encoding="base64">ICBpbnRlcmNlcHQoY29udGV4dDogRXhlY3V0aW9uQ29udGV4dCwgbmV4dDogQ2FsbEhhbmRsZXIpOiBPYnNlcnZhYmxlIHsKICAgIHJldHVybiB1bmRlZmluZWQ7CiAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHtyZXNwb25zZX0gZnJvbSAiZXhwcmVzcyI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbHVjazogJ2x1Y2snCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtyZXNwb25zZX0gZnJvbSAiZXhwcmVzcyI7Cg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICBwcml2YXRlIHJlYWRvbmx5IAo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>roles = [
     { label: 'Administrateur', value: UserRole.ADMIN },
     { label: 'Exploitant', value: UserRole.OPERATOR }
   ];</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICByb2xlczogW10K</text>
       </register>
       <register name=":" type="4">
         <text>%s/shared/fc-exploitation/g</text>
