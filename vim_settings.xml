@@ -13,10 +13,9 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="24" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/meta/locals.interceptor.ts" timestamp="1562834681961">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/meta/locals.interceptor.ts" timestamp="1563183315624">
+        <mark key="[" line="10" column="1" />
+        <mark key="]" line="10" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/account/password/password.module.spec.ts" timestamp="1562920463514">
         <mark key="[" line="7" column="30" />
@@ -34,6 +33,13 @@
         <mark key="]" line="9" column="4" />
         <mark key="." line="9" column="4" />
       </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/views/account/creation.ejs" timestamp="1563183362211">
+        <mark key="[" line="75" column="45" />
+        <mark key="l" line="23" column="112" />
+        <mark key="]" line="75" column="45" />
+        <mark key="." line="75" column="45" />
+        <mark key="^" line="49" column="148" />
+      </file>
       <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/filter/bad-request.filter.spec.ts" timestamp="1562746919218">
         <mark key="[" line="22" column="41" />
         <mark key="]" line="22" column="41" />
@@ -45,11 +51,11 @@
         <mark key="]" line="742" column="0" />
         <mark key="." line="742" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/shared/form/form.module.ts" timestamp="1562943352096">
-        <mark key="[" line="0" column="39" />
-        <mark key="]" line="0" column="37" />
-        <mark key="^" line="0" column="37" />
-        <mark key="." line="0" column="37" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/shared/form/form.module.ts" timestamp="1563183130151">
+        <mark key="[" line="4" column="36" />
+        <mark key="]" line="4" column="34" />
+        <mark key="^" line="4" column="34" />
+        <mark key="." line="4" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/code/todo-backend-lumen/tests/ExampleTest.php" timestamp="1561737114787">
         <mark key="[" line="14" column="21" />
@@ -82,10 +88,10 @@
         <mark key="." line="13" column="4" />
         <mark key="^" line="81" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/account/account.module.ts" timestamp="1562937391911">
-        <mark key="[" line="10" column="34" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/account/account.module.ts" timestamp="1563183146968">
+        <mark key="[" line="6" column="72" />
+        <mark key="]" line="15" column="34" />
+        <mark key="." line="15" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/code/todo-backend-lumen/app/Screenplay/TalkToTheDomain.php" timestamp="1561930600484">
         <mark key="[" line="6" column="12" />
@@ -165,11 +171,10 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="8" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/account/account.controller.ts" timestamp="1562944035411">
-        <mark key="[" line="24" column="2" />
-        <mark key="]" line="45" column="28" />
-        <mark key="^" line="45" column="28" />
-        <mark key="." line="45" column="28" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/account/account.controller.ts" timestamp="1563183605229">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/routes/console.php" timestamp="1562227180127">
         <mark key="[" line="20" column="0" />
@@ -214,11 +219,10 @@
         <mark key="^" line="8" column="78" />
         <mark key="." line="8" column="80" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/shared/form/interceptor/form-errors.interceptor.ts" timestamp="1562946578859">
-        <mark key="[" line="5" column="51" />
-        <mark key="]" line="13" column="13" />
-        <mark key="." line="13" column="13" />
-        <mark key="^" line="13" column="13" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/shared/form/interceptor/form-errors.interceptor.ts" timestamp="1563183043880">
+        <mark key="[" line="24" column="8" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/shared/authentication/authentication.service.spec.ts" timestamp="1562679007469">
         <mark key="[" line="15" column="19" />
@@ -275,13 +279,18 @@
         <mark key="." line="18" column="37" />
         <mark key="^" line="18" column="37" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1563109639185">
+      <file name="/GraphQL.result.json" timestamp="1563180648932">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/app/Http/Controllers/SearchController.php" timestamp="1562182016561">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/shared/package.json" timestamp="1563183084048">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/tslint.json" timestamp="1562231935141">
         <mark key="[" line="14" column="23" />
@@ -295,10 +304,10 @@
         <mark key="^" line="53" column="14" />
         <mark key="." line="53" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/account/account.controller.spec.ts" timestamp="1562924051258">
-        <mark key="[" line="24" column="4" />
-        <mark key="]" line="24" column="4" />
-        <mark key="." line="24" column="4" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/account/account.controller.spec.ts" timestamp="1563183675808">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/views/partials/header.ejs" timestamp="1562923612036">
         <mark key="[" line="38" column="0" />
@@ -343,7 +352,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="271" column="11" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" />
       <jump line="230" column="26" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" />
       <jump line="15" column="6" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" />
       <jump line="259" column="6" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" />
@@ -443,60 +451,62 @@
       <jump line="3" column="12" filename="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/account/account.controller.ts" />
       <jump line="48" column="15" filename="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/README.md" />
       <jump line="16" column="22" filename="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/account/password/password.service.spec.ts" />
+      <jump line="17" column="8" filename="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/account/account.controller.spec.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">IDwlPSBlcnJvcnMuZW1haWwgJiYgJ2lzLWludmFsaWQnJT4=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGltYWdlOiBjaGlhbGFiL3BocDo3LjMKICAgIGNvbW1hbmQ6IHBocCBhcnRpc2FuIHNlcnZlIC0taG9zdD0wLjAuMC4wIC0tcG9ydD04MDAwCiAgICB3b3JraW5nX2RpcjogL2FwcAo=</text>
+        <text encoding="base64">aW1wb3J0IHsgUGFzc3dvcmRTZXJ2aWNlIH0gZnJvbSAnLi9wYXNzd29yZC9wYXNzd29yZC5zZXJ2aWNlJzsK</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>search</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpZFw+</text>
+        <text encoding="base64">XDxwYXNzd29yZFNlcnZpY2VcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLSA5MjAxOjkyMDAK</text>
+      <register name="0" type="4">
+        <text>[
+  { label: 'Administrateur', value: UserRole.ADMIN },
+  { label: 'Exploitant', value: UserRole.OPERATOR }
+]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGltYWdlOiBjaGlhbGFiL3BocDo3LjMKICAgIGNvbW1hbmQ6IHBocCBhcnRpc2FuIHNlcnZlIC0taG9zdD0wLjAuMC4wIC0tcG9ydD04MDAwCiAgICB3b3JraW5nX2RpcjogL2FwcAo=</text>
+        <text encoding="base64">aW1wb3J0IHsgUGFzc3dvcmRTZXJ2aWNlIH0gZnJvbSAnLi9wYXNzd29yZC9wYXNzd29yZC5zZXJ2aWNlJzsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Vk9MVU1FIC4K</text>
+        <text encoding="base64">ICBjb25zdCBwYXNzd29yZFNlcnZpY2UgPSB7CiAgICBnZXRQYXNzd29yZENvbXBsaWFuY2VFcnJvcnM6IGplc3QuZm4oKQogIH07Cg==</text>
       </register>
       <register name="r" type="4">
         <text>technical_accounting.account.filters.period</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBvcnRzOgogICAgICAtIDkyMDE6OTIwMAogICAgICAtIDkzMDE6OTMwMAo=</text>
+        <text encoding="base64">ICAgIHBhc3N3b3JkU2VydmljZS5nZXRQYXNzd29yZENvbXBsaWFuY2VFcnJvcnMubW9ja1Jlc29sdmVkVmFsdWUoW10pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLSB0aHJlYWRfcG9vbC53cml0ZS5xdWV1ZV9zaXplPTUwMAo=</text>
+        <text encoding="base64">ICAgICAgLm92ZXJyaWRlUHJvdmlkZXIoUGFzc3dvcmRTZXJ2aWNlKQogICAgICAudXNlVmFsdWUocGFzc3dvcmRTZXJ2aWNlKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBvcnRzOgogICAgICAtIDU0MzM6NTQzMgogICAgdm9sdW1lczoKICAgICAgLSAiL1ZvbHVtZXMvTGFDaWU6L0xhQ2llIgo=</text>
+        <text encoding="base64">aW1wb3J0IHsgUGFzc3dvcmRTZXJ2aWNlIH0gZnJvbSAnLi9wYXNzd29yZC9wYXNzd29yZC5zZXJ2aWNlJzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZvbHVtZXM6CiAgICAgIC0gIi91c3IvbG9jYWwvdmFyL3Bvc3RncmVzOi92YXIvbGliL3Bvc3RncmVzcWwvZGF0YSIK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgcmVhZG9ubHkgcGFzc3dvcmRTZXJ2aWNlOiBQYXNzd29yZFNlcnZpY2UK</text>
       </register>
-      <register name="7" type="4">
-        <text>, {
-              ...this.additionalRenderValues
-            }</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgcmVhZG9ubHkgYWRkaXRpb25hbFJlbmRlclZhbHVlcwo=</text>
+        <text encoding="base64">ICBkZXNjcmliZSgnc2hvd0NyZWF0aW9uRm9ybScsICgpID0+IHsKICAgIGl0KCdyZXR1cm5zIHRoZSBhdmFpbGFibGUgcm9sZXMnLCAoKSA9PiB7CiAgICAgIGNvbnN0IHsgcm9sZXMgfSA9IGFjY291bnRDb250cm9sbGVyLnNob3dDcmVhdGlvbkZvcm0oKTsKICAgICAgZXhwZWN0KHJvbGVzKS50b0VxdWFsKFsKICAgICAgICB7IGxhYmVsOiAnQWRtaW5pc3RyYXRldXInLCB2YWx1ZTogVXNlclJvbGUuQURNSU4gfSwKICAgICAgICB7IGxhYmVsOiAnRXhwbG9pdGFudCcsIHZhbHVlOiBVc2VyUm9sZS5PUEVSQVRPUiB9CiAgICAgIF0pOwogICAgfSk7CiAgfSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBpbnRlcmNlcHQoY29udGV4dDogRXhlY3V0aW9uQ29udGV4dCwgbmV4dDogQ2FsbEhhbmRsZXIpOiBPYnNlcnZhYmxlIHsKICAgIHJldHVybiB1bmRlZmluZWQ7CiAgfQo=</text>
+        <text encoding="base64">CmNvbnN0IHJvbGVzID0gWwogIHsgbGFiZWw6ICdBZG1pbmlzdHJhdGV1cicsIHZhbHVlOiBVc2VyUm9sZS5BRE1JTiB9LAogIHsgbGFiZWw6ICdFeHBsb2l0YW50JywgdmFsdWU6IFVzZXJSb2xlLk9QRVJBVE9SIH0KXTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -506,17 +516,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpZFw+</last-search>
+      <last-search encoding="base64">XDxwYXNzd29yZFNlcnZpY2VcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpZFw+</last-pattern>
+      <last-pattern encoding="base64">XDxwYXNzd29yZFNlcnZpY2VcPg==</last-pattern>
       <last-replace>fc-exploitation</last-replace>
-      <last-substitute>cadrage</last-substitute>
+      <last-substitute encoding="base64">XDxpZFw+</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhdmFpbGFibGVGSXNcPg==</entry>
         <entry encoding="base64">XDxkaXNwbGF5RklzRm9yVXNlclw+</entry>
         <entry encoding="base64">XDxmaUFjdGl2ZUFuZFVzZXJBdXRoZW50aWNhdGVkXD4=</entry>
         <entry encoding="base64">XDxjcmVhdGVDb25uZWN0aW9uRmFjdG9yeVw+</entry>
@@ -536,6 +545,7 @@
         <entry>cadrage</entry>
         <entry encoding="base64">XDxtZXRob2RcPg==</entry>
         <entry encoding="base64">XDxpZFw+</entry>
+        <entry encoding="base64">XDxwYXNzd29yZFNlcnZpY2VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2ZyYW5jZS1jb25uZWN0XC9pbmZyYS9nNHZyb2NoZVwvZm9vYmFyL2c=</entry>
