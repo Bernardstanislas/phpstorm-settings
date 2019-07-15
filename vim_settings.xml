@@ -146,6 +146,9 @@
         <mark key="]" line="315" column="0" />
         <mark key="." line="315" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/FranceConnect/.gitlab-ci.yml" timestamp="1563202662241">
+        <mark key="[" line="51" column="33" />
+      </file>
       <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/account/password/password.module.ts" timestamp="1562860275036">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -161,11 +164,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="3" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/account/account.controller.ts" timestamp="1563194122838">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="27" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="31" column="43" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/account/account.controller.ts" timestamp="1563203204313">
+        <mark key="[" line="40" column="53" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+        <mark key="^" line="53" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/routes/console.php" timestamp="1562227180127">
         <mark key="[" line="20" column="0" />
@@ -249,10 +252,10 @@
         <mark key="^" line="16" column="18" />
         <mark key="." line="16" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/account/account.controller.spec.ts" timestamp="1563183675808">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/account/account.controller.spec.ts" timestamp="1563203183816">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/shared/migrations/1562159993940-UserMigration.ts" timestamp="1562160026820">
         <mark key="[" line="13" column="0" />
@@ -396,8 +399,8 @@
       <register name="a" type="4">
         <text encoding="base64">IDwlPSBlcnJvcnMuZW1haWwgJiYgJ2lzLWludmFsaWQnJT4=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>getArgByIndex</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHsgVXNlckNyZWF0aW9uIH0gZnJvbSAnc2hhcmVkL3VzZXIvdmFsdWUtb2JqZWN0L3VzZXItY3JlYXRpb24nOwo=</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
@@ -411,40 +414,45 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBnZXRSZXNwb25zZTogamVzdC5mbigpLm1vY2tSZXR1cm5WYWx1ZShyZXNwb25zZSksCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>.mockReturnValue({
-        body: dto,
-      }),</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IHsgVXNlckNyZWF0aW9uIH0gZnJvbSAnc2hhcmVkL3VzZXIvdmFsdWUtb2JqZWN0L3VzZXItY3JlYXRpb24nOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLm92ZXJyaWRlUHJvdmlkZXIoUGFzc3dvcmRTZXJ2aWNlKQogICAgICAudXNlVmFsdWUoamVzdC5mbigpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>technical_accounting.account.filters.period</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUGFzc3dvcmRTZXJ2aWNlIH0gZnJvbSAnLi9wYXNzd29yZC9wYXNzd29yZC5zZXJ2aWNlJzsK</text>
+        <text encoding="base64">ICAgICAgY29uc3QgZXhwZWN0ZWRVc2VyQ3JlYXRpb25WYWx1ZU9iamVjdDogVXNlckNyZWF0aW9uID0gewogICAgICAgIHVzZXJuYW1lOiBjcmVhdGVVc2VyRHRvLnVzZXJuYW1lLAogICAgICAgIGVtYWlsOiBjcmVhdGVVc2VyRHRvLmVtYWlsLAogICAgICAgIHBhc3N3b3JkOiBjcmVhdGVVc2VyRHRvLnBhc3N3b3JkLAogICAgICAgIHJvbGVzOiBjcmVhdGVVc2VyRHRvLnJvbGVzLAogICAgICB9Owo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBtaW5pbXVtUGFzc3dvcmRMZW5ndGg6IHBhcnNlSW50KHByb2Nlc3MuZW52Lk1JTklNVU1fUEFTU1dPUkRfTEVOR1RILCAxMCkgfHwgMTAK</text>
+      <register name="4" type="4">
+        <text>{
+        username: createUserDto.username,
+        email: createUserDto.email,
+        roles: createUserDto.roles,
+        password: createUserDto.passwordConfirmation,
+      }</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">LSBgLi9kb2NrZXItc3RhY2sgdXAgcGctZXhwbG9pdGF0aW9uYAo=</text>
+      <register name="5" type="4">
+        <text>.mockReturnValue({
+        body: dto,
+      }),</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LSBgLi9kb2NrZXItc3RhY2sgbnBtIGV4cGxvaXRhdGlvbmAK</text>
+        <text encoding="base64">ICAgICAgLm92ZXJyaWRlUHJvdmlkZXIoUGFzc3dvcmRTZXJ2aWNlKQogICAgICAudXNlVmFsdWUoamVzdC5mbigpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2V4Y2VwdG9vbicsIGV4Y2VwdGlvbiwgY3R4KTsK</text>
+        <text encoding="base64">aW1wb3J0IHsgUGFzc3dvcmRTZXJ2aWNlIH0gZnJvbSAnLi9wYXNzd29yZC9wYXNzd29yZC5zZXJ2aWNlJzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9CiAgICAgICAgY29uc29sZS5sb2coZXJyb3IpOwogICAgICAgIHJldHVybiBvZihbXSk7Cg==</text>
+        <text encoding="base64">ICBtaW5pbXVtUGFzc3dvcmRMZW5ndGg6IHBhcnNlSW50KHByb2Nlc3MuZW52Lk1JTklNVU1fUEFTU1dPUkRfTEVOR1RILCAxMCkgfHwgMTAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZXJyb3Iuc3RhdHVzID09PSA0MDApIHsK</text>
+        <text encoding="base64">LSBgLi9kb2NrZXItc3RhY2sgdXAgcGctZXhwbG9pdGF0aW9uYAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
