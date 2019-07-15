@@ -28,7 +28,7 @@
         <mark key="^" line="7" column="41" />
         <mark key="." line="7" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/account/account.module.spec.ts" timestamp="1562920421933">
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/account/account.module.spec.ts" timestamp="1563199094427">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
@@ -38,7 +38,7 @@
         <mark key="]" line="9" column="4" />
         <mark key="." line="9" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/views/account/creation.ejs" timestamp="1563183362211">
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/views/account/creation.ejs" timestamp="1563197505303">
         <mark key="[" line="75" column="45" />
         <mark key="l" line="23" column="112" />
         <mark key="]" line="75" column="45" />
@@ -118,14 +118,21 @@
         <mark key="]" line="68" column="0" />
         <mark key="." line="68" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/shared/node_modules/@nestjs/core/exceptions/exceptions-handler.js" timestamp="1563196347299">
-        <mark key="[" line="13" column="9" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/shared/node_modules/@nestjs/core/exceptions/exceptions-handler.js" timestamp="1563197142967">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/Dockerfile" timestamp="1563129489693">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="^" line="6" column="7" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/node_modules/@nestjs/core/exceptions/exceptions-handler.js" timestamp="1563197571647">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/database/migrations/2019_07_03_203801_index_parent_post_id.php" timestamp="1562186292738">
         <mark key="[" line="16" column="12" />
@@ -137,7 +144,7 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/.prettierrc" timestamp="1562231707134">
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/.prettierrc" timestamp="1563198681737">
         <mark key="[" line="1" column="21" />
         <mark key="]" line="1" column="21" />
         <mark key="." line="1" column="21" />
@@ -227,17 +234,15 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="14" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/config/app.ts" timestamp="1562919671129">
-        <mark key="[" line="8" column="78" />
-        <mark key="]" line="8" column="80" />
-        <mark key="^" line="8" column="78" />
-        <mark key="." line="8" column="80" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/config/app.ts" timestamp="1563198735221">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/shared/form/interceptor/form-errors.interceptor.ts" timestamp="1563196164451">
-        <mark key="[" line="18" column="27" />
-        <mark key="]" line="20" column="31" />
-        <mark key="^" line="20" column="31" />
-        <mark key="." line="20" column="31" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/shared/form/interceptor/form-errors.interceptor.ts" timestamp="1563197379585">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/shared/authentication/authentication.service.spec.ts" timestamp="1562679007469">
         <mark key="[" line="15" column="19" />
@@ -261,17 +266,11 @@
         <mark key="^" line="1" column="24" />
         <mark key="." line="7" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/account/interceptor/errors.interceptor.ts" timestamp="1562945630461">
-        <mark key="[" line="10" column="0" />
-        <mark key="m" line="9" column="57" />
-        <mark key="]" line="30" column="3" />
-        <mark key="." line="25" column="44" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/README.md" timestamp="1562331198365">
-        <mark key="[" line="19" column="3" />
-        <mark key="]" line="19" column="3" />
-        <mark key="." line="19" column="3" />
-        <mark key="^" line="12" column="39" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/README.md" timestamp="1563198286796">
+        <mark key="[" line="16" column="25" />
+        <mark key="]" line="21" column="35" />
+        <mark key="." line="21" column="35" />
+        <mark key="^" line="21" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/public/style/main.less" timestamp="1562077105331">
         <mark key="[" line="0" column="10" />
@@ -294,9 +293,6 @@
         <mark key="." line="18" column="37" />
         <mark key="^" line="18" column="37" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1563180648932">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/app/Http/Controllers/SearchController.php" timestamp="1562182016561">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -313,11 +309,11 @@
         <mark key="." line="14" column="23" />
         <mark key="^" line="14" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/shared/form/interceptor/form-errors.interceptor.spec.ts" timestamp="1562946073049">
-        <mark key="[" line="53" column="19" />
-        <mark key="]" line="53" column="19" />
-        <mark key="^" line="53" column="14" />
-        <mark key="." line="53" column="19" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/shared/form/interceptor/form-errors.interceptor.spec.ts" timestamp="1563197618104">
+        <mark key="[" line="7" column="35" />
+        <mark key="]" line="56" column="19" />
+        <mark key="^" line="56" column="14" />
+        <mark key="." line="56" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/account/account.controller.spec.ts" timestamp="1563183675808">
         <mark key="[" line="8" column="0" />
@@ -350,7 +346,7 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/package.json" timestamp="1562231872291">
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/package.json" timestamp="1563198983149">
         <mark key="[" line="4" column="48" />
         <mark key="]" line="4" column="48" />
         <mark key="." line="4" column="48" />
@@ -472,14 +468,14 @@
       <register name="a" type="4">
         <text encoding="base64">IDwlPSBlcnJvcnMuZW1haWwgJiYgJ2lzLWludmFsaWQnJT4=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>instanceof BadRequestException</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgLm92ZXJyaWRlUHJvdmlkZXIoUGFzc3dvcmRTZXJ2aWNlKQogICAgICAudXNlVmFsdWUoamVzdC5mbigpKQo=</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>instanceof BadRequestException</text>
+        <text encoding="base64">IGV4cGxvaXRhdGlvbg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXNzd29yZFNlcnZpY2VcPg==</text>
@@ -488,37 +484,37 @@
         <text encoding="base64">ICAgICAgICAgIGNvbnN0IGVycm9ycyA9IGdldFBhc3N3b3JkQ29tcGxpYW5jZUVycm9ycyhhcmdzLnZhbHVlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBvZihlcnJvci5tZXNzYWdlKS5waXBlKAogICAgICAgICAgbWFwKCh7bWVzc2FnZX0pID0+IG1lc3NhZ2UpLAogICAgICAgICAgbWFwKHZhbGlkYXRpb25FcnJvcnMgPT4gewogICAgICAgICAgICByZXR1cm4gdmFsaWRhdGlvbkVycm9ycy5yZWR1Y2UoCiAgICAgICAgICAgICAgKHZhbGlkYXRpb25FcnJvcnNPYmplY3QsIHZhbGlkYXRpb25FcnJvcikgPT4gKHsKICAgICAgICAgICAgICAgIC4uLnZhbGlkYXRpb25FcnJvcnNPYmplY3QsCiAgICAgICAgICAgICAgICBbdmFsaWRhdGlvbkVycm9yLnByb3BlcnR5XTogT2JqZWN0LnZhbHVlcygKICAgICAgICAgICAgICAgICAgdmFsaWRhdGlvbkVycm9yLmNvbnN0cmFpbnRzCiAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgfSksCiAgICAgICAgICAgICAge30KICAgICAgICAgICAgKTsKICAgICAgICAgIH0pLAogICAgICAgICAgbWFwKGVycm9ycyA9PiB7CiAgICAgICAgICAgIHJldHVybiBjb250ZXh0CiAgICAgICAgICAgICAgLnN3aXRjaFRvSHR0cCgpCiAgICAgICAgICAgICAgLmdldFJlc3BvbnNlKCkKICAgICAgICAgICAgICAucmVuZGVyKHRoaXMudGVtcGxhdGUsIHtlcnJvcnMsIHZhbHVlczogZHRvfSkKICAgICAgICAgICAgICAuY2xvc2UoKTsKICAgICAgICAgIH0pCiAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgLm92ZXJyaWRlUHJvdmlkZXIoUGFzc3dvcmRTZXJ2aWNlKQogICAgICAudXNlVmFsdWUoamVzdC5mbigpKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgUGFzc3dvcmRTZXJ2aWNlIH0gZnJvbSAnLi9wYXNzd29yZC9wYXNzd29yZC5zZXJ2aWNlJzsK</text>
       </register>
       <register name="r" type="4">
         <text>technical_accounting.account.filters.period</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLy8gbWFwKCh7IG1lc3NhZ2UgfSkgPT4gbWVzc2FnZSksCiAgICAgIC8vIG1hcChlcnJvcnMgPT4gewogICAgICAvLyAgIHJldHVybiBlcnJvcnMucmVkdWNlKAogICAgICAvLyAgICAgKGVycm9yc09iamVjdCwgZXJyb3IpID0+ICh7CiAgICAgIC8vICAgICAgIC4uLmVycm9yc09iamVjdCwKICAgICAgLy8gICAgICAgW2Vycm9yLnByb3BlcnR5XTogT2JqZWN0LnZhbHVlcyhlcnJvci5jb25zdHJhaW50cykKICAgICAgLy8gICAgIH0pLAogICAgICAvLyAgICAge30KICAgICAgLy8gICApOwogICAgICAvLyB9KSwKICAgICAgLy8gbWFwKGVycm9ycyA9PiB7CiAgICAgIC8vICAgcmV0dXJuIGNvbnRleHQKICAgICAgLy8gICAgIC5zd2l0Y2hUb0h0dHAoKQogICAgICAvLyAgICAgLmdldFJlc3BvbnNlKCkKICAgICAgLy8gICAgIC5yZW5kZXIodGhpcy50ZW1wbGF0ZSwgeyBlcnJvcnMsIHZhbHVlczogZHRvIH0pCiAgICAgIC8vICAgICAuY2xvc2UoKTsKICAgICAgLy8gfSkK</text>
+        <text encoding="base64">ICBtaW5pbXVtUGFzc3dvcmRMZW5ndGg6IHBhcnNlSW50KHByb2Nlc3MuZW52Lk1JTklNVU1fUEFTU1dPUkRfTEVOR1RILCAxMCkgfHwgMTAK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ewogICAgICAgIHJldHVybiA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">LSBgLi9kb2NrZXItc3RhY2sgdXAgcGctZXhwbG9pdGF0aW9uYAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBuZXh0LmhhbmRsZSgpOwo=</text>
+        <text encoding="base64">LSBgLi9kb2NrZXItc3RhY2sgbnBtIGV4cGxvaXRhdGlvbmAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnd2lsbCByZW5kZXIgZXJyb3JzJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2V4Y2VwdG9vbicsIGV4Y2VwdGlvbiwgY3R4KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkdG8pOwo=</text>
+        <text encoding="base64">ICAgICAgICB9CiAgICAgICAgY29uc29sZS5sb2coZXJyb3IpOwogICAgICAgIHJldHVybiBvZihbXSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5yZW5kZXIodGhpcy50ZW1wbGF0ZSwgeyBlcnJvcnMsIHZhbHVlczogZHRvIH0pOwogICAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZXJyb3Iuc3RhdHVzID09PSA0MDApIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBkdG8gPSBjb250ZXh0LmdldEFyZ0J5SW5kZXgoMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZXhjZXB0b29uJywgZXhjZXB0aW9uLCBjdHgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
