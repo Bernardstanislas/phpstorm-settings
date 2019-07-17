@@ -358,10 +358,10 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/package.json" timestamp="1563198983149">
-        <mark key="[" line="4" column="48" />
-        <mark key="]" line="4" column="48" />
-        <mark key="." line="4" column="48" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/package.json" timestamp="1563356716290">
+        <mark key="[" line="4" column="83" />
+        <mark key="]" line="4" column="83" />
+        <mark key="." line="4" column="83" />
       </file>
       <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/public/style/style.less" timestamp="1561641121188">
         <mark key="[" line="25" column="0" />
@@ -480,14 +480,14 @@
       <register name="a" type="4">
         <text encoding="base64">IDwlPSBlcnJvcnMuZW1haWwgJiYgJ2lzLWludmFsaWQnJT4=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBkZXBlbmRlbmNpZXM6CiAgICAtIGJ1aWxkKGZjLWV4cGxvaXRhdGlvbikK</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>{ unique: true }</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXNzd29yZFNlcnZpY2VcPg==</text>
