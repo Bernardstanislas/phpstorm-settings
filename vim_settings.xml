@@ -358,10 +358,11 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/package.json" timestamp="1563356716290">
-        <mark key="[" line="4" column="83" />
-        <mark key="]" line="4" column="83" />
-        <mark key="." line="4" column="83" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/package.json" timestamp="1563370891085">
+        <mark key="[" line="4" column="67" />
+        <mark key="]" line="4" column="67" />
+        <mark key="." line="4" column="67" />
+        <mark key="^" line="4" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/public/style/style.less" timestamp="1561641121188">
         <mark key="[" line="25" column="0" />
@@ -481,13 +482,13 @@
         <text encoding="base64">IDwlPSBlcnJvcnMuZW1haWwgJiYgJ2lzLWludmFsaWQnJT4=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">LS1leGNsdWRlICcqKi9ub2RlX21vZHVsZXMvKiovKicg</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">LS1leGNsdWRlICcqKi9ub2RlX21vZHVsZXMvKiovKicg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXNzd29yZFNlcnZpY2VcPg==</text>
