@@ -36,9 +36,9 @@
         <mark key="." line="9" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/package.json" timestamp="1563543417262">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/views/account/creation.ejs" timestamp="1563540788171">
         <mark key="[" line="6" column="0" />
@@ -114,11 +114,11 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/views/account/list.ejs" timestamp="1563543200400">
-        <mark key="[" line="15" column="60" />
-        <mark key="]" line="15" column="72" />
-        <mark key="." line="15" column="72" />
-        <mark key="^" line="15" column="72" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/views/account/list.ejs" timestamp="1563544421351">
+        <mark key="[" line="15" column="85" />
+        <mark key="]" line="15" column="81" />
+        <mark key="." line="15" column="81" />
+        <mark key="^" line="15" column="81" />
       </file>
       <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/database/migrations/2019_07_03_203801_index_parent_post_id.php" timestamp="1562186292738">
         <mark key="[" line="16" column="12" />
@@ -280,8 +280,8 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/views/partials/header.ejs" timestamp="1563542656951">
-        <mark key="[" line="0" column="18" />
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/views/partials/header.ejs" timestamp="1563545093069">
+        <mark key="[" line="21" column="47" />
         <mark key="]" line="0" column="20" />
         <mark key="^" line="1" column="76" />
         <mark key="." line="0" column="20" />
@@ -316,6 +316,12 @@
         <mark key="[" line="13" column="65" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/public/javascript/main.js" timestamp="1563544869309">
+        <mark key="[" line="2" column="42" />
+        <mark key="]" line="2" column="42" />
+        <mark key="." line="2" column="42" />
+        <mark key="^" line="2" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/public/style/style.less" timestamp="1561641121188">
         <mark key="[" line="25" column="0" />
@@ -440,50 +446,50 @@
       <register name="a" type="4">
         <text encoding="base64">IDwlPSBlcnJvcnMuZW1haWwgJiYgJ2lzLWludmFsaWQnJT4=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJmb250LWF3ZXNvbWUiOiAiXjUuOS4wIiwK</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXNzd29yZFNlcnZpY2VcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IGRyb3Bkb3duLW1lbnUtcmlnaHQ=</text>
+      <register name="0" type="2">
+        <text encoding="base64">aW1wb3J0ICdAZm9ydGF3ZXNvbWUvZm9udGF3ZXNvbWUtZnJlZS9jc3MvcmVndWxhci5jc3MnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJmb250LWF3ZXNvbWUiOiAiXjUuOS4wIiwK</text>
+        <text encoding="base64">aW1wb3J0ICdAZm9ydGF3ZXNvbWUvZm9udGF3ZXNvbWUtZnJlZS9qcy9yZWd1bGFyJzsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8JT0gQ1VSUkVOVF9VU0VSLnJvbGVzICU+Cg==</text>
+        <text encoding="base64">aW1wb3J0ICJmb250LWF3ZXNvbWUvZm9udHMvZm9udGF3ZXNvbWUtd2ViZm9udC50dGYiOwppbXBvcnQgImZvbnQtYXdlc29tZS9jc3MvZm9udC1hd2Vzb21lLmNzcyI7Cg==</text>
       </register>
       <register name="r" type="4">
         <text>technical_accounting.account.filters.period</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJmb250LWF3ZXNvbWUiOiAiXjUuOS4wIiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8cCBpZD0idXNlcnMtY291bnQiPjxpPjwlPSB1c2Vycy5sZW5ndGggJT4gdXRpbGlzYXRldXJzPC9pPjwvcD4K</text>
+        <text encoding="base64">ICAgICAgICA8JT0gQ1VSUkVOVF9VU0VSLnJvbGVzICU+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPHAgaWQ9InVzZXJzLWNvdW50Ij48aT48JT0gdXNlcnMubGVuZ3RoICU+IHV0aWxpc2F0ZXVyczwvaT48L3A+Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICA8cCBpZD0idXNlcnMtY291bnQiPjxpPjwlPSB1c2Vycy5sZW5ndGggJT4gdXRpbGlzYXRldXJzPC9pPjwvcD4K</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPGJ1dHRvbiBjbGFzcz0iYnRuIGJ0bi1wcmltYXJ5IG1sLWF1dG8iPllvbG88L2J1dHRvbj4K</text>
+        <text encoding="base64">ICAgICAgPHAgaWQ9InVzZXJzLWNvdW50Ij48aT48JT0gdXNlcnMubGVuZ3RoICU+IHV0aWxpc2F0ZXVyczwvaT48L3A+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgPGJ1dHRvbiBjbGFzcz0iYnRuIGJ0bi1wcmltYXJ5IG1sLWF1dG8iPllvbG88L2J1dHRvbj4K</text>
