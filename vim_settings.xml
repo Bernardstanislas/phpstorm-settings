@@ -12,6 +12,11 @@
       </file>
       <file name="$USER_HOME$/Documents/code/santa-maria/.env" timestamp="1563465561454" />
       <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/views/service-provider/list.ejs" timestamp="1563463709525" />
+      <file name="$USER_HOME$/Documents/code/pair-prog-ts/src/bowling.ts" timestamp="1563519771524">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/shared/node_modules/@nestjs/common/interfaces/features/arguments-host.interface.d.ts" timestamp="1563463015722" />
       <file name="$USER_HOME$/Documents/code/santa-maria/.gitignore" timestamp="1563466371491">
         <mark key="[" line="11" column="0" />
@@ -43,10 +48,16 @@
       <file name="$USER_HOME$/Documents/code/santa-maria/psr-worker.php" timestamp="1563465684638">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1563454642360">
+      <file name="/GraphQL.result.json" timestamp="1563518150850">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/node_modules/shared/form/interceptor/form-errors.interceptor.ts" timestamp="1563463085653" />
+      <file name="$USER_HOME$/Documents/code/pair-prog-ts/src/bowling.test.ts" timestamp="1563519503672">
+        <mark key="[" line="35" column="36" />
+        <mark key="]" line="35" column="36" />
+        <mark key="." line="35" column="36" />
+        <mark key="^" line="24" column="10" />
+      </file>
       <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/tsconfig.json" timestamp="1563377856550">
         <mark key="[" line="12" column="28" />
       </file>
@@ -181,53 +192,53 @@
       <register name="a" type="4">
         <text encoding="base64">IDwlPSBlcnJvcnMuZW1haWwgJiYgJ2lzLWludmFsaWQnJT4=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">dmVuZG9yL2Jpbi9yciBnZXQgJiYgLi9yciBzZXJ2ZSAtdiAtZCAtbyBodHRwLmFkZHJlc3M9OiRQT1JU</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgLy8gQ2hlY2sgaWYgcHJldmlvdXMgcm9sbHMgd2VyZSBhIHNwYXJlCg==</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmVuZG9yL2Jpbi9yciBnZXQgJiYgLi9yciBzZXJ2ZSAtdiAtZCAtbyBodHRwLmFkZHJlc3M9OiRQT1JU</text>
+        <text>this.rolls[index - 1] + this.rolls[index - 2] === 10</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXNzd29yZFNlcnZpY2VcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBkZXBlbmRlbmNpZXM6CiAgICAtIGJ1aWxkKGZjLWV4cGxvaXRhdGlvbikK</text>
+        <text encoding="base64">ICAgIGJvd2xpbmcucm9sbCg2KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gQ2hlY2sgaWYgcHJldmlvdXMgcm9sbHMgd2VyZSBhIHNwYXJlCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJHRoaXMtPl9rZXJuZWwpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIFdhIGhhdmUgYSBzcGFyZSEK</text>
       </register>
       <register name="r" type="4">
         <text>technical_accounting.account.filters.period</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgbG9sIGZyb20gJy4veW9sby5qc29uJzsK</text>
+        <text encoding="base64">ICAgIGxldCB3YXNJblNwYXJlID0gZmFsc2U7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bG9sLmxvbDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBhZGRyZXNzOiAkUE9SVCYK</text>
+      <register name="6" type="4">
+        <text encoding="base64">IHsKICAgICAgcmV0dXJuIA==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cm1ldHJpY3M6CiAgIyBwcm9tZXRoZXVzIGNsaWVudCBhZGRyZXNzIChwYXRoIC9tZXRyaWNzIGFkZGVkIGF1dG9tYXRpY2FsbHkpCiAgYWRkcmVzczogbG9jYWxob3N0OjIxMTIKICBjb2xsZWN0OgogICAgYXBwX21ldHJpYzoKICAgICAgdHlwZTogICAgaGlzdG9ncmFtCiAgICAgIGhlbHA6ICAgICJDdXN0b20gYXBwbGljYXRpb24gbWV0cmljIgogICAgICBsYWJlbHM6ICBbInR5cGUiXQogICAgICBidWNrZXRzOiBbMC4xLCAwLjIsIDAuMywgMS4wXQo=</text>
+        <text encoding="base64">CiAgY29uc3RydWN0b3IoKSB7CiAgICB0aGlzLnJvbGxzID0gW107CiAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CnJwYzoKICBlbmFibGU6IGZhbHNlCg==</text>
+        <text encoding="base64">CiAgICBmb3IobGV0IGkgPSAwOyBpPDIwOyBpKyspIHsKICAgICAgYm93bGluZy5yb2xsKDEpOwogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAjIGVuYWJsZSBycGMgc2VydmVyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
