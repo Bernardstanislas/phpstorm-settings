@@ -69,10 +69,10 @@
         <mark key="]" line="14" column="44" />
         <mark key="." line="14" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/code/seasonly/front-shopify-theme/sections/product-template-booking.liquid" timestamp="1563798308393">
-        <mark key="[" line="160" column="80" />
-        <mark key="]" line="160" column="80" />
-        <mark key="." line="160" column="80" />
+      <file name="$USER_HOME$/Documents/code/seasonly/front-shopify-theme/sections/product-template-booking.liquid" timestamp="1563814465150">
+        <mark key="[" line="172" column="0" />
+        <mark key="]" line="172" column="0" />
+        <mark key="." line="172" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/todo-backend-lumen/tests/Domain/TodoRepositoryTest.php" timestamp="1561884559537">
         <mark key="[" line="3" column="25" />
@@ -89,11 +89,13 @@
         <mark key="]" line="9" column="34" />
         <mark key="." line="8" column="68" />
       </file>
-      <file name="$USER_HOME$/Documents/code/seasonly/front-shopify-theme/sections/product-template.liquid" timestamp="1563798623611">
-        <mark key="[" line="181" column="80" />
-        <mark key="]" line="181" column="80" />
-        <mark key="." line="181" column="80" />
-        <mark key="^" line="209" column="114" />
+      <file name="$USER_HOME$/Documents/code/seasonly/front-shopify-theme/sections/product-template.liquid" timestamp="1563814462579">
+        <mark key="[" line="194" column="0" />
+        <mark key="]" line="194" column="0" />
+        <mark key="." line="194" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/seasonly/front-shopify-theme/assets/functions.js" timestamp="1563813330817">
+        <mark key="'" line="63" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/account/account.module.ts" timestamp="1563188403882">
         <mark key="[" line="5" column="0" />
@@ -216,16 +218,12 @@
       <file name="$USER_HOME$/Documents/code/santa-maria/config/app.php" timestamp="1563466736105">
         <mark key="[" line="176" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/seasonly/front-shopify-theme/snippets/booking-form.liquid" timestamp="1563799140166">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="18" column="6" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/shared/user/decorators/roles.decorator.ts" timestamp="1562161000593">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/seasonly/front-shopify-theme/templates/page.a-propos.liquid" timestamp="1563806502559" />
       <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/config/app.ts" timestamp="1563198735221">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -363,7 +361,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="230" column="26" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" />
       <jump line="15" column="6" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" />
       <jump line="259" column="6" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" />
       <jump line="270" column="6" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" />
@@ -463,13 +460,14 @@
       <jump line="48" column="15" filename="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/README.md" />
       <jump line="16" column="22" filename="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/account/password/password.service.spec.ts" />
       <jump line="17" column="8" filename="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/account/account.controller.spec.ts" />
+      <jump line="63" column="9" filename="$USER_HOME$/Documents/code/seasonly/front-shopify-theme/assets/functions.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">IDwlPSBlcnJvcnMuZW1haWwgJiYgJ2lzLWludmFsaWQnJT4=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">PGRpdiBjbGFzcz0ic2VsZWN0b3Itd3JhcHBlciI+CiAgeyUgY2FwdHVyZSBhdHRyaWJ1dGUgJX1ib29raW5nLXN0YXJ0eyUgZW5kY2FwdHVyZSAlfQogIDxsYWJlbCBmb3I9Int7IGF0dHJpYnV0ZSB9fSI+RGF0ZTo8L2xhYmVsPgogIDxpbnB1dCBpZD0ie3sgYXR0cmlidXRlIH19IgogICAgICAgICB0eXBlPSJ0ZXh0IgogICAgICAgICBuYW1lPSJwcm9wZXJ0aWVzW3t7IGF0dHJpYnV0ZSB9fV0iCiAgICAgICAgIGNsYXNzPSJkYXRlcGlja2VyIGJ0YSByZXF1aXJlZCBidGEtbG9hZC1lbmFibGUiCiAgICAgICAgIHNpemU9IjEyIiBkYXRhLWhhbmRsZT0ie3sgcHJvZHVjdC5oYW5kbGUgfX0iCiAgICAgICAgIGRhdGEtdmFyaWFudD0ie3sgcHJvZHVjdC52YXJpYW50cy5maXJzdC5pZH19IgogICAgICAgICBkYXRhLWJ0YS1wcm9kdWN0LWNvbmZpZz0ie3sgcHJvZHVjdC5tZXRhZmllbGRzLmJvb2t0aGF0YXBwLmNvbmZpZyB9fSIKICAgICAgICAgZGF0YS1idGEtdmFyaWFudC1jb25maWc9InslIGZvciB2YXJpYW50IGluIHByb2R1Y3QudmFyaWFudHMgJX17eyB2YXJpYW50LmlkIH19Ont7IHZhcmlhbnQubWV0YWZpZWxkcy5ib29rdGhhdGFwcC5jb25maWcgfX17JSB1bmxlc3MgZm9ybG9vcC5sYXN0ICV9LHslIGVuZHVubGVzcyAlfXslIGVuZGZvciAlfSIKICAgICAgICAgZGlzYWJsZWQ9ImRpc2FibGVkIgogIC8+CjwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgeyUgaW5jbHVkZSAnYm9va2luZy1mb3JtJyAlfQo=</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
@@ -478,43 +476,43 @@
         <text encoding="base64">ICBzdHlsZT0iZGlzcGxheTpub25lIg==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwYXNzd29yZFNlcnZpY2VcPg==</text>
+        <text encoding="base64">XDx0cmFja19rbGF2aXlvXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAJPCEtLSBLbGF2aXlvIC0tPgoJPHNjcmlwdCBhc3luYyB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0iLy9zdGF0aWMua2xhdml5by5jb20vb25zaXRlL2pzL2tsYXZpeW8uanM/Y29tcGFueV9pZD1LTGJhdUUiPjwvc2NyaXB0PgoJPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPgoJICAgIGZ1bmN0aW9uIHRyYWNrX2tsYXZpeW8odHlwZSwgdmFsdWUpewogIAkJCV9sZWFybnEucHVzaChbJ3RyYWNrJywgdHlwZSwgeyd2YWx1ZScgOiB2YWx1ZX1dKTsKICAgICAgICB9Cgk8L3NjcmlwdD4KCTwhLS0gRW5kIEtsYXZpeW8gLS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7JSBpbmNsdWRlICdib29raW5nLWZvcm0nICV9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PGRpdiBjbGFzcz0ic2VsZWN0b3Itd3JhcHBlciI+CiAgeyUgY2FwdHVyZSBhdHRyaWJ1dGUgJX1ib29raW5nLXN0YXJ0eyUgZW5kY2FwdHVyZSAlfQogIDxsYWJlbCBmb3I9Int7IGF0dHJpYnV0ZSB9fSI+RGF0ZTo8L2xhYmVsPgogIDxpbnB1dCBpZD0ie3sgYXR0cmlidXRlIH19IgogICAgICAgICB0eXBlPSJ0ZXh0IgogICAgICAgICBuYW1lPSJwcm9wZXJ0aWVzW3t7IGF0dHJpYnV0ZSB9fV0iCiAgICAgICAgIGNsYXNzPSJkYXRlcGlja2VyIGJ0YSByZXF1aXJlZCBidGEtbG9hZC1lbmFibGUiCiAgICAgICAgIHNpemU9IjEyIiBkYXRhLWhhbmRsZT0ie3sgcHJvZHVjdC5oYW5kbGUgfX0iCiAgICAgICAgIGRhdGEtdmFyaWFudD0ie3sgcHJvZHVjdC52YXJpYW50cy5maXJzdC5pZH19IgogICAgICAgICBkYXRhLWJ0YS1wcm9kdWN0LWNvbmZpZz0ie3sgcHJvZHVjdC5tZXRhZmllbGRzLmJvb2t0aGF0YXBwLmNvbmZpZyB9fSIKICAgICAgICAgZGF0YS1idGEtdmFyaWFudC1jb25maWc9InslIGZvciB2YXJpYW50IGluIHByb2R1Y3QudmFyaWFudHMgJX17eyB2YXJpYW50LmlkIH19Ont7IHZhcmlhbnQubWV0YWZpZWxkcy5ib29rdGhhdGFwcC5jb25maWcgfX17JSB1bmxlc3MgZm9ybG9vcC5sYXN0ICV9LHslIGVuZHVubGVzcyAlfXslIGVuZGZvciAlfSIKICAgICAgICAgZGlzYWJsZWQ9ImRpc2FibGVkIgogIC8+CjwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgeyUgaW5jbHVkZSAnYm9va2luZy1mb3JtJyAlfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC4uLiBib29raW5nIGZpZWxkcyB3aWxsIGdvIGhlcmUgLi4uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwPllvbG88L3A+Cg==</text>
       </register>
       <register name="r" type="4">
         <text>technical_accounting.account.filters.period</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0ICdAZm9ydGF3ZXNvbWUvZm9udGF3ZXNvbWUtZnJlZS9qcy9yZWd1bGFyJzsK</text>
+        <text encoding="base64">PGRpdiBjbGFzcz0ic2VsZWN0b3Itd3JhcHBlciI+CiAgeyUgY2FwdHVyZSBhdHRyaWJ1dGUgJX1ib29raW5nLXN0YXJ0eyUgZW5kY2FwdHVyZSAlfQogIDxsYWJlbCBmb3I9Int7IGF0dHJpYnV0ZSB9fSI+RGF0ZTo8L2xhYmVsPgogIDxpbnB1dCBpZD0ie3sgYXR0cmlidXRlIH19IgogICAgICAgICB0eXBlPSJ0ZXh0IgogICAgICAgICBuYW1lPSJwcm9wZXJ0aWVzW3t7IGF0dHJpYnV0ZSB9fV0iCiAgICAgICAgIGNsYXNzPSJkYXRlcGlja2VyIGJ0YSByZXF1aXJlZCBidGEtbG9hZC1lbmFibGUiCiAgICAgICAgIHNpemU9IjEyIiBkYXRhLWhhbmRsZT0ie3sgcHJvZHVjdC5oYW5kbGUgfX0iCiAgICAgICAgIGRhdGEtdmFyaWFudD0ie3sgcHJvZHVjdC52YXJpYW50cy5maXJzdC5pZH19IgogICAgICAgICBkYXRhLWJ0YS1wcm9kdWN0LWNvbmZpZz0ie3sgcHJvZHVjdC5tZXRhZmllbGRzLmJvb2t0aGF0YXBwLmNvbmZpZyB9fSIKICAgICAgICAgZGF0YS1idGEtdmFyaWFudC1jb25maWc9InslIGZvciB2YXJpYW50IGluIHByb2R1Y3QudmFyaWFudHMgJX17eyB2YXJpYW50LmlkIH19Ont7IHZhcmlhbnQubWV0YWZpZWxkcy5ib29rdGhhdGFwcC5jb25maWcgfX17JSB1bmxlc3MgZm9ybG9vcC5sYXN0ICV9LHslIGVuZHVubGVzcyAlfXslIGVuZGZvciAlfSIKICAgICAgICAgZGlzYWJsZWQ9ImRpc2FibGVkIgogIC8+CjwvZGl2Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0ICJmb250LWF3ZXNvbWUvZm9udHMvZm9udGF3ZXNvbWUtd2ViZm9udC50dGYiOwppbXBvcnQgImZvbnQtYXdlc29tZS9jc3MvZm9udC1hd2Vzb21lLmNzcyI7Cg==</text>
+        <text encoding="base64">ICAgIC4uLiBib29raW5nIGZpZWxkcyB3aWxsIGdvIGhlcmUgLi4uCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJmb250LWF3ZXNvbWUiOiAiXjUuOS4wIiwK</text>
+        <text encoding="base64">aW1wb3J0ICdAZm9ydGF3ZXNvbWUvZm9udGF3ZXNvbWUtZnJlZS9qcy9yZWd1bGFyJzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8JT0gQ1VSUkVOVF9VU0VSLnJvbGVzICU+Cg==</text>
+        <text encoding="base64">aW1wb3J0ICJmb250LWF3ZXNvbWUvZm9udHMvZm9udGF3ZXNvbWUtd2ViZm9udC50dGYiOwppbXBvcnQgImZvbnQtYXdlc29tZS9jc3MvZm9udC1hd2Vzb21lLmNzcyI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJmb250LWF3ZXNvbWUiOiAiXjUuOS4wIiwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8cCBpZD0idXNlcnMtY291bnQiPjxpPjwlPSB1c2Vycy5sZW5ndGggJT4gdXRpbGlzYXRldXJzPC9pPjwvcD4K</text>
+        <text encoding="base64">ICAgICAgICA8JT0gQ1VSUkVOVF9VU0VSLnJvbGVzICU+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPHAgaWQ9InVzZXJzLWNvdW50Ij48aT48JT0gdXNlcnMubGVuZ3RoICU+IHV0aWxpc2F0ZXVyczwvaT48L3A+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -524,9 +522,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwYXNzd29yZFNlcnZpY2VcPg==</last-search>
+      <last-search encoding="base64">XDx0cmFja19rbGF2aXlvXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwYXNzd29yZFNlcnZpY2VcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx0cmFja19rbGF2aXlvXD4=</last-pattern>
       <last-replace>fc-exploitation</last-replace>
       <last-substitute encoding="base64">XDxwYXNzd29yZFNlcnZpY2VcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -534,7 +532,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkaXNwbGF5RklzRm9yVXNlclw+</entry>
         <entry encoding="base64">XDxmaUFjdGl2ZUFuZFVzZXJBdXRoZW50aWNhdGVkXD4=</entry>
         <entry encoding="base64">XDxjcmVhdGVDb25uZWN0aW9uRmFjdG9yeVw+</entry>
         <entry encoding="base64">XDxfc2VyaWFsaXplVXNlclw+</entry>
@@ -554,6 +551,7 @@
         <entry encoding="base64">XDxtZXRob2RcPg==</entry>
         <entry encoding="base64">XDxpZFw+</entry>
         <entry encoding="base64">XDxwYXNzd29yZFNlcnZpY2VcPg==</entry>
+        <entry encoding="base64">XDx0cmFja19rbGF2aXlvXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2ZyYW5jZS1jb25uZWN0XC9pbmZyYS9nNHZyb2NoZVwvZm9vYmFyL2c=</entry>
