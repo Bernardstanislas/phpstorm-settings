@@ -51,7 +51,7 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="53" column="148" />
       </file>
-      <file name="$USER_HOME$/Documents/code/seasonly/front-shopify-theme/sections/product.liquid" timestamp="1563789951874">
+      <file name="$USER_HOME$/Documents/code/seasonly/front-shopify-theme/sections/product.liquid" timestamp="1563791289017">
         <mark key="[" line="94" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Client.php" timestamp="1562102588800">
@@ -83,6 +83,11 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="34" />
         <mark key="." line="8" column="68" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/seasonly/front-shopify-theme/sections/product-template.liquid" timestamp="1563791437740">
+        <mark key="[" line="181" column="81" />
+        <mark key="]" line="181" column="81" />
+        <mark key="." line="181" column="81" />
       </file>
       <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/account/account.module.ts" timestamp="1563188403882">
         <mark key="[" line="5" column="0" />
@@ -451,13 +456,13 @@
         <text encoding="base64">IDwlPSBlcnJvcnMuZW1haWwgJiYgJ2lzLWludmFsaWQnJT4=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Klaviyo</text>
+        <text encoding="base64">IHN0eWxlPSJkaXNwbGF5Om5vbmUi</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>Klaviyo</text>
+        <text encoding="base64">IHN0eWxlPSJkaXNwbGF5Om5vbmUi</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXNzd29yZFNlcnZpY2VcPg==</text>
