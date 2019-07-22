@@ -84,10 +84,10 @@
         <mark key="]" line="9" column="34" />
         <mark key="." line="8" column="68" />
       </file>
-      <file name="$USER_HOME$/Documents/code/seasonly/front-shopify-theme/sections/product-template.liquid" timestamp="1563791437740">
-        <mark key="[" line="181" column="81" />
-        <mark key="]" line="181" column="81" />
-        <mark key="." line="181" column="81" />
+      <file name="$USER_HOME$/Documents/code/seasonly/front-shopify-theme/sections/product-template.liquid" timestamp="1563792445144">
+        <mark key="[" line="209" column="153" />
+        <mark key="]" line="209" column="153" />
+        <mark key="." line="209" column="153" />
       </file>
       <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/account/account.module.ts" timestamp="1563188403882">
         <mark key="[" line="5" column="0" />
@@ -98,6 +98,9 @@
         <mark key="[" line="6" column="12" />
         <mark key="]" line="6" column="12" />
         <mark key="." line="6" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/seasonly/front-shopify-theme/locales/fr.json" timestamp="1563792495944">
+        <mark key="[" line="175" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/views/service-provider/list.ejs" timestamp="1563541661212">
         <mark key="[" line="8" column="0" />
@@ -456,13 +459,13 @@
         <text encoding="base64">IDwlPSBlcnJvcnMuZW1haWwgJiYgJ2lzLWludmFsaWQnJT4=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHN0eWxlPSJkaXNwbGF5Om5vbmUi</text>
+        <text>current_variant</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHN0eWxlPSJkaXNwbGF5Om5vbmUi</text>
+        <text>current_variant</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXNzd29yZFNlcnZpY2VcPg==</text>
