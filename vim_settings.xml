@@ -23,6 +23,11 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/seasonly/front-shopify-theme/config.yml" timestamp="1563789631540">
+        <mark key="[" line="3" column="12" />
+        <mark key="]" line="3" column="12" />
+        <mark key="." line="3" column="12" />
+      </file>
       <file name="$USER_HOME$/Documents/code/santa-maria/Procfile" timestamp="1563527301128">
         <mark key="[" line="0" column="5" />
         <mark key="]" line="0" column="5" />
@@ -45,6 +50,9 @@
         <mark key="]" line="6" column="33" />
         <mark key="." line="6" column="0" />
         <mark key="^" line="53" column="148" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/seasonly/front-shopify-theme/sections/product.liquid" timestamp="1563789951874">
+        <mark key="[" line="94" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Client.php" timestamp="1562102588800">
         <mark key="[" line="742" column="0" />
@@ -248,10 +256,11 @@
         <mark key="]" line="19" column="8" />
         <mark key="." line="19" column="8" />
       </file>
+      <file name="$USER_HOME$/Documents/code/seasonly/front-shopify-theme/layout/theme.liquid" timestamp="1563789729044" />
       <file name="$USER_HOME$/Documents/code/santa-maria/psr-worker.php" timestamp="1563465684638">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1563548250738">
+      <file name="/GraphQL.result.json" timestamp="1563787445042">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/stackoverflow-on-the-go/app/Http/Controllers/SearchController.php" timestamp="1562182016561">
@@ -442,19 +451,19 @@
         <text encoding="base64">IDwlPSBlcnJvcnMuZW1haWwgJiYgJ2lzLWludmFsaWQnJT4=</text>
       </register>
       <register name="&quot;" type="4">
-        <text />
+        <text>Klaviyo</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>Klaviyo</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXNzd29yZFNlcnZpY2VcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0ICdAZm9ydGF3ZXNvbWUvZm9udGF3ZXNvbWUtZnJlZS9jc3MvcmVndWxhci5jc3MnOwo=</text>
+        <text encoding="base64">ICAJPCEtLSBLbGF2aXlvIC0tPgoJPHNjcmlwdCBhc3luYyB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0iLy9zdGF0aWMua2xhdml5by5jb20vb25zaXRlL2pzL2tsYXZpeW8uanM/Y29tcGFueV9pZD1LTGJhdUUiPjwvc2NyaXB0PgoJPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPgoJICAgIGZ1bmN0aW9uIHRyYWNrX2tsYXZpeW8odHlwZSwgdmFsdWUpewogIAkJCV9sZWFybnEucHVzaChbJ3RyYWNrJywgdHlwZSwgeyd2YWx1ZScgOiB2YWx1ZX1dKTsKICAgICAgICB9Cgk8L3NjcmlwdD4KCTwhLS0gRW5kIEtsYXZpeW8gLS0+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0ICdAZm9ydGF3ZXNvbWUvZm9udGF3ZXNvbWUtZnJlZS9qcy9yZWd1bGFyJzsK</text>
