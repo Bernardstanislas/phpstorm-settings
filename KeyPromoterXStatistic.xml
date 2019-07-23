@@ -41,12 +41,36 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'Bowling'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'Bowling'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Revert...">
         <Item>
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'⌥⌘Z'</ShortCut>
           <Description>Revert...</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Bowling'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Bowling'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="View assertEquals Difference">
+        <Item>
+          <IdeaActionID>openAssertEqualsDiff</IdeaActionID>
+          <ShortCut>'⌘D'</ShortCut>
+          <Description>View assertEquals Difference</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
     </option>
