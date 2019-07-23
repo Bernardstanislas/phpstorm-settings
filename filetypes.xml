@@ -1,14 +1,13 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="liquid" type="HTML" />
+      <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping pattern="Dangerfile" type="PLAIN_TEXT" />
       <mapping pattern=".buildpacks" type="PLAIN_TEXT" />
       <mapping pattern="default-disable" type="PLAIN_TEXT" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern="TO_DELETE" type="PLAIN_TEXT" />
       <mapping pattern=".env.prod" type="PLAIN_TEXT" />
-      <mapping pattern="add-e2e-te" type="PLAIN_TEXT" />
       <mapping pattern="release" type="PLAIN_TEXT" />
       <mapping pattern="lol" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
@@ -16,18 +15,20 @@
       <mapping pattern="preprod" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="packer" type="PLAIN_TEXT" />
-      <mapping pattern="enable" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="prod" type="PLAIN_TEXT" />
       <mapping pattern="default-enable" type="PLAIN_TEXT" />
+      <mapping pattern="enable" type="PLAIN_TEXT" />
       <mapping pattern="oui" type="PLAIN_TEXT" />
-      <mapping pattern="hosts" type="PLAIN_TEXT" />
+      <mapping pattern="add-e2e-te" type="PLAIN_TEXT" />
       <mapping pattern=".gtikeep" type="PLAIN_TEXT" />
       <mapping pattern=".watchmanconfig" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="dev" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
+      <mapping ext="liquid" type="Twig" />
+      <removed_mapping ext="liquid" approved="true" type="HTML" />
     </extensionMap>
   </component>
 </application>
