@@ -76,6 +76,9 @@
         <mark key="]" line="14" column="44" />
         <mark key="." line="14" column="44" />
       </file>
+      <file name="$USER_HOME$/Documents/code/seasonly/front-shopify-theme/sections/product-template-booking.liquid" timestamp="1563978169362">
+        <mark key="[" line="157" column="50" />
+      </file>
       <file name="$USER_HOME$/Documents/code/todo-backend-lumen/tests/Domain/TodoRepositoryTest.php" timestamp="1561884559537">
         <mark key="[" line="3" column="25" />
         <mark key="]" line="3" column="26" />
@@ -485,14 +488,14 @@
       <register name="a" type="4">
         <text encoding="base64">IDwlPSBlcnJvcnMuZW1haWwgJiYgJ2lzLWludmFsaWQnJT4=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29uc3QgZXZlbnRSZXNwb25zZSA9IA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0cmFja19rbGF2aXlvXD4=</text>
