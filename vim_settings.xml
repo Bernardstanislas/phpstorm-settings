@@ -23,10 +23,11 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/seasonly/front-shopify-theme/config.yml" timestamp="1563897898408">
+      <file name="$USER_HOME$/Documents/code/seasonly/front-shopify-theme/config.yml" timestamp="1563953716722">
         <mark key="[" line="3" column="9" />
         <mark key="]" line="3" column="9" />
         <mark key="." line="3" column="9" />
+        <mark key="^" line="3" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/code/santa-maria/Procfile" timestamp="1563527301128">
         <mark key="[" line="0" column="5" />
@@ -484,13 +485,13 @@
         <text encoding="base64">IDwlPSBlcnJvcnMuZW1haWwgJiYgJ2lzLWludmFsaWQnJT4=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>my-seasonly-dev</text>
+        <text>seasonly-dev-stan</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>my-seasonly-dev</text>
+        <text>seasonly-dev-stan</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0cmFja19rbGF2aXlvXD4=</text>
