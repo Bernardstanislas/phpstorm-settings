@@ -29,11 +29,10 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/seasonly/front-shopify-theme/config.yml" timestamp="1563953716722">
-        <mark key="[" line="3" column="9" />
-        <mark key="]" line="3" column="9" />
-        <mark key="." line="3" column="9" />
-        <mark key="^" line="3" column="25" />
+      <file name="$USER_HOME$/Documents/code/seasonly/front-shopify-theme/config.yml" timestamp="1563976355712">
+        <mark key="]" line="8" column="1" />
+        <mark key="^" line="8" column="1" />
+        <mark key="." line="8" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/code/santa-maria/Procfile" timestamp="1563527301128">
         <mark key="[" line="0" column="5" />
@@ -77,11 +76,6 @@
         <mark key="]" line="14" column="44" />
         <mark key="." line="14" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/code/seasonly/front-shopify-theme/sections/product-template-booking.liquid" timestamp="1563814465150">
-        <mark key="[" line="184" column="0" />
-        <mark key="]" line="184" column="0" />
-        <mark key="." line="184" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/code/todo-backend-lumen/tests/Domain/TodoRepositoryTest.php" timestamp="1561884559537">
         <mark key="[" line="3" column="25" />
         <mark key="]" line="3" column="26" />
@@ -96,11 +90,6 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="34" />
         <mark key="." line="8" column="68" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/seasonly/front-shopify-theme/sections/product-template.liquid" timestamp="1563814462579">
-        <mark key="[" line="194" column="0" />
-        <mark key="]" line="194" column="0" />
-        <mark key="." line="194" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/seasonly/front-shopify-theme/assets/functions.js" timestamp="1563813330817">
         <mark key="'" line="63" column="9" />
@@ -231,11 +220,12 @@
       <file name="$USER_HOME$/Documents/code/santa-maria/config/app.php" timestamp="1563466736105">
         <mark key="[" line="176" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/seasonly/front-shopify-theme/snippets/booking-form.liquid" timestamp="1563870456400">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="26" column="9" />
+      <file name="$USER_HOME$/Documents/code/seasonly/front-shopify-theme/snippets/booking-form.liquid" timestamp="1563976396899">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="10" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/code/france-connect/fc-apps/shared/user/decorators/roles.decorator.ts" timestamp="1562161000593">
         <mark key="[" line="0" column="0" />
@@ -390,7 +380,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="6" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" />
       <jump line="259" column="6" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" />
       <jump line="270" column="6" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" />
       <jump line="283" column="6" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" />
@@ -490,13 +479,14 @@
       <jump line="16" column="22" filename="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/account/password/password.service.spec.ts" />
       <jump line="17" column="8" filename="$USER_HOME$/Documents/code/france-connect/fc-apps/fc-exploitation/src/account/account.controller.spec.ts" />
       <jump line="63" column="9" filename="$USER_HOME$/Documents/code/seasonly/front-shopify-theme/assets/functions.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/code/seasonly/front-shopify-theme/snippets/booking-form.liquid" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">IDwlPSBlcnJvcnMuZW1haWwgJiYgJ2lzLWludmFsaWQnJT4=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
@@ -511,37 +501,37 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7JSBpbmNsdWRlICdib29raW5nLWZvcm0nICV9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgZW1haWxzID0gWydvd2VuQHNlYXNvbmx5LmZyJ107Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCjxkaXYgY2xhc3M9InNlbGVjdG9yLXdyYXBwZXIiPgogIHslIGNhcHR1cmUgYXR0cmlidXRlICV9Ym9va2luZy1zdGFydHslIGVuZGNhcHR1cmUgJX0KICA8bGFiZWwgZm9yPSJ7eyBhdHRyaWJ1dGUgfX0iPkRhdGU6PC9sYWJlbD4KICA8aW5wdXQgaWQ9Int7IGF0dHJpYnV0ZSB9fSIKICAgICAgICAgdHlwZT0idGV4dCIKICAgICAgICAgbmFtZT0icHJvcGVydGllc1t7eyBhdHRyaWJ1dGUgfX1dIgogICAgICAgICBjbGFzcz0iZGF0ZXBpY2tlciBidGEgcmVxdWlyZWQgYnRhLWxvYWQtZW5hYmxlIgogICAgICAgICBzaXplPSIxMiIgZGF0YS1oYW5kbGU9Int7IHByb2R1Y3QuaGFuZGxlIH19IgogICAgICAgICBkYXRhLXZhcmlhbnQ9Int7IHByb2R1Y3QudmFyaWFudHMuZmlyc3QuaWR9fSIKICAgICAgICAgZGF0YS1idGEtcHJvZHVjdC1jb25maWc9Int7IHByb2R1Y3QubWV0YWZpZWxkcy5ib29rdGhhdGFwcC5jb25maWcgfX0iCiAgICAgICAgIGRhdGEtYnRhLXZhcmlhbnQtY29uZmlnPSJ7JSBmb3IgdmFyaWFudCBpbiBwcm9kdWN0LnZhcmlhbnRzICV9e3sgdmFyaWFudC5pZCB9fTp7eyB2YXJpYW50Lm1ldGFmaWVsZHMuYm9va3RoYXRhcHAuY29uZmlnIH19eyUgdW5sZXNzIGZvcmxvb3AubGFzdCAlfSx7JSBlbmR1bmxlc3MgJX17JSBlbmRmb3IgJX0iCiAgICAgICAgIGRpc2FibGVkPSJkaXNhYmxlZCIKICAvPgo8L2Rpdj4KPT09PT09PQo=</text>
       </register>
       <register name="r" type="4">
         <text>technical_accounting.account.filters.period</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Clsnb3dlbkBzZWFzb25seS5mciddLmZvckVhY2goYXN5bmMgKGVtYWlsKSA9PiB7CiAgY29uc3QgY2hhcmdlU2NoZWR1bGVFdmVudCA9IHsKICAgIHRva2VuOiBrbGF2aXlvVG9rZW4sCiAgICBldmVudDogJ1dpbGwgYmUgY2hhcmdlZCBpbiAzIGRheXMnLAogICAgY3VzdG9tZXJfcHJvcGVydGllcyA6IHsKICAgICAgJyRlbWFpbCc6IGVtYWlsCiAgICB9CiAgfTsKICBjb25zdCBiYXNlNjRFbmNvZGVkQ2hhcmdlU2NoZWR1bGVFdmVudCA9IEJ1ZmZlci5mcm9tKEpTT04uc3RyaW5naWZ5KGNoYXJnZVNjaGVkdWxlRXZlbnQpKS50b1N0cmluZygnYmFzZTY0Jyk7CiAgY29uc3QgZXZlbnRSZXNwb25zZSA9IGF3YWl0IGZldGNoKGAke2tsYXZpeW9Vcmx9L3RyYWNrP2RhdGE9JHtiYXNlNjRFbmNvZGVkQ2hhcmdlU2NoZWR1bGVFdmVudH1gKTsKICBjb25zdCBldmVudFJlc3VsdCA9IGF3YWl0IGV2ZW50UmVzcG9uc2UudGV4dCgpOwp9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zdCBldmVudFJlc3VsdCA9IGF3YWl0IGV2ZW50UmVzcG9uc2UudGV4dCgpOwo=</text>
+        <text encoding="base64">Y29uc3QgZW1haWxzID0gWydvd2VuQHNlYXNvbmx5LmZyJ107Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Clsnb3dlbkBzZWFzb25seS5mciddLmZvckVhY2goYXN5bmMgKGVtYWlsKSA9PiB7CiAgY29uc3QgY2hhcmdlU2NoZWR1bGVFdmVudCA9IHsKICAgIHRva2VuOiBrbGF2aXlvVG9rZW4sCiAgICBldmVudDogJ1dpbGwgYmUgY2hhcmdlZCBpbiAzIGRheXMnLAogICAgY3VzdG9tZXJfcHJvcGVydGllcyA6IHsKICAgICAgJyRlbWFpbCc6IGVtYWlsCiAgICB9CiAgfTsKICBjb25zdCBiYXNlNjRFbmNvZGVkQ2hhcmdlU2NoZWR1bGVFdmVudCA9IEJ1ZmZlci5mcm9tKEpTT04uc3RyaW5naWZ5KGNoYXJnZVNjaGVkdWxlRXZlbnQpKS50b1N0cmluZygnYmFzZTY0Jyk7CiAgY29uc3QgZXZlbnRSZXNwb25zZSA9IGF3YWl0IGZldGNoKGAke2tsYXZpeW9Vcmx9L3RyYWNrP2RhdGE9JHtiYXNlNjRFbmNvZGVkQ2hhcmdlU2NoZWR1bGVFdmVudH1gKTsKICBjb25zdCBldmVudFJlc3VsdCA9IGF3YWl0IGV2ZW50UmVzcG9uc2UudGV4dCgpOwp9KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bGV0IGV2ZW50UmVzdWx0Owo=</text>
+        <text encoding="base64">ICBjb25zdCBldmVudFJlc3VsdCA9IGF3YWl0IGV2ZW50UmVzcG9uc2UudGV4dCgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CmNvbnN0IGtsYXZpeW9JZGVudGlmeVBheWxvYWQgPSB7CiAgdG9rZW46IGtsYXZpeW9Ub2tlbiwKICBwcm9wZXJ0aWVzOiB7CiAgICAnJGVtYWlsJzogJ293ZW5Ac2Vhc29ubHkuZnInCiAgfQp9Owpjb25zdCBiYXNlNjRFbmNvZGVkS2xhdml5b0lkZW50aWZ5UGF5bG9hZCA9IEJ1ZmZlci5mcm9tKEpTT04uc3RyaW5naWZ5KGtsYXZpeW9JZGVudGlmeVBheWxvYWQpKS50b1N0cmluZygnYmFzZTY0Jyk7CmNvbnN0IGlkZW50aWZ5UmVzcG9uc2UgPSBhd2FpdCBmZXRjaChgJHtrbGF2aXlvVXJsfS9pZGVudGlmeT9kYXRhPSR7YmFzZTY0RW5jb2RlZEtsYXZpeW9JZGVudGlmeVBheWxvYWR9YCk7CmNvbnN0IGlkZW50aWZ5UmVzdWx0ID0gYXdhaXQgaWRlbnRpZnlSZXNwb25zZS50ZXh0KCk7Cgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICckZmlyc3ROYW1lJzogJ093ZW4gQ29vZ2FuJywKICAgICckbGFzdE5hbWUnOiAnQ29vZ2FuJwo=</text>
+        <text encoding="base64">bGV0IGV2ZW50UmVzdWx0Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICIkbmV4dFJlY2hhcmdlQ2hhcmdlIjogbmV3IERhdGUoKQo=</text>
+        <text encoding="base64">CmNvbnN0IGtsYXZpeW9JZGVudGlmeVBheWxvYWQgPSB7CiAgdG9rZW46IGtsYXZpeW9Ub2tlbiwKICBwcm9wZXJ0aWVzOiB7CiAgICAnJGVtYWlsJzogJ293ZW5Ac2Vhc29ubHkuZnInCiAgfQp9Owpjb25zdCBiYXNlNjRFbmNvZGVkS2xhdml5b0lkZW50aWZ5UGF5bG9hZCA9IEJ1ZmZlci5mcm9tKEpTT04uc3RyaW5naWZ5KGtsYXZpeW9JZGVudGlmeVBheWxvYWQpKS50b1N0cmluZygnYmFzZTY0Jyk7CmNvbnN0IGlkZW50aWZ5UmVzcG9uc2UgPSBhd2FpdCBmZXRjaChgJHtrbGF2aXlvVXJsfS9pZGVudGlmeT9kYXRhPSR7YmFzZTY0RW5jb2RlZEtsYXZpeW9JZGVudGlmeVBheWxvYWR9YCk7CmNvbnN0IGlkZW50aWZ5UmVzdWx0ID0gYXdhaXQgaWRlbnRpZnlSZXNwb25zZS50ZXh0KCk7Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
