@@ -88,10 +88,11 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/seasonly/jerry-thomas/server/app/Http/Client/ShopifyClientTest.php" timestamp="1564402620004">
-        <mark key="[" line="15" column="5" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/Documents/code/seasonly/jerry-thomas/server/app/Http/Client/ShopifyClientTest.php" timestamp="1564404205163">
+        <mark key="[" line="32" column="8" />
+        <mark key="]" line="34" column="4" />
+        <mark key="." line="34" column="4" />
+        <mark key="^" line="25" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/code/santa-maria/config/app.php" timestamp="1563466736105">
         <mark key="[" line="176" column="0" />
@@ -504,14 +505,14 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7JSBpbmNsdWRlICdib29raW5nLWZvcm0nICV9Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJlbnQ6OnNldFVwKCk7IC8vIFRPRE86IENoYW5nZSB0aGUgYXV0b2dlbmVyYXRlZCBzdHViCg==</text>
+      <register name="&quot;" type="4">
+        <text>$mock</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>tests/Unit</text>
+        <text>$mock</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuYXZfX3N1Ylw+</text>
