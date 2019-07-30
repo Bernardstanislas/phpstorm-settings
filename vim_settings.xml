@@ -20,10 +20,12 @@
         <mark key="^" line="8" column="1" />
         <mark key="." line="8" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/code/seasonly/front-shopify-theme/assets/theme-critical.scss" timestamp="1564477678229">
-        <mark key="[" line="4242" column="16" />
-        <mark key="]" line="4242" column="16" />
-        <mark key="." line="4242" column="16" />
+      <file name="$USER_HOME$/Documents/code/seasonly/front-shopify-theme/assets/theme-critical.scss" timestamp="1564499116957">
+        <mark key="'" line="7215" column="31" />
+        <mark key="[" line="1922" column="21" />
+        <mark key="]" line="1922" column="41" />
+        <mark key="." line="1922" column="41" />
+        <mark key="^" line="1922" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/code/seasonly/jerry-thomas/server/composer.json" timestamp="1564397377883">
         <mark key="[" line="55" column="23" />
@@ -42,16 +44,17 @@
       <file name="$USER_HOME$/Documents/code/seasonly/front-shopify-theme/locales/fr.json" timestamp="1563792495944">
         <mark key="[" line="175" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/code/seasonly/front-shopify-theme/config/settings_data.json" timestamp="1564492574843">
-        <mark key="[" line="840" column="43" />
-        <mark key="]" line="768" column="7" />
-        <mark key="^" line="760" column="7" />
-        <mark key="." line="761" column="0" />
+      <file name="$USER_HOME$/Documents/code/seasonly/front-shopify-theme/config/settings_data.json" timestamp="1564498524467">
+        <mark key="[" line="842" column="18" />
+        <mark key="]" line="180" column="33" />
+        <mark key="^" line="180" column="33" />
+        <mark key="." line="180" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/code/seasonly/front-shopify-theme/sections/mantra.liquid" timestamp="1564492953070">
-        <mark key="[" line="24" column="8" />
-        <mark key="]" line="24" column="8" />
-        <mark key="." line="24" column="8" />
+      <file name="$USER_HOME$/Documents/code/seasonly/front-shopify-theme/sections/mantra.liquid" timestamp="1564498274203">
+        <mark key="[" line="37" column="18" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="36" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/code/seasonly/front-shopify-theme/.eslintrc" timestamp="1564144377583">
         <mark key="[" line="0" column="0" />
@@ -105,6 +108,12 @@
         <mark key="[" line="80" column="61" />
       </file>
       <file name="$USER_HOME$/Documents/code/seasonly/logistics/app/logistician.js" timestamp="1564417298533" />
+      <file name="$USER_HOME$/Documents/code/seasonly/front-shopify-theme/assets/theme.scss" timestamp="1564494040258">
+        <mark key="'" line="4493" column="9" />
+        <mark key="[" line="6637" column="0" />
+        <mark key="]" line="6637" column="0" />
+        <mark key="." line="6637" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/code/seasonly/front-shopify-theme/templates/page.diagnostic.liquid" timestamp="1564133159861">
         <mark key="[" line="19" column="8" />
         <mark key="]" line="19" column="8" />
@@ -128,12 +137,12 @@
         <mark key="]" line="5" column="3" />
         <mark key="." line="5" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/code/seasonly/front-shopify-theme/sections/header.liquid" timestamp="1564477930261">
-        <mark key="'" line="189" column="186" />
-        <mark key="[" line="275" column="0" />
-        <mark key="]" line="275" column="0" />
-        <mark key="." line="275" column="0" />
-        <mark key="^" line="1" column="45" />
+      <file name="$USER_HOME$/Documents/code/seasonly/front-shopify-theme/sections/header.liquid" timestamp="1564498941874">
+        <mark key="'" line="501" column="10" />
+        <mark key="[" line="495" column="27" />
+        <mark key="]" line="117" column="0" />
+        <mark key="." line="117" column="0" />
+        <mark key="^" line="498" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/code/seasonly/logistics/app/transforming.js" timestamp="1564417747576" />
       <file name="/jerry-thomas.public.users [Local Postgres]" timestamp="1564396420190">
@@ -183,9 +192,6 @@
       <file name="$USER_HOME$/Documents/code/seasonly/logistics/app/laposte.js" timestamp="1564417738552" />
     </filemarks>
     <jumps>
-      <jump line="121" column="70" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" />
-      <jump line="12" column="21" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" />
-      <jump line="134" column="26" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" />
       <jump line="264" column="18" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" />
       <jump line="275" column="18" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" />
       <jump line="282" column="18" filename="$USER_HOME$/Documents/code/france-connect/FranceConnect/projects/fc/core/controllers/indexController.js" />
@@ -283,60 +289,65 @@
       <jump line="1242" column="7" filename="$USER_HOME$/Documents/code/seasonly/front-shopify-theme/config/settings_data.json" />
       <jump line="1698" column="7" filename="$USER_HOME$/Documents/code/seasonly/front-shopify-theme/config/settings_data.json" />
       <jump line="2028" column="7" filename="$USER_HOME$/Documents/code/seasonly/front-shopify-theme/config/settings_data.json" />
+      <jump line="500" column="10" filename="$USER_HOME$/Documents/code/seasonly/front-shopify-theme/sections/header.liquid" />
+      <jump line="4493" column="9" filename="$USER_HOME$/Documents/code/seasonly/front-shopify-theme/assets/theme.scss" />
+      <jump line="7209" column="31" filename="$USER_HOME$/Documents/code/seasonly/front-shopify-theme/assets/theme-critical.scss" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7JSBpbmNsdWRlICdib29raW5nLWZvcm0nICV9Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>vertical-align: middle;
-        line-height: 1080px;</text>
+        <text>.</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>90px</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb250ZW50X2Zvcl9pbmRleFw+</text>
+        <text encoding="base64">XDxuYXZfX2l0ZW1cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgIm1vdHRvIjogewogICAgICAgICJ0eXBlIjogIm1vdHRvIiwKICAgICAgICAic2V0dGluZ3MiOiB7CiAgICAgICAgICAiaW1hZ2UtZGVza3RvcCI6ICJzaG9waWZ5Oi8vc2hvcF9pbWFnZXMvbW90dG8taW1hZ2UtZGVza3RvcC5wbmciLAogICAgICAgICAgImltYWdlLW1vYmlsZSI6ICJzaG9waWZ5Oi8vc2hvcF9pbWFnZXMvbW90dG8taW1hZ2UtZGVza3RvcC5wbmciLAogICAgICAgICAgImJhY2tncm91bmQtaW1hZ2Utb3BhY2l0eSI6ICIwLjgiCiAgICAgICAgfQogICAgICB9Cg==</text>
+        <text encoding="base64">LnByaW1hcnktbmF2X19pdGVtcyB7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>vertical-align: middle;
-        line-height: 1080px;</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICB7eyB0ZW1wbGF0ZS5uYW1lIH19Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0b3A6IDIwMHB4OwogICAgICAgIG1hcmdpbi1sZWZ0OiBhdXRvOwo=</text>
+      <register name="2" type="8">
+        <text>const
+const
+const
+const
+const</text>
       </register>
       <register name="r" type="4">
         <text>technical_accounting.account.filters.period</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImluZm8iOiAiMTQwMHB4ZGQgd2lkdGggcmVjb21tZW5kZWQuIgo=</text>
+        <text encoding="base64">d2luZG93LmFkZEV2ZW50TGlzdGVuZXIoJ3Njcm9sbCcsIG9uV2luZG93U2Nyb2xsKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">d2luZG93Lm9uc2Nyb2xsKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAuc2hhZGVyIHsKICAgICAgICAgICAgcG9zaXRpb246IGFic29sdXRlOwogICAgICAgICAgICB0b3A6IDA7CiAgICAgICAgICAgIHJpZ2h0OiAwOwogICAgICAgICAgICBib3R0b206IDA7CiAgICAgICAgICAgIGxlZnQ6IDA7CiAgICAgICAgICAgIGJhY2tncm91bmQtY29sb3I6IHJnYmEoMCwgMCwgMCwgMC41KTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">CiAgICAgICAgCiAgICAgICAgCgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGFydGljbGVMaXN0ID0gZG9jdW1lbnQuZ2V0RWxlbWVudHNCeUNsYXNzTmFtZSgnYXJ0aWNsZXNfbGlzdCcpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiByZ2JhKDAsIDAsIDAsIDAuNSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0ZXh0LWRlY29yYXRpb246IHVuZGVybGluZTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -346,9 +357,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb250ZW50X2Zvcl9pbmRleFw+</last-search>
+      <last-search encoding="base64">XDxuYXZfX2l0ZW1cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb250ZW50X2Zvcl9pbmRleFw+</last-pattern>
+      <last-pattern encoding="base64">XDxuYXZfX2l0ZW1cPg==</last-pattern>
       <last-replace>fc-exploitation</last-replace>
       <last-substitute encoding="base64">XDxwYXNzd29yZFNlcnZpY2VcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -356,9 +367,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfaG92ZXJNc2dcPg==</entry>
-        <entry encoding="base64">XDxkZWxldGVQcm92aWRlclw+</entry>
-        <entry encoding="base64">XDxJZGVudGl0eVByb3ZpZGVyXD4=</entry>
         <entry encoding="base64">XDxjcmVhdGVUeXBlT3JtUHJvdmlkZXJzXD4=</entry>
         <entry>shared</entry>
         <entry encoding="base64">XDxidWlsZFN0YXRzUmVxdWVzdFw+</entry>
@@ -376,6 +384,9 @@
         <entry encoding="base64">XDxuYXZfX3N1Ylw+</entry>
         <entry encoding="base64">XDxjcmVkc1w+</entry>
         <entry encoding="base64">XDxjb250ZW50X2Zvcl9pbmRleFw+</entry>
+        <entry encoding="base64">XDxhcnRpY2xlTGlzdFw+</entry>
+        <entry encoding="base64">XDxuYXZfX2xpbmtcPg==</entry>
+        <entry encoding="base64">XDxuYXZfX2l0ZW1cPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2ZyYW5jZS1jb25uZWN0XC9pbmZyYS9nNHZyb2NoZVwvZm9vYmFyL2c=</entry>
