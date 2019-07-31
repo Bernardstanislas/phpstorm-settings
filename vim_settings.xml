@@ -34,12 +34,12 @@
       </file>
       <file name="$USER_HOME$/Documents/code/seasonly/front-shopify-theme/sections/home-html.liquid" timestamp="1564499834884" />
       <file name="$USER_HOME$/Documents/code/seasonly/front-shopify-theme/sections/collection-template.liquid" timestamp="1564072274050" />
-      <file name="$USER_HOME$/Documents/code/seasonly/front-shopify-theme/sections/home-heading.liquid" timestamp="1564564396599">
-        <mark key="k" line="182" column="21" />
-        <mark key="[" line="62" column="43" />
-        <mark key="]" line="62" column="43" />
-        <mark key="^" line="49" column="79" />
-        <mark key="." line="62" column="43" />
+      <file name="$USER_HOME$/Documents/code/seasonly/front-shopify-theme/sections/home-heading.liquid" timestamp="1564566228274">
+        <mark key="k" line="196" column="21" />
+        <mark key="[" line="102" column="22" />
+        <mark key="]" line="102" column="22" />
+        <mark key="." line="102" column="22" />
+        <mark key="^" line="59" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/code/seasonly/front-shopify-theme/.editorconfig" timestamp="1564132593844">
         <mark key="[" line="0" column="0" />
@@ -47,11 +47,10 @@
       <file name="$USER_HOME$/Documents/code/seasonly/front-shopify-theme/locales/fr.json" timestamp="1563792495944">
         <mark key="[" line="175" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/code/seasonly/front-shopify-theme/config/settings_data.json" timestamp="1564506313968">
-        <mark key="[" line="825" column="11" />
-        <mark key="]" line="825" column="14" />
-        <mark key="." line="825" column="14" />
-        <mark key="^" line="825" column="14" />
+      <file name="$USER_HOME$/Documents/code/seasonly/front-shopify-theme/config/settings_data.json" timestamp="1564565842756">
+        <mark key="[" line="822" column="0" />
+        <mark key="]" line="822" column="0" />
+        <mark key="." line="822" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/seasonly/front-shopify-theme/sections/mantra.liquid" timestamp="1564505519872">
         <mark key="[" line="10" column="5" />
@@ -145,6 +144,10 @@
         <mark key="]" line="48" column="5" />
         <mark key="." line="33" column="0" />
         <mark key="^" line="75" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/seasonly/front-shopify-theme/sections/home-collection2.liquid" timestamp="1564566203829">
+        <mark key="[" line="111" column="0" />
+        <mark key="]" line="115" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/code/seasonly/logistics/app/transforming.js" timestamp="1564417747576" />
       <file name="/jerry-thomas.public.users [Local Postgres]" timestamp="1564396420190">
@@ -300,52 +303,52 @@
         <text encoding="base64">ICAgICAgIm1hbnRyYSI6IHsKICAgICAgICAidHlwZSI6ICJtYW50cmEiLAogICAgICAgICJzZXR0aW5ncyI6IHsKICAgICAgICAgICJtYW50cmEtaW1hZ2UtZGVza3RvcCI6ICJzaG9waWZ5Oi8vc2hvcF9pbWFnZXMvbWFudHJhLWltYWdlLWRlc2t0b3AucG5nIiwKICAgICAgICAgICJtYW50cmEtaW1hZ2UtbW9iaWxlIjogInNob3BpZnk6Ly9zaG9wX2ltYWdlcy9tYW50cmEtaW1hZ2UtZGVza3RvcC5wbmciLAogICAgICAgICAgImJhY2tncm91bmQtaW1hZ2Utb3BhY2l0eSI6ICIwLjgiLAogICAgICAgICAgInRpdGxlIjogIkxpdmUgeW91ciBiZXN0IGxpZmUsIGluIHlvdXIgYmVzdCBza2luIiwKICAgICAgICAgICJjdGEiOiAiRMOpY291dnJleiBsZXMgcHJvZHVpdHMiLAogICAgICAgICAgInRpdGxlLWZvbnQtc2l6ZSI6ICI1IiwKICAgICAgICAgICJjdGEtZm9udC1zaXplIjogIjIuNSIKICAgICAgICB9CiAgICAgIH0KICAgIH0sCiAgICAiY29udGVudF9mb3JfaW5kZXgiOiBbCiAgICAgICJtYW50cmEiLAo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>desktop</text>
+        <text>Collection</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>desktop</text>
+        <text>Collection</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuYXZfX2l0ZW1cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFkZGluZzogMCB7eyBzZWN0aW9uLnNldHRpbmdzLmRlc2t0b3AtbW90dG8taG9yaXpvbnRhbC1wYWRkaW5nIH19JTsK</text>
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgICJpZCI6ICJjb2xsZWN0aW9uIiwKICAgICAgICAgICAgInR5cGUiOiAiY29sbGVjdGlvbiIsCiAgICAgICAgICAgICJsYWJlbCI6ICJDb2xsZWN0aW9uIgogICAgICAgIH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFkZGluZzogMCB7eyBzZWN0aW9uLnNldHRpbmdzLmRlc2t0b3AtbW90dG8taG9yaXpvbnRhbC1wYWRkaW5nIH19JTsK</text>
+        <text encoding="base64">ICAgICAgICAgICJiYWNrZ3JvdW5kLWltYWdlLW9wYWNpdHkiOiAiMC44IiwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0b3A6IHt7IHNlY3Rpb24uc2V0dGluZ3MuZGVza3RvcC1jdGEtdmVydGljYWwtcG9zaXRpb24gfX0lOwo=</text>
+        <text encoding="base64">ICAgICAgImhvbWUtaGVhZGluZyI6IHsKICAgICAgICAidHlwZSI6ICJob21lLWhlYWRpbmciLAogICAgICAgICJzZXR0aW5ncyI6IHsKICAgICAgICAgICJpbWFnZS1kZXNrdG9wIjogInNob3BpZnk6Ly9zaG9wX2ltYWdlcy9tYW50cmEtaW1hZ2UtZGVza3RvcC5wbmciLAogICAgICAgICAgImltYWdlLW1vYmlsZSI6ICJzaG9waWZ5Oi8vc2hvcF9pbWFnZXMvbWFudHJhLWltYWdlLWRlc2t0b3AucG5nIiwKICAgICAgICAgICJiYWNrZ3JvdW5kLWltYWdlLW9wYWNpdHkiOiAiMC44IiwKICAgICAgICAgICJtb3R0byI6ICJMaXZlIHlvdXIgYmVzdCBsaWZlLCBpbiB5b3VyIGJlc3Qgc2tpbiIsCiAgICAgICAgICAiY3RhIjogIkTDqWNvdXZyZXogbGVzIHByb2R1aXRzIiwKICAgICAgICAgICJtb3R0by1mb250LXNpemUiOiAiNSIsCiAgICAgICAgICAiY3RhLWZvbnQtc2l6ZSI6ICIyLjUiCiAgICAgICAgfQogICAgICB9Cg==</text>
       </register>
       <register name="r" type="4">
         <text>technical_accounting.account.filters.period</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgICJ0eXBlIjogInJhbmdlIiwKICAgICAgICAgICAgImlkIjogImJhY2tncm91bmQtaW1hZ2Utb3BhY2l0eSIsCiAgICAgICAgICAgICJsYWJlbCI6ICJCYWNrZ3JvdW5kIGltYWdlIG9wYWNpdHkiLAogICAgICAgICAgICAibWluIjogMCwKICAgICAgICAgICAgIm1heCI6IDEwMCwKICAgICAgICAgICAgInN0ZXAiOiAxLAogICAgICAgICAgICAiZGVmYXVsdCI6IDkwLAogICAgICAgICAgICAidW5pdCI6ICIlIgogICAgICAgIH0sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmb250LXNpemU6IHt7IHNlY3Rpb24uc2V0dGluZ3MuY3RhLWZvbnQtc2l6ZSB9fXZ3Owo=</text>
+        <text encoding="base64">ICAgICAgImhvbWUtaGVhZGluZyI6IHsKICAgICAgICAidHlwZSI6ICJob21lLWhlYWRpbmciLAogICAgICAgICJzZXR0aW5ncyI6IHsKICAgICAgICAgICJpbWFnZS1kZXNrdG9wIjogInNob3BpZnk6Ly9zaG9wX2ltYWdlcy9tYW50cmEtaW1hZ2UtZGVza3RvcC5wbmciLAogICAgICAgICAgImltYWdlLW1vYmlsZSI6ICJzaG9waWZ5Oi8vc2hvcF9pbWFnZXMvbWFudHJhLWltYWdlLWRlc2t0b3AucG5nIiwKICAgICAgICAgICJiYWNrZ3JvdW5kLWltYWdlLW9wYWNpdHkiOiAiMC44IiwKICAgICAgICAgICJtb3R0byI6ICJMaXZlIHlvdXIgYmVzdCBsaWZlLCBpbiB5b3VyIGJlc3Qgc2tpbiIsCiAgICAgICAgICAiY3RhIjogIkTDqWNvdXZyZXogbGVzIHByb2R1aXRzIiwKICAgICAgICAgICJtb3R0by1mb250LXNpemUiOiAiNSIsCiAgICAgICAgICAiY3RhLWZvbnQtc2l6ZSI6ICIyLjUiCiAgICAgICAgfQogICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiByZ2JhKDAsIDAsIDAsIGNhbGMoMSAtIHt7IHNlY3Rpb24uc2V0dGluZ3MuYmFja2dyb3VuZC1pbWFnZS1vcGFjaXR5IH19IC8gMTAwKSk7Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb250LXNpemU6IHt7IHNlY3Rpb24uc2V0dGluZ3MubW90dG8tZm9udC1zaXplIH19dnc7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjdXJzb3I6IHBvaW50ZXI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAubWFpbiAuc2hvcGlmeS1zZWN0aW9uOmZpcnN0LWNoaWxkIC5zZWN0aW9uLS1mdWxsIHsKICAgICAgICAgICAgbWFyZ2luLXRvcDogMjB2aDsKICAgICAgICAgICAgaGVpZ2h0OiA4MHZoOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB0cmFuc2Zvcm06IHRyYW5zbGF0ZSgtNTAlLCAtNTAlKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBsZWZ0OiA1MCU7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
