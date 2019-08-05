@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Documents/code/seasonly/front-shopify-theme/zapier" timestamp="1563965697317">
@@ -20,10 +20,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/seasonly/front-shopify-theme/assets/theme-critical.scss" timestamp="1564991984164">
+      <file name="$USER_HOME$/Documents/code/seasonly/front-shopify-theme/assets/theme-critical.scss" timestamp="1564992634719">
         <mark key="[" line="1914" column="14" />
-        <mark key="]" line="1914" column="14" />
-        <mark key="." line="1914" column="14" />
+        <mark key="]" line="1915" column="0" />
+        <mark key="." line="1915" column="0" />
+        <mark key="^" line="1915" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/seasonly/jerry-thomas/server/composer.json" timestamp="1564397377883">
         <mark key="[" line="55" column="23" />
@@ -143,12 +144,12 @@
         <mark key="]" line="5" column="3" />
         <mark key="." line="5" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/code/seasonly/front-shopify-theme/sections/header.liquid" timestamp="1564992584847">
-        <mark key="'" line="400" column="19" />
-        <mark key="[" line="56" column="56" />
-        <mark key="]" line="57" column="48" />
-        <mark key="." line="57" column="48" />
-        <mark key="^" line="57" column="48" />
+      <file name="$USER_HOME$/Documents/code/seasonly/front-shopify-theme/sections/header.liquid" timestamp="1564992671753">
+        <mark key="'" line="402" column="19" />
+        <mark key="[" line="398" column="10" />
+        <mark key="]" line="399" column="3" />
+        <mark key="." line="399" column="3" />
+        <mark key="^" line="399" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/code/seasonly/front-shopify-theme/sections/home-collection2.liquid" timestamp="1564566203829">
         <mark key="[" line="111" column="0" />
@@ -314,8 +315,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgIm1hbnRyYSI6IHsKICAgICAgICAidHlwZSI6ICJtYW50cmEiLAogICAgICAgICJzZXR0aW5ncyI6IHsKICAgICAgICAgICJtYW50cmEtaW1hZ2UtZGVza3RvcCI6ICJzaG9waWZ5Oi8vc2hvcF9pbWFnZXMvbWFudHJhLWltYWdlLWRlc2t0b3AucG5nIiwKICAgICAgICAgICJtYW50cmEtaW1hZ2UtbW9iaWxlIjogInNob3BpZnk6Ly9zaG9wX2ltYWdlcy9tYW50cmEtaW1hZ2UtZGVza3RvcC5wbmciLAogICAgICAgICAgImJhY2tncm91bmQtaW1hZ2Utb3BhY2l0eSI6ICIwLjgiLAogICAgICAgICAgInRpdGxlIjogIkxpdmUgeW91ciBiZXN0IGxpZmUsIGluIHlvdXIgYmVzdCBza2luIiwKICAgICAgICAgICJjdGEiOiAiRMOpY291dnJleiBsZXMgcHJvZHVpdHMiLAogICAgICAgICAgInRpdGxlLWZvbnQtc2l6ZSI6ICI1IiwKICAgICAgICAgICJjdGEtZm9udC1zaXplIjogIjIuNSIKICAgICAgICB9CiAgICAgIH0KICAgIH0sCiAgICAiY29udGVudF9mb3JfaW5kZXgiOiBbCiAgICAgICJtYW50cmEiLAo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>200</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgICJ0eXBlIjogInJhbmdlIiwKICAgICAgICAgICAgImlkIjogImxpbmtfZm9udF9zaXplIiwKICAgICAgICAgICAgImxhYmVsIjogIkxpbmtzIGZvbnQgc2l6ZSIsCiAgICAgICAgICAgICJ1bml0IjogInB4IiwKICAgICAgICAgICAgIm1pbiI6IDEwLAogICAgICAgICAgICAibWF4IjogMzAsCiAgICAgICAgICAgICJzdGVwIjogMSwKICAgICAgICAgICAgImRlZmF1bHQiOiAxNgogICAgICAgIH0sCg==</text>
       </register>
       <register name="c" type="4">
         <text>true</text>
@@ -327,7 +328,7 @@
         <text encoding="base64">XDxsaW5rX3RleHRfdHJhbnNmb3JtXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgICJ0eXBlIjogInJhbmdlIiwKICAgICAgICAgICAgImlkIjogImxvZ29fbWF4X3dpZHRoIiwKICAgICAgICAgICAgImxhYmVsIjogIkN1c3RvbSBsb2dvIHdpZHRoIiwKICAgICAgICAgICAgInVuaXQiOiAicHgiLAogICAgICAgICAgICAibWluIjogNDAsCiAgICAgICAgICAgICJtYXgiOiA0MDAsCiAgICAgICAgICAgICJzdGVwIjogMTAsCiAgICAgICAgICAgICJkZWZhdWx0IjogMjAwCiAgICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgICJ0eXBlIjogInJhbmdlIiwKICAgICAgICAgICAgImlkIjogImxpbmtfZm9udF9zaXplIiwKICAgICAgICAgICAgImxhYmVsIjogIkxpbmtzIGZvbnQgc2l6ZSIsCiAgICAgICAgICAgICJ1bml0IjogInB4IiwKICAgICAgICAgICAgIm1pbiI6IDEwLAogICAgICAgICAgICAibWF4IjogMzAsCiAgICAgICAgICAgICJzdGVwIjogMSwKICAgICAgICAgICAgImRlZmF1bHQiOiAxNgogICAgICAgIH0sCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">c3RhbjoKICBwYXNzd29yZDogM2JhYTk1YTE2ODkwOTgxYWE5NzgwOTdlZDJlMzVlNDgKICB0aGVtZV9pZDogIjczMjg3NzYyMDMzIgogIHN0b3JlOiBteS1zZWFzb25seS1kZXYubXlzaG9waWZ5LmNvbQo=</text>
